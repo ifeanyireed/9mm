@@ -1,0 +1,16 @@
+email, company, contact_name, phone
+glisteninternationalacademy@gmail.com, Glisten International Academy, , 0803289911
+info@jkk.com.ng, JKK (Joint Komputer Kompany), , 
+info@lufem.com.ng, Lufem Systems, , 
+info@relearn.ng, CcHUB re:learn, , 
+info@newglobe.education, NewGlobe (EKOEXCEL), , 
+info@edves.net, Edves, , 
+info@gradely.ng, Gradely, , 
+tryklas@gmail.com, Klas, , 
+edukoya@gmail.com, Edukoya, , 
+simbibot@gmail.com, SimbiBot, , 
+info@pluralcode.institute, Pluralcode, , 
+stutern@gmail.com, Stutern, , 
+edusponsor@gmail.com, Edusponsor, , 
+arksego@gmail.com, Arksego Nigeria, , 
+customercare@infinitytyres.com, Infinity Tyres, , 
