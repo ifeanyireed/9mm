@@ -45,13 +45,19 @@ When instructed to generate content for a specific sprint and week (e.g., Sprint
 * **Sprints 1 to 4 $\rightarrow$ BRAND: OFIA**
   - *Domain & Universe*: Commercial operating system, SME retail, inventory, POS, logistics, social commerce.
   - *Primary Portal*: `https://www.ofia.ng`, `ofia.ng/products`, `client_slug.ofia.shop`.
+  - *Official Legal Entity*: **Ofia Enterprise Growth** (used across all email footers, copyright notices, and legal signatures).
   - *Tone*: Energetic, conversational, operator-focused, merchant empathy.
   - *Email Identity*: *The Ofia Commerce Brief* (`#2A6BE0` Signal Blue / `#EF8B3C` Ember).
+  - *Official Logo*: `ofia_logo.svg` (Header 44px side-by-side with titles; Footer 22px inline beside "Ofia Enterprise Growth").
+  - *Typography & Buttons*: `Dropa` (`Dropa-Regular.woff2`) via `@font-face`; strict **zero corner radius (`border-radius: 0px`)**.
 * **Sprints 5 to 8 $\rightarrow$ BRAND: RESULTSPRO**
   - *Domain & Universe*: Educational administration, student gradebooks, tertiary exams, state compliance, corporate learning.
   - *Primary Portal*: `https://www.resultspro.ng`, `resultspro.suite`.
+  - *Official Legal Entity*: **ResultsPro Educational Support** (used across all email footers, copyright notices, and legal signatures).
   - *Tone*: Authoritative, academic, institutional governance, audit-proof data integrity.
-  - *Email Identity*: *The ResultsPro Institutional Dispatch* (`#1E9E6B` Growth Green / `#1B365D` Navy).
+  - *Email Identity*: *The ResultsPro Institutional Dispatch* (New Era Corporate Royal Blue `#1A48B6` / `#0F3282` & Signature Red `#FE0B10`).
+  - *Official Logo*: `resultspro_logo.png` (Header 44px side-by-side with titles; Footer 22px inline beside "ResultsPro Educational Support").
+  - *Typography & Buttons*: `Dropa` (`Dropa-Regular.woff2`) via `@font-face`; strict **zero corner radius (`border-radius: 0px`)**.
 
 ### 3.2 Weekly Themes & Lead Extraction
 * **Weekly Themes from `CALENDAR_DATA`**: Extract `week`, `focus`, `blog`, `email`, `video`, `graphic`.
@@ -111,3 +117,4 @@ When instructed to generate content for a specific sprint and week (e.g., Sprint
 5. **Ground features in `slugs.md` routes** (`client_slug.ofia.shop`, `/erp/admin/marketplace`, `/erp/admin/inventory`).
 6. **Never allow banned buzzwords** (*revolutionize, seamless, game-changer, delve into, supercharge*).
 7. **Update `Progress-Tracker.md`** immediately upon completion of every sprint week.
+8. **Enforce official legal entity signatures**: Always use **"Ofia Enterprise Growth"** in all Ofia email footers and legal notices (Sprints 1–4), and **"ResultsPro Educational Support"** in all ResultsPro email footers and legal notices (Sprints 5–8).

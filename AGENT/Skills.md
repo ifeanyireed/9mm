@@ -28,7 +28,7 @@ The media engine operates across two distinct brand universes. Agents must stric
 * **Core Identity**: Commerce operating system, unified ERP, and digital checkout infrastructure for social sellers, distributors, independent marketplace merchants, and physical store retailers.
 * **Tone & Voice**: Commercial, tactical, empathetic to merchant operational burnout, fast-paced, grounded in daily trading realities, cash velocity, and margin protection.
 * **Publication Identity for Email**: *The Ofia Commerce Brief*
-* **Official Logo**: `ofia_logo.svg` (Header: 44px square aligned side-by-side with titles; Footer: 22px inline beside "Ofia Commerce OS").
+* **Official Logo**: `ofia_logo.svg` (Header: 44px square aligned side-by-side with titles; Footer: 22px inline beside "Ofia Enterprise Growth").
 * **Brand Typography**: `Dropa` (`Dropa-Regular.woff2`) via `@font-face`.
 * **Design Palette**: Brand Signal Blue (`#2A6BE0` / `#0069ff`), Ember Gold (`#EF8B3C`), Neutral Canvas (`#FAF9F6`), Deep Ink (`#14151F`).
 * **Button Architecture**: Strict **zero corner radius (`border-radius: 0px !important;`)** on all buttons, badges, and containers.
@@ -37,7 +37,7 @@ The media engine operates across two distinct brand universes. Agents must stric
 * **Core Identity**: Institutional education ERP, tamper-proof academic grading engine, student records system, and multi-state compliance ledger for K-12 school networks, universities, edtech bootcamps, and government ministries.
 * **Tone & Voice**: Institutional authority, academic rigor, governance-focused, data-driven, uncompromising on audit trails, donor transparency, and administrative integrity.
 * **Publication Identity for Email**: *The ResultsPro Institutional Dispatch*
-* **Official Logo**: `resultspro_logo.png` (Header: 44px square aligned side-by-side with titles; Footer: 22px inline beside "ResultsPro Educational Infrastructure").
+* **Official Logo**: `resultspro_logo.png` (Header: 44px square aligned side-by-side with titles; Footer: 22px inline beside "ResultsPro Educational Support").
 * **Brand Typography**: `Dropa` (`Dropa-Regular.woff2`) via `@font-face`.
 * **Design Palette**: New Era Transports Corporate Royal Blue (`#1A48B6` / `#0F3282`), Signature Red (`#FE0B10`), Soft Blue Surface (`#EFF6FF`), Deep Ink (`#111827`).
 * **Button Architecture**: Strict **zero corner radius (`border-radius: 0px !important;`)** on all buttons, badges, and containers.
@@ -170,7 +170,7 @@ Every sprint's content must incorporate real quantitative friction models instea
   - Curated News Grid: 3 real-world news cards with authentic photo thumbnails, sources, and implications.
   - Growth Hack of the Week: High-contrast callout container presenting the blog post's quantitative formula as the tactical antidote to the news.
   - Bulletproof CTA Button: Styled link directing readers to the complete blog post with **zero corner radius (`border-radius: 0px`)**.
-  - Footer: Product founding offer/audit, brand details, 22px inline official logo beside brand entity name, and compliance footer.
+  - Footer: Product founding offer/audit, brand details, 22px inline official logo beside the official entity name ("Ofia Enterprise Growth" for Sprints 1–4; "ResultsPro Educational Support" for Sprints 5–8), and compliance footer.
 
 ### 4.4 📱 Omnichannel Social Media Packs (`social-media-carousel.md`)
 * **LinkedIn Suite**: Long-form thought leadership post (hook before the fold, data points, formula, 5-point summary, CTA, discussion question), short punchy alternative, 6-slide carousel outline with full slide copy, engaging poll concept, and first-comment link strategy.

@@ -114,9 +114,11 @@ This document outlines the sequential steps required to generate the complete ma
 
 ### Step 3.2: HTML Newsletter Drafting
 * **Action**: Draft the complete edition of the newsletter in **clean, production-ready, responsive HTML with inline CSS**:
-  - Sprints 1–4: *The Ofia Commerce Brief* template (`#2A6BE0` Signal Blue / `#EF8B3C` Ember).
-  - Sprints 5–8: *The ResultsPro Institutional Dispatch* template (`#1E9E6B` Growth Green / `#1B365D` Navy).
-  - Structure: 600px max width card, publication header banner, cover story with real image, 3 news item cards with real images, "Growth Hack for the Week" highlight container, and bulletproof CTA button.
+  - **Sprints 1–4**: *The Ofia Commerce Brief* template (`#2A6BE0` Signal Blue / `#EF8B3C` Ember) with `ofia_logo.svg` in header (44px square side-by-side with titles) and footer (22px inline beside "Ofia Enterprise Growth").
+  - **Sprints 5–8**: *The ResultsPro Institutional Dispatch* template (`#1A48B6` Corporate Royal Blue / `#FE0B10` Signature Red) with `resultspro_logo.png` in header (44px square side-by-side with titles) and footer (22px inline beside "ResultsPro Educational Support").
+  - **Typography**: `@font-face` import of `Dropa` (`Dropa-Regular.woff2`) as primary brand font.
+  - **Button Styling**: Strict **zero corner radius (`border-radius: 0px !important;`)** on all CTA buttons and elements.
+  - Structure: 600px max width card, publication header banner with logo side-by-side with titles, cover story with real image, 3 news item cards with real images, "Growth Hack for the Week" highlight container, and bulletproof CTA button.
 * **Save Files**: `Sprint-[XX]/Week-[YY]/email-blast.html` and `Sprint-[XX]/Week-[YY]/email-blast.md`.
 
 ### Step 3.3: Quality Gate Verification
