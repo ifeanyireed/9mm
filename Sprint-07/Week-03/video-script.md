@@ -74,7 +74,7 @@ I haven't written a single line of data analysis. I'm just fighting my terminal.
 ### [2:40 – 3:20] Talking Head: The Mathematics of Cohort Churn
 **[VISUAL]**: Cut to IFEANYI in the analytical studio. On-screen graphic illuminates the Cohort Churn Loss Equation.
 
-$$\text{Cohort Revenue Evaporation} = \text{Enrolled Students (500)} \times \text{Churn Rate (80\%)} \times \text{CAC (₦45,000)}$$
+$$Cohort Revenue Evaporation = Enrolled Students (500) × Churn Rate (80%) × CAC (₦45,000)$$
 
 **IFEANYI (Host)**:
 "Look at the financial destruction of remote learning churn.

@@ -2,6 +2,7 @@
 
 * **Sprint & Week**: Sprint 01 (Impulse Buy) · Week 01 (The Core Problem)
 * **Published**: 12 Oct 2026 · **Author**: @Ifeanyi Felix · **Read Time**: 8 min · **Category**: E-Commerce Operations
+* **Meta Description**: Discover 10 actionable operational hacks to break the 100-DM revenue ceiling for your Instagram store, eliminate conversational sales drag, and turn viral social traffic into instant automated checkouts.
 
 > **Executive Summary:** Instagram stores don't stall because demand dries up. They hit a revenue ceiling near 100 DMs a day because every single transaction requires human typing. To scale past this barrier, sellers must remove price inquiries, variant selection, stock checks, and payment verification from the direct message queue.
 
@@ -35,10 +36,11 @@ The market demand exists. The audience is ready to buy. The constraint is time.
 
 Before changing your marketing or spending another naira on ads, calculate your daily operational ceiling using this formula:
 
-$$\text{DM Hours per Day} = \frac{\text{Daily Inbound DMs} \times \text{Minutes per Sale Conversation}}{60}$$
+$$DM Hours per Day = (Daily Inbound DMs × Minutes per Sale Conversation) ÷ 60$$
 
 ### Worked Example:
-$$\frac{100\text{ DMs} \times 5\text{ minutes}}{60} = 8.33\text{ Hours per Day}$$
+$$(100 DMs × 5 minutes) ÷ 60 = 8.33 Hours per Day$$
+
 
 Five minutes per sale is a conservative estimate when you account for:
 1. Sending product pricing and bank details.

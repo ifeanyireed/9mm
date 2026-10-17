@@ -108,7 +108,7 @@ Physical retail foot traffic without digital continuity is a leaky bucket.
 
 Retail research shows that **82% of walk-in shoppers** intend to make secondary or replenishment purchases online from brands they visited physically.
 
-$$\text{Omnichannel Revenue Drag} = (\text{Daily Walk-Ins} \times 82\%\text{ Churn}) \times \text{Repeat AOV}$$
+$$Omnichannel Revenue Drag = (Daily Walk-Ins × 82% Churn) × Repeat AOV$$
 
 **On-screen text**:
 - 200 walk-ins/day × 82% uncaptured = 164 lost buyers
@@ -130,7 +130,7 @@ High foot traffic masks a broken digital checkout.
 2. The cashier taps *Customer Quick-Add*: enters Mrs. Adele’s phone number.
 3. An instant SMS digital receipt dings on Mrs. Adele’s phone with a link to her private customer locker: `royaleliving.ofia.shop/account`.
 4. Two weeks later at 10:30 PM, Mrs. Adele opens the SMS link. Her previous purchase is displayed.
-5. She taps *Matching Pieces* $\rightarrow$ The system displays live synchronized warehouse inventory $\rightarrow$ She checks out in two taps.
+5. She taps *Matching Pieces* $arrow$ The system displays live synchronized warehouse inventory $arrow$ She checks out in two taps.
 
 **Visual**: The SmartPOS at Funke’s counter rings with an order alert at 10:31 PM: *"Online Reorder: ₦1,800,000 — Dispatched from Lekki Warehouse"*.
 

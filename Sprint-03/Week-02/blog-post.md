@@ -36,15 +36,15 @@ If you don't own your customer list, you don't own your business.
 
 To understand the compounding financial advantage of first-party customer ownership, operators must apply the **Owned Customer LTV Multiplier**:
 
-$$\text{Annual Owned Asset Value} = \text{Customer Base} \times \text{Repeat Order Rate (35\%)} \times \text{AOV} \times (\text{Gross Margin} + \text{Saved Commission (15\%)})$$
+$$Annual Owned Asset Value = Customer Base × Repeat Order Rate (35%) × AOV × (Gross Margin + Saved Commission (15%))$$
 
 ### Worked Example:
 Consider an independent tech and lifestyle merchant that has served **8,000 customers** over the past two years, with an **Average Order Value (AOV) of ₦22,000**, a **35% annual repeat purchase rate**, a **25% product gross margin**, and a **15% saved marketplace commission**:
 
-$$\text{Repeat Transactions} = 8,000 \times 35\% = 2,800\text{ Repeat Purchases annually}$$
-$$\text{Gross Repeat GMV} = 2,800 \times ₦22,000 = ₦61,600,000$$
-$$\text{Retained Profit Margin} = 25\% \text{ (Base Margin)} + 15\% \text{ (Saved Take Rate)} = 40\%$$
-$$\text{Annual Retained Cash Flow} = ₦61,600,000 \times 40\% = ₦24,640,000\text{ in Pure Gross Profit}$$
+$$Repeat Transactions = 8,000 × 35% = 2,800 Repeat Purchases annually$$
+$$Gross Repeat GMV = 2,800 × ₦22,000 = ₦61,600,000$$
+$$Retained Profit Margin = 25%  (Base Margin) + 15%  (Saved Take Rate) = 40%$$
+$$Annual Retained Cash Flow = ₦61,600,000 × 40% = ₦24,640,000 in Pure Gross Profit$$
 
 When you sell through an aggregator, that **₦24,640,000 in retained cash flow** is lost—dissolved into aggregator take-rates and continuous pay-per-click re-acquisition costs.
 

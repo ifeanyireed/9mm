@@ -98,8 +98,9 @@ Early beta testing across 12,000 retail merchants in emerging markets revealed t
 **Calculate Your Store's Daily DM Bottleneck & Deploy the First 2 Operational Fixes**
 
 Before spending another naira on Meta Ads, calculate your operational ceiling using the **DM Time Formula**:
-$$\text{Daily DM Hours} = \frac{\text{Daily Inbound DMs} \times 5\text{ Minutes}}{60}$$
-$$100\text{ DMs} \times 5\text{ Mins} \div 60 = 8.33\text{ Full Working Hours per Day}$$
+$$Daily DM Hours = (Daily Inbound DMs × 5 Minutes) ÷ 60$$
+$$(100 DMs × 5 Mins) ÷ 60 = 8.33 Full Working Hours per Day$$
+
 
 At 100 DMs daily, you are working an entire shift merely acting as a human order form. When a video goes viral and hits 500 inquiries, response time drops from 10 minutes to 3 hours, and 91% of buyers abandon. Here are the first two immediate fixes from our operational playbook:
 

@@ -36,12 +36,12 @@ When academic records are vulnerable to loss and delay, institutional governance
 
 University leadership can quantify the institutional labor wasted on examination record discrepancies using the **Senate Petition Drag Equation**:
 
-$$\text{Annual Professorial Drag (Hours)} = \text{Missing Result Petitions (450)} \times \text{Review Panels (3)} \times \text{Adjudication Time (8 Hours)}$$
+$$Annual Professorial Drag (Hours) = Missing Result Petitions (450) × Review Panels (3) × Adjudication Time (8 Hours)$$
 
 ### Worked Example:
 Consider a mid-sized public or private university enrolling **20,000 undergraduate learners**, generating an average of **450 missing score petitions** across twelve faculties every academic session:
 
-$$\text{Annual Professorial Drag} = 450 \times 3 \times 8 = 10,800\text{ Hours of Senior Faculty Labor}$$
+$$Annual Professorial Drag = 450 × 3 × 8 = 10,800 Hours of Senior Faculty Labor$$
 
 At an average professorial remuneration rate of ₦8,000 per hour, that represents **₦86,400,000 in executive academic payroll** diverted from research, grant writing, and classroom instruction merely to hunt down misplaced examination marks in basement archives.
 

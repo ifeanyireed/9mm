@@ -76,14 +76,14 @@ After factoring in your raw ingredients, glass packaging, and warehouse wages...
 ### [2:40 – 3:20] Talking Head: The 5-Year Commission Bleed
 **[VISUAL]**: Cut to IFEANYI in the analytical studio. On-screen graphic illuminates the Aggregator Commission Loss Equation.
 
-$$\text{5-Year Commission Bleed} = \text{Annual GMV} \times \text{Aggregator Take Rate (15\%)} \times 5\text{ Years}$$
+$$5-Year Commission Bleed = Annual GMV × Aggregator Take Rate (15%) × 5 Years$$
 
 **IFEANYI (Host)**:
 "Let’s calculate your five-year opportunity cost.
 If your store averages **₦50 million in annual gross merchandise value**:
-$$₦50,000,000 \times 15\% = ₦7,500,000\text{ in platform commission per year}.$$
+$$₦50,000,000 × 15% = ₦7,500,000 in platform commission per year.$$
 Over five years:
-$$₦7,500,000 \times 5 = ₦37,500,000\text{ lost in pure landlord commissions}.$$
+$$₦7,500,000 × 5 = ₦37,500,000 lost in pure landlord commissions.$$
 What could you do with ₦37.5 million?
 You could buy an industrial packaging assembly line, hire three senior marketing specialists, and purchase a dedicated corporate delivery fleet.
 Instead, you funded an aggregator's corporate office in Dubai."

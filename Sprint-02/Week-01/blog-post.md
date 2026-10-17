@@ -32,13 +32,13 @@ When high-volume B2B buyers have capital allocated for procurement, they do not 
 
 Before committing additional capital to warehouse leasing or fleet acquisition, calculate the hidden operational drag of manual quotation workflows using this formula:
 
-$$\text{Daily B2B Quoting Friction (Hours)} = \frac{\text{Daily Bulk Inquiries} \times \text{Manual Stock Check \& Margin Recalculation (Mins)}}{60}$$
+$$Daily B2B Quoting Friction (Hours) = (Daily Bulk Inquiries × Manual Stock Check & Margin Recalculation (Mins)) ÷ (60)$$
 
 ### Worked Example:
 Consider a mid-tier FMCG or building materials distributor handling **40 wholesale inquiries per day**:
 * Average time to check three separate physical warehouses, call floor supervisors, calculate volume discount tiers, add current haulage surcharges, and type a pro-forma quote: **15 minutes**.
 
-$$\frac{40\text{ Inquiries} \times 15\text{ Minutes}}{60} = 10\text{ Hours per Day}$$
+$$(40 Inquiries × 15 Minutes) ÷ (60) = 10 Hours per Day$$
 
 That is **10 uninterrupted employee hours every day** spent performing repetitive clerical calculations. When volume spikes at the beginning of a month or during seasonal import cycles, response times slip from hours to days. In the fast-moving wholesale trade, delayed quotes mean cancelled purchase orders.
 

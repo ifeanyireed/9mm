@@ -76,7 +76,7 @@ Wait. According to this index card, you borrowed 'Fundamentals of Thermodynamics
 ### [2:40 – 3:20] Talking Head: The Mathematical Waste of Paper Clearance
 **[VISUAL]**: Cut to IFEANYI in the analytical studio. On-screen graphic illuminates the Clearance Man-Hour Equation.
 
-$$\text{Annual Clearance Waste (Hours)} = \text{Graduating Cohort (4,000)} \times \text{Clearance Desks (8)} \times \text{Avg Queue Time (3 Hours)}$$
+$$Annual Clearance Waste (Hours) = Graduating Cohort (4,000) × Clearance Desks (8) × Avg Queue Time (3 Hours)$$
 
 **IFEANYI (Host)**:
 "Let’s calculate the institutional cost of manual clearance.

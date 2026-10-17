@@ -73,7 +73,7 @@ At the top of the search results is a "Sponsored Recommendation" for an identica
 ### [2:40 – 3:20] Talking Head: The First-Party Data Multiplier
 **[VISUAL]**: Cut to IFEANYI in the analytical studio. On-screen graphic illuminates the Customer Lifetime Value Equation.
 
-$$\text{Enterprise Asset Value} = \text{Owned Customer Base} \times \text{Annual Repeat Order Frequency (3.2)} \times \text{Margin Difference (15\%)}$$
+$$Enterprise Asset Value = Owned Customer Base × Annual Repeat Order Frequency (3.2) × Margin Difference (15%)$$
 
 **IFEANYI (Host)**:
 "Let’s examine the economics of independent e-commerce.

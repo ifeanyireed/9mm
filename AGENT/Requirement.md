@@ -28,6 +28,12 @@ It is fully modular and applies to **all 8 Sprints and both Brands (Ofia vs. Res
 * [ ] **Blog Featured Image Style Gate (IMG-01)**: Blog featured image MUST follow the exact prompt style: `VISUAL FOR BLOG FEATURED IMAGE: 3D Disney Pixar style animation. Netflix-grade cinematic lighting with screen glow on faces, UHD 8k, stylized technology.` featuring the sprint-appropriate character and setting.
 * [ ] **Real News & Editorial Imagery Gate (IMG-02)**: Email cover story and news round-ups must contain real images from the internet covering authentic industry developments with descriptive captions and sources.
 * [ ] **HTML Email Format Gate (EML-01)**: Email newsletter MUST be written in clean, production-ready, mobile-responsive HTML with inline CSS (max 600px width card).
+* [ ] **Native Markdown Tables Gate (TAB-01)**:
+  - All balance sheets, flow cycles, metric maps, comparison matrices, and structured operational breakdowns MUST be rendered as **native GitHub Flavored Markdown (GFM) tables** (`| col1 | col2 |`).
+  - **Strictly forbidden**: Raw ASCII art box drawings (`┌───┐`, `│`, `└`, `├`, etc.) and wrapping tabular financial data or balance sheets inside fenced code blocks (` ``` `). Fenced code blocks trigger dark `#0F172A` container backgrounds in preview renderers and break mobile responsiveness.
+* [ ] **Clean Markdown Math & Zero Raw LaTeX Gate (MTH-01)**:
+  - All operational, economic, and revenue friction formulas MUST be rendered in **clean, readable Unicode Markdown math syntax**: e.g., `$$Daily DM Bottleneck (Hours) = (Daily Inbound DMs × Minutes per Sale Conversation) ÷ 60$$`.
+  - **Strictly forbidden**: Raw LaTeX markup tokens such as `\text{...}`, `\textbf{...}`, `\frac{...}{...}`, `\left(`, `\right)`, `\times`, and subscript variables like `$T_{\text{manual}}$` in formulas, body text, or headings. Standard markdown renderers lack a full LaTeX/KaTeX engine and display raw backslashes and curly braces as unformatted code or broken text.
 
 ---
 
@@ -54,10 +60,10 @@ It is fully modular and applies to **all 8 Sprints and both Brands (Ofia vs. Res
 | :--- | :--- | :--- | :--- |
 | **B-01** | **Metadata & Structure** | H1 Title, author byline (`@Ifeanyi Felix`), publication date, read time, category, and meta description. | [ ] |
 | **B-02** | **Research Grounding** | Cites authoritative industry reports, verifiable sector statistics, and benchmark figures relevant to the sprint topic. | [ ] |
-| **B-03** | **Quantitative Model** | Features the sprint-specific mathematical formula with a detailed, realistic worked example. | [ ] |
+| **B-03** | **Quantitative Model & Clean Math** | Features the sprint-specific mathematical formula using clean Unicode Markdown math (zero raw LaTeX: no `\text`, `\frac`, etc.) with a detailed, realistic worked example in local currency (₦) or operational hours. | [ ] |
 | **B-04** | **10 Actionable Tactics** | Delivers exactly 10 high-utility, bookmarkable operational fixes with clear implementation guidance. | [ ] |
 | **B-05** | **Screen Anchoring** | Grounds features in authentic software routes from `slugs.md`. | [ ] |
-| **B-06** | **Comparison Table** | Includes a side-by-side comparison table ("Legacy Manual Method" vs "Designated Product Platform"). | [ ] |
+| **B-06** | **Native Comparison Table & Structured Data** | Includes side-by-side comparison tables ("Legacy Manual Method" vs "Designated Product Platform") and balance sheets rendered exclusively as native Markdown tables (zero ASCII art boxes, zero fenced code blocks). | [ ] |
 | **B-07** | **Clear Closing CTA** | Summarizes the core operational shift and directs readers to the designated brand product URL. | [ ] |
 | **B-08** | **Word Count** | Substantive long-form depth between 1,500 and 2,200 words. | [ ] |
 
@@ -71,13 +77,14 @@ It is fully modular and applies to **all 8 Sprints and both Brands (Ofia vs. Res
 | **E-02** | **Subject Line Matrix** | 3 strategic subject line options (Pain Hook, Curiosity Hook, Metric Hook) + Preview Text. | [ ] |
 | **E-03** | **Lead News Cover Story** | Pure journalistic reporting on an actual breaking news event, corporate launch, or regulatory edict around the week's theme, with a real photo and "What it means for operators" analysis. | [ ] |
 | **E-04** | **Industry News Round-up** | 3 distinct, authentic industry news event cards with real photos, source attribution, and operator implications. | [ ] |
-| **E-05** | **Growth Hack / Insight Box** | High-contrast callout container presenting the blog's quantitative formula as the tactical response to the news. | [ ] |
+| **E-05** | **Growth Hack / Insight Container** | High-contrast callout container presenting the blog's quantitative formula as the tactical response to the news; in `email-blast.md`, formatted as a native Markdown table or clean blockquote (zero ASCII box code blocks). | [ ] |
 | **E-06** | **Primary Call to Action** | Prominent button directing readers to the complete blog post. | [ ] |
 | **E-07** | **Footer Offer** | Closing note highlighting the designated sprint product's founding offer or demo audit. | [ ] |
 | **E-08** | **Deliverability Hygiene** | Inline CSS, 600px responsive table layout, zero spam trigger words, and proper unsubscribe/company footer. | [ ] |
 | **E-09** | **Official Brand Logos (`ofia_logo.svg` / `resultspro_logo.png`)** | The official brand logo must be reduced in size and placed **directly side-by-side with the titles** (NEVER standing alone on its own line): in the **header masthead** as a 44px square (`width="44" height="44"`, `border-radius: 0px`, `object-fit: contain`) aligned side-by-side with the titles in a 2-column table row, and in the **footer legal section** as a 22px icon (`width="22" height="22"`, `border-radius: 0px`) inline beside the brand legal entity ("Ofia Enterprise Growth" / "ResultsPro Educational Support"). Sprints 1–4 MUST use `ofia_logo.svg`; Sprints 5–8 MUST use `resultspro_logo.png`. | [ ] |
 | **E-10** | **Brand Typography (`Dropa-Regular.woff2`)** | All email templates and content hub pages must import `Dropa` via `@font-face` using `Dropa-Regular.woff2` and set `font-family: 'Dropa', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;` as the primary brand typeface. | [ ] |
 | **E-11** | **Strict Brand Palettes & Zero Corner Radius** | Strict compliance with brand palettes: **Ofia (Sprints 1–4)** in Signal Blue (`#2A6BE0` / `#0069ff`) and Ember (`#EF8B3C`); **ResultsPro (Sprints 5–8)** in New Era Corporate Royal Blue (`#1A48B6` / `#0F3282`) and Signature Red (`#FE0B10`). All CTA buttons, badges, cards, and containers must strictly enforce **zero corner radius (`border-radius: 0px !important;`)** with sharp architectural corners. | [ ] |
+| **E-12** | **Light Executive UI Standard** | Strictly NO black or dark (`#0F172A` / `#000000` / `#1E293B`) background UI styling in email templates or rendered code previews. All headers, metric containers, cards, and footers must use clean light executive backgrounds (`#FFFFFF`, `#F8FAFC`, `#FAF9F6`, `#F1F5F9`) with high-contrast typography and brand accent borders. | [ ] |
 
 ---
 

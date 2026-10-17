@@ -32,16 +32,16 @@ When a customer leaves your showroom, they should not have to start their purcha
 
 To understand the revenue leakage occurring right outside your showroom doors, apply the Omnichannel Revenue Drag Formula:
 
-$$\text{Omnichannel Revenue Drag} = (\text{Daily Walk-In Shoppers} \times \text{Digital Churn Rate (82\%)}) \times \text{Repeat AOV}$$
+$$Omnichannel Revenue Drag = (Daily Walk-In Shoppers × Digital Churn Rate (82%)) × Repeat AOV$$
 
 ### Worked Example:
 Consider a luxury furniture, fashion, or consumer electronics showroom receiving **200 qualified walk-in visitors per day**:
 * Industry benchmark digital churn rate (customers whose digital profiles are never captured): **82%**.
 * Average Order Value (AOV) on secondary or replenishment purchases: **₦35,000**.
 
-$$\text{Lost Digital Customers per Day} = 200 \times 0.82 = 164\text{ uncaptured shoppers}$$
+$$Lost Digital Customers per Day = 200 × 0.82 = 164 uncaptured shoppers$$
 
-$$\text{Daily Omnichannel Revenue Drag} = 164 \times ₦35,000 = ₦5,740,000\text{ per day}$$
+$$Daily Omnichannel Revenue Drag = 164 × ₦35,000 = ₦5,740,000 per day$$
 
 Over a 30-day operating month, that showroom allows **₦172,200,000 in potential reorder pipeline** to vanish simply because the physical checkout failed to create a digital bridge.
 

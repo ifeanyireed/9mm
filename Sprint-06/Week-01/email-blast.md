@@ -102,8 +102,8 @@ Under the new guidelines, tertiary institutions that fail to implement barcode-v
 **Audit Your University Clearance Drain & Deploy the First 2 Campus Fixes**
 
 To assess the administrative burden of physical graduation clearances, calculate your campus drain using the **Clearance Man-Hours Lost Formula**:
-$$\text{Clearance Man-Hours Lost} = \text{Graduating Cohort} \times 8\text{ Physical Desks} \times 3\text{ Hours Wait}$$
-$$4,000\text{ Students} \times 8\text{ Desks} \times 3\text{ Hours} = 96,000\text{ Student Hours Lost Annually}$$
+$$Clearance Man-Hours Lost = Graduating Cohort × 8 Physical Desks × 3 Hours Wait$$
+$$4,000 Students × 8 Desks × 3 Hours = 96,000 Student Hours Lost Annually$$
 
 When clearance requires fourteen physical rubber stamps and exam booklets sit in unindexed archives, administrative paralysis is inevitable. Here are the first two immediate operational fixes from our tertiary governance playbook:
 

@@ -32,15 +32,15 @@ When you sell on an aggregator, you are not building an enterprise asset. You ar
 
 To understand why seven-figure merchants are departing general aggregators, calculate the long-term capital loss using this formula:
 
-$$\text{5-Year Commission Bleed} = \text{Annual GMV} \times \text{Aggregator Take Rate} \times 5$$
+$$5-Year Commission Bleed = Annual GMV × Aggregator Take Rate × 5$$
 
 ### Worked Example:
 Consider an established electronics, cosmetics, or lifestyle merchant generating **₦50,000,000 in Gross Merchandise Value (GMV) per year**:
 * Aggregator platform blended commission rate: **15%**.
 
-$$\text{Annual Commission Lost} = ₦50,000,000 \times 0.15 = ₦7,500,000\text{ per year}$$
+$$Annual Commission Lost = ₦50,000,000 × 0.15 = ₦7,500,000 per year$$
 
-$$\text{5-Year Cumulative Bleed} = ₦7,500,000 \times 5 = ₦37,500,000$$
+$$5-Year Cumulative Bleed = ₦7,500,000 × 5 = ₦37,500,000$$
 
 Over a five-year operating horizon, that merchant surrenders **₦37,500,000 in pure cash commissions** to the aggregator. 
 

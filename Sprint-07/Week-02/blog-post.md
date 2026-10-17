@@ -36,15 +36,15 @@ Scale is not achieved by hiring armies of graders; scale is achieved by automati
 
 EdTech executives can evaluate their operational vulnerability using the **Cohort Grading Deficit Formula**:
 
-$$\text{Weekly Evaluation Deficit (Hours)} = \left( \text{Cohort Size} \times \text{Submissions/Week} \times \left( \frac{\text{Review Minutes (20)}}{60} \right) \right) - \text{Total Mentor Capacity}$$
+$$Weekly Evaluation Deficit (Hours) = ( Cohort Size × Submissions/Week × ( (Review Minutes (20)) ÷ (60) ) ) - Total Mentor Capacity$$
 
 ### Worked Example:
 Consider an independent tech academy running a cohort of **600 active students**, each submitting **2 technical lab projects per week**, supported by a staff of **4 full-time teaching assistants** allocating 30 hours per week each to code reviews:
 
-$$\text{Weekly Reviews Required} = 600 \times 2 = 1,200\text{ Project Submissions}$$
-$$\text{Total Review Labor Required} = \frac{1,200 \times 20\text{ Mins}}{60} = 400\text{ Evaluator Hours per Week}$$
-$$\text{Total Teaching Staff Capacity} = 4\text{ TAs} \times 30\text{ Hours} = 120\text{ Available Hours per Week}$$
-$$\text{Weekly Evaluation Deficit} = 400 - 120 = 280\text{ Hours of Unmet Grading Demand}$$
+$$Weekly Reviews Required = 600 × 2 = 1,200 Project Submissions$$
+$$Total Review Labor Required = (1,200 × 20 Mins) ÷ (60) = 400 Evaluator Hours per Week$$
+$$Total Teaching Staff Capacity = 4 TAs × 30 Hours = 120 Available Hours per Week$$
+$$Weekly Evaluation Deficit = 400 - 120 = 280 Hours of Unmet Grading Demand$$
 
 A weekly deficit of **280 hours** means that by Week 3 of the program, the grading backlog is insurmountable. Students wait two weeks for marks, project deadlines collapse, and refund requests overwhelm your support inbox.
 

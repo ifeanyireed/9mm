@@ -32,14 +32,14 @@ When a school expands from a single campus of 200 learners to a multi-branch net
 
 To measure the true operational drag of manual academic reporting, proprietors must apply the Term-End Grading Bottleneck Formula:
 
-$$\text{Term-End Grading Bottleneck (Hours)} = \frac{\text{Total Students} \times \text{Number of Subjects} \times \text{Manual Entry \& Math Check (3 Mins)}}{60}$$
+$$Term-End Grading Bottleneck (Hours) = (Total Students × Number of Subjects × Manual Entry & Math Check (3 Mins)) ÷ (60)$$
 
 ### Worked Example:
 Consider an established private school campus enrolling **500 students** across primary and secondary arms, with learners taking an average of **10 subjects each**:
-* Total individual score calculations: $500 \times 10 = 5,000\text{ score entries}$.
+* Total individual score calculations: $500 × 10 = 5,000 score entries$.
 * Time required to enter CA marks, calculate exam totals, verify percentage thresholds, compute class positions, and write remarks: **3 minutes per record**.
 
-$$\text{Cumulative Staff Grading Drag} = \frac{5,000\text{ Records} \times 3\text{ Minutes}}{60} = 250\text{ Teacher Hours per Term}$$
+$$Cumulative Staff Grading Drag = (5,000 Records × 3 Minutes) ÷ (60) = 250 Teacher Hours per Term$$
 
 That represents **250 hours of instructional talent** diverted into repetitive clerical arithmetic every term. Over a three-term academic year, your institution expends **750 hours of expensive teaching payroll** merely serving as human calculators.
 

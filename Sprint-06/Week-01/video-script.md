@@ -97,7 +97,7 @@ The "missing script" crisis is not an anomaly. It is the inevitable outcome of r
 According to National Universities Commission audit data:
 **74% of all academic petitions** reviewed by university Senates stem from unrecorded exam marks and missing paper scripts.
 
-$$\text{Clearance Man-Hours Lost} = \text{Graduating Cohort} \times 8\text{ Desks} \times 3\text{ Hours Wait}$$
+$$Clearance Man-Hours Lost = Graduating Cohort × 8 Desks × 3 Hours Wait$$
 
 **On-screen text**:
 - 4,000 graduating students × 8 clearance desks × 3 hours = 96,000 student hours wasted annually
@@ -118,7 +118,7 @@ Modern universities do not run on paper archives.
 1. Every exam script barcode is scanned into `/examspro` at the examination hall door.
 2. Examiners enter marks into encrypted digital broadsheets with multi-tier biometric sign-off.
 3. Every student's Continuous Assessment and exam score is cryptographically locked into their permanent academic ledger (`/coursespro`).
-4. Kelechi requests clearance from his smartphone $\rightarrow$ 8 institutional departments clear automatically via API in 3 seconds.
+4. Kelechi requests clearance from his smartphone $arrow$ 8 institutional departments clear automatically via API in 3 seconds.
 5. Tamper-proof digital transcript with cryptographic verification is dispatched directly to the scholarship board.
 
 **Visual**: Kelechi looks at his phone outside the faculty building. Green checkmark: *"Clearance Approved — Transcript Verified"*.

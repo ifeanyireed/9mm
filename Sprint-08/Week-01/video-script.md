@@ -65,7 +65,7 @@ And until education boards replace paper nominal rolls with real-time biometric 
 ### [2:40 - 3:20] Talking Head: The Mathematical Drain
 **[VISUAL]**: Cut to IFEANYI in the analytical studio. On-screen graphic illuminates the public treasury audit formula.
 
-$$\text{Ghost Payroll Bleed} = \text{Discrepancy Rate (8\%)} \times \text{Total Teachers} \times \text{Average Annual Salary}$$
+$$Ghost Payroll Bleed = Discrepancy Rate (8%) × Total Teachers × Average Annual Salary$$
 
 **IFEANYI (Host)**:
 "Let’s examine the mathematical reality of public sector education payrolls.

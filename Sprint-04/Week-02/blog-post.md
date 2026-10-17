@@ -35,15 +35,15 @@ When your cash register and web checkout operate in isolation, you are running t
 
 To measure the operational drag of disconnected retail systems, operators must calculate their **Desync Revenue Bleed**:
 
-$$\text{Desync Revenue Bleed} = \text{Monthly Web Orders} \times \text{Ghost Stockout Rate (14.2\%)} \times (\text{AOV} + \text{Refund Overhead (₦3,500)})$$
+$$Desync Revenue Bleed = Monthly Web Orders × Ghost Stockout Rate (14.2%) × (AOV + Refund Overhead (₦3,500))$$
 
 ### Worked Example:
 Consider an established lifestyle and homeware retailer processing **600 online orders per month** alongside its physical retail showroom, with an **Average Order Value (AOV) of ₦32,000**:
 
-$$\text{Monthly Cancelled Transactions} = 600 \times 14.2\% = 85.2\text{ Disrupted Orders}$$
-$$\text{Direct Lost Revenue} = 85.2 \times ₦32,000 = ₦2,726,400$$
-$$\text{Administrative Refund Costs} = 85.2 \times ₦3,500 = ₦298,200$$
-$$\text{Total Monthly Capital Drag} = ₦2,726,400 + ₦298,200 = ₦3,024,600\text{ per Month}$$
+$$Monthly Cancelled Transactions = 600 × 14.2% = 85.2 Disrupted Orders$$
+$$Direct Lost Revenue = 85.2 × ₦32,000 = ₦2,726,400$$
+$$Administrative Refund Costs = 85.2 × ₦3,500 = ₦298,200$$
+$$Total Monthly Capital Drag = ₦2,726,400 + ₦298,200 = ₦3,024,600 per Month$$
 
 Over a calendar year, that single inventory disconnect bleeds **₦36,295,200 in lost revenue and refund administrative waste**, while driving high-value shoppers to competing national chains.
 

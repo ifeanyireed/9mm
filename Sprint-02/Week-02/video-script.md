@@ -73,7 +73,7 @@ Welcome to the Dispatch Void—where your working capital disappears between the
 ### [2:40 – 3:20] Talking Head: The Physics of the Supply Chain Lag
 **[VISUAL]**: Cut to IFEANYI in the studio. On-screen graphic illuminates the Dispatch-to-Cash Formula.
 
-$$\text{Working Capital Drag} = \text{Monthly Dispatched GMV} \times \left( \frac{\text{Paper Reconciliation Days (18)}}{30} \right) \times \text{Cost of Capital (24\%)}$$
+$$Working Capital Drag = Monthly Dispatched GMV × ( (Paper Reconciliation Days (18)) ÷ (30) ) × Cost of Capital (24%)$$
 
 **IFEANYI (Host)**:
 "Look at the mathematics of wholesale logistics.

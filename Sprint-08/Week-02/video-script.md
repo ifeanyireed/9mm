@@ -58,7 +58,7 @@ Here is how the top public ministries and corporate enterprises gain real-time v
 "Dr. Farouk is experiencing the Multi-Facility Compliance Drain.
 When organizations rely on monthly paper rolls and decentralized email reports, leakage is mathematically guaranteed:
 
-$$\\text{Annual Compliance Bleed} = \\text{Non-Compliance Factor} \\times \\text{Total Headcount} \\times (\\text{Statutory Fine} + \\text{Unverified Allowances})$$
+$$Annual Compliance Bleed = Non-Compliance Factor \× Total Headcount \× (Statutory Fine + Unverified Allowances)$$
 
 Take five thousand personnel across forty-eight facilities.
 With paper reporting, an average of fourteen percent of staff are unaccounted for on any given week.

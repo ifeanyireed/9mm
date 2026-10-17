@@ -60,7 +60,7 @@ Here is why government inspection is broken—and how to fix it in seconds."
 "What Mrs. Nnamdi and Inspector Bamidele are experiencing is the Inspection Latency Deficit.
 When quality assurance operates through paper forms and physical courier logistics, latency is mathematically crippling:
 
-$$\\text{Annual Inspection Deficit} = \\text{Inspection Centers} \\times (T_{\\text{manual}} - T_{\\text{digital}}) \\times D_{\\text{inspector}} + \\text{Unresolved Regulatory Loss}$$
+$$Annual Inspection Deficit = Inspection Centers \× (T_{manual} - T_{digital}) \× D_{inspector} + Unresolved Regulatory Loss$$
 
 Take four hundred and fifty institutions.
 A manual inspection cycle requires sixty person-days per center from field visit to central registry collation.

@@ -70,13 +70,13 @@ Students from Nairobi are already flooding our Discord asking why their Week 1 l
 ### [2:40 – 3:20] Talking Head: The Mathematics of the EdTech Scaling Wall
 **[VISUAL]**: Cut to IFEANYI in the analytical studio. On-screen graphic illuminates the Cohort Grading Deficit Equation.
 
-$$\text{Cohort Grading Deficit} = (\text{Cohort Size} \times \text{Labs/Week} \times \text{Review Time (20 Mins)}) - \text{Mentor Capacity}$$
+$$Cohort Grading Deficit = (Cohort Size × Labs/Week × Review Time (20 Mins)) - Mentor Capacity$$
 
 **IFEANYI (Host)**:
 "Look at the mathematics of digital learning scale.
 500 remote students submitting 2 weekly technical labs equals **1,000 project evaluations per week**.
 At 20 minutes per manual review:
-$$1,000 \times 20\text{ Minutes} = 20,000\text{ Minutes} = 333.3\text{ Hours of Weekly Review Time}.$$
+$$1,000 × 20 Minutes = 20,000 Minutes = 333.3 Hours of Weekly Review Time.$$
 If your mentor team has 120 hours of capacity, you run a **213-hour weekly evaluation deficit**.
 Pedagogical research shows that if an asynchronous learner does not receive feedback within 24 hours, **student drop-out rates spike by 65%**.
 You cannot scale human code reviewers.

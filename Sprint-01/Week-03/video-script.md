@@ -78,15 +78,15 @@ There is no Size 10 in Champagne Gold. It was sold twice three hours ago.
 ### [2:40 – 3:20] Talking Head: The Mathematical Cost of Variant Leakage
 **[VISUAL]**: Cut to IFEANYI in the analytical studio. On-screen graphic displays the Variant Friction Calculation.
 
-$$\text{Variant Oversell Drag} = (\text{SKU Variants} \times \text{Manual Order Volume}) \times \text{Stockout Error Rate (14.2\%)} \times \text{AOV}$$
+$$Variant Oversell Drag = (SKU Variants × Manual Order Volume) × Stockout Error Rate (14.2%) × AOV$$
 
 **IFEANYI (Host)**:
 "Here is the arithmetic that destroys social seller margins.
 When an apparel store carries just 6 styles across 3 colors and 4 sizes, that is **72 unique SKUs**.
 Tracking 72 SKUs in a notebook or basic spreadsheet produces an average **14.2% variant error rate** during peak sales periods.
 If your average order value is ₦25,000 and you process 300 orders a week:
-$$300 \times 14.2\% = 42.6\text{ Variant Blunders}$$
-$$42.6 \times ₦25,000 = ₦1,065,000\text{ in lost revenue, refunds, and return shipping every week}.$$
+$$300 × 14.2% = 42.6 Variant Blunders$$
+$$42.6 × ₦25,000 = ₦1,065,000 in lost revenue, refunds, and return shipping every week.$$
 Stop managing a 72-cell matrix with human memory."
 
 ---

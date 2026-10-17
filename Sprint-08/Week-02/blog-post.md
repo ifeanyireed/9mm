@@ -31,20 +31,20 @@ When leadership receives compliance data on a quarterly cycle, they are not mana
 
 To quantify the annual capital drain caused by decentralized reporting latency, compliance directors must apply the **Multi-Facility Compliance Bleed Formula**:
 
-$$\text{Annual Compliance Bleed} = \text{Audited Non-Compliance Rate} \times \text{Total Headcount} \times (\text{Statutory Penalty per Employee} + \text{Unverified Allowance Cost})$$
+$$Annual Compliance Bleed = Audited Non-Compliance Rate × Total Headcount × (Statutory Penalty per Employee + Unverified Allowance Cost)$$
 
 ### Worked Multi-Facility Example:
 Consider a state educational agency or corporate conglomerate managing distributed operations:
 * Total active staff across 48 zonal centers: **5,000 personnel**.
 * Audited non-compliance and unverified presence factor: **14.0%**.
 * Number of unverified employee profiles:
-  $$\text{Unverified Staff} = 5,000 \times 0.14 = \mathbf{700\text{ Unverified Personnel}}$$
+  $$Unverified Staff = 5,000 × 0.14 = **700 Unverified Personnel**$$
 * Average statutory non-compliance penalty (labor regulations, expired certifications): **₦85,000 per violation**.
 * Average annual unverified training, travel, and duty allowances disbursed: **₦250,000 per staff**.
 * Total annual fiscal exposure per non-compliant profile: **₦335,000**.
 
 ### Calculating Total Treasury Drain:
-$$\text{Annual Treasury Bleed} = 700\text{ Personnel} \times ₦335,000 = \mathbf{₦234,500,000\text{ Lost Every Year}}$$
+$$Annual Treasury Bleed = 700 Personnel × ₦335,000 = **₦234,500,000 Lost Every Year**$$
 
 That is **₦234.5 Million** lost every fiscal year in avoidable penalties and unverified operational allowances. Over a standard three-year strategy cycle, over **₦700 Million** disappears into the visibility gap between zonal centers and executive headquarters.
 

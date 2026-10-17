@@ -32,12 +32,12 @@ When your traffic channels multiply, your checkout process must consolidate.
 
 Before spending budget running paid traffic across multiple platforms, calculate your multi-channel inventory risk using the **Channel Desync Formula**:
 
-$$\text{Desync Risk Index} = \frac{\text{Active Traffic Channels} \times \text{Peak Hourly Orders} \times \text{Manual Reconciliation Time (Mins)}}{60}$$
+$$Desync Risk Index = (Active Traffic Channels × Peak Hourly Orders × Manual Reconciliation Time (Mins)) ÷ (60)$$
 
 ### Worked Example:
 Suppose you operate across **3 channels** (Instagram, TikTok, WhatsApp) during a weekend product launch producing **40 orders per hour**, with an average **12-minute delay** to manually record orders and update inventory notebooks:
 
-$$\text{Desync Risk Index} = \frac{3 \times 40 \times 12}{60} = 24\text{ Desync Exposure Units per Hour}$$
+$$Desync Risk Index = (3 × 40 × 12) ÷ (60) = 24 Desync Exposure Units per Hour$$
 
 At 24 desync exposure units per hour, your probability of double-selling limited-run variants approaches **83%**. This means up to one out of every five buyers pays for an item you physically cannot deliver. The merchant then expends valuable staff hours issuing apologies, paying payment gateway refund penalties, and managing reputation fallout in public comment sections.
 

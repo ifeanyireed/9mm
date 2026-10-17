@@ -102,8 +102,8 @@ Under the new guidelines, accreditation renewals for private schools enrolling o
 **Audit Your Term-End Grading Bottleneck & Deploy the First 2 Administrative Fixes**
 
 To comply with the new Quality Assurance digital standards, calculate your staff's administrative drain using the **Term-End Grading Formula**:
-$$\text{Grading Bottleneck Hours} = \frac{\text{Students} \times \text{Subjects} \times 3\text{ Minutes}}{60}$$
-$$500\text{ Students} \times 10\text{ Subjects} \times 3\text{ Mins} \div 60 = 250\text{ Teacher Hours per Term}$$
+$$Grading Bottleneck Hours = (Students × Subjects × 3 Minutes) ÷ (60)$$
+$$500 Students × 10 Subjects × 3 Mins \div 60 = 250 Teacher Hours per Term$$
 
 For a 500-student school, your teachers spend 250 hours calculating marks by hand instead of preparing lessons. Here are the first two immediate operational fixes from our institutional governance playbook:
 

@@ -80,7 +80,7 @@ Chief Obinna drops the bound quote onto the floor.
 ### [2:40 – 3:20] Talking Head: The Mathematical Cost of Quoting Latency
 **[VISUAL]**: Cut to IFEANYI in the analytical studio. On-screen graphic illuminates the Quoting Velocity Equation.
 
-$$\text{Enterprise Win Rate} = \text{Baseline Win Rate (40\%)} \times e^{-0.35 \times \text{Quote Delivery Days}}$$
+$$Enterprise Win Rate = Baseline Win Rate (40%) × e^{-0.35 × Quote Delivery Days}$$
 
 **IFEANYI (Host)**:
 "Let’s look at enterprise sales behavior data.

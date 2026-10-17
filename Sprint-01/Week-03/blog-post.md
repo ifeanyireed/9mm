@@ -19,7 +19,7 @@ When a retail brand sells a single, uniform product—such as a one-size canvas 
 
 The moment you introduce fashion apparel, footwear, or cosmetics, inventory complexity does not grow linearly; **it multiplies exponentially**:
 
-$$\text{Total Unique SKUs} = \text{Styles} \times \text{Colors} \times \text{Sizes}$$
+$$Total Unique SKUs = Styles × Colors × Sizes$$
 
 ### The Reality Check:
 Consider an independent fashion label launching a capsule collection with:
@@ -27,7 +27,7 @@ Consider an independent fashion label launching a capsule collection with:
 * **3 colorways per style**
 * **4 size variations per color (S, M, L, XL)**
 
-$$\text{Total Stock Keeping Units} = 6 \times 3 \times 4 = 72\text{ Distinct SKUs}$$
+$$Total Stock Keeping Units = 6 × 3 × 4 = 72 Distinct SKUs$$
 
 If you manage these 72 SKUs using Instagram Direct Messages, WhatsApp chats, and a paper notebook or disconnected Excel sheet, you are relying on human memory to track 72 separate inventory balances during a live sales rush.
 

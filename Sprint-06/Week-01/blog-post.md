@@ -32,14 +32,14 @@ When a university enrolls 20,000 students across eight faculties, paper broadshe
 
 To quantify the economic and administrative cost of physical graduation clearance, institutional planners must evaluate the Clearance Man-Hours Lost Formula:
 
-$$\text{Clearance Man-Hours Lost} = \text{Graduating Cohort Size} \times \text{Number of Physical Desks} \times \text{Average Wait Time (Hours)}$$
+$$Clearance Man-Hours Lost = Graduating Cohort Size × Number of Physical Desks × Average Wait Time (Hours)$$
 
 ### Worked Example:
 Consider a mid-tier public or private university graduating **4,000 students** annually across undergraduate and postgraduate programs:
 * Number of physical clearance checkpoints required (Department, Faculty, Library, Sports, Student Affairs, Bursary, Health Center, Alumni): **8 desks**.
 * Average queuing and processing time per student per desk across congested clearance weeks: **3 hours**.
 
-$$\text{Annual Student Clearance Drain} = 4,000\text{ Students} \times 8\text{ Desks} \times 3\text{ Hours} = 96,000\text{ Man-Hours}$$
+$$Annual Student Clearance Drain = 4,000 Students × 8 Desks × 3 Hours = 96,000 Man-Hours$$
 
 That represents **96,000 hours of productive human potential** squandered in physical queues every single year. For administrative officers, managing this crowd consumes an estimated 1,800 officer hours that should be dedicated to research governance, curriculum accreditation, and academic quality assurance.
 

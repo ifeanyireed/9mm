@@ -10,19 +10,13 @@ It powers all **8 Sprints across the 9-Month Media Engine** defined in [`9MMP.ht
 
 The media engine operates across two distinct brand universes. Agents must strictly align tone, vocabulary, and product positioning with the active sprint.
 
-```
-┌─────────────────────────────────────────────────────────────────────────────────┐
-│                      THE TWO-BRAND STRATEGIC ARCHITECTURE                       │
-├───────────────────────────────────────┬─────────────────────────────────────────┤
-│     BRAND 1: OFIA (Sprints 1 – 4)     │   BRAND 2: RESULTSPRO (Sprints 5 – 8)   │
-│         Commerce & SME Retail         │        Education ERP & Governance       │
-├───────────────────────────────────────┼─────────────────────────────────────────┤
-│ • Sprint 1: Impulse Buy (Social)      │ • Sprint 5: K-12 School Administration  │
-│ • Sprint 2: Supply Chain (B2B Bulk)   │ • Sprint 6: Tertiary & Campus Systems   │
-│ • Sprint 3: Niche Marketplaces        │ • Sprint 7: EdTech & Scale Academies    │
-│ • Sprint 4: Omnichannel Retail / POS  │ • Sprint 8: Gov & Corp Compliance Matrix│
-└───────────────────────────────────────┴─────────────────────────────────────────┘
-```
+| BRAND 1: OFIA (Sprints 1 – 4)<br>*Commerce & SME Retail* | BRAND 2: RESULTSPRO (Sprints 5 – 8)<br>*Education ERP & Governance* |
+| :--- | :--- |
+| • Sprint 1: Impulse Buy (Social) | • Sprint 5: K-12 School Administration |
+| • Sprint 2: Supply Chain (B2B Bulk) | • Sprint 6: Tertiary & Campus Systems |
+| • Sprint 3: Niche Marketplaces | • Sprint 7: EdTech & Scale Academies |
+| • Sprint 4: Omnichannel Retail / POS | • Sprint 8: Gov & Corp Compliance Matrix |
+
 
 ### 1.1 Brand 1: Ofia (`https://www.ofia.ng`) — Sprints 1 to 4
 * **Core Identity**: Commerce operating system, unified ERP, and digital checkout infrastructure for social sellers, distributors, independent marketplace merchants, and physical store retailers.
@@ -63,59 +57,60 @@ Agents must pitch the specific product designated for the active sprint, groundi
 
 ## 3. Sprint-by-Sprint Core Theses & Mathematical Models
 
-Every sprint's content must incorporate real quantitative friction models instead of vague generalizations.
+Every sprint's content must incorporate real quantitative friction models instead of vague generalizations. All formulas must be presented in **clean Unicode Markdown math syntax** without raw LaTeX markup (`\text`, `\frac`, `\times`, etc.).
 
 ### Sprint 1 (Impulse Buy · Ofia)
 * **Core Thesis**: *"You are paying Mark Zuckerberg for traffic, but losing the sale because your checkout requires human intervention."*
 * **Mathematical Formula**:
-  $$\text{Daily DM Bottleneck (Hours)} = \frac{\text{Daily Inbound DMs} \times \text{Minutes per Sale Conversation}}{60}$$
+  $$Daily DM Bottleneck (Hours) = (Daily Inbound DMs × Minutes per Sale Conversation) ÷ 60$$
   *Example*: 100 DMs × 5 mins ÷ 60 = **8.33 hours/day** working as a human order form.
-* **Stock-Out Opportunity Cost**: $\text{Lost Revenue} = \text{Viral Demand Units} \times \text{AOV}$. (400k views, 200 missed Mediums at ₦18.5k = ₦3.7M lost).
+* **Stock-Out Opportunity Cost**: $$Lost Revenue = Viral Demand Units × AOV$$ (400k views, 200 missed Mediums at ₦18.5k = ₦3.7M lost).
 
 ### Sprint 2 (Supply Chain B2B · Ofia)
 * **Core Thesis**: *"Wholesale enterprise buyers do not cancel orders over 50 naira; they cancel because your sales desk takes 3 days to send a paper quote."*
 * **Mathematical Formula**:
-  $$\text{Daily Quoting Drag (Hours)} = \frac{\text{Daily Bulk Inquiries} \times \text{Manual Stock Check \& Margin Recalculation (Mins)}}{60}$$
+  $$Daily Quoting Drag (Hours) = (Daily Bulk Inquiries × Manual Stock Check & Margin Recalculation (Mins)) ÷ 60$$
   *Example*: 40 inquiries × 15 mins ÷ 60 = **10 full employee hours/day** wasted on manual paper calculations.
 * **Leakage Metric**: 18.4% phantom stock reconciliation variance in paper-run warehouses.
 
 ### Sprint 3 (Marketplaces · Ofia)
 * **Core Thesis**: *"You do not own an e-commerce business if a marketplace aggregator charges you a 15% landlord tax and conceals your customers' phone numbers."*
 * **Mathematical Formula**:
-  $$\text{5-Year Commission Bleed} = \text{Annual GMV} \times \text{Aggregator Take Rate (15\%)} \times 5$$
+  $$5-Year Commission Bleed = Annual GMV × Aggregator Take Rate (15%) × 5$$
   *Example*: ₦50M annual GMV × 15% × 5 = **₦37,500,000 lost in pure commissions**, with 0 owned customer contacts.
 
 ### Sprint 4 (Omnichannel Retail · Ofia)
 * **Core Thesis**: *"500 Google reviews and packed showroom aisles mean nothing if walk-in shoppers cannot reorder from home without calling a cashier."*
 * **Mathematical Formula**:
-  $$\text{Omnichannel Revenue Drag} = (\text{Physical Store Walk-Ins} \times \text{Digital Churn Rate (82\%)}) \times \text{Repeat AOV}$$
+  $$Omnichannel Revenue Drag = (Physical Store Walk-Ins × Digital Churn Rate (82%)) × Repeat AOV$$
   *Example*: 300 daily store visitors with no digital profile = 246 lost reorder opportunities every single day.
 
 ### Sprint 5 (K-12 School Admin · ResultsPro)
 * **Core Thesis**: *"Your teachers should be inspiring students, not staying awake until 3:00 AM manually entering 500 exam scores into paper gradebooks."*
 * **Mathematical Formula**:
-  $$\text{Term-End Grading Bottleneck (Hours)} = \frac{\text{Total Students} \times \text{Subjects} \times \text{Manual Entry \& Math Check (3 Mins)}}{60}$$
+  $$Term-End Grading Bottleneck (Hours) = (Total Students × Subjects × Manual Entry & Math Check (3 Mins)) ÷ 60$$
   *Example*: 500 students × 10 subjects = 5,000 score entries = **250 teacher hours** burned per term just calculating averages.
 * **Bursar Audit Drag**: 15 hours/week spent manually matching bank payment narration slips against student rosters.
 
 ### Sprint 6 (Tertiary & Campus · ResultsPro)
 * **Core Thesis**: *"A university cannot be world-class when graduating seniors queue for four days just to obtain a signature on a paper clearance slip."*
 * **Mathematical Formula**:
-  $$\text{Annual Clearance Man-Hours Lost} = \text{Graduating Cohort} \times \text{Number of Clearance Desks (8)} \times \text{Avg Wait Time (3 Hours)}$$
+  $$Annual Clearance Man-Hours Lost = Graduating Cohort × Number of Clearance Desks (8) × Avg Wait Time (3 Hours)$$
   *Example*: 4,000 students × 8 desks × 3 hours = **96,000 student hours wasted** in manual administrative queues.
 * **Exam Integrity Metric**: "Missing scripts" account for 74% of all student Senate petitions in legacy universities.
 
 ### Sprint 7 (EdTech Scale · ResultsPro)
 * **Core Thesis**: *"The ceiling of an online coding bootcamp is not student acquisition—it is the human limit of grading 1,000 code repositories before cohort week 2."*
 * **Mathematical Formula**:
-  $$\text{Cohort Grading Deficit} = (\text{Cohort Size} \times \text{Submissions/Week} \times \text{Manual Review Time (20 Mins)}) - \text{Instructor Capacity}$$
+  $$Cohort Grading Deficit = (Cohort Size × Submissions/Week × Manual Review Time (20 Mins)) - Instructor Capacity$$
   *Example*: 500 students submitting 2 weekly labs = 1,000 reviews = **333 hours/week**. Without automated CI autograders, student dropout spikes by 65%.
 
 ### Sprint 8 (Gov & Corp Matrix · ResultsPro)
 * **Core Thesis**: *"Ministries of Education do not lack funding; they lack real-time data to stop ghost teachers from draining 25% of state payroll."*
 * **Mathematical Formula**:
-  $$\text{Annual Ghost Worker Payroll Bleed} = \text{Audited Discrepancy Rate (8\%)} \times \text{Total State Teaching Staff} \times \text{Average Annual Salary}$$
+  $$Annual Ghost Worker Payroll Bleed = Audited Discrepancy Rate (8%) × Total State Teaching Staff × Average Annual Salary$$
   *Example*: 25,000 registered teachers × 8% ghost workers = 2,000 unverified staff × ₦1.8M/year = **₦3.6 Billion annually lost** in public education funds.
+
 
 ---
 
@@ -135,15 +130,15 @@ Every sprint's content must incorporate real quantitative friction models instea
 
 ### 4.2 📚 Bookmarkable Blog Posts (`blog-post.md`)
 * **Word Count**: 1,500 – 2,200 words.
-* **Metadata**: H1 Title, byline (`@Ifeanyi Felix`), publication date, read time, category, target audience.
+* **Metadata**: H1 Title, author byline (`@Ifeanyi Felix`), publication date, read time, category, target audience, meta description.
 * **Structure**:
   - Executive summary blockquote.
   - Featured Image Prompt Block (3D Disney Pixar style animation).
   - The Industry Problem & Research Data (real market statistics).
-  - The Sprint-Specific Quantitative Formula (worked mathematical example).
+  - The Sprint-Specific Quantitative Formula (worked mathematical example in clean Unicode Markdown math without raw LaTeX).
   - 10 Actionable Operational Hacks/Fixes (bookmarkable, highly practical).
   - Platform Screen Anchors (mapped to routes from `slugs.md`).
-  - Side-by-Side Comparison Table ("Legacy Manual Approach" vs "Designated Product").
+  - Native Markdown Tables: All balance sheets, flow cycles, metric maps, and side-by-side comparison tables ("Legacy Manual Approach" vs "Designated Product") MUST be rendered as native Markdown tables. Strictly zero ASCII art boxes (`┌───┐`) and zero code blocks for tabular data.
   - Closing Call to Action with direct product link.
 
 ### 4.3 📰 Pure-News HTML Email Blast (Stream 2: `email-blast.md` / `email-blast.html`)

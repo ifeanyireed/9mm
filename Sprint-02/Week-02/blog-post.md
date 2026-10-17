@@ -37,13 +37,13 @@ When enterprise buyers cannot verify deliveries digitally, payment cycles stretc
 
 To quantify the financial damage of paper-based supply chain reconciliation, enterprise operators must calculate their **Working Capital Drag**:
 
-$$\text{Working Capital Drag} = \text{Monthly Dispatched Volume (₦)} \times \left( \frac{\text{Reconciliation Lag Days}}{30} \right) \times \left( \frac{\text{Annual Cost of Debt}}{12} \right)$$
+$$Working Capital Drag = Monthly Dispatched Volume (₦) × ( (Reconciliation Lag Days) ÷ (30) ) × ( (Annual Cost of Debt) ÷ (12) )$$
 
 ### Worked Example:
 Consider a regional food and beverage distributor moving **₦300,000,000** in monthly wholesale shipments, facing an average **18-day delay** in receiving stamped paper waybills, and operating with a commercial bank line at **24% annual interest**:
 
-$$\text{Locked Floating Capital} = ₦300,000,000 \times \left( \frac{18}{30} \right) = ₦180,000,000$$
-$$\text{Monthly Interest Carrying Cost} = ₦180,000,000 \times 2\% = ₦3,600,000\text{ per Month}$$
+$$Locked Floating Capital = ₦300,000,000 × ( (18) ÷ (30) ) = ₦180,000,000$$
+$$Monthly Interest Carrying Cost = ₦180,000,000 × 2% = ₦3,600,000 per Month$$
 
 Over a twelve-month operating cycle, that single paper reconciliation lag costs the enterprise **₦43,200,000 in pure interest payments** to commercial lenders.
 

@@ -34,23 +34,23 @@ Marketing teams celebrate hitting record enrollment targets, but behind the scen
 
 To determine the exact instructional threshold at which a cohort's manual grading model breaks down, program directors must apply the **Cohort Grading Deficit Formula**:
 
-$$\text{Cohort Grading Deficit (Hours/Week)} = \left(\frac{\text{Cohort Size} \times \text{Submissions/Week} \times \text{Review Time (Mins)}}{60}\right) - \text{Instructor Grading Capacity (Hours/Week)}$$
+$$Cohort Grading Deficit (Hours/Week) = ((Cohort Size × Submissions/Week × Review Time (Mins)) ÷ (60)) - Instructor Grading Capacity (Hours/Week)$$
 
 ### Worked Operational Example:
 Consider a fast-growing tech academy with **500 active students** in a 16-week software engineering accelerator:
 * Number of required practical assignments/labs per week: **2 projects** (e.g., midweek API lab + weekend capstone project).
-* Total weekly submissions: $500 \times 2 = \mathbf{1,000\text{ practical repositories}}$.
+* Total weekly submissions: $500 × 2 = **1,000 practical repositories**$.
 * Average time required for a human TA to clone a repository, install dependencies, run test suites, check code formatting, and write qualitative feedback: **20 minutes per project**.
 * Gross weekly grading requirement:
-  $$\text{Gross Grading Demand} = \frac{1,000 \times 20}{60} = \mathbf{333.3\text{ Hours per Week}}$$
+  $$Gross Grading Demand = (1,000 × 20) ÷ (60) = **333.3 Hours per Week**$$
 
 Now examine instructional capacity:
 * The academy employs **3 full-time Teaching Assistants**.
 * Assuming each TA dedicates an aggressive 40 hours per week *exclusively* to grading without taking live office hours, preparing lectures, or answering community questions:
-  $$\text{Total Available Capacity} = 3 \times 40 = \mathbf{120\text{ Hours per Week}}$$
+  $$Total Available Capacity = 3 × 40 = **120 Hours per Week**$$
 
 ### Calculating the Deficit:
-$$\text{Cohort Grading Deficit} = 333.3 - 120 = \mathbf{213.3\text{ Hours of Unmet Grading Demand Each Week}}$$
+$$Cohort Grading Deficit = 333.3 - 120 = **213.3 Hours of Unmet Grading Demand Each Week**$$
 
 This mathematical reality means that by Week 2, the instructional staff is already **213 hours behind schedule**. By Week 4, the backlog exceeds 800 hours. TAs resort to skim-reading code, copying canned phrases, or grading assignments days after students have moved on to new topics.
 

@@ -36,18 +36,18 @@ When academic evaluation varies by campus location, the institutional credibilit
 
 School network executives can evaluate their institutional evaluation risk using the **Grading Discrepancy Index**:
 
-$$\text{Grading Discrepancy Risk} = \text{Active Campuses} \times \left( \frac{\text{Total Subject Teachers}}{10} \right) \times \text{Manual Formula Divergence Rate (16.4\%)}$$
+$$Grading Discrepancy Risk = Active Campuses × ( (Total Subject Teachers) ÷ (10) ) × Manual Formula Divergence Rate (16.4%)$$
 
 ### Worked Example:
 Consider a private school group operating **3 physical campuses** (Primary, Junior High, Senior High) with **60 full-time subject educators** compiling marks on independent laptops:
 
-$$\text{Grading Discrepancy Risk} = 3 \times \left( \frac{60}{10} \right) \times 16.4\% = 2.95\text{ Structural Failure Units}$$
+$$Grading Discrepancy Risk = 3 × ( (60) ÷ (10) ) × 16.4% = 2.95 Structural Failure Units$$
 
 A discrepancy score exceeding 2.0 indicates that more than **one in six student report cards** contains unauthorized curve adjustments, incorrect GPA weightings, or mathematical ranking errors.
 
 Furthermore, consider the cumulative staff drag:
 
-$$\text{Annual Administrative Drag} = \frac{\text{Total Students (1,200)} \times \text{Subjects (10)} \times \text{Manual Review (3 Mins)} \times 3\text{ Terms}}{60} = 1,800\text{ Hours}$$
+$$Annual Administrative Drag = (Total Students (1,200) × Subjects (10) × Manual Review (3 Mins) × 3 Terms) ÷ (60) = 1,800 Hours$$
 
 That represents **1,800 teacher hours burned per academic year** merely performing routine arithmetic that should occur instantaneously in software.
 

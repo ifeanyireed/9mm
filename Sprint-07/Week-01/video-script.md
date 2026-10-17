@@ -64,7 +64,7 @@ It falls off a cliff."
 ### [2:40 - 3:20] Talking Head: The Mathematical Friction
 **[VISUAL]**: Cut back to IFEANYI in the analytical studio. On-screen graphic overlays the mathematical formula in glowing green.
 
-$$\text{Cohort Grading Deficit} = (\text{Cohort Size} \times \text{Submissions} \times \text{Review Time}) - \text{Instructor Capacity}$$
+$$Cohort Grading Deficit = (Cohort Size × Submissions × Review Time) - Instructor Capacity$$
 
 **IFEANYI (Host)**:
 "Let’s look at the operational math that breaks fast-scaling EdTech academies.

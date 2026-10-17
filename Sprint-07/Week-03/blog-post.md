@@ -35,15 +35,15 @@ When four out of five students fail to complete your program, your acquisition c
 
 EdTech operators can calculate the true cost of student attrition using the **Cohort Capital Evaporation Equation**:
 
-$$\text{Burnt Acquisition Capital} = \text{Cohort Enrollment} \times \text{Attrition Rate (80\%)} \times \text{Blended CAC (₦45,000)}$$
+$$Burnt Acquisition Capital = Cohort Enrollment × Attrition Rate (80%) × Blended CAC (₦45,000)$$
 
 ### Worked Example:
 Consider an independent online academy enrolling **500 students per quarterly cohort** at an average tuition fee of **₦120,000**, with a blended Customer Acquisition Cost (CAC) of **₦45,000**:
 
-$$\text{Churned Learners} = 500 \times 80\% = 400\text{ Dropped Students}$$
-$$\text{Direct Burnt CAC} = 400 \times ₦45,000 = ₦18,000,000\text{ in Wasted Marketing Spend per Cohort}$$
-$$\text{Foregone Advanced LTV} = (400 \times 25\%\text{ Upsell Rate}) \times ₦200,000 = ₦20,000,000$$
-$$\text{Total Financial Destruction} = ₦18,000,000 + ₦20,000,000 = ₦38,000,000\text{ per Cohort}$$
+$$Churned Learners = 500 × 80% = 400 Dropped Students$$
+$$Direct Burnt CAC = 400 × ₦45,000 = ₦18,000,000 in Wasted Marketing Spend per Cohort$$
+$$Foregone Advanced LTV = (400 × 25% Upsell Rate) × ₦200,000 = ₦20,000,000$$
+$$Total Financial Destruction = ₦18,000,000 + ₦20,000,000 = ₦38,000,000 per Cohort$$
 
 Over four quarterly cohorts per year, that single 80% retention cliff destroys **₦152,000,000 in equity and enterprise valuation**.
 

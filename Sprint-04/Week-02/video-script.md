@@ -77,7 +77,7 @@ The physical store inventory ledger says we have one in stock, but the shelf is 
 ### [2:40 – 3:20] Talking Head: The Omnichannel Revenue Bleed
 **[VISUAL]**: Cut to IFEANYI in the analytical studio. On-screen graphic illuminates the Omnichannel Sync Formula.
 
-$$\text{Desync Revenue Bleed} = (\text{Daily Physical POS Scans} \times \text{Sync Lag (Hours)}) \times \text{Online Stockout Variance (18.6\%)} \times \text{AOV}$$
+$$Desync Revenue Bleed = (Daily Physical POS Scans × Sync Lag (Hours)) × Online Stockout Variance (18.6%) × AOV$$
 
 **IFEANYI (Host)**:
 "Look at the mathematics of omnichannel retail.

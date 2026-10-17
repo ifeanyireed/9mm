@@ -21,17 +21,17 @@ However, looking at top-line revenue obscures the underlying economic reality. M
 
 Consider what happens to a beauty, apparel, or electronics merchant operating with a standard 30% gross profit margin:
 
-$$\text{Selling Price} = ₦20,000$$
-$$\text{Cost of Goods Sold (COGS)} = ₦14,000\text{ (70\% of retail)}$$
-$$\text{Gross Margin} = ₦6,000\text{ (30\%)}$$
+$$Selling Price = ₦20,000$$
+$$Cost of Goods Sold (COGS) = ₦14,000 (70% of retail)$$
+$$Gross Margin = ₦6,000 (30%)$$
 
 Now, examine the platform deduction stack:
-* **15% Category Take Rate**: $₦20,000 \times 15\% = ₦3,000$
+* **15% Category Take Rate**: $₦20,000 × 15% = ₦3,000$
 * **Fulfillment & Sorting Surcharge**: $₦1,200$
 * **Payment Processing Fee**: $₦400$
 * **Total Platform Deductions**: $₦4,600$
 
-$$\text{Remaining Merchant Profit} = ₦6,000 - ₦4,600 = ₦1,400$$
+$$Remaining Merchant Profit = ₦6,000 - ₦4,600 = ₦1,400$$
 
 Out of an initial ₦6,000 gross margin, the marketplace has consumed **₦4,600 (76.6% of your profit)**. You took all the manufacturing risk, funded the inventory, and managed the supply chain, while the platform extracted more than three-quarters of your operational return.
 
@@ -41,13 +41,13 @@ Out of an initial ₦6,000 gross margin, the marketplace has consumed **₦4,600
 
 To understand the long-term wealth transfer occurring between merchants and platform aggregators, apply the **5-Year Commission Bleed Formula**:
 
-$$\text{Cumulative Capital Loss} = \sum_{t=1}^{5} \left( \text{Annual GMV}_t \times \text{Effective Take Rate (15\%)} \right)$$
+$$Cumulative Capital Loss = \sum_{t=1}^{5} ( Annual GMV_t × Effective Take Rate (15%) )$$
 
 ### Worked Example:
 Consider a steady-state independent merchant generating **₦50,000,000 in annual GMV**:
 
-$$\text{Annual Platform Commission} = ₦50,000,000 \times 15\% = ₦7,500,000$$
-$$\text{5-Year Capital Drain} = ₦7,500,000 \times 5 = ₦37,500,000\text{ in Pure Cash Extraction}$$
+$$Annual Platform Commission = ₦50,000,000 × 15% = ₦7,500,000$$
+$$5-Year Capital Drain = ₦7,500,000 × 5 = ₦37,500,000 in Pure Cash Extraction$$
 
 That represents **₦37,500,000 in lost equity**. Over five years, that capital could have funded:
 * The acquisition of a permanent 300-sqm commercial fulfillment hub.

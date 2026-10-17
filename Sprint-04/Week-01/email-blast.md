@@ -99,8 +99,8 @@ Retail chains deploying the new touchscreen terminals reported reducing evening 
 **Calculate Your Showroom Omnichannel Drag & Deploy the First 2 Retail Fixes**
 
 To measure the hidden reorder leakage happening outside your showroom doors, apply the **Omnichannel Revenue Drag Formula**:
-$$\text{Omnichannel Drag} = (\text{Daily Walk-Ins} \times 82\%\text{ Churn}) \times \text{Repeat AOV}$$
-$$(200\text{ Visitors} \times 0.82) \times ₦35,000 = ₦5,740,000\text{ Potential Reorders Lost Daily}$$
+$$Omnichannel Drag = (Daily Walk-Ins × 82% Churn) × Repeat AOV$$
+$$(200 Visitors × 0.82) × ₦35,000 = ₦5,740,000 Potential Reorders Lost Daily$$
 
 When your checkout produces an anonymous paper slip, that buyer becomes an untrackable ghost. Here are the first two immediate operational fixes from our retail playbook:
 

@@ -76,7 +76,7 @@ Until the Departmental Board of Examiners convenes, investigates the basement ar
 ### [2:40 – 3:20] Talking Head: The Arithmetic of Transcript Drag
 **[VISUAL]**: Cut to IFEANYI in the analytical studio. On-screen graphic illuminates the Senate Transcript Latency Equation.
 
-$$\text{Annual Senate Petition Drag (Hours)} = \text{Missing Script Petitions (450)} \times \text{Faculty Review Boards (4)} \times \text{Investigation Time (6 Hours)}$$
+$$Annual Senate Petition Drag (Hours) = Missing Script Petitions (450) × Faculty Review Boards (4) × Investigation Time (6 Hours)$$
 
 **IFEANYI (Host)**:
 "Look at the hidden cost to academic leadership.

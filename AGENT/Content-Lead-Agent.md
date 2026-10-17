@@ -67,31 +67,17 @@ When instructed to generate content for a specific sprint and week (e.g., Sprint
 
 ## 4. Specialist Sub-Agent Delegation Swarm
 
-```
-                  ┌───────────────────────────────────┐
-                  │    Content Lead Orchestrator      │
-                  │   (Coordinates, Audits & Logs)    │
-                  └─────────────────┬─────────────────┘
-                                    │
-    ┌──────────────────┬────────────┴───────┬──────────────────┐
-    ▼                  ▼                    ▼                  ▼
-┌───────────────┐ ┌────────────────┐ ┌───────────────┐ ┌────────────────┐
-│Video Script   │ │Editorial Blog  │ │Email Marketing│ │Social Media    │
-│Specialist     │ │Specialist      │ │Specialist     │ │Omnichannel     │
-│(Stream 3)     │ │(Stream 1)      │ │(Stream 2)     │ │Specialist      │
-└───────┬───────┘ └────────┬───────┘ └────────┬───────┘ └───────┬────────┘
-        │                  │                  │                 │
-        │                  │                  │                 │
-        ▼                  ▼                  ▼                 ▼
- video-script.md     blog-post.md      email-blast.html  social-media-
-                                                          carousel.md
-        │                  │                  │                 │
-        └──────────────────┼──────────────────┴─────────────────┘
-                           ▼
-                  ┌───────────────────────────────────┐
-                  │     QA & Compliance Reviewer      │
-                  │    (Enforces Requirement.md)      │
-                  └───────────────────────────────────┘
+```mermaid
+graph TD
+    Lead["Content Lead Orchestrator<br>*(Coordinates, Audits & Logs)*"]
+    Lead --> V["Video Script Specialist<br>*(Stream 3: video-script.md)*"]
+    Lead --> B["Editorial Blog Specialist<br>*(Stream 1: blog-post.md)*"]
+    Lead --> E["Email Marketing Specialist<br>*(Stream 2: email-blast.html / .md)*"]
+    Lead --> S["Social Media Specialist<br>*(Stream 4: social-media-carousel.md)*"]
+    V --> QA["QA & Compliance Reviewer<br>*(Enforces Requirement.md)*"]
+    B --> QA
+    E --> QA
+    S --> QA
 ```
 
 ### Specialist Mandates:

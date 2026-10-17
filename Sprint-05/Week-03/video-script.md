@@ -77,7 +77,7 @@ Why is my eight-year-old son being disgraced at the school gate as if we are deb
 ### [2:40 – 3:20] Talking Head: The Arithmetic of the Bursary Bottleneck
 **[VISUAL]**: Cut to IFEANYI in the analytical studio. On-screen graphic illuminates the Bursary Reconciliation Drag Formula.
 
-$$\text{Bursary Friction (Hours)} = \frac{\text{Enrolled Students} \times \text{Unallocated Transfer Rate (38\%)} \times \text{WhatsApp Matching Time (15 Mins)}}{60}$$
+$$Bursary Friction (Hours) = (Enrolled Students × Unallocated Transfer Rate (38%) × WhatsApp Matching Time (15 Mins)) ÷ (60)$$
 
 **IFEANYI (Host)**:
 "Let’s examine the financial physics of school administration.

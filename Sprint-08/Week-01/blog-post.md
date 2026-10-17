@@ -34,18 +34,18 @@ When a state ministry relies on manual paper muster sheets signed by local educa
 
 To calculate the structural treasury drain inflicted by unverified paper rolls, state finance and education commissioners must calculate the **Annual Ghost Worker Payroll Bleed Formula**:
 
-$$\text{Annual Ghost Payroll Bleed} = \text{Audited Discrepancy Rate} \times \text{Total State Teaching Staff} \times \text{Average Annual Teacher Compensation}$$
+$$Annual Ghost Payroll Bleed = Audited Discrepancy Rate × Total State Teaching Staff × Average Annual Teacher Compensation$$
 
 ### Worked State-Level Example:
 Consider a typical mid-sized state government managing primary and secondary education systems:
 * Total registered teaching personnel on state nominal roll: **25,000 teachers**.
 * Conservative audited discrepancy rate between paper registers and physical classroom presence: **8.0%**.
 * Number of unverified/ghost teaching entries:
-  $$\text{Unverified Staff} = 25,000 \times 0.08 = \mathbf{2,000\text{ Phantom Personnel}}$$
+  $$Unverified Staff = 25,000 × 0.08 = **2,000 Phantom Personnel**$$
 * Average annual teacher compensation (comprising basic salary, consolidated public service allowances, and pension contributions): **₦1,800,000 per staff annually** (₦150,000/month).
 
 ### Calculating Treasury Loss:
-$$\text{Annual Treasury Bleed} = 2,000\text{ Staff} \times ₦1,800,000 = \mathbf{₦3,600,000,000\text{ Lost Every Year}}$$
+$$Annual Treasury Bleed = 2,000 Staff × ₦1,800,000 = **₦3,600,000,000 Lost Every Year**$$
 
 That is **₦3.6 Billion in public funds** vanishing into ghost bank accounts every twelve months. Over a single four-year gubernatorial tenure, a state government bleeds **₦14.4 Billion**—capital that could have constructed 800 fully equipped digital classrooms, provided daily school lunches for 120,000 children, or procured modern STEM laboratory apparatus for every secondary school in the state.
 

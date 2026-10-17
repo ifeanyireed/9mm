@@ -98,8 +98,8 @@ Industry data reveals that the transition will affect more than 4,200 apex whole
 **Calculate Your B2B Quoting Drag & Deploy the First 2 Wholesale Fixes**
 
 To comply with the new 24-hour manufacturer digital mandates, calculate your sales desk operational drag using the **B2B Quoting Drag Formula**:
-$$\text{Quoting Friction Hours} = \frac{\text{Daily Bulk Inquiries} \times 15\text{ Minutes}}{60}$$
-$$40\text{ Inquiries} \times 15\text{ Mins} \div 60 = 10\text{ Full Working Hours per Day}$$
+$$Quoting Friction Hours = (Daily Bulk Inquiries × 15 Minutes) ÷ (60)$$
+$$40 Inquiries × 15 Mins \div 60 = 10 Full Working Hours per Day$$
 
 If your sales desk spends 10 hours a day checking paper bin cards and calling warehouse floors, your quotation turnaround slips to three days. Here are the first two immediate operational fixes from our supply chain playbook:
 

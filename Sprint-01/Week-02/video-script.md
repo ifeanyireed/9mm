@@ -82,7 +82,7 @@ Welcome to the Three-Tab Trap—where more social channels don't double your rev
 ### [2:40 – 3:20] Talking Head: The Cross-Channel Inventory Drag
 **[VISUAL]**: Cut to IFEANYI in the analytical studio. On-screen graphic illuminates the Multi-Channel Desync Formula.
 
-$$\text{Channel Desync Variance} = (\text{Inbound Traffic Sources} \times \text{Manual Handoff Lag (Mins)}) \times \text{Oversell Risk Index}$$
+$$Channel Desync Variance = (Inbound Traffic Sources × Manual Handoff Lag (Mins)) × Oversell Risk Index$$
 
 **IFEANYI (Host)**:
 "Let's look at the operational physics.

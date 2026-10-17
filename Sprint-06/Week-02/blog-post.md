@@ -35,18 +35,18 @@ When administrative clearance requires weeks of physical queuing, a university�
 
 Tertiary institutions can evaluate the operational loss of manual graduation administration using the **Clearance Man-Hour Formula**:
 
-$$\text{Annual Clearance Man-Hours Lost} = \text{Graduating Cohort} \times \text{Administrative Desks (8)} \times \text{Average Queue Time (3 Hours)}$$
+$$Annual Clearance Man-Hours Lost = Graduating Cohort × Administrative Desks (8) × Average Queue Time (3 Hours)$$
 
 ### Worked Example:
 Consider an established university graduating a modest cohort of **4,000 undergraduate seniors**:
 
-$$\text{Total Student Bureaucratic Drag} = 4,000 \times 8 \times 3 = 96,000\text{ Hours Lost}$$
+$$Total Student Bureaucratic Drag = 4,000 × 8 × 3 = 96,000 Hours Lost$$
 
 If 96,000 student hours are converted to economic productivity at minimum graduate trainee rates (₦1,500/hour), that single clearance period destroys **₦144,000,000 in economic value**.
 
 Furthermore, consider the institutional risk:
 
-$$\text{Credential Audit Risk} = \text{Cohort (4,000)} \times \text{Rubber Stamp Forgery Probability (14.2\%)} = 568\text{ Unverified Degrees}$$
+$$Credential Audit Risk = Cohort (4,000) × Rubber Stamp Forgery Probability (14.2%) = 568 Unverified Degrees$$
 
 Having up to 568 graduates cleared with forged departmental stamps severely exposes the university Senate to national regulatory sanctions and international accreditation revocation.
 

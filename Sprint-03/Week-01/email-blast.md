@@ -99,8 +99,8 @@ In the wake of the announcement, commercial merchant associations representing o
 **Calculate Your 5-Year Commission Bleed & Deploy the First 2 Migration Tactics**
 
 To understand the financial penalty of selling on general marketplace aggregators, calculate your cumulative loss using the **5-Year Commission Bleed Formula**:
-$$\text{5-Year Bleed} = \text{Annual GMV} \times 15\%\text{ Aggregator Take Rate} \times 5\text{ Years}$$
-$$₦50,000,000\text{ GMV} \times 0.15 \times 5 = ₦37,500,000\text{ Pure Cash Surrendered}$$
+$$5-Year Bleed = Annual GMV × 15% Aggregator Take Rate × 5 Years$$
+$$₦50,000,000 GMV × 0.15 × 5 = ₦37,500,000 Pure Cash Surrendered$$
 
 Over five years, you give away thirty-seven million naira in margins while owning zero customer emails and zero phone numbers. Here are the first two immediate operational tactics to transition off aggregators:
 

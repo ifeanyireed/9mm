@@ -78,7 +78,7 @@ Welcome to the Showroom Dead End—where 82% of your physical store foot traffic
 ### [2:40 – 3:20] Talking Head: The Mathematical Cost of Showroom Churn
 **[VISUAL]**: Cut to IFEANYI in the analytical studio. On-screen graphic illuminates the Physical Store Churn Equation.
 
-$$\text{Lost Showroom Equity} = \text{Monthly Walk-In Visitors} \times \text{Digital Churn Rate (82\%)} \times \text{Repeat AOV}$$
+$$Lost Showroom Equity = Monthly Walk-In Visitors × Digital Churn Rate (82%) × Repeat AOV$$
 
 **IFEANYI (Host)**:
 "Look at the mathematics of premium physical retail.

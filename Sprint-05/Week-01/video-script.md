@@ -89,7 +89,7 @@ Let’s look at the true cost of manual academic administration.
 For an elite school with **500 students** taking **10 subjects**:
 That is **5,000 individual score computations** per term.
 
-$$\text{Grading Drag} = \frac{500\text{ Students} \times 10\text{ Subjects} \times 3\text{ Minutes}}{60} = 250\text{ Teacher Hours}$$
+$$Grading Drag = (500 Students × 10 Subjects × 3 Minutes) ÷ (60) = 250 Teacher Hours$$
 
 **On-screen text**:
 - 250 teacher hours burned per term on manual data entry
@@ -110,7 +110,7 @@ You cannot deliver world-class education on fragmented spreadsheets.
 1. Teachers enter CA and exam marks into `/classroompro` on their laptops during the term.
 2. The system computes class positions, cumulative averages, and grade cut-offs instantly.
 3. Teachers select from curated, pedagogical comment templates or dictate personalized feedback.
-4. Mrs. Adeleke clicks *Batch Approve Report Cards* $\rightarrow$ 500 tamper-proof digital PDFs generated in 12 seconds with digital watermarks.
+4. Mrs. Adeleke clicks *Batch Approve Report Cards* $arrow$ 500 tamper-proof digital PDFs generated in 12 seconds with digital watermarks.
 5. Parents receive instant notification in the Parent Portal (`/schoolhub`). Tuition fees clear via unique virtual student accounts, automatically releasing the report card.
 
 **Visual**: 4:00 PM on speech day eve. Staff room is quiet, clean, and empty. Mrs. Adeleke is packing her handbag with a smile.

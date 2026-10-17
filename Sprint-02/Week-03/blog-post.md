@@ -34,18 +34,18 @@ When your sales desk takes three days to respond to an RFQ, you are not demonstr
 
 Enterprise operators can model their quoting pipeline using the **Quoting Velocity Formula**:
 
-$$\text{Probability of Deal Closure} = \text{Base Win Rate} \times e^{-0.35 \times \text{Response Time (Days)}}$$
+$$Probability of Deal Closure = Base Win Rate × e^{-0.35 × Response Time (Days)}$$
 
 ### Worked Example:
 Suppose your wholesale firm maintains a **45% baseline win rate** when responding instantly, but your current sales desk requires **3 business days** to compile complex bulk quotes:
 
-$$\text{Win Rate at Day 3} = 45\% \times e^{-0.35 \times 3} = 45\% \times e^{-1.05} = 45\% \times 0.35 = 15.75\%$$
+$$Win Rate at Day 3 = 45% × e^{-0.35 × 3} = 45% × e^{-1.05} = 45% × 0.35 = 15.75%$$
 
 By taking three days to calculate freight and margins, your effective win rate collapses from **45% to under 16%**.
 
 Furthermore, consider the cumulative staff drag:
 
-$$\text{Annual Quoting Overhead (Hours)} = \frac{\text{Annual RFQs (1,200)} \times \text{Manual Compilation Time (120 Mins)}}{60} = 2,400\text{ Hours}$$
+$$Annual Quoting Overhead (Hours) = (Annual RFQs (1,200) × Manual Compilation Time (120 Mins)) ÷ (60) = 2,400 Hours$$
 
 That represents **2,400 employee hours**—or more than one full-time senior sales engineer's entire annual capacity—spent merely serving as an internal human calculator.
 

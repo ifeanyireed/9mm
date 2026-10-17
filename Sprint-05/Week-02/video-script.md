@@ -77,7 +77,7 @@ Parents are already discussing this inconsistency on the Year 8 WhatsApp group! 
 ### [2:40 – 3:20] Talking Head: The Physics of Multi-Campus Divergence
 **[VISUAL]**: Cut to IFEANYI in the analytical studio. On-screen graphic illuminates the Institutional Grade Variance Formula.
 
-$$\text{Grading Discrepancy Index} = \text{Campus Locations (3)} \times \text{Subject Coordinators (45)} \times \left( \frac{\text{Manual Formula Adjustments}}{12} \right)$$
+$$Grading Discrepancy Index = Campus Locations (3) × Subject Coordinators (45) × ( (Manual Formula Adjustments) ÷ (12) )$$
 
 **IFEANYI (Host)**:
 "Look at the mathematics of academic administration.

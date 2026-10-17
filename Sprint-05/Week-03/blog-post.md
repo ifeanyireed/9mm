@@ -34,19 +34,19 @@ When your bursary operates as a manual detective agency, tuition collection slow
 
 Proprietors can quantify the hidden labor waste of manual fee reconciliation using the **Bursary Drag Formula**:
 
-$$\text{Resumption Reconciliation Drag (Hours)} = \frac{\text{Total Enrolled Students} \times \text{Anonymous Transfer Rate (38.4\%)} \times \text{Manual Matching Time (15 Mins)}}{60}$$
+$$Resumption Reconciliation Drag (Hours) = (Total Enrolled Students × Anonymous Transfer Rate (38.4%) × Manual Matching Time (15 Mins)) ÷ (60)$$
 
 ### Worked Example:
 Consider an established private school enrolling **600 students** charging an average termly tuition of **₦450,000**:
 
-$$\text{Anonymous Incoming Transfers} = 600 \times 38.4\% = 230.4\text{ Unidentified Payment Records}$$
-$$\text{Cumulative Bursar Hours Burned} = \frac{230.4 \times 15\text{ Minutes}}{60} = 57.6\text{ Staff Hours}$$
+$$Anonymous Incoming Transfers = 600 × 38.4% = 230.4 Unidentified Payment Records$$
+$$Cumulative Bursar Hours Burned = (230.4 × 15 Minutes) ÷ (60) = 57.6 Staff Hours$$
 
 That represents nearly **six full working days of senior financial talent** expended on routine transaction verification. 
 
 Furthermore, consider the lost working capital:
 
-$$\text{Uncollected Arrears Exposure} = (600 \times ₦450,000) \times 8.6\% = ₦23,220,000\text{ in Delinquent Cash Flow}$$
+$$Uncollected Arrears Exposure = (600 × ₦450,000) × 8.6% = ₦23,220,000 in Delinquent Cash Flow$$
 
 Carrying ₦23.2 million in uncollected receivables severely restricts school operational budgets, delaying teacher payroll and infrastructure development.
 

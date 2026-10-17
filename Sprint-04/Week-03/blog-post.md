@@ -35,15 +35,15 @@ If your physical store is not capturing digital customer intent, your showroom i
 
 Retail executives can measure the hidden financial destruction of uncaptured foot traffic using the **Showroom Churn Drag Equation**:
 
-$$\text{Annual Lost Showroom Pipeline} = \text{Monthly Visitors} \times \text{Unconverted Rate (94\%)} \times \text{Digital Churn (82.4\%)} \times \text{Average Order Value} \times 12$$
+$$Annual Lost Showroom Pipeline = Monthly Visitors × Unconverted Rate (94%) × Digital Churn (82.4%) × Average Order Value × 12$$
 
 ### Worked Example:
 Consider a luxury furniture and lighting showroom in Victoria Island receiving **500 qualified visitors per month**, with an **Average Order Value (AOV) of ₦450,000** and a **6% immediate on-site closing rate**:
 
-$$\text{Unconverted Monthly Visitors} = 500 \times 94\% = 470\text{ High-Intent Prospects}$$
-$$\text{Evaporated Prospects} = 470 \times 82.4\% = 387.3\text{ Lost Customer Relationships per Month}$$
-$$\text{Monthly Lost Pipeline Value} = 387.3 \times ₦450,000 = ₦174,285,000$$
-$$\text{Annualized Opportunity Loss} = ₦174,285,000 \times 12 = ₦2,091,420,000\text{ in Foregone Revenue}$$
+$$Unconverted Monthly Visitors = 500 × 94% = 470 High-Intent Prospects$$
+$$Evaporated Prospects = 470 × 82.4% = 387.3 Lost Customer Relationships per Month$$
+$$Monthly Lost Pipeline Value = 387.3 × ₦450,000 = ₦174,285,000$$
+$$Annualized Opportunity Loss = ₦174,285,000 × 12 = ₦2,091,420,000 in Foregone Revenue$$
 
 That represents over **₦2.09 billion in high-intent commercial demand** walking through your doors, testing your products, admiring your designs, and vanishing into thin air because you failed to provide a digital bridge.
 

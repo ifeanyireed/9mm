@@ -53,7 +53,7 @@ Private schools and unaccredited academies routinely forge paper quality assuran
 
 To quantify the treasury waste and regulatory loss inflicted by manual inspection workflows, state finance and planning directors must calculate the **State Inspection Latency Cost (SILC)**:
 
-$$\text{Annual Inspection Deficit} = \text{Total Inspection Centers} \times (T_{\text{manual}} - T_{\text{digital}}) \times D_{\text{inspector}} + \text{Unresolved Regulatory Loss}$$
+$$Annual Inspection Deficit = Total Inspection Centers × (T_{manual} - T_{digital}) × D_{inspector} + Unresolved Regulatory Loss$$
 
 ### Worked State-Level Example:
 Consider a typical state government overseeing basic and secondary institutions:
@@ -65,8 +65,8 @@ Consider a typical state government overseeing basic and secondary institutions:
 * Annual unresolved regulatory loss (preventable building damage, ghost staff allowances, uncollected licensing penalties): **₦45,000,000**.
 
 ### Calculating Total Administrative Deficit:
-$$\text{Labor Latency Cost} = 450 \times 59 \times ₦28,000 = \mathbf{₦743,400,000}$$
-$$\text{Total Annual Deficit} = ₦743,400,000 + ₦45,000,000 = \mathbf{₦788,400,000\text{ in Preventable Inspection Waste}}$$
+$$Labor Latency Cost = 450 × 59 × ₦28,000 = **₦743,400,000**$$
+$$Total Annual Deficit = ₦743,400,000 + ₦45,000,000 = **₦788,400,000 in Preventable Inspection Waste**$$
 
 A state government loses over **₦788 Million annually** in administrative inertia, unaddressed school decay, and lost regulatory enforcement.
 
