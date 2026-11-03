@@ -144,4 +144,8 @@ usort($results, function($a, $b) {
     return ($a['streamOrder'] ?? 0) <=> ($b['streamOrder'] ?? 0);
 });
 
-echo json_encode($results, JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE);
+$json = json_encode($results, JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE);
+@file_put_contents(__DIR__ . '/content-data.json', $json);
+@file_put_contents(__DIR__ . '/content-data.js', "window.CONTENT_HUB_FILES = " . $json . ";\n");
+
+echo $json;

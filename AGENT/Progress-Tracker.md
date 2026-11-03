@@ -42,7 +42,7 @@ This document tracks content generation progress across the **9 Months and 36 We
 | **Week 1**: The Core Problem | TOFU (Foundation) | Why Instagram brands struggle to scale... | Are you losing viral sales in th... | Skit/Narration: The panic of goi... | Carousel: The true cost of 'DM f... | `[x] Delivered` | [`Sprint-01/Week-01/`](file:///Volumes/ReedBreedCC/9MM/Sprint-01/Week-01/) |
 | **Week 2**: The Core Vision | TOFU (Foundation) | One automated checkout system across W... | Unifying your social traffic. | Whiteboard: Routing 3 different ... | Diagram: The unified social chec... | `[x] Delivered` | [`Sprint-01/Week-02/`](file:///Volumes/ReedBreedCC/9mm/Sprint-01/Week-02/) |
 | **Week 3**: The Tangible Pains | MOFU (Authority) | 3 manual variant tracking bottlenecks ... | Still tracking colors and sizes ... | Screen recording: Fixing the var... | Infographic: 3 signs your varian... | `[x] Delivered` | [`Sprint-01/Week-03/`](file:///Volumes/ReedBreedCC/9mm/Sprint-01/Week-03/) |
-| **Week 4**: Authority / Process | MOFU (Authority) | Behind the scenes: how we design socia... | How we build for impulse buyers. | Founder Story: The architecture ... | Single Image: The anatomy of a h... | `[ ] Queued` | `Sprint-01/Week-04/` |
+| **Week 4**: Authority / Process | MOFU (Authority) | Behind the scenes: how we design socia... | How we build for impulse buyers. | Founder Story: The architecture ... | Single Image: The anatomy of a h... | `[x] Delivered` | [`Sprint-01/Week-04/`](file:///Volumes/ReedBreedCC/9mm/Sprint-01/Week-04/) |
 
 ### 📅 Month 2
 | Week # & Theme | Funnel Focus | Stream 1: Blog & SEO | Stream 2: HTML Email Blast | Stream 3: Video Script | Stream 4: Social & Carousel | Status | Folder / Deliverables |

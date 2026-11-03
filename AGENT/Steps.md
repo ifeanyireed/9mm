@@ -87,8 +87,8 @@ This document outlines the sequential steps required to generate the complete ma
 * **Action**: Build the structure for the `blog` topic in `CALENDAR_DATA`:
   - **Visual Asset Specification**: Define the Featured Image prompt using the required style:
     `VISUAL FOR BLOG FEATURED IMAGE: 3D Disney Pixar style animation. Netflix-grade cinematic lighting with screen glow on faces, UHD 8k, stylized technology.` featuring the sprint-appropriate character and setting.
-  - Research framing: Cite verified industry reports and sector data relevant to the sprint.
-  - Quantitative formula from `Skills.md` with realistic worked calculations.
+  - Research framing: Cite verified industry reports, regulatory announcements, and sector data relevant to the sprint (*BusinessDay*, *TechCabal*, *Nairametrics*, *NIBSS*, *World Bank*, *UBEC*, *NUC*, etc.).
+  - **Zero Calculations / Rich Educative Reporting**: Strictly no mathematical formulas, algebraic models, or worked math calculations. Instead, provide deep contextual reporting on real-world industry news, policy shifts, market trends, and operational case precedents.
   - 10 actionable, bookmarkable operational fixes.
   - Screen route mapping from `slugs.md`.
   - Comparison table: "Legacy Manual Method" vs "Designated Product Platform".
@@ -105,24 +105,24 @@ This document outlines the sequential steps required to generate the complete ma
 
 ## Phase 3: Responsive HTML Email Blast Production (Stream 2)
 
-### Step 3.1: Newsletter Curation, Real Imagery & Subject Matrix
-* **Action**: Formulate 3 subject line options (Pain, Curiosity, Metric) + preview text for the `email` topic in `CALENDAR_DATA`.
-* **Select News Items & Source Real Images**:
-  - Lead Cover Story: Timely industry analysis paired with a **real press/editorial image from the internet**.
-  - 3 Curated Sector News Briefs with real images, sources, and operator commentary.
-  - *"Growth Hack / Insight for the Week"*: Summarized extract of the blog post's quantitative formula.
+### Step 3.1: Newsletter Curation, Real News References, Correlated Images & Subject Matrix
+* **Action**: Formulate 3 subject line options (Pain, Curiosity, Operational/Compliance) + preview text for the `email` topic in `CALENDAR_DATA`.
+* **Select Real Industry News Stories, Attach Source Links & Grab Actual Article Images**:
+  - **Lead Cover Story**: Real, verifiable industry news report highly relevant to the sprint's sector, paired with the **actual image grabbed directly from that news article** (`og:image` / featured media), a **clickable link (`<a href="..." target="_blank">`) to the original news URL**, and *"► WHAT IT MEANS FOR OPERATORS"* commentary.
+  - **3 Curated Sector News Briefs**: 3 distinct, real industry news stories with their actual grabbed article images (100% correlated with each story), source attributions, clickable links to the real news URLs, and operator takeaways.
+  - **Latest Industry News Worthy of Note Spotlight (Replaces Calculation Section)**: Prominent callout container featuring a latest noteworthy news report in the appropriate industry, complete with its grabbed article image, summary, operational takeaway, and clickable link to the original news article (**strictly zero calculation formulas or worked math equations in email copies**).
 
 ### Step 3.2: HTML Newsletter Drafting
 * **Action**: Draft the complete edition of the newsletter in **clean, production-ready, responsive HTML with inline CSS**:
   - **Sprints 1–4**: *The Ofia Commerce Brief* template (`#2A6BE0` Signal Blue / `#EF8B3C` Ember) with `ofia_logo.svg` in header (44px square side-by-side with titles) and footer (22px inline beside "Ofia Enterprise Growth").
   - **Sprints 5–8**: *The ResultsPro Institutional Dispatch* template (`#1A48B6` Corporate Royal Blue / `#FE0B10` Signature Red) with `resultspro_logo.png` in header (44px square side-by-side with titles) and footer (22px inline beside "ResultsPro Educational Support").
   - **Typography**: `@font-face` import of `Dropa` (`Dropa-Regular.woff2`) as primary brand font.
-  - **Button Styling**: Strict **zero corner radius (`border-radius: 0px !important;`)** on all CTA buttons and elements.
-  - Structure: 600px max width card, publication header banner with logo side-by-side with titles, cover story with real image, 3 news item cards with real images, "Growth Hack for the Week" highlight container, and bulletproof CTA button.
+  - **Button Styling**: Strict **zero corner radius (`border-radius: 0px !important;`)** on all CTA buttons, cards, and images.
+  - Structure: 600px max width card, publication header banner with logo side-by-side with titles, cover story with grabbed article image and clickable news link, 3 news item cards with correlated grabbed article images and clickable news links, "Industry News Spotlight: Latest [Sector] News Worthy of Note" container (zero calculation/formula boxes), and bulletproof CTA button.
 * **Save Files**: `Sprint-[XX]/Week-[YY]/email-blast.html` and `Sprint-[XX]/Week-[YY]/email-blast.md`.
 
 ### Step 3.3: Quality Gate Verification
-* **Action**: Audit against the Email Gate (E-01 to E-08) in `Requirement.md`.
+* **Action**: Audit against the Email Gate (E-01 to E-12) in `Requirement.md`.
 
 ---
 
@@ -147,8 +147,11 @@ This document outlines the sequential steps required to generate the complete ma
 ### Step 5.1: Cross-Channel Message & CTA Consistency Audit
 * **Action**: Verify that all generated files share consistent terminology, quantitative data, product positioning, and active URLs.
 
-### Step 5.2: Update Progress-Tracker.md
+### Step 5.2: Synchronize Offline Cache in `index.html` & `contenthub.html`
+* **Action**: Whenever any deliverable in `Sprint-[XX]/Week-[YY]/` is created or modified, rebuild the `const INITIAL_FALLBACK_FILES = [...]` JSON array inside [`index.html`](file:///Volumes/ReedBreedCC/9mm/index.html) and [`contenthub.html`](file:///Volumes/ReedBreedCC/9mm/contenthub.html) from the disk files so local/offline browser previews immediately reflect the latest content.
+
+### Step 5.3: Update Progress-Tracker.md
 * **Action**: Record the sprint and week as completed in `Progress-Tracker.md`, log all generated file paths, and update screen route coverage.
 
-### Step 5.3: Packaging & Delivery
+### Step 5.4: Packaging & Delivery
 * **Action**: Present the deliverables with clickable markdown links to each generated asset file.

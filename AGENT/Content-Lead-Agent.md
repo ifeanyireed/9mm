@@ -63,6 +63,11 @@ When instructed to generate content for a specific sprint and week (e.g., Sprint
 * **Weekly Themes from `CALENDAR_DATA`**: Extract `week`, `focus`, `blog`, `email`, `video`, `graphic`.
 * **Lead Intelligence from 9MMP.html**: Query corresponding lead tables (e.g., `shop-instagram` for Sprint 1, `rp-group-b` for Sprint 5) to incorporate verified friction points and solution mappings.
 
+### 3.3 Zero Image Repetition & Blog Image Mandates
+* **Zero Image Repetition**: Across all emails and blog posts, no editorial/news image URL may be reused. Every single story, thumbnail, case study, and spotlight must feature a distinct, authentic, live Nigerian/African news photo.
+* **Minimum 3 Embedded Images per Blog Post**: Every `blog-post.md` must have at least 3 actively embedded images (`![Caption](URL)` or `<img referrerpolicy="no-referrer" ... />`) sourced from verified Nigerian news/media (hero + 2 contextual case studies/news items).
+* **Architecture Parity Across Weeks 1–10**: All weekly email deliverables (`email-blast.html` and `email-blast.md`) across all 8 sprints must match the exact comprehensive depth, visual structure, and section completeness established in Weeks 1–3 (including Masthead, Lead Story with pull-quote and operator takeaway, 3 Curated Briefs, Industry News Spotlight with 100% width photo, Primary CTA button, Product Spotlight with founding offer and author signature, and Light Executive Footer). Zero blind batch scripts; execute with file-by-file precision or dedicated subagents.
+
 ---
 
 ## 4. Specialist Sub-Agent Delegation Swarm
@@ -82,13 +87,13 @@ graph TD
 
 ### Specialist Mandates:
 * **Video Script Specialist**: Writes `video-script.md` using the two-track layout, pacing at ~140 WPM (~4:15 runtime), blending comedic drama skits with high-authority Talking Head breakdowns, and ending with the sprint's product pitch (Ofia Shop Manager for Sprint 1; SchoolHub for Sprint 5).
-* **Editorial Blog Specialist**: Writes `blog-post.md` (~1,500–2,000 words), incorporating quantitative formulas, research citations, 10 bookmarkable hacks, a comparison table, and a dedicated product CTA.
+* **Editorial Blog Specialist**: Writes `blog-post.md` (~1,500–2,000 words), incorporating rich real-world news reporting, recent regulatory/market events, and empirical citations (strictly zero calculations, mathematical formulas, or worked math equations), 10 bookmarkable hacks, a comparison table, and a dedicated product CTA.
   - *Featured Image Standard*: Must define and embed the featured image with: `VISUAL FOR BLOG FEATURED IMAGE: 3D Disney Pixar style animation. Netflix-grade cinematic lighting with screen glow on faces, UHD 8k, stylized technology.`
 * **Email Marketing Specialist**: Writes the email newsletter **in full responsive HTML with inline CSS** (`email-blast.html` and `email-blast.md`):
   - Brand-aligned newsletter template (*The Ofia Commerce Brief* for Sprints 1–4; *The ResultsPro Institutional Dispatch* for Sprints 5–8).
-  - 3 subject line options (Pain, Curiosity, Metric) + preview text.
-  - Embedded real images from the internet for the cover story and 3 news briefs.
-  - "Growth Hack for the Week" highlight container and bulletproof CTA button.
+  - 3 subject line options (Pain, Curiosity, Compliance/Operational) + preview text.
+  - Real, verifiable Nigerian/African industry news for the Cover Story, 3 Curated Industry News Briefs, and the **"Industry News Spotlight: Latest [Sector] News Worthy of Note"** section—each with the actual image grabbed directly from the news article (`og:image` / featured media, correlating 100% with the story) and a clickable link (`<a href="...">`) to the real news reference.
+  - **Strictly zero calculation sections, cost formulas, or worked math equations** in email copies (the Industry News Spotlight section replaces all calculation/Growth Hack formula boxes) + bulletproof CTA button (`border-radius: 0px`).
 * **Social Media Specialist**: Writes `social-media-carousel.md` covering LinkedIn (long/short/carousel/poll), X/Twitter (7-tweet thread + standalone), Facebook (small business/school admin story), and Meta (Instagram caption, 6-slide carousel, Threads post).
 * **QA Reviewer**: Enforces all checklist criteria in `Requirement.md`, including `BRD-01` (Brand Awareness), `EML-01` (HTML Email format), and `IMG-01` to `IMG-03` (Visual assets).
 
