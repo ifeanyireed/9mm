@@ -15,16 +15,18 @@
 
 ---
 
-![Hero: The Unified Learning-to-Hire Rail: Connecting Asynchronous Project Portfolios Directly to Corporate Recruiters](https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/10/21093151/216241_1792571511.webp&w=800&output=jpg)
+<div style="text-align: center; margin: 24px 0;">
+  <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/05/28103450/NOA-1.webp&w=800&output=jpg" alt="Federal Government pivots polytechnic curriculums to technical competencies and verified proof-of-work rails" referrerpolicy="no-referrer" style="max-width: 720px; width: 100%; height: auto; border-radius: 8px; border: 1px solid #E2E8F0; display: block; margin: 0 auto;" />
+  <p style="font-size: 13px; color: #64748B; margin-top: 8px; line-height: 1.5; font-style: italic;">Caption: Federal Government and institutional boards pivot to technical skills curriculum and verified competencies, replacing unverified paper credentials with empirical execution records. Source: Punch Nigeria / National Education Desk.</p>
+</div>
 
 ## Executive Summary: The Death of the PDF Completion Certificate
 
 In the global technology industry of 2026, the traditional educational credential has suffered complete credibility collapse.
 
-Over the past five years, the explosion of online learning platforms and AI coding assistants has flooded corporate talent acquisition teams with hundreds of thousands of virtually indistinguishable job applicants. Every week, corporate recruiters receive thousands of resumes decorated with identical digital completion certificates: *"Certified Full-Stack Engineer,"* *"Cloud Microservices Specialist,"* or *"Data Engineering Professional."*
+As documented in Punch Nigeria's coverage of technical curriculum reforms (featured photo above), the Federal Government and national regulatory boards are pivoting from paper diplomas to verified competencies. Yet in the software and technical training sector, the explosion of online learning platforms and AI coding assistants over the past five years has flooded corporate talent acquisition teams with hundreds of thousands of virtually indistinguishable job applicants. Every week, corporate recruiters receive thousands of resumes decorated with identical digital completion certificates: *"Certified Full-Stack Engineer,"* *"Cloud Microservices Specialist,"* or *"Data Engineering Professional."*
 
 Yet, when enterprise engineering managers invite certificate holders to complete a standard 60-minute technical screening or debug a live production service, **over 75% of applicants cannot write a basic unit test, explain database indexing, or handle an asynchronous exception.**
-
 
 Why? Because in an era where students can copy boilerplate code from Large Language Models or clone public repositories from YouTube tutorials, **a certificate is proof of attendance, not proof of competence.**
 
@@ -39,32 +41,24 @@ This master teardown reveals how **ResultsPro CoursesPRO** enables technical aca
 
 ---
 
-## The Economics of Employability: The Graduate Placement Velocity ($GPV$) Model
+## The Economics of Employability: The Graduate Placement Velocity (GPV) Model
 
-To evaluate the commercial connection between curriculum completion and corporate placement, ResultsPro learning systems engineers developed the **Graduate Placement Velocity ($GPV$)** and **Employer Acquisition Value ($EAV$)** frameworks.
+To evaluate the commercial connection between curriculum completion and corporate placement, ResultsPro learning systems engineers developed the **Graduate Placement Velocity (GPV)** and **Employer Acquisition Value (EAV)** frameworks.
 
 ### The Formal Mathematical Model
 
-
-```text
-\text{GPV} = \frac{N_{\text{placed}}}{N_{\text{grad}} \times \Delta t_{\text{months}}} = \frac{\sum_{i=1}^{N} \Psi_i \cdot \Omega_{\text{pow}}}{N_{\text{grad}} \times \Delta t_{\text{months}}}
-```
-
+`GPV = N_placed / (N_grad * Δt_months) = (Σ Ψ_i * Ω_pow) / (N_grad * Δt_months)`
 
 Where:
-* **$N_{\text{placed}}$**: Total graduates securing verified full-time or contract technical employment within the tracking window.
-* **$N_{\text{grad}}$**: Total certified cohort graduates.
-* **$\Delta t_{\text{months}}$**: Standardized placement observation horizon (typically 90 or 180 days post-graduation).
-* **$\Psi_i$**: Technical competency score evaluated across capstone modules.
-* **$\Omega_{\text{pow}}$**: The **Proof-of-Work Fidelity Multiplier** ($0.2$ for generic PDF certificates; $0.5$ for public GitHub repos; **$1.8$** for cryptographically verified ResultsPro dossiers).
+* **N_placed**: Total graduates securing verified full-time or contract technical employment within the tracking window.
+* **N_grad**: Total certified cohort graduates.
+* **Δt_months**: Standardized placement observation horizon (typically 90 or 180 days post-graduation).
+* **Ψ_i**: Technical competency score evaluated across capstone modules.
+* **Ω_pow**: The **Proof-of-Work Fidelity Multiplier** (0.2 for generic PDF certificates; 0.5 for public GitHub repos; **1.8** for cryptographically verified ResultsPro dossiers).
 
+`EAV = (N_placed * B_corporate) + Σ ΔR_tuition-retained`
 
-```text
-\text{EAV} = N_{\text{placed}} \times B_{\text{corporate}} + \sum \Delta R_{\text{tuition-retained}}
-```
-
-
-Where $B_{\text{corporate}}$ represents the placement success fee paid by enterprise hiring partners (benchmarked between ₦450,000 and ₦1,200,000 per placed engineer).
+Where B_corporate represents the placement success fee paid by enterprise hiring partners (benchmarked between ₦450,000 and ₦1,200,000 per placed engineer).
 
 ---
 
@@ -187,15 +181,17 @@ Analyze the search queries executed by corporate hiring leads inside your Result
 
 ## 4-Stage Implementation Roadmap: Launching Your Learning-to-Hire Rail
 
-
 ### Phase 1: Capstone Rigor Audit (Weeks 1–2)
 
-![Figure 1: Verified Field Operations and Market Analytics](https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/10/21203502/Jollof-Rice_1792611302.webp&w=800&output=jpg)
-*Figure 1: Field investigations and empirical metrics. Source: Punch Nigeria / National Regulatory Data.*
+As illustrated in Figure 1 below, modern technical academies are abandoning static paper resumes in favor of verified digital telemetry that provides corporate hiring partners with irrefutable proof of candidate capability.
 
+<div style="text-align: center; margin: 24px 0;">
+  <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/10/12172704/Bodija_1791822424.webp&w=800&output=jpg" alt="Digital technology and verified telemetry replacing legacy manual credentials" referrerpolicy="no-referrer" style="max-width: 720px; width: 100%; height: auto; border-radius: 8px; border: 1px solid #E2E8F0; display: block; margin: 0 auto;" />
+  <p style="font-size: 13px; color: #64748B; margin-top: 8px; line-height: 1.5; font-style: italic;">Caption: Figure 1: Digital technology and verified execution telemetry replace legacy manual credentials across professional networks, giving enterprise recruiters real-time proof of candidate competency. Source: Punch Nigeria.</p>
+</div>
 
 * Review existing final project requirements to ensure they reflect enterprise production architectures (Docker, relational DBs, CI/CD, unit testing).
-* Configure standard automated test harnesses and minimum code coverage thresholds ($85\%+$) across all tracks.
+* Configure standard automated test harnesses and minimum code coverage thresholds (85%+) across all tracks.
 
 ### Phase 2: Proof-of-Work Dossier Pipeline Activation (Weeks 3–4)
 * Connect the ResultsPro CoursesPRO autograder cluster to generate automated candidate dossiers upon milestone completion.
@@ -207,9 +203,12 @@ Analyze the search queries executed by corporate hiring leads inside your Result
 
 ### Phase 4: Commercial Placement Monetization (Weeks 7+)
 
-![Figure 2: Workflow Automation & Infrastructure Teardown](https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/10/21205608/PLATEAU_1792612568.webp&w=800&output=jpg)
-*Figure 2: Systems deployment and automated audit trails. Source: Punch Nigeria / Industry Monitor.*
+As demonstrated in Figure 2 below, graduates with verified, containerized portfolios experience dramatic surges in placement velocity, eliminating take-home screening drops and securing direct offers from top-tier employers.
 
+<div style="text-align: center; margin: 24px 0;">
+  <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/10/02202521/Screenshot-2026-10-02-202455_1790969121.webp&w=800&output=jpg" alt="Top tech graduates leverage iterative project execution and verified code telemetry" referrerpolicy="no-referrer" style="max-width: 720px; width: 100%; height: auto; border-radius: 8px; border: 1px solid #E2E8F0; display: block; margin: 0 auto;" />
+  <p style="font-size: 13px; color: #64748B; margin-top: 8px; line-height: 1.5; font-style: italic;">Caption: Figure 2: Top technology graduates leverage iterative project execution and verified code telemetry to bypass manual screening and secure top-tier placements. Source: Punch Nigeria.</p>
+</div>
 
 * Formalize corporate placement agreements and bounty structures for successful graduate hires.
 * Launch asynchronous quarterly hiring showcases connecting top graduates with international enterprise employers.

@@ -27,9 +27,14 @@ By eliminating predatory commissions, automating multi-party split-payout escrow
 
 This master blueprint synthesizes the complete 10-pillar architecture required to launch, operate, and scale a sovereign vertical marketplace.
 
----
+<div style="text-align: center; margin: 24px 0;">
+  <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/05/18062138/21a2c9b5-80aa-40c8-bf11-29b941637715.jpeg&w=800&output=jpg" alt="Featured Investigation: Emerging technological talent and digital economy innovators" referrerpolicy="no-referrer" style="max-width: 720px; width: 100%; height: auto; border-radius: 8px; border: 1px solid #E2E8F0; display: block; margin: 0 auto;" />
+  <p style="font-size: 13px; color: #64748B; margin-top: 8px; line-height: 1.5; font-style: italic;">
+    Featured Investigation: Inside digital innovation hubs and next-generation technical talent. As showcased in national technology awards (featured photo above), youth-led digital engineering initiatives demonstrate that decentralized platforms and sovereign software rails empower local communities to scale beyond legacy gatekeepers. Source: Punch Nigeria / Industry Monitor.
+  </p>
+</div>
 
-![Hero: The Sovereign Marketplace: Building a ₦200M/Month Vertical Marketplace Ecosystem on Ofia Rails (The Master Blueprint)](https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/04/27010723/Taiwo-Oyedele.jpg&w=800&output=jpg)
+---
 
 ## 🎨 3D Visual Concept (Midjourney / Pixar Style Prompt)
 
@@ -39,10 +44,14 @@ This master blueprint synthesizes the complete 10-pillar architecture required t
 
 ## Digital Marketplace Evolution, Cooperative Commerce News & Sector Citations
 
-The emergence of sovereign digital marketplaces managed by commercial hubs and industry federations represents the next frontier of African e-commerce:
+The emergence of sovereign digital marketplaces managed by commercial hubs and industry federations represents the next frontier of African e-commerce. As illustrated in Figure 1 below, national and continental trade frameworks such as AfCFTA are accelerating the transition toward open, interconnected digital trade rails.
 
-![Figure 1: Verified Field Operations and Market Analytics](https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/04/28011656/download.png&w=800&output=jpg)
-*Figure 1: Field investigations and empirical metrics. Source: Punch Nigeria / National Regulatory Data.*
+<div style="text-align: center; margin: 24px 0;">
+  <img src="https://wsrv.nl/?url=https://punchng.com/wp-content/uploads/2026/06/Oduwole.webp&w=800&output=jpg" alt="Figure 1: Operational Field Analysis — Nigeria and AfCFTA drive continental digital trade" referrerpolicy="no-referrer" style="max-width: 720px; width: 100%; height: auto; border-radius: 8px; border: 1px solid #E2E8F0; display: block; margin: 0 auto;" />
+  <p style="font-size: 13px; color: #64748B; margin-top: 8px; line-height: 1.5; font-style: italic;">
+    Figure 1: Operational Field Analysis — Trade and investment leadership advance continental digital commerce standards under AfCFTA. Sovereign vertical marketplaces empower domestic merchants to engage in direct cross-border trade without extractive platform intermediaries. Source: Punch Nigeria.
+  </p>
+</div>
 
 * **The Decentralization of Digital Trade**: An extensive macroeconomic report by the *African Development Bank (AfDB)* and *TechCabal* documents that traditional extractive e-commerce platforms are losing market share to decentralized vertical marketplaces operated directly by commercial trade associations and cooperative retail networks.
 * **Value Capture by Local Trade Federations**: Findings from the *Lagos Chamber of Commerce and Industry (LCCI)* indicate that when physical commercial trade hubs (such as computer villages, textile markets, and pharmaceutical distributors) digitize their own collective catalogs, **100% of marketplace transactional fees remain within the local trading community** (*BusinessDay*).
@@ -74,10 +83,14 @@ Eliminate the #1 driver of marketplace cart abandonment. Present the consumer wi
 Never treat merchant customer relationships as captive platform property. Both the marketplace operator and the individual merchants retain full visibility over customer contact details, order histories, and preferences, unlocking direct remarketing and brand equity building.
 
 ### 7. Unboxing QR Automated Ingestion Funnels
-Capitalize on the 100% open rate of physical packages. Include dynamic gold-foiled warranty cards offering instant store credits inside every shipment, converting 24% of marketplace shoppers into verified first-party WhatsApp CRM profiles.
+Capitalize on the 100% open rate of physical packages. Include dynamic gold-foiled warranty cards offering instant store credits inside every shipment, converting 24% of marketplace shoppers into verified first-party WhatsApp CRM profiles. As illustrated in Figure 2 below, enterprise technology integrations with national electronic invoicing and ledger verification standards reinforce commercial transparency across digital retail channels.
 
-![Figure 2: Workflow Automation & Infrastructure Teardown](https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/04/28011920/Playtech-Page-Thumbnail.jpg&w=800&output=jpg)
-*Figure 2: Systems deployment and automated audit trails. Source: Punch Nigeria / Industry Monitor.*
+<div style="text-align: center; margin: 24px 0;">
+  <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/05/18050840/IMG_2908.jpeg&w=800&output=jpg" alt="Figure 2: Systems Architecture & Audit Trail — Federal government and Upperlink e-invoicing integration" referrerpolicy="no-referrer" style="max-width: 720px; width: 100%; height: auto; border-radius: 8px; border: 1px solid #E2E8F0; display: block; margin: 0 auto;" />
+  <p style="font-size: 13px; color: #64748B; margin-top: 8px; line-height: 1.5; font-style: italic;">
+    Figure 2: Systems Architecture & Institutional Alignment — Public-private technical partnerships deploy standardized electronic invoicing and transactional verification rails. Connecting sovereign marketplaces to compliant e-invoicing pipelines guarantees transparent tax reporting and dispute-free merchant settlements. Source: Punch Nigeria.
+  </p>
+</div>
 
 ### 8. 1-Click Native Social & WhatsApp Replenishment
 Automate repeat consumption. The CRM calculates exact SKU depletion cadences, delivering personalized WhatsApp replenishment reminders 3 days before product exhaustion with pre-filled 1-click checkouts.

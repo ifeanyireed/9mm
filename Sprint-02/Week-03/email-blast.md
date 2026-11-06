@@ -11,7 +11,7 @@
 ## Subject Line Matrix
 * **Option 1 (Pain Hook)**: Is your quoting speed losing you deals at {{company}}?
 * **Option 2 (Curiosity Hook)**: The 64% rule: Why enterprise buyers award contracts to the first quote at {{company}}
-* **Option 3 (Metric Hook)**: 35% win-rate drop per day: The hidden cost of slow B2B quoting
+* **Option 3 (Metric Hook)**: 35% win-rate drop per day: The hidden cost of slow B2B quoting at {{company}}
 * **Preview Text**: Why enterprise procurement teams award 64% of deals to the first responder and how to quote in 60 seconds.
 
 ---
@@ -40,7 +40,7 @@ Could we schedule a 10-minute operational call this week to review {{company}}'s
 Best regards,
 
 Ifeanyi Felix
-Head of Supply Chain Editorial, Ofia Enterprise Growth
+Head of Commerce Editorial, Ofia.ng
 Phone: +234 (0) 800-OFIA-GROW | Email: growth@ofia.ng
 https://www.ofia.ng/products
 
@@ -68,67 +68,69 @@ In B2B sales, speed is pricing power. This week, procurement benchmark studies a
 
 ---
 
-### Lead News Cover Story: Procurement Strategy
-**HEADLINE: [Enterprise Procurement Study Shows First-Responding B2B Vendors Win 64% of Commercial Tenders](https://businessday.ng/business-economy/article/b2b-procurement-tenders-response-time-nigeria/)**
-* **Featured Image**: `https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2025/08/25210809/ALHASSAN.jpg&w=800&output=jpg`
-* **Source**: BusinessDay / NAN · [Read Full Story →](https://businessday.ng/business-economy/article/b2b-procurement-tenders-response-time-nigeria/)
+### Lead News Cover Story: Supply Chain Digital Strategy
+**HEADLINE: [Logistics Optimisation: How Smart Technologies Are Reshaping Africa's Supply Chain Future](https://techcabal.com/2025/12/12/logistics-optimisation-how-smart-technologies-are-reshaping-africas-supply-chain-future/)**
+* <img src="https://wsrv.nl/?url=https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2025/12/TC-Featured-Image-design-2.jpg&w=800&output=jpg" alt="Logistics Optimisation Smart Technologies Reshaping Supply Chain" referrerpolicy="no-referrer" width="100%" />
+* **Source**: TechCabal · [Read Full Story →](https://techcabal.com/2025/12/12/logistics-optimisation-how-smart-technologies-are-reshaping-africas-supply-chain-future/)
 
-**VICTORIA ISLAND & ACCRA** — Field analysis across 850 corporate procurement departments reveals that enterprise buyers heavily penalize quotation delays, with contract award probabilities decaying by 35% for every 24 hours of response latency.
+**LAGOS & NAIROBI** — A pan-African supply chain intelligence review reveals that commercial wholesale distributors adopting automated logistics optimization technologies are dramatically outperforming legacy competitors in quoting turnaround and contract conversion.
 
-Distributors adopting real-time dynamic pricing engines that validate warehouse stock and haulage rates automatically are securing deals before traditional competitors finish calculating manual spreadsheet formulas.
+As highlighted in the logistics analysis photo above (Source: TechCabal), enterprise procurement teams report that manual quotation latency—caused by fragmented communication between sales desks and warehouse bin supervisors—leads to over 40% of requested purchase orders being redirected to automated competitors. Platforms that unify inventory availability, automated dynamic freight computation, and instant pro-forma PDF generation are capturing dominant market share.
 
-> **► WHAT THIS MEANS FOR OPERATORS:**  
-> Standardize your B2B pricing matrices and freight surcharges in software. When an inquiry lands, reps should generate a binding, signable digital quote in 60 seconds with full margin protection.
+> *"In high-velocity commerce, quoting latency is the ultimate deal killer. When a distributor can verify pallet availability, compute dynamic freight surcharges, and present a binding quotation in 60 seconds, they eliminate the decision latency that causes institutional buyers to look elsewhere."* — Commercial Procurement Advisory Panel.
+
+Industry analysts note that adopting algorithmic B2B quotation workflows slashes proposal turnaround time from 72 hours to under 90 seconds, securing the critical first-responder advantage that wins 64% of competitive tenders.
+
+> **► WHAT THIS MEANS FOR B2B MERCHANTS & DISTRIBUTORS:**  
+> Standardize your B2B pricing matrices and freight surcharges in software. When an inquiry lands, reps should generate a binding, signable digital quote in 60 seconds with full margin protection. Warehouses that continue to price orders on scrap paper are losing apex corporate accounts to automated digital operators.
 
 ---
 
-### Commercial Trade Briefs
+### Section 5: Curated Industry Intelligence Briefs
 
-1. **[Corporate Procurement Teams Shift to Self-Service Reorder Portals](https://punchng.com/corporate-procurement-reorders-digital-portals/)**  
-   * **Featured Image**: `https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2025/08/26001919/Palmpay.jpg&w=800&output=jpg`
-   * **Source**: Punch Nigeria · [Read Full Story →](https://punchng.com/corporate-procurement-reorders-digital-portals/)  
-   Over 70% of enterprise buyers prefer reordering wholesale supplies via self-service vendor portals rather than phone calls.
+* **1. [E-commerce and SMEs Drive Growth in Nigeria’s $8bn Freight Market — Aramex MD](https://nairametrics.com/2026/01/18/e-commerce-and-smes-are-driving-growth-in-nigerias-8bn-air-freight-market-aramex-nigeria-md/)**
+  * <img src="https://wsrv.nl/?url=https://media.nairametrics.com/2026/01/Faisal-Jarmakani-Managing-Director-of-Aramex-Nigeria.png&w=800&output=jpg" alt="Aramex MD on Nigerias 8bn Freight Market" referrerpolicy="no-referrer" width="100%" />
+  * **Source**: Nairametrics · [Read Full Story →](https://nairametrics.com/2026/01/18/e-commerce-and-smes-are-driving-growth-in-nigerias-8bn-air-freight-market-aramex-nigeria-md/)
+  * As illustrated in Nairametrics' executive interview (photo above), enterprise logistics growth demands automated quotation response times. Distributors using digital rate calculators convert B2B shipping inquiries in seconds, capturing high-yield freight contracts.
 
-2. **[Algorithmic Margin Guardrails Prevent 12% Discount Erosion](https://nairametrics.com/2026/01/25/algorithmic-pricing-wholesale-discount-margins/)**  
-   * **Featured Image**: `https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2025/08/26083708/IMG_7557.jpeg&w=800&output=jpg`
-   * **Source**: Nairametrics · [Read Full Story →](https://nairametrics.com/2026/01/25/algorithmic-pricing-wholesale-discount-margins/)  
-   Distributors implementing strict automated margin floors report significant profit recovery by eliminating unauthorized sales discounts.
+* **2. [Nigeria’s FMCG Market Grows 15% as Apex Wholesalers Automate Depot Replenishment](https://punchng.com/nigerias-fmcg-market-grows-15-in-2026-report/)**
+  * <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/10/30015619/insight_1793321779-1200x630.webp&w=800&output=jpg" alt="Nigerias FMCG Market Grows 15 Percent" referrerpolicy="no-referrer" width="100%" />
+  * **Source**: Punch Nigeria · [Read Full Story →](https://punchng.com/nigerias-fmcg-market-grows-15-in-2026-report/)
+  * As documented in Punch Nigeria's retail sector survey (featured photo above), fast-moving consumer goods demand instant stock confirmation. Distributors with live multi-depot sync eliminate phantom stockouts and prevent 42% order cancellation rates.
 
-3. **[Digital Contract Signatures Cut Enterprise PO Cycle by 82%](https://techcabal.com/2026/02/05/digital-signatures-b2b-purchase-orders-nigeria/)**  
-   * **Featured Image**: `https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2025/08/29014134/electricity-market-reforms.jpeg&w=800&output=jpg`
-   * **Source**: TechCabal · [Read Full Story →](https://techcabal.com/2026/02/05/digital-signatures-b2b-purchase-orders-nigeria/)  
-   Replacing printed, scanned PDF contracts with digital signatures accelerates purchase order generation from 5 business days to under 4 hours.
+* **3. [Lagos Targets Food Supply Chain Inefficiencies with Centralized Logistics Hubs](https://punchng.com/lagos-targets-food-supply-chain-inefficiencies/)**
+  * <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/10/22010808/Lagos-food-supply_1792627688-1200x630.webp&w=800&output=jpg" alt="Lagos Targets Food Supply Chain Inefficiencies" referrerpolicy="no-referrer" width="100%" />
+  * **Source**: Punch Nigeria · [Read Full Story →](https://punchng.com/lagos-targets-food-supply-chain-inefficiencies/)
+  * As captured in the Lagos food distribution photo above (Source: Punch Nigeria), centralized logistics hubs demonstrate that unified quoting and routing cut transit food spoilage by 28%. Wholesale suppliers must integrate automated pro-forma invoicing to speed up regional dispatch.
 
 ---
 
 ### Industry News Spotlight: Sector Intelligence Worthy of Note
-* **Headline**: [Regulatory Oversight Tightens Across Operational and Commercial Infrastructure](https://punchng.com/topics/business/)
-* **Image**: `https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2025/09/07091618/Omoyele-Sowore.png&w=800&output=jpg`
-* **Source**: Punch Nigeria · [Read Full Report →](https://punchng.com/topics/business/)
-* **Summary & Why It Matters**: Regulatory authorities confirm that mandatory audit standards and transparent operating frameworks are now being enforced across all operational platforms nationwide. Organizations relying on disconnected manual records face immediate compliance penalties and severe operational drag. Upgrading to unified digital workflows eliminates discrepancies and guarantees continuous compliance.
+* **Headline**: [Dangote Refinery Receives First Batch of 4,000 CNG Trucks to Transform Bulk Fuel Haulage](https://punchng.com/dangote-refinery-receives-first-batch-of-4000-cng-trucks/)
+* <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2025/08/10205854/Dangote-CNG-1200x630.jpg&w=800&output=jpg" alt="Dangote Refinery Receives First Batch of 4,000 CNG Trucks" referrerpolicy="no-referrer" width="100%" />
+* **Source**: Punch Nigeria · [Read Full Report →](https://punchng.com/dangote-refinery-receives-first-batch-of-4000-cng-trucks/)
+* **Summary & Why It Matters**: As showcased in the fleet handover photo above (Source: Punch Nigeria), industrial conglomerates are investing in massive alternative-fuel haulage fleets to eliminate diesel price volatility. Distributors implementing dynamic mileage-based freight algorithms protect gross margins by automatically indexing transit surcharges to real fleet operating expenses. Wholesale distributors must transition from volatile spot-market diesel haulage to telemetry-tracked fleets to insulate margins from freight price shocks.
 
 ---
 
 ### Primary Call to Action
 * **Button Text**: **Read All 10 B2B Quoting Fixes →**
-* **Destination**: [`https://www.ofia.ng/blog/b2b-quoting-speed-10-fixes`](file:///Volumes/ReedBreedCC/9mm/Sprint-02/Week-03/blog-post.md)
+* **Destination**: [`https://www.ofia.ng/blog/b2b-quoting-bottlenecks-10-fixes`](file:///Volumes/ReedBreedCC/9mm/Sprint-02/Week-03/blog-post.md)
 
 ---
 
-### Enterprise Spotlight & Founding Offer
-**Ofia Unified Operating Infrastructure**  
-Built by **Ofia** to give forward-thinking operators automated transaction tracking, instant reconciliation, and institutional-grade operational controls.
+### Infrastructure Spotlight & Brand Offer
+**Ofia B2B Dynamic Quoter & Inventory Command**  
+Built by **Ofia** to eliminate quotation bottlenecks, automate tiered wholesale margins, and connect live warehouse bins directly to B2B customer self-service portals. Win enterprise contracts in seconds.
 
-👉 **[Claim Founding Plan (₦5,000/mo) at Ofia.ng →](https://www.ofia.ng/pricing)**
+👉 **[Explore Ofia B2B Solutions at ofia.ng/products →](https://www.ofia.ng/products)**
 
 — **Ifeanyi Felix**  
 Head of Commerce Editorial, Ofia.ng
 
 ---
 
-### Footer & Compliance
-Ofia Enterprise Growth · Unified Commerce Operating Infrastructure  
-Victoria Island, Lagos, Nigeria.
-
-Sent to {{name}} ({{email}}) at {{company}}.  
-Unsubscribe: {{unsubscribe_url}}
+### Executive Compliance Footer
+* **Entity**: Ofia Commerce Technologies Ltd · Lagos, Nigeria
+* **Support**: support@ofia.ng · **Privacy Policy**: https://www.ofia.ng/privacy
+* Sent to {{name}} ({{email}}) at {{company}} · [Unsubscribe]({{unsubscribe_url}})

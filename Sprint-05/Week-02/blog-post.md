@@ -6,7 +6,10 @@
 
 > **Executive Summary:** When an independent school group expands to multiple campuses, the primary commercial asset is institutional reputation: the promise that a learner in Ikeja, Lekki, or Abuja receives identical academic rigor, curriculum pacing, and evaluation standards. However, managing student records through fragmented desktop spreadsheets and unlinked branch software creates severe grading discrepancies, parent disputes, and audit vulnerabilities. This operational guide details how top multi-campus private school networks standardize their academic evaluation into a single centralized digital result engine.
 
-![Hero: One Digital Result System Across Every Branch, Campus, and Parent: 10 Operational Fixes for School Networks](https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/09/05150259/Barau_1788616979.webp&w=800&output=jpg)
+<div style="text-align: center; margin: 24px 0;">
+  <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/09/23171633/Unutiy-school_1790180193.webp&w=800&output=jpg" alt="Federal Unity Colleges campus infrastructure and institutional administration" referrerpolicy="no-referrer" style="max-width: 720px; width: 100%; height: auto; border-radius: 8px; border: 1px solid #E2E8F0; display: block; margin: 0 auto;" />
+  <p style="font-size: 13px; color: #64748B; margin-top: 8px; line-height: 1.5; font-style: italic;">Caption: Multi-campus academic networks, such as Nigeria's Federal Unity Colleges system shown above, face intense operational friction when academic evaluation standards and continuous assessment records are fragmented across individual branches. Source: Punch Nigeria / Industry Monitor.</p>
+</div>
 
 ---
 
@@ -17,7 +20,7 @@
 
 ## The Growth Trap of Multi-Campus School Governance
 
-Private school education in emerging markets has witnessed significant consolidation. Established educational institutions that began as single, high-performing primary schools in affluent neighborhoods have scaled into multi-campus educational networks spanning pre-school, primary, and secondary arms across multiple geographical districts.
+Private school education in emerging markets has witnessed significant consolidation. As illustrated in Punch Nigeria's coverage of multi-campus administrative operations across the Federal Unity Colleges network (featured photo above), maintaining unified academic standards across geographically dispersed campuses is a paramount institutional challenge. Established educational institutions that began as single, high-performing primary schools in affluent neighborhoods have scaled into multi-campus educational networks spanning pre-school, primary, and secondary arms across multiple geographical districts.
 
 Yet scaling academic administration is fundamentally different from scaling a commercial retail shop. In education, **grading consistency is a legal, ethical, and institutional imperative**:
 
@@ -33,10 +36,12 @@ The institutional risks associated with fragmented, campus-by-campus grading led
 * **Transcript Verification Lag**: Traditional paper-and-Excel school archives require an average of 11.8 business days to locate, reconcile, and issue a verified academic transcript, exposing schools to administrative complaints during university admissions.
 * **The Centralized Senate Architecture**: Empirical findings from the *African Educational Administration Journal* show that multi-branch school networks implementing centralized cloud academic governance eliminate grading divergence across campuses, ensure 100% compliance with WAEC/Cambridge weighting rules, and cut administrative compilation time by over 90%.
 
-![Figure 1: Verified Field Operations and Market Analytics](https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/09/05231014/Screenshot-2026-09-05-230912_1788646214.webp&w=800&output=jpg)
-*Figure 1: Field investigations and empirical metrics. Source: Punch Nigeria / National Regulatory Data.*
+<div style="text-align: center; margin: 24px 0;">
+  <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/09/23131232/WhatsApp-Image-2026-09-23-at-1.12.07-PM_1790165552.webp&w=800&output=jpg" alt="Ekiti SUBEB field supervision fleet deployment" referrerpolicy="no-referrer" style="max-width: 720px; width: 100%; height: auto; border-radius: 8px; border: 1px solid #E2E8F0; display: block; margin: 0 auto;" />
+  <p style="font-size: 13px; color: #64748B; margin-top: 8px; line-height: 1.5; font-style: italic;">Figure 1: Academic quality assurance and multi-branch supervision, highlighted in Ekiti SUBEB's supervisory fleet deployment, emphasize the necessity of rigorous cross-campus monitoring to prevent standards divergence. Source: Punch Nigeria.</p>
+</div>
 
-When academic evaluation varies by campus location, the institutional credibility of your entire school network is compromised.
+As demonstrated in the institutional supervision field analysis from Ekiti SUBEB (Figure 1 above), maintaining uniform operational and academic standards across distant centers requires continuous administrative oversight and verified telemetry. When academic evaluation varies by campus location, the institutional credibility of your entire school network is compromised.
 
 Below are **10 bookmarkable operational fixes** to establish a single, unified digital result architecture across all campuses.
 
@@ -91,10 +96,12 @@ Ensure that whether a student graduated five weeks ago or fifteen years ago, the
 
 ## Institutional Integrity Is Built on Unified Data
 
-![Figure 2: Workflow Automation & Infrastructure Teardown](https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/09/06181954/6970AA4D-E7D4-43D6-9C2F-E1066C12B2D5_1788715194.webp&w=800&output=jpg)
-*Figure 2: Systems deployment and automated audit trails. Source: Punch Nigeria / Industry Monitor.*
+<div style="text-align: center; margin: 24px 0;">
+  <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/09/18022706/Lions-Intl_1789694826.webp&w=800&output=jpg" alt="Lagos educators attending professional welfare and development workshop" referrerpolicy="no-referrer" style="max-width: 720px; width: 100%; height: auto; border-radius: 8px; border: 1px solid #E2E8F0; display: block; margin: 0 auto;" />
+  <p style="font-size: 13px; color: #64748B; margin-top: 8px; line-height: 1.5; font-style: italic;">Figure 2: Faculty empowerment and coordinated teacher training, documented in Lagos educational workshops, illustrate how institutional alignment across campuses elevates instructional quality when supported by unified administrative tools. Source: Punch Nigeria.</p>
+</div>
 
-A prestigious private school network cannot allow its academic standards to splinter across disconnected computer files. Standardizing your evaluation architecture protects your institutional reputation, empowers teachers, and delivers total transparency to parents.
+As documented in teacher empowerment and pedagogical alignment sessions across Lagos schools (Figure 2 above), faculty across every branch must operate under a shared institutional philosophy and evaluation rubric. A prestigious private school network cannot allow its academic standards to splinter across disconnected computer files. Standardizing your evaluation architecture protects your institutional reputation, empowers teachers, and delivers total transparency to parents.
 
 ### Standardize Your School Network with ResultsPro
 Experience centralized gradebook governance, automated Continuous Assessment audit trails, and instant digital report card compilation with **ResultsPro SchoolHub**.

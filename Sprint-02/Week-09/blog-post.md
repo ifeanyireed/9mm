@@ -24,11 +24,14 @@ It did not vanish into raw materials, nor was it stolen from the warehouse. It l
 2. **Delayed Haulier Surcharges**: Third-party trucking syndicates submitting paper invoices for diesel spikes, interstate transit levies, and bridge tolls 30 days after customer invoices have already been closed and paid.
 3. **Unbilled Customer Demurrage**: Heavy trailers held for 48 to 72 hours outside supermarket receiving docks, with the distributor footing the carrier’s detention penalty because sales teams are reluctant to "damage client relationships" by invoicing demurrage.
 
-This comprehensive guide details the mathematical mechanics of unallocated logistics drag and outlines a 10-step protocol to deploy automated real-time freight cost accounting and daily ledger balancing.
+This comprehensive guide details the mathematical mechanics of unallocated logistics drag and outlines a 10-step protocol to deploy automated real-time freight cost accounting and daily ledger balancing. As documented in Punch Nigeria's industrial cost investigation (featured photo below), rising haulage tariffs and unallocated transit surcharges are surging across commercial routes, silently devouring distributor margins.
 
 ---
 
-![Hero: The Haulage Leak: Plugging Multi-Warehouse Freight & Demurrage Discrepancies (Why Unallocated Logistics Costs Bleed B2B Net Margins)](https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2025/12/18214651/fake-medical-products.jpg&w=800&output=jpg)
+<div style="text-align: center; margin: 24px 0;">
+  <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2025/12/08202610/G6hmCheWYAAS4nS.jpeg&w=800&output=jpg" alt="Manufacturers Costs and Haulage Tariffs Surge" referrerpolicy="no-referrer" style="max-width: 720px; width: 100%; height: auto; border-radius: 8px; border: 1px solid #E2E8F0; display: block; margin: 0 auto;" />
+  <p style="font-size: 13px; color: #64748B; margin-top: 8px; line-height: 1.5; font-style: italic;">Caption: Rising industrial haulage tariffs and operating costs surge across Nigerian supply corridors, illustrating how unallocated logistics costs drain enterprise net margins. Source: Punch Nigeria.</p>
+</div>
 
 ## 🎨 3D Visual Concept (Midjourney / Pixar Style Prompt)
 
@@ -45,8 +48,12 @@ The systemic failure to accurately bill and reconcile freight surcharges is one 
 * **Billing Discrepancies on Waybills**: Investigations by *BusinessDay Commercial Logistics* revealed that **nearly 18% of long-distance delivery waybills have unbilled transit fees** due to manual entry oversights where dispatch clerks fail to attach dynamic route surcharges to customer invoices.
 * **Automated Dynamic Freight Rating**: Field trials published by *Stears Intelligence* reveal that distributors adopting algorithmic route-distance pricing engines with automated fuel index surcharges eliminate freight absorption entirely, restoring **3.8% to 5.4% of gross operating margins**.
 
-![Figure 1: Verified Field Operations and Market Analytics](https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2025/12/19022704/Chrisland-Schools.jpeg&w=800&output=jpg)
-*Figure 1: Field investigations and empirical metrics. Source: Punch Nigeria / National Regulatory Data.*
+As demonstrated in BusinessDay's maritime logistics review (Figure 1 below), prolonged holding delays and trapped delivery cargoes compound detention and demurrage liabilities that erode distributor cash flow unless actively monitored.
+
+<div style="text-align: center; margin: 24px 0;">
+  <img src="https://wsrv.nl/?url=https://cdn.businessday.ng/2019/09/import-cargoes.jpg&w=800&output=jpg" alt="Trapped Cargoes and Holding Delays Escalate Demurrage" referrerpolicy="no-referrer" style="max-width: 720px; width: 100%; height: auto; border-radius: 8px; border: 1px solid #E2E8F0; display: block; margin: 0 auto;" />
+  <p style="font-size: 13px; color: #64748B; margin-top: 8px; line-height: 1.5; font-style: italic;">Caption: Operational Field Analysis — Trapped cargo manifests and extended holding delays create compounding demurrage liabilities across distribution networks. Source: BusinessDay.</p>
+</div>
 
 Below are **10 operational fixes** to plug freight absorption leakage and ensure full cost recovery across all haulage dispatches.
 
@@ -75,8 +82,12 @@ Avoid all-inclusive delivered pricing that obscures shipping costs. Present whol
 ### 7. Require Cryptographic Mobile Pre-Approval for Transit Tolls
 Never reimburse unverified cash expense receipts submitted by drivers after journeys. Drivers encountering legitimate interstate levies or security tolls must log the expense through their mobile driver app with a GPS photo of the official receipt, triggering immediate digital authorization from central dispatch.
 
-![Figure 2: Workflow Automation & Infrastructure Teardown](https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2025/12/20110009/Tinubu-Kaftan-black.jpeg&w=800&output=jpg)
-*Figure 2: Systems deployment and automated audit trails. Source: Punch Nigeria / Industry Monitor.*
+As illustrated in BusinessDay's transport infrastructure analysis (Figure 2 below), severe transit corridor gridlock and fluctuating interstate fuel premiums drive haulier surcharges that must be reconciled programmatically against digital manifests.
+
+<div style="text-align: center; margin: 24px 0;">
+  <img src="https://wsrv.nl/?url=https://cdn.businessday.ng/2020/03/Huge-haulage-Apapa.jpg&w=800&output=jpg" alt="Interstate Transit Gridlock and Fuel Fluctuations Drive Haulage Tariffs" referrerpolicy="no-referrer" style="max-width: 720px; width: 100%; height: auto; border-radius: 8px; border: 1px solid #E2E8F0; display: block; margin: 0 auto;" />
+  <p style="font-size: 13px; color: #64748B; margin-top: 8px; line-height: 1.5; font-style: italic;">Caption: Systems Architecture & Audit Trail — Interstate transit gridlock and fuel price volatility drive up haulage tariffs, necessitating real-time cryptographic audit trails between shippers and carriers. Source: BusinessDay.</p>
+</div>
 
 ### 8. Audit Haulier Invoices Against Satellite Telemetry
 Reject fraudulent carrier demurrage claims. When a haulage contractor bills ₦300,000 for three days of dock detention, cross-reference the claim against satellite tracking data. If the truck arrived 36 hours late or left the yard for unauthorized private hauls, the detention invoice is rejected automatically.

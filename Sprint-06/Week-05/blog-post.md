@@ -25,7 +25,10 @@ This whitepaper provides an exhaustive technical and forensic audit of the **3 W
 
 ---
 
-![Hero: 3 Warning Signs Your University Examination System Is Vulnerable to Grade Tampering and Broadsheet Forgery](https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/10/02171207/Screenshot-2026-10-02-145934_1790957527.webp&w=800&output=jpg)
+<div style="text-align: center; margin: 24px 0;">
+  <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/08/20134152/images-2026-08-20T134139.341_1787229712.webp&w=800&output=jpg" alt="Kaduna State University faculty assembly deliberating academic workload allocations" referrerpolicy="no-referrer" style="max-width: 720px; width: 100%; height: auto; border-radius: 8px; border: 1px solid #E2E8F0; display: block; margin: 0 auto;" />
+  <p style="font-size: 13px; color: #64748B; margin-top: 8px; line-height: 1.5; font-style: italic;">Featured Field Report: Kaduna State University faculty assembly deliberating academic workload allocations and examination processing timelines. Source: Punch Nigeria / Industry Monitor.</p>
+</div>
 
 ## 🎨 3D Pixar Visual Prompt
 
@@ -34,6 +37,8 @@ This whitepaper provides an exhaustive technical and forensic audit of the **3 W
 ---
 
 ## The Threat Landscape: How University Examination Databases Are Compromised
+
+As illustrated in the academic council deliberations at Kaduna State University (featured photo above, Source: Punch Nigeria), faculty leadership and university governing councils must balance examination delivery timelines with rigorous quality controls, ensuring that grading records remain protected from unauthorized interference.
 
 In a traditional campus computing environment, examination software is frequently treated as a routine departmental utility rather than mission-critical financial or national security infrastructure:
 
@@ -59,24 +64,27 @@ The final and most dangerous point of failure occurs *after* the Academic Senate
 
 When an examination database breach or grade-tampering scandal is uncovered, the financial, legal, and reputational costs to the university are catastrophic. We quantify this institutional exposure using the **Forensic Remediation Cost (FRC)** model:
 
-
 ```text
-\text{FRC} = \sum_{f=1}^{F} \left[ \left(\text{UNS}_f \times \text{AUD}_{\text{cost}}\right) + \left(\text{SUS}_f \times \text{SAN}_{\text{pen}}\right) + \left(\text{FOR}_f \times \text{LIT}_{\text{fee}}\right) + \left(\text{ALU}_{\text{ch}} \times \text{LTV}_{\text{endow}}\right) \right]
+Forensic Remediation Cost (FRC) = Forensic Database Audit Overhead + Regulatory Sanction Penalties + Legal Defense Costs + Lost Philanthropic & Research Capital
 ```
 
-![Figure 1: Verified Field Operations and Market Analytics](https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/10/02202521/Screenshot-2026-10-02-202455_1790969121.webp&w=800&output=jpg)
-*Figure 1: Field investigations and empirical metrics. Source: Punch Nigeria / National Regulatory Data.*
+<div style="text-align: center; margin: 24px 0;">
+  <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/08/25171131/Screenshot-2026-08-25-171045_1787674291.webp&w=800&output=jpg" alt="Vice President Yemi Osinbajo and UNILAG leadership addressing distance learning accreditation" referrerpolicy="no-referrer" style="max-width: 720px; width: 100%; height: auto; border-radius: 8px; border: 1px solid #E2E8F0; display: block; margin: 0 auto;" />
+  <p style="font-size: 13px; color: #64748B; margin-top: 8px; line-height: 1.5; font-style: italic;">Figure 1: Operational Field Analysis — Vice President Yemi Osinbajo and University of Lagos leadership addressing distance learning accreditation and digital academic record expansion. Source: Punch Nigeria.</p>
+</div>
 
-Where:
-* **$F$**: Total number of faculties within the university.
-* **$\text{UNS}_f$**: Number of unverified or contested student grades across faculty $f$.
-* **$\text{AUD}_{\text{cost}}$**: Cost per student record of external forensic cybersecurity and forensic academic audit.
-* **$\text{SUS}_f$**: Number of academic programs placed under regulatory accreditation suspension by NUC or professional bodies (e.g., COREN, NBA, MDCN).
-* **$\text{SAN}_{\text{pen}}$**: Regulatory fines, penalty levies, and re-accreditation application fees per suspended program.
-* **$\text{FOR}_f$**: Number of fraudulent degree certificates litigated in court or subjected to criminal prosecution.
-* **$\text{LIT}_{\text{fee}}$**: Institutional legal defense and judicial inquiry costs per case.
-* **$\text{ALU}_{\text{ch}}$**: Number of prospective high-net-worth alumni donors or international research partners withdrawing funding due to institutional reputational damage.
-* **$\text{LTV}_{\text{endow}}$**: Average lifetime value of lost philanthropic endowments and international research grants.
+As demonstrated in the distance learning expansion conference at the University of Lagos shown in Figure 1 above (Source: Punch Nigeria), scaling academic programs to thousands of remote and campus-based scholars demands inviolable, centralized examination registries that eliminate localized grade manipulation.
+
+Where the institutional exposure variables comprise:
+* **Faculties Affected (F)**: Total number of faculties within the university.
+* **Contested Grades (UNS)**: Number of unverified or contested student grades across faculties.
+* **Forensic Audit Cost (AUD)**: Cost per student record of external cybersecurity and forensic academic auditing.
+* **Suspended Programs (SUS)**: Number of academic programs placed under regulatory accreditation suspension by the NUC or professional bodies.
+* **Sanction Levies (SAN)**: Regulatory fines, penalty levies, and re-accreditation application fees per suspended program.
+* **Litigated Credentials (FOR)**: Number of fraudulent degree certificates litigated in court or subjected to criminal prosecution.
+* **Legal Fees (LIT)**: Institutional legal defense and judicial inquiry costs per case.
+* **Withdrawn Donors (ALU)**: Prospective high-net-worth alumni donors or international research partners pausing funding due to institutional reputational damage.
+* **Lost Grant Capital (LTV)**: Lifetime value of lost philanthropic endowments and international research grants.
 
 ---
 
@@ -84,44 +92,28 @@ Where:
 
 Prior to adopting ResultsPro ExamsPRO, an external moderation audit at Apex University of Technology uncovered 14 suspicious grade alterations in the Faculty of Engineering and the Faculty of Law, triggering a comprehensive institutional crisis:
 
-#### 1. Forensic Cybersecurity & Database Audit ($\text{UNS} \times \text{AUD}_{\text{cost}}$)
+#### 1. Forensic Cybersecurity & Database Audit
 The Governing Council mandated a forensic audit across 4,200 graduating seniors' historical academic records (covering 120,000 distinct exam scores over 4 years) by an independent cybersecurity accounting firm:
+* 4,200 records × ₦6,000 / record audit fee = **₦25,200,000**
 
-```text
-\text{Forensic Audit Overhead} = 4,200 \text{ records} \times ₦6,000/\text{record} = ₦25,200,000
-```
-
-
-#### 2. Regulatory Sanction Defense & Re-Accreditation ($\text{SUS} \times \text{SAN}_{\text{pen}}$)
+#### 2. Regulatory Sanction Defense & Re-Accreditation
 The National Universities Commission placed two engineering degree programs on probation pending verification of examination records integrity, incurring regulatory review fees, curriculum re-inspections, and compliance filings:
+* 2 degree programs × ₦18,000,000 sanction and compliance overhead = **₦36,000,000**
 
-```text
-\text{Regulatory Compliance Penalties} = 2 \text{ programs} \times ₦18,000,000 = ₦36,000,000
-```
-
-
-#### 3. Legal Defense & Judicial Inquiry Overhead ($\text{FOR} \times \text{LIT}_{\text{fee}}$)
+#### 3. Legal Defense & Judicial Inquiry Overhead
 Five students whose altered degrees were formally revoked instituted lawsuits against the university, requiring external Senior Advocates of Nigeria (SAN) representation:
+* 5 litigation cases × ₦3,800,000 legal defense costs = **₦19,000,000**
 
-```text
-\text{Litigation Defense Costs} = 5 \text{ cases} \times ₦3,800,000 = ₦19,000,000
-```
-
-
-#### 4. Lost International Research Grants & Philanthropic Capital ($\text{ALU}_{\text{ch}} \times \text{LTV}_{\text{endow}}$)
+#### 4. Lost International Research Grants & Philanthropic Capital
 Due to press reports of database vulnerabilities, an international clean energy research consortium paused a multi-year research grant valued at $32,000 USD (₦50,000,000):
+* Paused international research consortium funding = **₦50,000,000**
 
-```text
-\text{Lost Research Capital} = ₦50,000,000
-```
-
-```text
-\begin{aligned}
-\text{Total Forensic Remediation Cost (FRC)} &= ₦25,200,000 + ₦36,000,000 + ₦19,000,000 + ₦50,000,000 \\
-&= \mathbf{₦130,200,000} \text{ in total damage}
-\end{aligned}
-```
-
+#### Cumulative Forensic Remediation Damage:
+* Forensic Cybersecurity Audit Overhead: ₦25,200,000
+* Regulatory Compliance Penalties & Re-accreditation: ₦36,000,000
+* Institutional Litigation Defense Costs: ₦19,000,000
+* Lost International Research Grants: ₦50,000,000
+* **Total Forensic Remediation Cost (FRC): ₦130,200,000 in total damage**
 
 A handful of unmonitored database grade alterations cost the university **over ₦130 Million**, severely damaged its institutional standing, and imperiled program accreditation.
 
@@ -188,8 +180,12 @@ Print every statement of results, transcript, and degree certificate with an enc
 
 ## Institutional Security Hardening Roadmap: 4-Stage Rollout
 
-![Figure 2: Workflow Automation & Infrastructure Teardown](https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/10/03180610/56546_1791047170.webp&w=800&output=jpg)
-*Figure 2: Systems deployment and automated audit trails. Source: Punch Nigeria / Industry Monitor.*
+<div style="text-align: center; margin: 24px 0;">
+  <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/08/25140059/Screenshot-2026-08-25-140032_1787662859.webp&w=800&output=jpg" alt="Atiba University governing council and student assemblies engaging on academic accreditation standards" referrerpolicy="no-referrer" style="max-width: 720px; width: 100%; height: auto; border-radius: 8px; border: 1px solid #E2E8F0; display: block; margin: 0 auto;" />
+  <p style="font-size: 13px; color: #64748B; margin-top: 8px; line-height: 1.5; font-style: italic;">Figure 2: Systems Architecture & Audit Trail — Atiba University governing council and student assemblies engaging on academic accreditation standards and institutional compliance. Source: Punch Nigeria.</p>
+</div>
+
+As highlighted during the student accreditation petitions at Atiba University shown in Figure 2 above (Source: Punch Nigeria), student disputes over course accreditations and examination grading can rapidly escalate into institutional crises without transparent, verifiable grading audit rails.
 
 ---
 

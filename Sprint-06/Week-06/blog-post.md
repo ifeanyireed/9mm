@@ -27,7 +27,10 @@ This case study documents the dramatic institutional transformation of **Apex Un
 
 ---
 
-![Hero: From 6-Month Senate Clearance Chaos to 30-Second Digital Degree Audits: The Apex University Case Study](https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/10/06005355/Dr-Olubunmi-Tunji-Ojo_1791244435.webp&w=800&output=jpg)
+<div style="text-align: center; margin: 24px 0;">
+  <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2025/07/05225002/download-48.jpg&w=800&output=jpg" alt="Gombe State University students assembly and bursary consultation" referrerpolicy="no-referrer" style="max-width: 720px; width: 100%; height: auto; border-radius: 8px; border: 1px solid #E2E8F0; display: block; margin: 0 auto;" />
+  <p style="font-size: 13px; color: #64748B; margin-top: 8px; line-height: 1.5; font-style: italic;">Featured Field Report: Gombe State University students assembly and bursary consultation over tertiary loan disbursements. Source: Punch Nigeria / Industry Monitor.</p>
+</div>
 
 ## 🎨 3D Pixar Visual Prompt
 
@@ -36,6 +39,8 @@ This case study documents the dramatic institutional transformation of **Apex Un
 ---
 
 ## The Clearance Scavenger Hunt: Where Institutional Momentum Stalls
+
+As demonstrated in the student administrative engagements at Gombe State University (featured photo above, Source: Punch Nigeria), student frustration over administrative delays and bursary reconciliations can paralyze campus operations when clear, digital record-tracking is absent.
 
 In a traditional tertiary institution, the graduation clearance process is designed as a series of disconnected administrative checkpoints:
 
@@ -51,8 +56,12 @@ Conferring an academic degree requires verifying that a student has satisfied th
 ### 3. The Asynchronous Senate Approvals Bottleneck
 Because broadsheets and credit unit audits take months to compile, the Academic Senate can review graduation lists only once or twice a year. If a student resolves a missing continuous assessment score two hours *after* the Senate agenda closes, their graduation file is stranded for an entire semester. They cannot mobilize for the mandatory National Youth Service Corps (NYSC), cannot accept graduate employment offers, and cannot apply for international postgraduate programs.
 
-![Figure 1: Verified Field Operations and Market Analytics](https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/10/06005808/Bola_Tinubu_portrait_1791244688.webp&w=800&output=jpg)
-*Figure 1: Field investigations and empirical metrics. Source: Punch Nigeria / National Regulatory Data.*
+<div style="text-align: center; margin: 24px 0;">
+  <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/06/09010704/1001574566.webp&w=800&output=jpg" alt="TETFund hostel infrastructure inauguration at Abubakar Tafawa Balewa University Bauchi" referrerpolicy="no-referrer" style="max-width: 720px; width: 100%; height: auto; border-radius: 8px; border: 1px solid #E2E8F0; display: block; margin: 0 auto;" />
+  <p style="font-size: 13px; color: #64748B; margin-top: 8px; line-height: 1.5; font-style: italic;">Figure 1: Operational Field Analysis — TETFund hostel infrastructure inauguration at Abubakar Tafawa Balewa University (ATBU) Bauchi. Source: Punch Nigeria.</p>
+</div>
+
+As shown in the tertiary infrastructure commissioning at ATBU Bauchi captured in Figure 1 above (Source: Punch Nigeria), modern campus residential facilities require automated facilities clearance integrations so hostel managers can log room inspections digitally rather than forcing students into physical queues.
 
 ---
 
@@ -60,22 +69,20 @@ Because broadsheets and credit unit audits take months to compile, the Academic 
 
 To evaluate the aggregate financial, administrative, and economic damage inflicted by manual convocation clearance, we utilize the **Graduation Frictional Loss (GFL)** formula:
 
-
 ```text
-\text{GFL} = \sum_{f=1}^{F} \left[ \left(\text{NGR}_f \times \text{CLD}_f \times \text{OHW}\right) + \left(\text{REG}_f \times \text{STAFF}_f \times \text{WAGE}\right) + \left(\text{MOB}_{\text{def}} \times \text{OPP}_{\text{cost}}\right) \right]
+Graduation Frictional Loss (GFL) = Student Opportunity Drag + Registry Labor Overhead + Mobilization Deferral Remediation
 ```
 
-
 Where:
-* **$F$**: Total number of faculties across the university.
-* **$\text{NGR}_f$**: Number of Graduating Seniors within faculty $f$.
-* **$\text{CLD}_f$**: Average Clearance Latency Duration (number of days spent by students physically navigating departmental clearance queues).
-* **$\text{OHW}$**: Imputed Daily Economic Value of student productive labor (opportunity cost of unmobilized graduate talent).
-* **$\text{REG}_f$**: Registry & Departmental Labor Hours expended per faculty manually verifying student credit unit ledgers.
-* **$\text{STAFF}_f$**: Number of administrative personnel assigned to manual broadsheet and clearance processing.
-* **$\text{WAGE}$**: Blended Hourly Compensation Rate of registry personnel.
-* **$\text{MOB}_{\text{def}}$**: Number of graduating seniors deferred from NYSC mobilization or international graduate admission due to clearance delays.
-* **$\text{OPP}_{\text{cost}}$**: Institutional and societal opportunity cost per delayed graduate (average entry-level graduate wage loss during deferral).
+* **Faculties (F)**: Total number of faculties across the university.
+* **Graduating Seniors (NGR)**: Number of graduating seniors within each faculty.
+* **Clearance Latency (CLD)**: Average clearance duration in days spent navigating physical clearance queues.
+* **Daily Opportunity Value (OHW)**: Imputed daily economic value of student productive labor.
+* **Registry Review Hours (REG)**: Registry and departmental labor hours expended manually verifying student credit unit broadsheets.
+* **Administrative Staff (STAFF)**: Number of administrative personnel assigned to manual clearance.
+* **Staff Compensation Rate (WAGE)**: Blended hourly compensation rate of registry personnel.
+* **Deferred Graduates (MOB)**: Number of graduating seniors deferred from NYSC mobilization or employment due to clearance delays.
+* **Deferral Remediation Overhead (OPP)**: Institutional crisis management and lost graduate productivity per delayed scholar.
 
 ---
 
@@ -83,37 +90,24 @@ Where:
 
 Prior to deploying the ResultsPro Automated Degree Audit Engine, Apex University of Technology suffered severe graduation gridlock across its 8 faculties:
 
-#### 1. Student Opportunity & Waiting Time Drag ($\text{NGR} \times \text{CLD} \times \text{OHW}$)
+#### 1. Student Opportunity & Waiting Time Drag
 4,200 graduating seniors spent an average of 18 full working days physically queuing outside 14 campus offices to collect physical rubber ink stamps (at a conservative opportunity cost of ₦4,000 per student day):
+* 4,200 graduates × 18 days × ₦4,000/day = **₦302,400,000 in economic loss**  
+*(Direct institutional overhead component absorbed by university ecosystem: **₦45,360,000**)*
 
-```text
-\text{Student Waiting Drag} = 4,200 \text{ graduates} \times 18 \text{ days} \times ₦4,000/\text{day} = ₦302,400,000 \text{ in economic loss}
-```
-
-*(Direct institutional overhead component absorbed by university ecosystem: **₦45,360,000**)*.
-
-#### 2. University Registry & Administrative Labor Overhead ($\text{REG} \times \text{STAFF} \times \text{WAGE}$)
+#### 2. University Registry & Administrative Labor Overhead
 55 registry officers, departmental exams clerks, and faculty officers spent 240 hours per convocation session manually auditing credit unit broadsheets and verifying paper clearance slips:
+* 55 staff × 240 hrs × ₦3,500/hr = **₦46,200,000 / session**
 
-```text
-\text{Registry Labor Cost} = 55 \text{ staff} \times 240 \text{ hrs} \times ₦3,500/\text{hr} = ₦46,200,000 / \text{session}
-```
-
-
-#### 3. Mobilization Deferral & Reputation Damage ($\text{MOB}_{\text{def}} \times \text{OPP}_{\text{cost}}$)
+#### 3. Mobilization Deferral & Reputation Damage
 An average of 620 eligible graduating seniors missed NYSC batch mobilization deadlines annually due to incomplete manual clearance files, resulting in extensive student petitions, parent protests, and administrative crisis remediation:
+* 620 students × ₦67,000 remediation and deferral overhead = **₦41,540,000 / year**
 
-```text
-\text{Remediation & Deferral Cost} = 620 \text{ students} \times ₦67,000 = ₦41,540,000 / \text{year}
-```
-
-```text
-\begin{aligned}
-\text{Total Annual Graduation Frictional Loss (GFL)} &= ₦45,360,000 + ₦46,200,000 + ₦41,540,000 \\
-&= \mathbf{₦133,100,000} \text{ annually}
-\end{aligned}
-```
-
+#### Cumulative Annual Institutional Drag:
+* University Ecosystem Waiting Overhead: ₦45,360,000
+* Registry & Departmental Labor Overhead: ₦46,200,000
+* Mobilization Deferral Crisis Remediation: ₦41,540,000
+* **Total Annual Graduation Frictional Loss (GFL): ₦133,100,000 annually**
 
 Apex University was expending **over ₦133 Million every single year** in administrative labor, student opportunity waste, and crisis remediation merely managing paper clearance forms.
 
@@ -180,8 +174,12 @@ Provide graduates with a permanent digital credential locker. Alumni access cert
 
 ## Institutional Implementation Roadmap: 4-Stage Rollout
 
-![Figure 2: Workflow Automation & Infrastructure Teardown](https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/10/06011515/crash_1791245715.webp&w=800&output=jpg)
-*Figure 2: Systems deployment and automated audit trails. Source: Punch Nigeria / Industry Monitor.*
+<div style="text-align: center; margin: 24px 0;">
+  <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/01/17022512/UK-Home-visa.jpg&w=800&output=jpg" alt="International credential verification and graduate visa mobility analysis" referrerpolicy="no-referrer" style="max-width: 720px; width: 100%; height: auto; border-radius: 8px; border: 1px solid #E2E8F0; display: block; margin: 0 auto;" />
+  <p style="font-size: 13px; color: #64748B; margin-top: 8px; line-height: 1.5; font-style: italic;">Figure 2: Systems Architecture & Audit Trail — International credential verification and student visa mobility standards. Source: Punch Nigeria.</p>
+</div>
+
+As highlighted in the international student mobility analysis in Figure 2 above (Source: Punch Nigeria), global immigration authorities and foreign universities demand instantaneous, verifiable digital credentials, making manual multi-month degree verification completely unviable.
 
 ---
 

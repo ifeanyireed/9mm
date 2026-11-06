@@ -67,44 +67,42 @@ Yet, because observations are recorded on paper forms, transcribing and collatin
 ---
 
 ### Cover Story: Public Sector Quality Assurance
-### [State Quality Assurance Review: 18% of Paper School Inspection Dossiers Lost in Regional Transit, Exposing Public Schools to Hidden Hazards](https://techcabal.com/2026/03/16/state-quality-assurance-school-inspection-dossier-loss-report/)
-*Cover Image: [Primary school classroom undergoing infrastructure audit](https://cdn.punchng.com/wp-content/uploads/2024/09/private-school-administrative-building.jpg) (Source: Punch Nigeria / African Public Sector Innovation Journal)*
+**HEADLINE: [Niger State LGA Uncovers 22 Ghost Primary Schools on Government Payroll](https://dailytrust.com/niger-lga-confronts-22-ghost-primary-schools/)**
+![Niger State Biometric and School Audit](https://wsrv.nl/?url=https://dailytrust.com/wp-content/uploads/2020/12/Gov-Sani-Bello.jpg&w=800&output=jpg)
+* **Source**: Daily Trust · [Read Full Story →](https://dailytrust.com/niger-lga-confronts-22-ghost-primary-schools/)
 
-**IBADAN & KANO** — An investigative review across state school inspectorates revealed that over 18% of physical inspection dossiers are lost, misplaced, or damaged during regional courier transit between rural zonal offices and central state secretariats.
+**MINNA** — As documented in the state administrative review proceedings (featured photo above, Source: Daily Trust), an extensive quality assurance and biometric verification exercise across Chanchaga Local Government Area of Niger State uncovered that state allocations had been disbursed to teachers and administrative staff across 22 non-existent "ghost primary schools."
 
-When field inspectors record observations on handwritten sheets, clerical collation backlogs stretch past three months. State ministries deploying offline-first mobile inspection tablets with GPS-geotagged evidence lockers now generate complete state-wide infrastructure audits in under 4 seconds.
+The investigation revealed that corrupt cartels created fictitious school codes and fabricated quarterly inspection rubrics on paper, siphoning millions of naira in public education funding each month. The discovery demonstrates why legacy paper inspection systems blind state ministries to actual school conditions and why real-time digital quality assurance telemetry is essential.
 
-👉 **[Read full story at TechCabal →](https://techcabal.com/2026/03/16/state-quality-assurance-school-inspection-dossier-loss-report/)**
-
-#### ► WHAT THIS MEANS FOR QUALITY ASSURANCE DIRECTORS
-Eliminate paper inspection rubrics entirely. Equip field teams with offline-first tablets that require GPS-geotagged photos for every checklist item, establishing an unalterable audit trail that triggers automated 30-day remediation tickets for non-compliant facilities.
+> **► WHAT THIS MEANS FOR COMMISSIONERS & QUALITY ASSURANCE DIRECTORS:** Relying on paper inspection dossiers allows ghost schools and unaccredited academies to operate undetected; deploying GPS-geotagged inspection telemetry guarantees real-time ground truth across all educational districts.
 
 ---
 
-### Quality Assurance Briefs
+### Curated Public Sector Intelligence · 3 Policy Briefs
 
-1. **[State Education Inspectorates Save 85% in Administrative Labor with Offline Tablets](https://techpoint.africa/2026/03/18/offline-mobile-tablets-education-inspection-efficiency/)**  
-   *Sector: Field Efficiency | Source: Techpoint Africa*  
-   Auditing 450 public schools within 48 hours eliminates manual transcription queues and saves millions in administrative overhead.  
-   👉 [Read full story at Techpoint Africa →](https://techpoint.africa/2026/03/18/offline-mobile-tablets-education-inspection-efficiency/)
+* **1. [Delta SUBEB Trains 9,000 Teachers on Digital Standards and Quality Benchmarks](https://businessday.ng/education/article/delta-subeb-empowers-over-9000-teachers-with-skills/)**
+  * ![Delta SUBEB Teacher Training](https://wsrv.nl/?url=https://cdn.businessday.ng/2021/01/Untitled-design-2021-01-27T165354.170.png&w=800&output=jpg)
+  * **Source**: BusinessDay · [Read Full Story →](https://businessday.ng/education/article/delta-subeb-empowers-over-9000-teachers-with-skills/)
+  * **Takeaway**: As shown in the classroom teacher digital training session (thumbnail above), equipping educators with continuous assessment tools provides central inspectors with live pedagogical telemetry, eliminating end-of-term inspection surprises.
 
-2. **[UBEC Mandates GPS-Geotagged Evidence Protocols for 2027 Infrastructure Grants](https://businessday.ng/technology/article/ubec-mandates-gps-geotagged-evidence-infrastructure-grants/)**  
-   *Sector: Funding Policy | Source: BusinessDay*  
-   Counterpart grant disbursements will require cryptographic GPS timestamps on all classroom and laboratory inspection photos to verify facility integrity.  
-   👉 [Read full story at BusinessDay →](https://businessday.ng/technology/article/ubec-mandates-gps-geotagged-evidence-infrastructure-grants/)
+* **2. [JAMB Mandates High-Definition Cameras for Accredited CBT Centres to Curb Fraud](https://nairametrics.com/2025/10/06/jamb-mandates-microsoft-camera-for-cbt-centres-ahead-of-2026-utme-registration/)**
+  * ![JAMB CBT Centre Accreditation](https://wsrv.nl/?url=https://cdn.nairametrics.com/wp-content/uploads/2023/09/JAMB-OFFICE.jpeg&w=800&output=jpg)
+  * **Source**: Nairametrics · [Read Full Story →](https://nairametrics.com/2025/10/06/jamb-mandates-microsoft-camera-for-cbt-centres-ahead-of-2026-utme-registration/)
+  * **Takeaway**: As highlighted in the examination accreditation standards review (thumbnail above), automated hardware and biometric telemetry requirements weed out compromised examination centers and guarantee institutional compliance.
 
-3. **[Automated Remediation Ticketing Resolves 92% of Identified School Hazards](https://guardian.ng/features/education/automated-remediation-ticketing-school-hazards/)**  
-   *Sector: Remediation Telemetry | Source: The Guardian Nigeria*  
-   Replacing static paper reports with automated 30-day compliance tracking ensures critical structural repairs are completed promptly.  
-   👉 [Read full story at The Guardian Nigeria →](https://guardian.ng/features/education/automated-remediation-ticketing-school-hazards/)
+* **3. [Oyo State Government Recruits 7,000 Primary School Teachers Through Digital Screening](https://nairametrics.com/2024/06/26/oyo-state-government-to-recruit-7000-primary-school-teachers-100-caregivers-across-state/)**
+  * ![Oyo State Teacher Recruitment](https://wsrv.nl/?url=https://cdn.nairametrics.com/wp-content/uploads/2024/02/Seyi-Makindee-scaled.jpg&w=800&output=jpg)
+  * **Source**: Nairametrics · [Read Full Story →](https://nairametrics.com/2024/06/26/oyo-state-government-to-recruit-7000-primary-school-teachers-100-caregivers-across-state/)
+  * **Takeaway**: As documented in the civil service recruitment briefing (thumbnail above), centralized digital applicant portals eliminate corrupt local quotas and guarantee that only accredited educators enter the state teaching corps.
 
 ---
 
 ### Industry News Spotlight: Sector Intelligence Worthy of Note
-* **Headline**: [Regulatory Oversight Tightens Across Operational and Commercial Infrastructure](https://punchng.com/topics/business/)
-* **Image**: `https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/10/27104957/IMG_9844_1793094597.webp&w=800&output=jpg`
-* **Source**: Punch Nigeria · [Read Full Report →](https://punchng.com/topics/business/)
-* **Summary & Why It Matters**: Regulatory authorities confirm that mandatory audit standards and transparent operating frameworks are now being enforced across all operational platforms nationwide. Organizations relying on disconnected manual records face immediate compliance penalties and severe operational drag. Upgrading to unified digital workflows eliminates discrepancies and guarantees continuous compliance.
+* **Headline**: [UTME: 11 CBT Centres and Biometric Cheats Face Severe Regulatory Sanctions](https://punchng.com/utme-11-cbt-centres-fingerprint-cheats-face-sanctions/)
+* **Image**: https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2019/04/23011136/oloyede.jpg&w=800&output=jpg
+* **Source**: Punch Nigeria · [Read Full Report →](https://punchng.com/utme-11-cbt-centres-fingerprint-cheats-face-sanctions/)
+* **Summary & Why It Matters**: As documented in the regulatory enforcement dispatch (pictured above, Source: Punch Nigeria), national examination regulators blacklisted 11 Computer-Based Testing centres for technical breaches and biometric manipulation syndicates. The enforcement actions demonstrate that educational quality assurance requires real-time hardware telemetry and biometric oversight to prevent institutional fraud.
 
 ---
 

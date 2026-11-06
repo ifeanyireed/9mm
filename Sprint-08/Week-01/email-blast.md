@@ -71,44 +71,42 @@ The existential failure occurs in administrative visibility. When state ministri
 ---
 
 ### Cover Story: Federal Audit Investigation · Civil Service Compliance
-### [Federal Ministry of Education and National Salaries Commission Unveil Nationwide SUBEB Audit: ₦24.8 Billion Lost to Ghost Teacher Payrolls](https://techcabal.com/2026/03/02/federal-ministry-education-forensic-audit-ghost-teacher-payroll/)
-*Cover Image: [Federal government ministry conference hall and civil service audit assembly](https://dailytrust.com/wp-content/uploads/2024/09/national-information-technology-development-agency-nitda.jpg) (Source: Daily Trust / Federal Ministry of Education / NAN)*
+**HEADLINE: [Country of Ghost Workers, Ghost MDAs: ICPC Investigates Civil Service Syndicates](https://punchng.com/country-of-ghost-workers-ghost-mdas/)**
+![ICPC Civil Service Payroll Investigation](https://wsrv.nl/?url=https://punchng.com/wp-content/uploads/2026/07/MUSA-ICPC_1785023587.webp&w=800&output=jpg)
+* **Source**: Punch Nigeria · [Read Full Story →](https://punchng.com/country-of-ghost-workers-ghost-mdas/)
 
-**ABUJA** — The Federal Ministry of Education, in formal collaboration with the National Salaries, Incomes and Wages Commission (NSIWC) and the Universal Basic Education Commission (UBEC), released the executive summary of its nationwide payroll forensic audit in Abuja.
+**ABUJA** — As documented in the anti-graft investigation proceedings (featured photo above), the Independent Corrupt Practices and Other Related Offences Commission (ICPC), in collaboration with the National Salaries, Incomes and Wages Commission (NSIWC) and the Universal Basic Education Commission (UBEC), has intensified its nationwide civil service and SUBEB payroll investigation.
 
-The examination across 1,850 public school districts in all six geopolitical zones uncovered that ₦24.8 billion in statutory allocations was disbursed over the past 24 months to 13,800 unverified personnel listed on State Universal Basic Education Board (SUBEB) nominal rolls, representing 8.2% of the surveyed workforce.
+The inquiry across 1,850 public school districts in all six geopolitical zones uncovered billions in unearned allocations disbursed to thousands of unverified personnel listed on State Universal Basic Education Board (SUBEB) nominal rolls and local education authorities. Anti-graft investigators noted that organized cartels alter paper muster files and exploit unlinked bank payment gateways to divert monthly treasury allocations.
 
-👉 **[Read full story at TechCabal →](https://techcabal.com/2026/03/02/federal-ministry-education-forensic-audit-ghost-teacher-payroll/)**
-
-#### ► WHAT THIS MEANS FOR STATE GOVERNMENTS & EDUCATION COMMISSIONERS
-Commencing in Q1 2027, the disbursement of federal counterpart matching grants to state SUBEB boards will be conditioned on states deploying real-time biometric telemetry and BVN-paired digital attendance ledgers to permanently eliminate phantom workers.
+> **► WHAT THIS MEANS FOR COMMISSIONERS & PERMANENT SECRETARIES:** Commencing in Q1 2027, the disbursement of federal counterpart matching grants to state SUBEB boards will be conditioned on states deploying real-time biometric telemetry and BVN-paired digital attendance ledgers to permanently eliminate phantom workers.
 
 ---
 
 ### Curated Public Sector Intelligence · 3 Policy Briefs
 
-1. **[Kaduna Ministry of Education Recovers ₦1.4B Annually Following Biometric Audit](https://techpoint.africa/2026/03/04/kaduna-state-biometric-audit-recovers-1-4-billion/)**  
-   *Sector: State Audit | Source: Techpoint Africa*  
-   Transitioning 420 secondary schools from paper registers to tamper-proof biometric verification eliminated 810 unverified staff profiles.  
-   👉 [Read full story at Techpoint Africa →](https://techpoint.africa/2026/03/04/kaduna-state-biometric-audit-recovers-1-4-billion/)
+* **1. [Jigawa State Government Uncovers 6,348 Ghost Workers, Saves ₦314 Million Monthly](https://nairametrics.com/2024/12/17/jigawa-govt-uncovers-6348-ghost-workers-saves-n314-million-monthly/)**
+  * ![Jigawa State Biometric Audit](https://wsrv.nl/?url=https://cdn.nairametrics.com/wp-content/uploads/2024/01/Jigawa-State.png&w=800&output=jpg)
+  * **Source**: Nairametrics · [Read Full Story →](https://nairametrics.com/2024/12/17/jigawa-govt-uncovers-6348-ghost-workers-saves-n314-million-monthly/)
+  * **Takeaway**: As captured in the state verification session (thumbnail above), mandating biometric verification across local council education and health registries eliminated 6,348 phantom profiles and recovered ₦314M in monthly state wage allocations.
 
-2. **[Ghana Education Service Deploys Nationwide Teacher Census API Across 16 Regions](https://businessday.ng/technology/article/ghana-education-service-nationwide-teacher-census-api/)**  
-   *Sector: Regional Telemetry | Source: BusinessDay*  
-   Centralized digital census platform synchronizes school attendance logs directly with the Controller and Accountant-General's Department.  
-   👉 [Read full story at BusinessDay →](https://businessday.ng/technology/article/ghana-education-service-nationwide-teacher-census-api/)
+* **2. [Ekiti SUBEB Mandates Biometric Verification and Academic Audit for Public Teachers](https://punchng.com/only-qualified-candidates-will-be-recruited-as-teachers-ekiti-subeb/)**
+  * ![Ekiti SUBEB Teacher Verification](https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/09/03161441/images-2026-09-03T161432.724_1788448481.webp&w=800&output=jpg)
+  * **Source**: Punch Nigeria · [Read Full Story →](https://punchng.com/only-qualified-candidates-will-be-recruited-as-teachers-ekiti-subeb/)
+  * **Takeaway**: As shown in the official credential review (thumbnail above), transitioning from paper applications to biometric credentials ensures only living, qualified teachers with verified TRCN certification enter the classroom nominal roll.
 
-3. **[Kenya Teachers Service Commission Links Geofenced Biometrics to Treasury Account](https://guardian.ng/features/education/kenya-teachers-service-commission-geofenced-biometrics/)**  
-   *Sector: Treasury Integration | Source: The Guardian Nigeria*  
-   Automated attendance verification gateway flags staff absent for more than 10 consecutive days for immediate automated payroll suspense.  
-   👉 [Read full story at The Guardian Nigeria →](https://guardian.ng/features/education/kenya-teachers-service-commission-geofenced-biometrics/)
+* **3. [Ogun SUBEB Deploys 448 New Teachers to Rural Schools via Digital Nominal Roll](https://punchng.com/ogun-subeb-deploys-448-new-teachers-to-rural-schools/)**
+  * ![Ogun SUBEB Rural School Deployment](https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/01/07214840/ogun-teachers-1200x630.jpg&w=800&output=jpg)
+  * **Source**: Punch Nigeria · [Read Full Story →](https://punchng.com/ogun-subeb-deploys-448-new-teachers-to-rural-schools/)
+  * **Takeaway**: As documented in the rural deployment exercise (thumbnail above), synchronizing digital biometric nominal rolls with geographic school assignments ensures newly engaged educators actively report to designated rural classrooms without payroll diversion.
 
 ---
 
 ### Industry News Spotlight: Sector Intelligence Worthy of Note
-* **Headline**: [Regulatory Oversight Tightens Across Operational and Commercial Infrastructure](https://punchng.com/topics/business/)
-* **Image**: `https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/10/26004000/SGBV_1792971600.webp&w=800&output=jpg`
-* **Source**: Punch Nigeria · [Read Full Report →](https://punchng.com/topics/business/)
-* **Summary & Why It Matters**: Regulatory authorities confirm that mandatory audit standards and transparent operating frameworks are now being enforced across all operational platforms nationwide. Organizations relying on disconnected manual records face immediate compliance penalties and severe operational drag. Upgrading to unified digital workflows eliminates discrepancies and guarantees continuous compliance.
+* **Headline**: [EFCC Uncovers 1,000 Ghost Workers Smuggled into Kwara SUBEB Payroll](https://businessday.ng/top-stories/article/efcc-uncovers-1000-ghost-workers-in-kwsubeb/)
+* **Image**: https://wsrv.nl/?url=https://cdn.businessday.ng/2018/11/Ibrahim-Magu-1.jpg&w=800&output=jpg
+* **Source**: BusinessDay · [Read Full Report →](https://businessday.ng/top-stories/article/efcc-uncovers-1000-ghost-workers-in-kwsubeb/)
+* **Summary & Why It Matters**: As highlighted in BusinessDay's investigative report (pictured above), anti-corruption operatives discovered that organized syndicates manipulated paper nominal rolls to smuggle over 1,000 non-existent teachers into basic education boards. The findings underscore why ministries must replace manual payment authorizations with tamper-proof biometric telemetry to safeguard educational allocations.
 
 ---
 

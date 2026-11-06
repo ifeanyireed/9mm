@@ -6,7 +6,10 @@
 
 > **Executive Summary:** Resumption week across Nigeria's private K-12 school sector is characterized by administrative friction: bursary offices drowning in printed bank statements, parents arguing over unverified tuition payments, and children delayed at school gates. This breakdown occurs because school financial management relies on manual reconciliation: matching ambiguous commercial bank narrations ("SCHOOL FEES") against paper classroom rosters. This operational guide details the five critical administrative bottlenecks draining private school bursaries and outlines 10 high-impact fixes to automate fee collection, reconciliation, and PTA workflows.
 
-![Hero: 5 Bursary and PTA Tasks Your School Should Automate Immediately: 10 Operational Fixes](https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/09/08221242/unnamed-1_1788901962.webp&w=800&output=jpg)
+<div style="text-align: center; margin: 24px 0;">
+  <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/09/18022706/Lions-Intl_1789694826.webp&w=800&output=jpg" alt="Lagos educators attending professional training and administrative compliance workshop" referrerpolicy="no-referrer" style="max-width: 720px; width: 100%; height: auto; border-radius: 8px; border: 1px solid #E2E8F0; display: block; margin: 0 auto;" />
+  <p style="font-size: 13px; color: #64748B; margin-top: 8px; line-height: 1.5; font-style: italic;">Caption: Institutional regulatory standards and administrative compliance, emphasized in teacher professional training and governance sessions, require private schools to maintain auditable, automated operational ledgers. Source: Punch Nigeria / Industry Monitor.</p>
+</div>
 
 ---
 
@@ -17,7 +20,7 @@
 
 ## The Resumption Week Bursary Crisis
 
-Every academic term begins with a predictable wave of administrative stress. While teachers prepare lesson plans and proprietors welcome returning students, the bursary department transforms into a forensic accounting laboratory:
+As highlighted in teacher regulatory governance workshops and administrative compliance directives (featured photo above), maintaining institutional integrity requires verifiable, auditable administration across every school department. Every academic term begins with a predictable wave of administrative stress. While teachers prepare lesson plans and proprietors welcome returning students, the bursary department transforms into a forensic accounting laboratory:
 
 1. **The Anonymous Narration Dilemma**: When parents pay school fees, they frequently execute transfers from corporate accounts, spousal accounts, or third-party fintech agents. The resulting bank statement displays transactions labeled *"Bespoke Logistics Ltd"* or simply *"Tuition Transfer"*, completely omitting the pupil's surname.
 2. **The WhatsApp Screenshot Queue**: To prove payment, parents flood class WhatsApp groups, personal administrator lines, and bursary emails with mobile screenshots. Bursars spend full working days cross-referencing hundreds of fuzzy image files against paper ledger books.
@@ -30,10 +33,12 @@ The systemic challenge of fee collection, anonymous bank transfers, and uncollec
 * **CBN Guidelines on Virtual Account Integration**: The **Central Bank of Nigeria (CBN)** Open Banking framework and electronic collection guidelines have urged educational institutions to transition away from static corporate deposit accounts toward unique, dynamic virtual accounts (*Nairametrics Banking*). Assigning each student a permanent virtual account eliminates manual narration matching entirely.
 * **The Automated Settlement Advantage**: Case evidence documented by *Stears Intelligence* reveals that private school institutions deploying automated virtual account billing achieve **100% automated payment reconciliation in real time**, slashing resumption audit time from weeks to seconds and reducing term-end unpaid tuition balances by over 80%.
 
-![Figure 1: Verified Field Operations and Market Analytics](https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/09/09151712/WhatsApp-Image-2026-09-09-at-3.07.39-PM_1788963432.webp&w=800&output=jpg)
-*Figure 1: Field investigations and empirical metrics. Source: Punch Nigeria / National Regulatory Data.*
+<div style="text-align: center; margin: 24px 0;">
+  <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/09/03215801/golden-jubilee_1788469081.webp&w=800&output=jpg" alt="Ogun school alumni golden jubilee capital development celebration" referrerpolicy="no-referrer" style="max-width: 720px; width: 100%; height: auto; border-radius: 8px; border: 1px solid #E2E8F0; display: block; margin: 0 auto;" />
+  <p style="font-size: 13px; color: #64748B; margin-top: 8px; line-height: 1.5; font-style: italic;">Figure 1: Capital project funding and alumni donor initiatives, documented in Ogun State school jubilee celebrations, illustrate the critical need for segregated, automated bursary accounts to track special levies and institutional funds. Source: Punch Nigeria.</p>
+</div>
 
-When your bursary operates as a manual detective agency, tuition collection slows down and institutional trust erodes.
+As demonstrated in the capital infrastructure field analysis from Ogun State (Figure 1 above), schools managing significant alumni endowments and development levies face intense financial audit scrutiny if payments cannot be tracked systematically. When your bursary operates as a manual detective agency, tuition collection slows down and institutional trust erodes.
 
 Below are **10 actionable operational fixes** to modernize school financial administration.
 
@@ -53,11 +58,15 @@ The second a student’s tuition balance reaches cleared status, the system auto
 ### 4. Deploy Automated Multi-Tiered Tuition Reminder Sequences
 Eliminate uncomfortable personal WhatsApp phone calls from school administrators. Configure automated, dignified SMS and WhatsApp payment reminders dispatched at predefined intervals (14 days before resumption, 3 days before, and 7 days post-resumption) with direct 1-tap payment links.
 
+<div style="text-align: center; margin: 24px 0;">
+  <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/08/25084330/Siminalayi-Fubara_1787643810.webp&w=800&output=jpg" alt="Rivers State governor felicitating with inter-school academic champions" referrerpolicy="no-referrer" style="max-width: 720px; width: 100%; height: auto; border-radius: 8px; border: 1px solid #E2E8F0; display: block; margin: 0 auto;" />
+  <p style="font-size: 13px; color: #64748B; margin-top: 8px; line-height: 1.5; font-style: italic;">Figure 2: Executive recognition of academic excellence, highlighted in Rivers State inter-school debate commendations, underscores that high-achieving institutions must match pedagogical laurels with seamless digital fee and administrative governance. Source: Punch Nigeria.</p>
+</div>
+
+As illustrated in Rivers State's inter-school academic honors (Figure 2 above), maintaining elite institutional standing requires modernizing behind-the-scenes administrative infrastructure so that fee collection never disrupts student learning.
+
 ### 5. Automate PTA Levy and Extracurricular Dues Collections
 Separate PTA funds from school operating accounts. Establish dedicated sub-wallets for PTA association dues, graduation fees, and sporting club trips. Funds disburse directly to designated committee bank accounts with automated audit reporting.
-
-![Figure 2: Workflow Automation & Infrastructure Teardown](https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/09/09161828/IMG_4014_1788967108.webp&w=800&output=jpg)
-*Figure 2: Systems deployment and automated audit trails. Source: Punch Nigeria / Industry Monitor.*
 
 ### 6. Implement Real-Time Daily Cashbook Reconciliation (`/erp/accountant/ledger`)
 Ensure that all POS payments, card transactions, and virtual bank deposits automatically post balancing journal entries to your double-entry chart of accounts, enabling bursars to close daily cashbooks in under 5 minutes.

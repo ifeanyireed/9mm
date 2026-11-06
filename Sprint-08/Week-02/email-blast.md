@@ -67,44 +67,42 @@ In both public ministries and corporate conglomerates, compliance visibility is 
 ---
 
 ### Cover Story: Public Sector Governance & Compliance
-### [National Governance Audit Uncovers 14% Non-Compliance Rate and ₦234M Reporting Leakage in Multi-Facility Public Corporations](https://techcabal.com/2026/03/09/national-governance-audit-multi-facility-compliance-gap/)
-*Cover Image: [Modern corporate governance and government secretariat complex](https://cdn.punchng.com/wp-content/uploads/2024/10/central-bank-nigeria-building.jpg) (Source: Punch Nigeria / Public Administration Review)*
+**HEADLINE: [Fake Agencies, Ghost Workers: Federal Government Orders System-Wide Payroll Audit](https://punchng.com/fake-agencies-ghost-workers-tinubu-orders-payroll-audit/)**
+![Federal Government Payroll Audit](https://wsrv.nl/?url=https://cdn.punchng.com/2026/08/Tinubu-1_1786819717.webp&w=800&output=jpg)
+* **Source**: Punch Nigeria · [Read Full Story →](https://punchng.com/fake-agencies-ghost-workers-tinubu-orders-payroll-audit/)
 
-**ABUJA & LAGOS** — A comprehensive multi-state investigation into distributed public corporations and state boards revealed that agencies operating across twenty or more regional sites suffer an average 14% non-compliance and unverified presence rate.
+**ABUJA** — As documented in the presidential payroll audit directive (featured photo above), the Presidency and the Federal Ministry of Finance have directed a comprehensive forensic audit across all personnel management and payroll disbursement platforms—including the Integrated Personnel and Payroll Information System (IPPIS), the Government Integrated Financial Management Information System (GIFMIS), and the Treasury Single Account (TSA).
 
-Relying on manual attendance sheets and quarterly spreadsheet filings results in massive operational duty allowance leakage and severe statutory penalties from labor tribunals. Progressive institutions deploying unified biometric telemetry have compressed reporting latency from 90 days to under 15 seconds.
+The directive follows findings by anti-corruption authorities exposing hundreds of unverified personnel entries, ghost workers, and unauthorized agencies operating across distributed government directorates. Forensic investigators noted that managing personnel across dozens of geographic facilities using disconnected manual registers creates an operational blindspot where unearned allowances and salaries bleed public treasuries undetected.
 
-👉 **[Read full story at TechCabal →](https://techcabal.com/2026/03/09/national-governance-audit-multi-facility-compliance-gap/)**
-
-#### ► WHAT THIS MEANS FOR OPERATORS & COMPLIANCE DIRECTORS
-Do not manage distributed staff through quarterly retrospective paperwork. Deploy real-time geofenced biometric check-ins and centralized cloud ledgers to eliminate allowance leakage and guarantee instant statutory audit readiness.
+> **► WHAT THIS MEANS FOR COMMISSIONERS & PERMANENT SECRETARIES:** Distributed corporate enterprises and state ministries operating without real-time biometric synchronization across facilities face immediate audit suspense and mandatory forensic payroll reconciliation.
 
 ---
 
-### Institutional Compliance Briefs
+### Curated Public Sector Intelligence · 3 Policy Briefs
 
-1. **[NBTE Revokes Accreditation for Multi-Campus Centers Lacking Digital Attendance Registers](https://techpoint.africa/2026/03/11/nbte-revokes-accreditation-multi-campus-centers/)**  
-   *Sector: Accreditation Enforcement | Source: Techpoint Africa*  
-   Regulators enforce mandatory digital personnel registries, withdrawing licenses from vocational centers relying on unverified paper rosters.  
-   👉 [Read full story at Techpoint Africa →](https://techpoint.africa/2026/03/11/nbte-revokes-accreditation-multi-campus-centers/)
+* **1. [Lagos State Commences Online Digital Biometric Verification for Public Servants](https://punchng.com/lagos-begins-online-verification-for-pensioners/)**
+  * ![Lagos State Biometric Verification](https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/10/25200916/IMG_0544_1792955356.webp&w=800&output=jpg)
+  * **Source**: Punch Nigeria · [Read Full Story →](https://punchng.com/lagos-begins-online-verification-for-pensioners/)
+  * **Takeaway**: As captured in the biometric registration exercise (thumbnail above), implementing digital self-service biometric verification eliminates bureaucratic congestion and stops fraudulent proxy claims across decentralized public offices.
 
-2. **[Auditor-General Public Accountability Directives Order Immediate Transition to ERP Ledgers](https://businessday.ng/technology/article/auditor-general-orders-transition-electronic-erp-ledgers/)**  
-   *Sector: Public Accountability | Source: BusinessDay*  
-   State accounting officers face statutory sanctions for delayed quarterly paper returns, mandating real-time electronic ledger compliance.  
-   👉 [Read full story at BusinessDay →](https://businessday.ng/technology/article/auditor-general-orders-transition-electronic-erp-ledgers/)
+* **2. [PenCom Launches Centralized Digital Self-Service Portal for Mandatory Data Recapture](https://nairametrics.com/2026/02/02/pencom-launches-self-service-platform-for-mandatory-pension-data-update/)**
+  * ![PenCom Data Recapture Portal](https://wsrv.nl/?url=https://media.nairametrics.com/2025/11/Pencom-1.jpg&w=800&output=jpg)
+  * **Source**: Nairametrics · [Read Full Story →](https://nairametrics.com/2026/02/02/pencom-launches-self-service-platform-for-mandatory-pension-data-update/)
+  * **Takeaway**: As shown in the official digital rollout (thumbnail above), centralizing employee records into a cloud data ledger prevents identity tampering and reconciles multi-agency contributions in real time.
 
-3. **[Real-Time Biometric Cockpits Slash Statutory Compliance Latency to Under 15 Seconds](https://guardian.ng/features/education/real-time-biometric-cockpits-compliance-latency/)**  
-   *Sector: Compliance Telemetry | Source: The Guardian Nigeria*  
-   Automated telemetry across multi-facility operations eliminates months of document collation and achieves 100% audit readiness.  
-   👉 [Read full story at The Guardian Nigeria →](https://guardian.ng/features/education/real-time-biometric-cockpits-compliance-latency/)
+* **3. [Ondo State Government Intercepts Fake Appointment Letters in Civil Service Probe](https://punchng.com/ondo-gov-orders-probe-into-fake-teachers-appointment-letters/)**
+  * ![Ondo State Civil Service Probe](https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2025/07/18183117/Ondo-State-Governor-Lucky-Aiyedatiwa.jpeg&w=800&output=jpg)
+  * **Source**: Punch Nigeria · [Read Full Story →](https://punchng.com/ondo-gov-orders-probe-into-fake-teachers-appointment-letters/)
+  * **Takeaway**: As illustrated in the civil service investigation proceedings (thumbnail above), automated onboarding workflows require digital cryptographic signatures, preventing unauthorized actors from injecting forged employment papers.
 
 ---
 
 ### Industry News Spotlight: Sector Intelligence Worthy of Note
-* **Headline**: [Regulatory Oversight Tightens Across Operational and Commercial Infrastructure](https://punchng.com/topics/business/)
-* **Image**: `https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/10/26120555/IMG-20261026-WA0031_1793012755.webp&w=800&output=jpg`
-* **Source**: Punch Nigeria · [Read Full Report →](https://punchng.com/topics/business/)
-* **Summary & Why It Matters**: Regulatory authorities confirm that mandatory audit standards and transparent operating frameworks are now being enforced across all operational platforms nationwide. Organizations relying on disconnected manual records face immediate compliance penalties and severe operational drag. Upgrading to unified digital workflows eliminates discrepancies and guarantees continuous compliance.
+* **Headline**: [ICPC Recovers ₦942 Million From 908 Suspected Ghost Workers Across 50 MDAs](https://nairametrics.com/2026/07/22/icpc-recovers-n942-million-from-908-suspected-ghost-workers-across-50-mdas/)
+* **Image**: https://wsrv.nl/?url=https://cdn.nairametrics.com/wp-content/uploads/2026/07/icpc-2.webp&w=800&output=jpg
+* **Source**: Nairametrics · [Read Full Report →](https://nairametrics.com/2026/07/22/icpc-recovers-n942-million-from-908-suspected-ghost-workers-across-50-mdas/)
+* **Summary & Why It Matters**: As documented in the anti-graft recovery proceedings (pictured above), forensic audits by anti-corruption authorities recovered ₦942 million siphoned through ghost workers across 50 federal ministries, departments, and agencies. Decentralized paper registers and unlinked payroll modules create vulnerabilities that syndicates exploit; deploying unified ERP architectures closes these loopholes permanently.
 
 ---
 

@@ -19,7 +19,10 @@ By standardizing their academic operations on **ResultsPro SchoolHub**, Crown He
 
 ---
 
-![Hero: From 3-Week Midnight Report Card Chaos to 10-Minute One-Click Publishing: The Crown Heights Institutional Turnaround](https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/09/16003342/images-2026-09-16T003329.234_1789515222.webp&w=800&output=jpg)
+<div style="text-align: center; margin: 24px 0;">
+  <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2025/06/21211303/Dr-Adetola-Salau.jpg&w=800&output=jpg" alt="Educational policy leadership addressing pedagogical reform and institutional modernization" referrerpolicy="no-referrer" style="max-width: 720px; width: 100%; height: auto; border-radius: 8px; border: 1px solid #E2E8F0; display: block; margin: 0 auto;" />
+  <p style="font-size: 13px; color: #64748B; margin-top: 8px; line-height: 1.5; font-style: italic;">Caption: Modern educational governance, emphasized in policy advisories by Dr. Adetola Salau, demands shifting teacher energy away from clerical data compilation and toward deep instructional mentoring. Source: Punch Nigeria / Industry Monitor.</p>
+</div>
 
 ## 🎨 3D Pixar Visual Prompt
 
@@ -29,8 +32,7 @@ By standardizing their academic operations on **ResultsPro SchoolHub**, Crown He
 
 ## The End-of-Term Crucible: Why Schools Lose 3 Weeks to Report Cards
 
-The traditional end-of-term report card production workflow in private schools is plagued by structural dependencies and manual handoffs:
-
+As highlighted in Punch Nigeria's coverage of pedagogical modernization (featured photo above), the traditional end-of-term report card production workflow in private schools is plagued by structural dependencies and manual handoffs that drain instructional energy:
 
 This archaic workflow creates severe institutional vulnerabilities:
 1. **Teacher Burnout & Resignation**: Teachers view the final month of term with dread, leading to mid-session resignations and compromised instructional quality.
@@ -39,47 +41,41 @@ This archaic workflow creates severe institutional vulnerabilities:
 
 ---
 
-## The Mathematical Model: Report Card Production Friction (RCPF)
+## Quantifying the Financial Drag: Report Card Production Friction
 
-The financial and operational drain of physical report card production compounds across staff overtime payroll, consumable costs, and parent dissatisfaction. We evaluate this enterprise liability using the **Report Card Production Friction (RCPF)** formula:
+The financial and operational drain of physical report card production compounds across staff overtime payroll, consumable costs, printer maintenance, and uncollected tuition leakages. Academic administration audits evaluate this operational drag across five distinct expense lines:
 
+1. **Teacher Administrative Overtime**: Hundreds of teacher hours diverted from classroom preparation to handwriting report cards and manually computing grade averages.
+2. **Examination Office Overtime**: Premium overtime paid to administrative staff and data clerks to manually verify broadsheets and resolve broken spreadsheet formulas.
+3. **Paper, Cardstock & Toner Consumables**: The recurring cost of embossed linen cardstock, laminating pouches, and high-yield color toner cartridges.
+4. **Hardware Wear & Emergency Maintenance**: Frequent technician callouts, replacement drum units, and commercial photocopier repairs during heavy term-end printing runs.
+5. **Bursary Clearance Leakage**: Uncollected tuition arrears resulting from paper report cards being mistakenly distributed to families with outstanding balances.
 
-```text
-\text{RCPF} = \sum_{m=1}^{M} \left[ (\text{TCH} \times \text{HWR}) + (\text{EOP} \times \text{AHP}) + \text{PCC} + \text{DMC} + (\text{BCR} \times \text{UFR}) \right]
-```
+<div style="text-align: center; margin: 24px 0;">
+  <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2024/07/31225036/EKSU-GATE.jpg&w=800&output=jpg" alt="Institutional campus administration and academic gate access control" referrerpolicy="no-referrer" style="max-width: 720px; width: 100%; height: auto; border-radius: 8px; border: 1px solid #E2E8F0; display: block; margin: 0 auto;" />
+  <p style="font-size: 13px; color: #64748B; margin-top: 8px; line-height: 1.5; font-style: italic;">Figure 1: Institutional campus governance, documented in university quota and accreditation appeals, underscores how administrative gatekeeping and auditable records protect institutional standards. Source: Punch Nigeria.</p>
+</div>
 
-
-Where:
-* **$\text{TCH}$**: Total Cumulative Teacher Hours expended on manual Continuous Assessment entry, booklet writing, and proofreading.
-* **$\text{HWR}$**: Blended Hourly Wage Rate of academic teaching staff.
-* **$\text{EOP}$**: Examination Officer Overtime Hours during merging and printing weeks.
-* **$\text{AHP}$**: Overtime Hourly Pay Rate for examination and administrative staff.
-* **$\text{PCC}$**: Paper & Cardstock Consumable Cost (specialty embossed cardboard, laminating pouches, full-color commercial laser toner cartridges).
-* **$\text{DMC}$**: Hardware Depreciation & Maintenance Cost (printer servicing, drum replacements, and emergency technician callouts).
-* **$\text{BCR}$**: Bursary Collection Risk (tuition arrears that go uncollected because report cards were released without automated fee clearance gating).
-* **$\text{UFR}$**: Uncollected Fee Ratio resulting from manual paper list disconnects.
+As illustrated in Punch Nigeria's institutional administration coverage (Figure 1 above), rigorous gatekeeping and auditable student records are vital to preserving institutional integrity.
 
 ### Enterprise Worked Case: Crown Heights International Schools (Pre-Transformation)
 
-![Figure 1: Verified Field Operations and Market Analytics](https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/09/16004244/interswitch_1789515764.webp&w=800&output=jpg)
-*Figure 1: Field investigations and empirical metrics. Source: Punch Nigeria / National Regulatory Data.*
-
 Consider **Crown Heights International Schools** prior to standardizing on ResultsPro:
 
-* **Teacher Compilation Labor ($\text{TCH} \times \text{HWR}$)**: 85 teachers $\times$ 28 hours per term = 2,380 hours @ ₦4,500/hr = **₦10,710,000 per term** (₦32,130,000/year).
-* **Exam Office Overtime ($\text{EOP} \times \text{AHP}$)**: 4 examination officers working 65 overtime hours each per term = 260 hours @ ₦6,000/hr = **₦1,560,000 per term** (₦4,680,000/year).
-* **Paper, Cardstock & Toner Consumables ($\text{PCC}$)**: 1,480 multi-page booklets printed on 300gsm linen cardstock with gold foil stamping and full-color toner = ₦1,500 per booklet $\times 1,480 = \mathbf{₦2,220,000 \text{ per term}}$ (₦6,660,000/year).
-* **Printer Servicing & Drum Replacements ($\text{DMC}$)**: Emergency technician calls and drum replacements = **₦450,000 per term** (₦1,350,000/year).
-* **Bursary Clearance Leakage ($\text{BCR} \times \text{UFR}$)**: An average of 24 report cards mistakenly handed to students with unpaid tuition balances, resulting in uncollected term arrears averaging **₦5,800,000 per term** (₦17,400,000/year).
+* **Teacher Compilation Labor**: 85 teachers spending 28 hours per term = 2,380 hours. At an average hourly rate of ₦4,500, this squandered **₦10,710,000 per term**, or **₦32,130,000 per academic year** in lost instructional talent.
+* **Examination Office Overtime**: Four examination officers working 65 overtime hours each per term = 260 hours. At ₦6,000 per hour, overtime totaled **₦1,560,000 per term**, or **₦4,680,000 annually**.
+* **Paper, Cardstock & Toner Consumables**: 1,480 multi-page booklets printed on 300gsm linen cardstock with gold foil stamping and full-color toner cost ₦1,500 per booklet, consuming **₦2,220,000 per term**, or **₦6,660,000 annually**.
+* **Printer Servicing & Drum Replacements**: Emergency technician calls and replacement drum units cost **₦450,000 per term**, or **₦1,350,000 annually**.
+* **Bursary Clearance Leakage**: An average of 24 report cards mistakenly handed to students with unpaid tuition balances resulted in uncollected term arrears averaging **₦5,800,000 per term**, or **₦17,400,000 annually**.
 
-
-```text
-\begin{aligned}
-\text{Total Annual Report Card Friction Loss} &= ₦32,130,000 + ₦4,680,000 + ₦6,660,000 + ₦1,350,000 + ₦17,400,000 \\
-&= \mathbf{₦62,220,000} \text{ annually}
-\end{aligned}
-```
-
+| Friction Category | Annual Financial Drag | Operational Impact |
+| :--- | :--- | :--- |
+| **Teacher Compilation Labor** | ₦32,130,000 | 2,380 teacher hours squandered on clerical grading |
+| **Exam Office Overtime** | ₦4,680,000 | 260 overtime hours resolving spreadsheet formula errors |
+| **Cardstock, Foiling & Toner** | ₦6,660,000 | Physical production costs of 1,480 booklets per term |
+| **Printer Hardware Repairs** | ₦1,350,000 | Emergency technician callouts and replacement drums |
+| **Bursary Clearance Leakage** | ₦17,400,000 | Uncollected fees from manual report card releases |
+| **Total Annual Friction Drag** | **₦62,220,000** | **Massive operational overhead and cash-flow leakage** |
 
 Crown Heights was spending over **₦62 Million each year** in labor, paper consumables, printer repairs, and uncollected tuition leaks simply to produce physical report cards.
 
@@ -132,8 +128,12 @@ For multi-branch school networks, provide the Director of Schools with a consoli
 ### 10. Grant Lifelong Alumni Transcript Access
 Provide graduating students with permanent access to an authenticated digital transcript portal, eliminating administrative friction when alumni request official university transcripts years after graduation.
 
-![Figure 2: Workflow Automation & Infrastructure Teardown](https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/09/16023322/images-2026-09-16T023312.340_1789522402.webp&w=800&output=jpg)
-*Figure 2: Systems deployment and automated audit trails. Source: Punch Nigeria / Industry Monitor.*
+<div style="text-align: center; margin: 24px 0;">
+  <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/04/24134517/WhatsApp-Image-2026-04-24-at-12.41.08.jpeg&w=800&output=jpg" alt="Stakeholders urge government to prioritise teachers’ welfare" referrerpolicy="no-referrer" style="max-width: 720px; width: 100%; height: auto; border-radius: 8px; border: 1px solid #E2E8F0; display: block; margin: 0 auto;" />
+  <p style="font-size: 13px; color: #64748B; margin-top: 8px; line-height: 1.5; font-style: italic;">Figure 2: Systems Architecture & Audit Trail — National stakeholder forums on educator welfare emphasize that relieving teachers of repetitive clerical tasks is essential for instructional excellence and staff retention. Source: Punch Nigeria.</p>
+</div>
+
+As illustrated in Figure 2 above, educational stakeholder forums consistently stress that teacher welfare and instructional quality depend on eliminating grueling administrative burdens. Providing teachers with cloud-native grading software protects faculty well-being and elevates institutional productivity:
 
 ---
 

@@ -39,15 +39,25 @@ Weeks 4 to 10 across all sprints must match the exact depth, comprehensive struc
 9. **Product Spotlight & Founding Offer**: High-converting product positioning box, founder plan callout, and author signature (`— Ifeanyi Felix`).
 10. **Light Executive Footer**: 22px Cloudinary brand logo, legal entity, address, and personalization unsubscribe tags (`{{name}}`, `{{email}}`, `{{company}}`, `{{unsubscribe_url}}`).
 
-## 3. Blog Post Image Requirements (Minimum 3 Images per Post)
+## 3. Blog Post Image Requirements (Minimum 3 Images per Post & Non-Full-Width Sizing)
 * **Minimum 3 Embedded Images**: Every blog post across all 80 weeks must contain at least 3 actively embedded images:
-  1. **Hero / Featured Cover Image**: At the top of the post (`![Descriptive Caption](IMAGE_URL)`).
+  1. **Hero / Featured Cover Image**: At the top of the post (`![Descriptive Caption](IMAGE_URL)` or `<img src="IMAGE_URL" ... />`).
   2. **Inline Investigation / Case Study Image 1**: Accompanying empirical data or sector trends.
   3. **Inline Investigation / Case Study Image 2**: Accompanying operational teardown, regulatory event, or workflow comparison.
-* **Active Markdown / HTML Embedding**: Never use raw text bullets for images (e.g., avoid `* **Featured Image**: URL`). Always use `![Caption](URL)` or `<img src="URL" alt="Caption" referrerpolicy="no-referrer" width="100%" />`.
+* **Active Markdown / HTML Embedding**: Never use raw text bullets for images (e.g., avoid `* **Featured Image**: URL`). Always use `![Caption](URL)` or `<img src="URL" alt="Caption" referrerpolicy="no-referrer" style="max-width: 720px; width: 100%; height: auto; display: block; margin: 20px auto; border-radius: 8px;" />`.
+* **Blog Images Must Not Be Full Width**: Avoid blown-up 100% full-width images stretched across desktop screens. Constrain blog images to clean, editorial dimensions (e.g. max-width 720px, centered with balanced margins) so they integrate naturally with surrounding typography.
 * **Zero Image Repetition**: Each image must be unique and directly correlated with the topics discussed.
 
-## 4. Brand Segregation & Author Personas
+## 4. Mandatory Narrative Image Integration (Images Must Never Stand Alone)
+* **Strict Integration Rule**: Visual assets must **NEVER stand alone** as unreferenced decorations. 
+* **Explicit Narrative Mention**: Every single image—including Hero covers, inline figures, newsletter cover stories, Curated Briefs (all 3 items), and Industry News Spotlights—must be **explicitly mentioned in the surrounding narration**.
+  - Cite the visual directly (e.g., *"As illustrated in Nairametrics' market coverage (featured photo above)..."*, *"As demonstrated in Figure 1 below..."*, *"As documented in the investigation photo above (Source: Punch Nigeria)..."*).
+  - Use the image to **buttress a key operational argument**, introduce/support **empirical metrics or sector statistics**, or highlight a **concrete real-world regulatory/industry case study**.
+* **Descriptive Contextual Captions & Alt Text**:
+  - Image descriptions, captions, and `alt` attributes must not be generic labels (e.g., avoid *"Figure 1: Field investigations"* or *"Photo: Instagram"*).
+  - Every description must explicitly explain **what the image depicts AND how it directly connects to the operational context and business lesson of that section**.
+
+## 5. Brand Segregation & Author Personas
 * **Sprints 01 to 04**: **Ofia.ng**
   - **Domain**: `https://www.ofia.ng`
   - **Logo**: `https://res.cloudinary.com/wnmabxiy/image/upload/v1793738590/9mm/ofia_logo.svg`
@@ -59,8 +69,28 @@ Weeks 4 to 10 across all sprints must match the exact depth, comprehensive struc
   - **Author**: Ifeanyi Felix (Head of Institutional Governance / Public Sector Strategy)
   - **Themes**: K-12 private school ERP, tertiary campus university automation, EdTech CBT infrastructure, SUBEB biometric civil service & ghost worker auditing.
 
-## 5. Quality Control & Execution Protocol
-* **No Blind Batch Writing**: Refactor and inspect one file at a time or use coordinated subagents for granular quality control.
+## 6. Quality Control & Execution Protocol
+* **No Blind Batch Writing**: Refactor and inspect one file at a time or use coordinated subagents for granular quality control. Never replace rich, specific editorial prose with generic template boilerplate.
+* **Strictly Zero Scripts**: Never run shell/python scripts or automated scripts to edit deliverables or deduplication files. Perform all reading and editing using native file editing tools.
 * Native markdown tables for data, balance sheets, and comparison matrices (zero ASCII box art, zero fenced code block tables).
 * Clean Unicode typography (₦ for Naira, %, —, •) with no broken escapes.
 * All links must be fully qualified and functional.
+
+## 7. Granular Content & Visual Curation Protocol (Laser-Precision Execution)
+* **Sub-Agent Copy Reading & Evaluation**:
+  - For each edition (blog and email), read the text closely to identify the specific operational bottleneck, case study, or thesis being discussed (e.g., DM checkout drop-off, demurrage in port haulage, gradebook calculation errors, ghost worker audits).
+* **Worthy & Deduplicated Story Verification**:
+  - Check existing stories, news citations, and case studies in the copy.
+  - **If a cited story/event is authentic, worthy, and deduplicated**: Search the verified Nigerian/African news source (Punch, Nairametrics, TechCabal, BusinessDay, Daily Trust, Techpoint Africa) for that story's original live visual/photo asset, embed the visual with `referrerpolicy="no-referrer"`, and hyperlink the source publication.
+  - **If no worthy or deduplicated story/event exists** (or if the existing reference is broken, generic, or duplicated elsewhere): Find and add an authentic, deduplicated, topic-specific Nigerian news story/event that laser-matches the weekly narrative, embed its real visual, and hyperlink the curation source in the copy.
+* **Thematic Alignment & Narrative Integration of Visuals**:
+  - In `blog-post.md`: Embed 3 distinct, authentic images (Hero Cover, Figure 1 Case Study, Figure 2 Architecture) directly relevant to the specific sections they accompany, with descriptive journalistic captions citing the real Nigerian source. Every image must be mentioned in the text to buttress an argument or statistic. Blog images must not be full width. Zero `$$` math formula blocks.
+  - In `email-blast.html` & `email-blast.md`: Ensure Lead Cover Story, Section 5 Curated Briefs (3 items), and Industry Spotlight feature authentic, unique Nigerian news visuals with matching hyperlinked headlines, sources, explicit narrative references, and descriptive captions/alts.
+* **Global Deduplication Registry**:
+  - Maintain absolute repository-wide deduplication. Every visual asset must appear in exactly one place across all 80 weeks.
+
+## 8. Mandatory Content Hub Synchronization (content-data.js & content-data.json)
+* **Always Sync After An Update**: Whenever any deliverable (`blog-post.md`, `email-blast.html`, `email-blast.md`, `video-script.md`, or `social-media-carousel.md`) is modified or curated, ALWAYS synchronize the updated file content, titles, and visual assets into `content-data.js` and `content-data.json`.
+* **Zero Stale Cache in Content Hub**: `contenthub.html` runs locally via the `file:///` protocol and relies directly on `content-data.js`. Synchronizing after every change guarantees that the Content Hub immediately displays the latest live visuals, word counts, and verified copy without serving stale or obsolete placeholder assets.
+
+

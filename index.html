@@ -129,6 +129,15 @@ button, .filter-btn, .stream-btn, .sidebar-week-btn, .copy-btn, .view-mode-tab, 
   align-items: center;
   gap: 6px;
 }
+.brand-badge-ch {
+  background: #0D5C3A;
+  color: #FFFFFF;
+  padding: 5px 10px;
+  border-left: 2px solid #D97706;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
 
 .header-title-wrap {
   display: flex;
@@ -380,6 +389,11 @@ button, .filter-btn, .stream-btn, .sidebar-week-btn, .copy-btn, .view-mode-tab, 
   color: #FFFFFF !important;
   border-color: var(--rp-primary) !important;
 }
+.filter-btn.active-ch {
+  background: #0D5C3A !important;
+  color: #FFFFFF !important;
+  border-color: #0D5C3A !important;
+}
 
 .filter-count {
   font-family: var(--mono);
@@ -389,7 +403,8 @@ button, .filter-btn, .stream-btn, .sidebar-week-btn, .copy-btn, .view-mode-tab, 
 }
 .filter-btn.active .filter-count,
 .filter-btn.active-ofia .filter-count,
-.filter-btn.active-rp .filter-count {
+.filter-btn.active-rp .filter-count,
+.filter-btn.active-ch .filter-count {
   background: rgba(255, 255, 255, 0.25);
   color: #FFFFFF;
 }
@@ -989,6 +1004,28 @@ button, .filter-btn, .stream-btn, .sidebar-week-btn, .copy-btn, .view-mode-tab, 
   color: #374151;
 }
 
+.formatted-preview img {
+  display: block !important;
+  max-width: 560px !important;
+  width: 100% !important;
+  height: auto !important;
+  margin: 24px auto !important;
+  border-radius: 8px !important;
+  border: 1px solid var(--line) !important;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.05) !important;
+}
+
+.formatted-preview p > em:only-child,
+.formatted-preview em.img-caption {
+  display: block;
+  text-align: center;
+  font-size: 0.84rem;
+  color: var(--text-muted);
+  margin-top: -14px;
+  margin-bottom: 24px;
+  font-style: italic;
+}
+
 .raw-code-container {
   position: relative;
   background: #0F172A;
@@ -1081,10 +1118,13 @@ button, .filter-btn, .stream-btn, .sidebar-week-btn, .copy-btn, .view-mode-tab, 
       <span class="brand-badge-rp">
         <img src="https://res.cloudinary.com/wnmabxiy/image/upload/v1793738629/9mm/resultspro_logo.png" alt="ResultsPro" width="16" height="16">RESULTSPRO
       </span>
+      <span class="brand-badge-ch">
+        <img src="https://res.cloudinary.com/yugcjpau/image/upload/v1793934925/9mm/compliancehub_logo.png" alt="ComplianceHub" width="16" height="16">COMPLIANCEHUB
+      </span>
     </div>
     <div class="header-title-wrap">
       <div class="header-title">9MM Content Hub</div>
-      <div class="header-subtitle">ResultsPro &amp; Ofia 9-Month Marketing Matrix</div>
+      <div class="header-subtitle">Ofia, ResultsPro &amp; ComplianceHub 9-Month Marketing Matrix</div>
     </div>
   </div>
 
@@ -1104,7 +1144,7 @@ button, .filter-btn, .stream-btn, .sidebar-week-btn, .copy-btn, .view-mode-tab, 
       <span class="hub-tag">PRODUCTION ENGINE · 9-MONTH MARKETING MATRIX</span>
       <h1>Content Hub</h1>
       <p class="hub-hero-desc">
-        Complete multi-channel marketing deliverables parsed <strong>live on the page</strong> across all 8 Sprints and both Brands (Ofia Enterprise Growth &amp; ResultsPro Educational Support). 
+        Complete multi-channel marketing deliverables parsed <strong>live on the page</strong> across all 12 Sprints and 3 Brands (Ofia Enterprise Growth, ResultsPro Educational Support &amp; ComplianceHub Regulatory Compliance). 
         Each asset incorporates verified market research data, quantitative friction models, and 1-click clipboard copy for social, direct outreach, and editorial publication.
       </p>
 
@@ -1112,7 +1152,7 @@ button, .filter-btn, .stream-btn, .sidebar-week-btn, .copy-btn, .view-mode-tab, 
       <div class="live-sync-banner">
         <div class="live-sync-info">
           <span class="pulse-dot"></span>
-          <span id="liveSyncText"><strong>Live Content Store:</strong> 400 deliverables verified across Sprint-01 to Sprint-08 (100% Production Complete).</span>
+          <span id="liveSyncText"><strong>Live Content Store:</strong> Verified deliverables loaded across Sprints 01 to 12.</span>
         </div>
         <div class="live-sync-actions">
           <button class="sync-action-btn" onclick="fetchLiveDirectory()">
@@ -1123,18 +1163,18 @@ button, .filter-btn, .stream-btn, .sidebar-week-btn, .copy-btn, .view-mode-tab, 
       
       <div class="hub-stats-grid">
         <div class="hub-stat-card">
-          <span class="hub-stat-num">8 Sprints</span>
+          <span class="hub-stat-num">12 Sprints</span>
           <span class="hub-stat-label">Campaign Matrix</span>
-          <span class="hub-stat-sub">S1–S4 Ofia · S5–S8 ResultsPro</span>
+          <span class="hub-stat-sub">S1–S4 Ofia · S5–S8 ResultsPro · S9–S12 ComplianceHub</span>
         </div>
         <div class="hub-stat-card">
-          <span class="hub-stat-num">2 Brands</span>
+          <span class="hub-stat-num">3 Brands</span>
           <span class="hub-stat-label">Software Universes</span>
-          <span class="hub-stat-sub">Commerce OS &amp; EdTech ERP</span>
+          <span class="hub-stat-sub">Commerce, EdTech ERP &amp; Compliance</span>
         </div>
         <div class="hub-stat-card">
-          <span class="hub-stat-num">400 Assets</span>
-          <span class="hub-stat-label">Deliverables Live</span>
+          <span class="hub-stat-num">Deliverables</span>
+          <span class="hub-stat-label">Production Assets</span>
           <span class="hub-stat-sub">Blogs, Emails, Scripts, Carousels</span>
         </div>
         <div class="hub-stat-card">
@@ -1157,15 +1197,19 @@ button, .filter-btn, .stream-btn, .sidebar-week-btn, .copy-btn, .view-mode-tab, 
         <div class="filter-cluster-group">
           <button class="filter-btn active" data-brand="all" onclick="setBrandFilter('all')">
             <span>All Brands</span>
-            <span class="filter-count">400</span>
+            <span class="filter-count">0</span>
           </button>
           <button class="filter-btn" data-brand="ofia" onclick="setBrandFilter('ofia')">
             <span>Ofia (Sprints 1-4)</span>
-            <span class="filter-count">200</span>
+            <span class="filter-count">0</span>
           </button>
           <button class="filter-btn" data-brand="resultspro" onclick="setBrandFilter('resultspro')">
             <span>ResultsPro (Sprints 5-8)</span>
-            <span class="filter-count">200</span>
+            <span class="filter-count">0</span>
+          </button>
+          <button class="filter-btn" data-brand="compliancehub" onclick="setBrandFilter('compliancehub')">
+            <span>ComplianceHub (Sprints 9-12)</span>
+            <span class="filter-count">0</span>
           </button>
         </div>
 
@@ -1188,6 +1232,10 @@ button, .filter-btn, .stream-btn, .sidebar-week-btn, .copy-btn, .view-mode-tab, 
           <button class="filter-btn" data-sprint="sprint-06" onclick="setSprintFilter('sprint-06')">S6: Campus Portals</button>
           <button class="filter-btn" data-sprint="sprint-07" onclick="setSprintFilter('sprint-07')">S7: EdTech Scale</button>
           <button class="filter-btn" data-sprint="sprint-08" onclick="setSprintFilter('sprint-08')">S8: Compliance</button>
+          <button class="filter-btn" data-sprint="sprint-09" onclick="setSprintFilter('sprint-09')">S9: CAC Governance</button>
+          <button class="filter-btn" data-sprint="sprint-10" onclick="setSprintFilter('sprint-10')">S10: Statutory Quad</button>
+          <button class="filter-btn" data-sprint="sprint-11" onclick="setSprintFilter('sprint-11')">S11: SCUML &amp; Licensing</button>
+          <button class="filter-btn" data-sprint="sprint-12" onclick="setSprintFilter('sprint-12')">S12: NDPA &amp; Enterprise</button>
         </div>
       </div>
 
@@ -1345,6 +1393,66 @@ const SPRINT_METADATA = {
     "theme": "Ministries of Education & Enterprise Auditing",
     "persona": "Commissioners of Education, Permanent Secretaries, State Auditors",
     "thesis": "Eliminating ghost teachers, cross-district compliance, sovereign audit ledgers"
+  },
+  "sprint-09": {
+    "id": "sprint9",
+    "brand": "compliancehub",
+    "brandName": "ComplianceHub",
+    "brandDomain": "https://www.compliancehub.ng",
+    "logo": "https://res.cloudinary.com/yugcjpau/image/upload/v1793934925/9mm/compliancehub_logo.png",
+    "name": "Sprint 9: Corporate Integrity & CAC Annual Returns",
+    "short": "S9: CAC Governance",
+    "color": "#0D5C3A",
+    "bg": "#ECFDF5",
+    "border": "#A7F3D0",
+    "theme": "Corporate Affairs Commission & Banking Continuity",
+    "persona": "SME Founders, Managing Directors, Company Secretaries, Legal Advisers",
+    "thesis": "Preventing bank account freezes, annual return arrears, and PSC penalties"
+  },
+  "sprint-10": {
+    "id": "sprint10",
+    "brand": "compliancehub",
+    "brandName": "ComplianceHub",
+    "brandDomain": "https://www.compliancehub.ng",
+    "logo": "https://res.cloudinary.com/yugcjpau/image/upload/v1793934925/9mm/compliancehub_logo.png",
+    "name": "Sprint 10: The Statutory Quad & Tender Readiness",
+    "short": "S10: Statutory Quad",
+    "color": "#064E3B",
+    "bg": "#ECFDF5",
+    "border": "#A7F3D0",
+    "theme": "PenCom, ITF, NSITF & Tax Clearance Certificates",
+    "persona": "Bidding Contractors, HR Heads, CFOs, Procurement Officers",
+    "thesis": "Securing the Big 4 statutory clearances for public and corporate tenders"
+  },
+  "sprint-11": {
+    "id": "sprint11",
+    "brand": "compliancehub",
+    "brandName": "ComplianceHub",
+    "brandDomain": "https://www.compliancehub.ng",
+    "logo": "https://res.cloudinary.com/yugcjpau/image/upload/v1793934925/9mm/compliancehub_logo.png",
+    "name": "Sprint 11: High-Scrutiny Sector Clearances (SCUML, FCCPC & NAFDAC)",
+    "short": "S11: SCUML & Licensing",
+    "color": "#D97706",
+    "bg": "#FFFBEB",
+    "border": "#FDE68A",
+    "theme": "Anti-Money Laundering (SCUML) & Regulated Verticals",
+    "persona": "Real Estate Developers, Auto Dealers, Digital Lenders, FMCG Operators",
+    "thesis": "Accelerated SCUML certificates, DNFBP cash reporting, and FCCPC digital licensing"
+  },
+  "sprint-12": {
+    "id": "sprint12",
+    "brand": "compliancehub",
+    "brandName": "ComplianceHub",
+    "brandDomain": "https://www.compliancehub.ng",
+    "logo": "https://res.cloudinary.com/yugcjpau/image/upload/v1793934925/9mm/compliancehub_logo.png",
+    "name": "Sprint 12: Enterprise Governance & Data Privacy (NDPA 2023)",
+    "short": "S12: NDPA & Enterprise",
+    "color": "#0D5C3A",
+    "bg": "#ECFDF5",
+    "border": "#A7F3D0",
+    "theme": "Nigeria Data Protection Act, Expatriate Quotas & Board Compliance",
+    "persona": "Enterprise General Counsel, Data Protection Officers, Tech Scaleup Founders",
+    "thesis": "NDPC audit filings by March 15, DPO appointments, and NOTAP tech transfer certifications"
   }
 };
 
@@ -1385,6 +1493,7 @@ function updateGlobalCounters() {
   const total = allDeliverables.length;
   const ofiaCount = allDeliverables.filter(d => d.brand === 'ofia').length;
   const rpCount = allDeliverables.filter(d => d.brand === 'resultspro').length;
+  const chCount = allDeliverables.filter(d => d.brand === 'compliancehub').length;
 
   const btnAll = document.querySelector('[data-brand="all"] .filter-count');
   if (btnAll) btnAll.textContent = total;
@@ -1394,6 +1503,9 @@ function updateGlobalCounters() {
 
   const btnRp = document.querySelector('[data-brand="resultspro"] .filter-count');
   if (btnRp) btnRp.textContent = rpCount;
+
+  const btnCh = document.querySelector('[data-brand="compliancehub"] .filter-count');
+  if (btnCh) btnCh.textContent = chCount;
 
   const statAssets = document.querySelectorAll('.hub-stat-num');
   if (statAssets.length >= 3) {
@@ -1597,10 +1709,12 @@ function setWeekFilter(week) {
 function setBrandFilter(brand) {
   currentBrandFilter = brand;
   document.querySelectorAll('[data-brand]').forEach(btn => {
-    btn.classList.remove('active', 'active-ofia', 'active-rp');
+    btn.classList.remove('active', 'active-ofia', 'active-rp', 'active-ch');
     if (btn.dataset.brand === brand) {
       if (brand === 'all') btn.classList.add('active');
-      else btn.classList.add(brand === 'ofia' ? 'active-ofia' : 'active-rp');
+      else if (brand === 'ofia') btn.classList.add('active-ofia');
+      else if (brand === 'resultspro') btn.classList.add('active-rp');
+      else if (brand === 'compliancehub') btn.classList.add('active-ch');
     }
   });
   renderHubView();
@@ -1658,7 +1772,7 @@ function resetFilters() {
   if (clearBtn) clearBtn.style.display = 'none';
 
   document.querySelectorAll('[data-brand]').forEach(b => b.classList.toggle('active', b.dataset.brand === 'all'));
-  document.querySelectorAll('[data-brand]').forEach(b => b.classList.remove('active-ofia', 'active-rp'));
+  document.querySelectorAll('[data-brand]').forEach(b => b.classList.remove('active-ofia', 'active-rp', 'active-ch'));
   document.querySelectorAll('#sprint-filter-pills .filter-btn').forEach(b => b.classList.toggle('active', b.dataset.sprint === 'all'));
   document.querySelectorAll('[data-stream]').forEach(b => b.classList.toggle('active', b.dataset.stream === 'all'));
 

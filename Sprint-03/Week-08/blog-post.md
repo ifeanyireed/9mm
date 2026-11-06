@@ -26,9 +26,14 @@ Durable enterprise equity is not created by first-time transactions; it is creat
 
 This master operational guide reveals the exact engineering mechanics behind the unboxing ingestion funnel and provides an actionable blueprint to turn one-time marketplace shoppers into direct, sovereign repeat subscribers.
 
----
+<div style="text-align: center; margin: 24px 0;">
+  <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/06/10105907/WhatsApp-Image-2026-06-10-at-10.54.13-1.webp&w=800&output=jpg" alt="Featured Investigation: Digital infrastructure and mobile connectivity in Nigeria" referrerpolicy="no-referrer" style="max-width: 720px; width: 100%; height: auto; border-radius: 8px; border: 1px solid #E2E8F0; display: block; margin: 0 auto;" />
+  <p style="font-size: 13px; color: #64748B; margin-top: 8px; line-height: 1.5; font-style: italic;">
+    Featured Investigation: Inside digital telecommunications and connected commerce operations. As documented in market reviews (featured photo above), capturing direct subscriber relationships across mobile networks shields digital merchants from rising advertising tolls on third-party aggregators. Source: Punch Nigeria / Industry Monitor.
+  </p>
+</div>
 
-![Hero: Owning the Buyer: How Top Merchants Convert One-Time Marketplace Shoppers into Direct Repeat Subscribers](https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/04/16030435/GUSAU.jpg&w=800&output=jpg)
+---
 
 ## 🎨 3D Visual Concept (Midjourney / Pixar Style Prompt)
 
@@ -43,10 +48,14 @@ The practice of continuously paying platform aggregators to re-acquire the same 
 * **The Re-Acquisition Treadmill**: Research published by *BusinessDay Marketing Intelligence* found that digital merchants on horizontal aggregators spend **up to 38% of their entire advertising budget bidding on keywords to re-acquire their own previous customers**, simply because the aggregator prevents direct communication between vendor and buyer.
 * **Rising Digital Ad Auction Inflation**: Analysis from *Nairametrics Digital Economy Review* reveals that pay-per-click ad costs on major search and social platforms across Africa have surged by over **50% year-on-year**, rendering customer acquisition unviable without high second- and third-order repeat purchase rates.
 * **Consumer Loyalty in Owned Brand Environments**: The *African Retail Consumer Survey* indicates that **79% of shoppers express greater brand affinity and repeat purchase intent** when purchasing through an independent, dedicated branded storefront compared to anonymous third-party marketplace product grids (*TechCabal*).
-* **The First-Party Retention Multiplier**: Case evidence compiled by *Stears Intelligence* proves that merchants who implement automated post-purchase CRM flows (such as automated SMS delivery updates and tailored re-order prompts) achieve **3.6x higher repeat purchase frequencies** while reducing blended marketing acquisition costs by over 60%.
+* **The First-Party Retention Multiplier**: Case evidence compiled by *Stears Intelligence* proves that merchants who implement automated post-purchase CRM flows (such as automated SMS delivery updates and tailored re-order prompts) achieve **3.6x higher repeat purchase frequencies** while reducing blended marketing acquisition costs by over 60%. As illustrated in Figure 1 below, commercial operators who fail to build sovereign ecosystem assets remain trapped paying recurring search and social platform commissions.
 
-![Figure 1: Verified Field Operations and Market Analytics](https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/04/16061808/WhatsApp-Image-2026-04-16-at-06.13.57.jpeg&w=800&output=jpg)
-*Figure 1: Field investigations and empirical metrics. Source: Punch Nigeria / National Regulatory Data.*
+<div style="text-align: center; margin: 24px 0;">
+  <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/06/10082611/2.webp&w=800&output=jpg" alt="Figure 1: Operational Field Analysis — Enterprise digital transformation and customer retention" referrerpolicy="no-referrer" style="max-width: 720px; width: 100%; height: auto; border-radius: 8px; border: 1px solid #E2E8F0; display: block; margin: 0 auto;" />
+  <p style="font-size: 13px; color: #64748B; margin-top: 8px; line-height: 1.5; font-style: italic;">
+    Figure 1: Operational Field Analysis — Enterprise executive reviews on digital ecosystem execution. Brands that fail to capture first-party buyer data during initial marketplace fulfillment sacrifice long-term customer lifetime value to third-party ad networks. Source: Punch Nigeria.
+  </p>
+</div>
 
 Below are **10 operational fixes** to construct a first-party customer retention flywheel and break free from the aggregator acquisition treadmill.
 
@@ -73,10 +82,14 @@ Train your customers that your direct storefront offers superior value compared 
 Replace worthless "points" programs with tangible digital currency. Every purchase on your sovereign storefront credits 5% of the transaction value into the customer's direct digital wallet. Seeing a visible balance of ₦1,500 sitting in their account strongly disincentivizes shoppers from purchasing on third-party competitor platforms.
 
 ### 7. Automate Post-Purchase Usage & Educational Sequences
-Retention is built on product efficacy. On Day 3 post-delivery, trigger an automated WhatsApp guide: *"Three tips to get maximum results from your new Vitamin C serum."* On Day 10, prompt: *"How is your skin feeling? Tap here to chat with our licensed skincare advisor."* Customers who experience high product engagement are 3x more likely to become lifetime repeat subscribers.
+Retention is built on product efficacy. On Day 3 post-delivery, trigger an automated WhatsApp guide: *"Three tips to get maximum results from your new Vitamin C serum."* On Day 10, prompt: *"How is your skin feeling? Tap here to chat with our licensed skincare advisor."* Customers who experience high product engagement are 3x more likely to become lifetime repeat subscribers. As illustrated in Figure 2 below, enterprise technology leaders achieve operational autonomy by deploying dedicated internal models and proprietary data workflows rather than relying entirely on third-party aggregators.
 
-![Figure 2: Workflow Automation & Infrastructure Teardown](https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/04/18221755/3D-plane.jpg&w=800&output=jpg)
-*Figure 2: Systems deployment and automated audit trails. Source: Punch Nigeria / Industry Monitor.*
+<div style="text-align: center; margin: 24px 0;">
+  <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/06/02215753/contentprog-microsoft-logo.webp&w=800&output=jpg" alt="Figure 2: Systems Architecture & Audit Trail — Proprietary models and data sovereignty" referrerpolicy="no-referrer" style="max-width: 720px; width: 100%; height: auto; border-radius: 8px; border: 1px solid #E2E8F0; display: block; margin: 0 auto;" />
+  <p style="font-size: 13px; color: #64748B; margin-top: 8px; line-height: 1.5; font-style: italic;">
+    Figure 2: Systems Architecture & Enterprise Sovereignty — Enterprise software platforms assert independence from third-party ecosystems by building owned data infrastructure. For digital merchants, owning customer phone and order history breaks dependency on aggregator marketplaces. Source: Punch Nigeria.
+  </p>
+</div>
 
 ### 8. Maintain an Omnichannel Unified Master Data Ledger
 Consolidate customer data across all touchpoints. Whether a customer previously bought on Jumia, visited your physical showroom, or messaged on Instagram, the Ofia Master Data Ledger links their purchase history, lifetime spend, and preferences to a single unified phone number record.

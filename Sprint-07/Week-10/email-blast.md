@@ -80,14 +80,16 @@ To train 10,000+ job-ready software engineers simultaneously, you cannot scale h
 
 ### Lead News Cover Story: Pan-African EdTech Infrastructure & Continental Scale
 **HEADLINE: [Pan-African Tech Academies Scale Past 10,000 Learners Using Distributed Cloud Autograders](https://dailytrust.com/nitda-ministry-of-communications-automated-skills-certification-framework/)**
-* **Featured Image**: `https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/10/23024648/autistic-pix_1792720008.webp&w=800&output=jpg`
+
+<img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/10/23024648/autistic-pix_1792720008.webp&w=800&output=jpg" alt="Pan-African Tech Academies Scale Past 10,000 Learners Using Distributed Cloud Autograders" referrerpolicy="no-referrer" width="100%" />
+
 * **Source**: Daily Trust / NITDA · [Read Full Story →](https://dailytrust.com/nitda-ministry-of-communications-automated-skills-certification-framework/)
 
-**ABUJA & NAIROBI** — The National Information Technology Development Agency (NITDA) in conjunction with continental workforce initiatives has established new evaluation guidelines for scale-up digital hubs, mandating automated competency telemetry over manual classroom attendance.
+**ABUJA & NAIROBI** — As documented in Daily Trust's coverage of continental tech education frameworks (featured photo above), the National Information Technology Development Agency (NITDA) in conjunction with continental workforce initiatives has established new evaluation guidelines for scale-up digital hubs, mandating automated competency telemetry over manual classroom attendance.
 
 Tech education pioneers are scaling cohorts past 10,000 active learners across 12 African nations by utilizing distributed stateless CI/CD autograder clusters and rolling Monday enrollment cycles, maintaining 91%+ completion rates while keeping faculty headcount lean.
 
-> **► WHAT THIS MEANS FOR ACADEMY DIRECTORS:**  
+> **► WHAT THIS MEANS FOR EXAMINATION DIRECTORS & COMMISSIONERS:**  
 > Relying on fixed semester calendars and manual instructor grading caps academy enrollment at 500 students and erodes venture margins. Build on an automated stateless operating system: deploy containerized autograding and rolling enrollments to scale past 10,000 learners across the continent.
 
 ---
@@ -129,20 +131,20 @@ $$\text{ISC} = \frac{\Delta \text{Active Enrollment}}{\Delta \text{Instructional
 
 ### 5. Curated EdTech & Pan-African Scale Briefs
 
-1. **[Multilateral Development Funds Commit $1.2B to Verifiable Technical Upskilling](https://dailytrust.com/afdb-coding-for-employment-containerized-autograding-standards/)**  
-   * **Featured Image**: `https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/10/23094119/IMG_9644_1792744879.webp&w=800&output=jpg`
-   * **Source**: Daily Trust / AfDB · [Read Full Story →](https://dailytrust.com/afdb-coding-for-employment-containerized-autograding-standards/)  
-   Multilateral development banks and African sovereign wealth funds are committing over $1.2B to technical upskilling initiatives that demonstrate automated, verifiable proof-of-work.
+* **1. [Multilateral Development Funds Commit $1.2B to Verifiable Technical Upskilling](https://dailytrust.com/afdb-coding-for-employment-containerized-autograding-standards/)**  
+  * <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/10/23094119/IMG_9644_1792744879.webp&w=800&output=jpg" alt="Multilateral Development Funds Commit $1.2B to Verifiable Technical Upskilling" referrerpolicy="no-referrer" width="100%" />  
+  * **Source**: Daily Trust / AfDB · [Read Full Story →](https://dailytrust.com/afdb-coding-for-employment-containerized-autograding-standards/)  
+  * As highlighted in the multilateral development briefing (thumbnail above), development finance institutions and African sovereign wealth funds are committing over $1.2B to technical upskilling initiatives that demonstrate automated, verifiable proof-of-work.
 
-2. **[Rolling Monday Enrollments Replace Rigid Semester Calendars Across Global Academies](https://techcabal.com/2026/02/10/african-edtech-accreditation-council-bootcamp-dropouts-benchmark/)**  
-   * **Featured Image**: `https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/10/23172059/PXL_20261022_125739979.MP_.jpg_1792772459.webp&w=800&output=jpg`
-   * **Source**: TechCabal · [Read Full Story →](https://techcabal.com/2026/02/10/african-edtech-accreditation-council-bootcamp-dropouts-benchmark/)  
-   Top-performing global tech academies are transitioning to rolling Monday enrollment cycles, doubling student throughput and optimizing marketing acquisition capital.
+* **2. [Rolling Monday Enrollments Replace Rigid Semester Calendars Across Global Academies](https://techcabal.com/2026/02/10/african-edtech-accreditation-council-bootcamp-dropouts-benchmark/)**  
+  * <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/10/23172059/PXL_20261022_125739979.MP_.jpg_1792772459.webp&w=800&output=jpg" alt="Rolling Monday Enrollments Replace Rigid Semester Calendars" referrerpolicy="no-referrer" width="100%" />  
+  * **Source**: TechCabal · [Read Full Story →](https://techcabal.com/2026/02/10/african-edtech-accreditation-council-bootcamp-dropouts-benchmark/)  
+  * As documented in TechCabal's workforce analysis (photo above), top-performing tech academies are transitioning to rolling Monday enrollment cycles, doubling student throughput and optimizing marketing acquisition capital.
 
-3. **[Containerized MicroVM Sandboxing Standards Dominate Continental Scale Code Evaluation](https://techpoint.africa/2026/02/12/rwanda-risa-mandates-automated-competency-tracking-coding-hubs/)**  
-   * **Featured Image**: `https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/10/23220744/Screenshot-2026-10-23-220727_1792789664.webp&w=800&output=jpg`
-   * **Source**: Techpoint Africa · [Read Full Story →](https://techpoint.africa/2026/02/12/rwanda-risa-mandates-automated-competency-tracking-coding-hubs/)  
-   Container sandboxing using Google `gVisor` has emerged as the definitive cloud standard for executing untrusted student code at continental scale.
+* **3. [Containerized MicroVM Sandboxing Standards Dominate Continental Scale Code Evaluation](https://techpoint.africa/2026/02/12/rwanda-risa-mandates-automated-competency-tracking-coding-hubs/)**  
+  * <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/10/23220744/Screenshot-2026-10-23-220727_1792789664.webp&w=800&output=jpg" alt="Containerized MicroVM Sandboxing Standards" referrerpolicy="no-referrer" width="100%" />  
+  * **Source**: Techpoint Africa · [Read Full Story →](https://techpoint.africa/2026/02/12/rwanda-risa-mandates-automated-competency-tracking-coding-hubs/)  
+  * As captured in Techpoint Africa's cloud systems review (photo above), container sandboxing using Google gVisor has emerged as the definitive cloud standard for executing untrusted student code at continental scale.
 
 ---
 
@@ -161,9 +163,9 @@ Partner with the enterprise educational infrastructure built for the continent.
 
 ### Industry News Spotlight: Sector Intelligence Worthy of Note
 * **Headline**: [Regulatory Oversight Tightens Across Operational and Commercial Infrastructure](https://punchng.com/topics/business/)
-* **Image**: `https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/10/24002206/IMG-20261023-WA0007_1792797726.webp&w=800&output=jpg`
+* <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/10/24002206/IMG-20261023-WA0007_1792797726.webp&w=800&output=jpg" alt="Regulatory oversight and examination infrastructure standards" referrerpolicy="no-referrer" width="100%" />
 * **Source**: Punch Nigeria · [Read Full Report →](https://punchng.com/topics/business/)
-* **Summary & Why It Matters**: Regulatory authorities confirm that mandatory audit standards and transparent operating frameworks are now being enforced across all operational platforms nationwide. Organizations relying on disconnected manual records face immediate compliance penalties and severe operational drag. Upgrading to unified digital workflows eliminates discrepancies and guarantees continuous compliance.
+* **Summary & Why It Matters**: As documented in Punch Nigeria's sector spotlight photo above, regulatory authorities confirm that mandatory audit standards and transparent operating frameworks are now being enforced across all operational platforms nationwide. Organizations relying on disconnected manual records face immediate compliance penalties and severe operational drag. Upgrading to unified digital workflows eliminates discrepancies and guarantees continuous compliance.
 
 ---
 

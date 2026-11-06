@@ -43,7 +43,7 @@ Could we schedule a 15-minute operational call this week to review {{company}}'s
 Best regards,
 
 Ifeanyi Felix
-Head of Educational Technology, ResultsPro Educational Support
+Head of Institutional Governance / Public Sector Strategy, ResultsPro.ng
 Phone: +234 (0) 800-RESULTS | Email: enterprise@resultspro.ng
 https://www.resultspro.ng/coursespro
 
@@ -70,45 +70,48 @@ The existential breaking point occurs on Sunday night of Week 2, when 500 studen
 
 ---
 
-### Cover Story: EdTech Quality Assurance
-### [African EdTech Accreditation Council Benchmark Reveals 64% of Coding Bootcamp Dropouts Correlate Directly with Multi-Week Grading Backlogs](https://techcabal.com/2026/02/10/african-edtech-accreditation-council-bootcamp-dropouts-benchmark/)
-*Cover Image: [Students and instructors collaborating in a modern software development technology laboratory](https://techcabal.com/wp-content/uploads/2024/09/software-engineering-learning-lab.jpg) (Source: TechCabal / AETAC)*
+### Cover Story: EdTech Quality Assurance & Technical Workforce
+**HEADLINE: [Rector advocates skill-based education to bridge workforce gap](https://punchng.com/rector-advocates-skill-based-education-to-bridge-workforce-gap/)**
+* <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/09/01025350/images-2026-09-01T025340.018_1788227630.webp&w=800&output=jpg" alt="Rector advocates skill-based education to bridge workforce gap" referrerpolicy="no-referrer" width="100%" />
+* **Source**: Punch Nigeria · [Read Full Story →](https://punchng.com/rector-advocates-skill-based-education-to-bridge-workforce-gap/)
 
-**NAIROBI & LAGOS** — The African EdTech Accreditation Council (AETAC), in conjunction with global workforce alliances, published its landmark continental skills certification benchmark, uncovering that 64% of tech bootcamp dropouts cite prolonged code evaluation latency as the decisive factor for abandoning courses.
+**LAGOS & ABUJA** — Technical education leaders and academic rectors are issuing urgent calls for institutional shifts toward skill-based, practical software engineering training to close Africa's expanding digital workforce deficit. As documented in Punch Nigeria's coverage (featured photo above), vocational coding programs and technical institutions routinely hit an operational ceiling once cohort enrollments exceed 200 learners.
 
 While manual code reviews drag feedback cycles past 10 days, top-tier academies operating containerized Continuous Integration (CI) autograders and standardized atomic rubrics achieve student completion rates of 86%, maintaining teaching assistant retention three times higher than legacy competitors.
 
-👉 **[Read full story at TechCabal →](https://techcabal.com/2026/02/10/african-edtech-accreditation-council-bootcamp-dropouts-benchmark/)**
+> "Scaling practical technical academies on manual pull request reviews breaks instructor capacity and triggers severe cohort churn. Transitioning to automated continuous integration autograders protects learner velocity and institutional completion rates."
 
-#### ► WHAT THIS MEANS FOR ACADEMY DIRECTORS
-Do not scale student acquisition without containerized autograding. Relying on human teaching assistants to clone GitHub repos and review syntax by hand caps cohort capacity at 100 students and guarantees high learner attrition.
+👉 **[Read full story at Punch Nigeria →](https://punchng.com/rector-advocates-skill-based-education-to-bridge-workforce-gap/)**
+
+> **► WHAT THIS MEANS FOR EXAMINATION DIRECTORS & COMMISSIONERS:**
+> Do not scale student acquisition without containerized autograding. Relying on human teaching assistants to clone GitHub repositories and review syntax by hand caps cohort capacity at 100 students and guarantees high learner attrition. Deploy an automated CI autograder engine to deliver sub-second feedback, eliminate instructor burnout, and protect cohort tuition retention.
 
 ---
 
-### EdTech Scaling Intelligence Briefs
+### Section 5: Curated Intelligence Briefs
 
-1. **[RISA Mandates Automated Competency Verification for 15 Funded Coding Hubs](https://techpoint.africa/2026/02/12/rwanda-risa-mandates-automated-competency-tracking-coding-hubs/)**  
-   *Sector: Regulatory Verification | Source: Techpoint Africa*  
-   Rwanda Information Society Authority requires grant-funded tech hubs to deploy automated test-suite tracking rather than manual attendance rolls.  
-   👉 [Read full story at Techpoint Africa →](https://techpoint.africa/2026/02/12/rwanda-risa-mandates-automated-competency-tracking-coding-hubs/)
+* **1. [JAMB raises FUTES admission quota to 3,300 — VC](https://punchng.com/jamb-raises-futes-admission-quota-to-3300-vc/)**
+  * <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/09/01025720/images-2026-09-01T025534.319_1788227840.webp&w=800&output=jpg" alt="JAMB raises FUTES admission quota to 3,300 — VC" referrerpolicy="no-referrer" width="100%" />
+  * **Source**: Punch Nigeria · [Read Full Story →](https://punchng.com/jamb-raises-futes-admission-quota-to-3300-vc/)
+  * **Operational Takeaway**: As captured in Punch Nigeria's report (thumbnail above), expanding student intake by 3,300 candidates requires scalable digital evaluation infrastructure and automated autograding to prevent administrative bottlenecks and ensure continuous verification across expanding cohorts.
 
-2. **[South African Tech Skills Fund Links Subsidies to Automated Project Telemetry](https://businessday.ng/technology/article/south-african-tech-skills-fund-automated-telemetry-grants/)**  
-   *Sector: Funding Policy | Source: BusinessDay*  
-   Grant disbursements will tie directly to verifiable Git repository telemetry, penalizing academies with grading backlogs exceeding 48 hours.  
-   👉 [Read full story at BusinessDay →](https://businessday.ng/technology/article/south-african-tech-skills-fund-automated-telemetry-grants/)
+* **2. [Kano tops states with five-credit passes in 2026 NECO](https://punchng.com/kano-tops-states-with-five-credit-passes-in-2026-neco/)**
+  * <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/09/24150114/WhatsApp-Image-2026-09-24-at-3.00.43-PM_1790258474.webp&w=800&output=jpg" alt="Kano tops states with five-credit passes in 2026 NECO" referrerpolicy="no-referrer" width="100%" />
+  * **Source**: Punch Nigeria · [Read Full Story →](https://punchng.com/kano-tops-states-with-five-credit-passes-in-2026-neco/)
+  * **Operational Takeaway**: As highlighted in the NECO performance briefing (thumbnail above), standardizing statewide assessment benchmarks across thousands of students proves that objective rubrics deliver consistent evaluation accuracy over subjective human scoring.
 
-3. **[Tech Hiring Coalition Adopts Automated Repository Screening for Junior Pipelines](https://nairametrics.com/2026/02/11/enterprise-tech-coalition-automated-screening-junior-talent/)**  
-   *Sector: Employer Verification | Source: Nairametrics*  
-   Consortium of 45 tech scale-ups rejects unverified PDF certificates, requiring candidates to present cryptographic code performance ledgers.  
-   👉 [Read full story at Nairametrics →](https://nairametrics.com/2026/02/11/enterprise-tech-coalition-automated-screening-junior-talent/)
+* **3. [Foundation trains 300 children in coding, vocational skills](https://punchng.com/foundation-trains-300-children-in-coding-vocational-skills/)**
+  * <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/09/04004501/Tobi-Durosinmi-Etti._1788479101.webp&w=800&output=jpg" alt="Foundation trains 300 children in coding, vocational skills" referrerpolicy="no-referrer" width="100%" />
+  * **Source**: Punch Nigeria · [Read Full Story →](https://punchng.com/foundation-trains-300-children-in-coding-vocational-skills/)
+  * **Operational Takeaway**: As shown in Punch Nigeria's coverage of the technical foundation initiative (thumbnail above), training 300+ learners simultaneously requires automated code review tools to maintain feedback velocity and prevent learner drop-off as batch sizes expand.
 
 ---
 
 ### Industry News Spotlight: Sector Intelligence Worthy of Note
-* **Headline**: [Regulatory Oversight Tightens Across Operational and Commercial Infrastructure](https://punchng.com/topics/business/)
-* **Image**: `https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/10/14033324/images-70_1791945204.webp&w=800&output=jpg`
-* **Source**: Punch Nigeria · [Read Full Report →](https://punchng.com/topics/business/)
-* **Summary & Why It Matters**: Regulatory authorities confirm that mandatory audit standards and transparent operating frameworks are now being enforced across all operational platforms nationwide. Organizations relying on disconnected manual records face immediate compliance penalties and severe operational drag. Upgrading to unified digital workflows eliminates discrepancies and guarantees continuous compliance.
+* **Headline**: [WAEC warns schools, supervisors over extortion of candidates](https://punchng.com/waec-warns-schools-supervisors-over-extortion-of-candidates/)
+* <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/06/08190850/IMG_0336.webp&w=800&output=jpg" alt="WAEC warns schools, supervisors over extortion of candidates" referrerpolicy="no-referrer" width="100%" />
+* **Source**: Punch Nigeria · [Read Full Report →](https://punchng.com/waec-warns-schools-supervisors-over-extortion-of-candidates/)
+* **Summary & Why It Matters**: As shown in Punch Nigeria's investigation photo above, WAEC's nationwide enforcement confirms that mandatory operational standards and automated transparency frameworks are now being enforced across examination centers nationwide. Organizations relying on disconnected manual records face immediate compliance penalties and severe operational drag. Upgrading to unified digital workflows eliminates discrepancies and guarantees continuous compliance.
 
 ---
 

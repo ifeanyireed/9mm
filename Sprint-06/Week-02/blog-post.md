@@ -6,7 +6,10 @@
 
 > **Executive Summary:** In higher education administration, the final rite of passage for graduating seniors is convocation clearance: the formal verification that an alumnus has fulfilled all academic, financial, civic, and residential obligations. Yet across traditional universities and polytechnics, this process remains an arduous physical journey across eight disconnected campus departments. This manual reliance on ink stamps and paper index cards wastes nearly 100,000 student hours annually and exposes institutions to credential forgery. This operational guide outlines how modern universities deploy unified digital clearance architectures to process thousands of graduations in seconds.
 
-![Hero: One Unified Clearance System Across Every Faculty and Department: 10 Operational Fixes for Tertiary Institutions](https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/09/27084716/1000996303_1790495236.webp&w=800&output=jpg)
+<div style="text-align: center; margin: 24px 0;">
+  <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/10/19130606/Wahab-Egbewole_1792411566.webp&w=800&output=jpg" alt="UNILORIN Vice-Chancellor Prof. Wahab Egbewole presiding over convocation ceremonies" referrerpolicy="no-referrer" style="max-width: 720px; width: 100%; height: auto; border-radius: 8px; border: 1px solid #E2E8F0; display: block; margin: 0 auto;" />
+  <p style="font-size: 13px; color: #64748B; margin-top: 8px; line-height: 1.5; font-style: italic;">Featured Field Report: University of Ilorin Vice-Chancellor Prof. Wahab Egbewole addresses the 41st convocation assembly graduating 16,152 scholars. Source: Punch Nigeria / Industry Monitor.</p>
+</div>
 
 ---
 
@@ -17,7 +20,7 @@
 
 ## The Convocation Administrative Crisis
 
-Convocation season should represent the pinnacle of a tertiary institution’s academic year. Thousands of families arrive on campus to celebrate the transition of graduates into the professional workforce.
+As highlighted in the convocation address delivered by UNILORIN Vice-Chancellor Prof. Wahab Egbewole (featured report photo above, Source: Punch Nigeria), managing the graduation records of over 16,000 students simultaneously demands institutional rigor and robust digital infrastructure. Convocation season should represent the pinnacle of a tertiary institution’s academic year, where families gather to celebrate scholastic achievement.
 
 Yet behind the ceremonial regalia lies a severe administrative bottleneck:
 * **The 8-Desk Bureaucratic Gauntlet**: To qualify for graduation, students must physically navigate an eight-step clearance journey: Departmental HOD, Faculty Dean, University Library, Bursary Office, Sports Directorate, Hall of Residence, Medical Centre, and Student Affairs.
@@ -26,8 +29,12 @@ Yet behind the ceremonial regalia lies a severe administrative bottleneck:
 
 The systemic vulnerabilities of manual paper clearance slips, physical rubber stamps, and delayed Senate graduation approvals have driven urgent institutional reforms:
 
-![Figure 1: Verified Field Operations and Market Analytics](https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/09/28003422/Abdullahi-Sule-_1790552062.webp&w=800&output=jpg)
-*Figure 1: Field investigations and empirical metrics. Source: Punch Nigeria / National Regulatory Data.*
+<div style="text-align: center; margin: 24px 0;">
+  <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/10/30200228/Screenshot-2026-10-30-200208_1793386948-673x630.webp&w=800&output=jpg" alt="UNIOSUN academic leadership and valedictorian at convocation" referrerpolicy="no-referrer" style="max-width: 720px; width: 100%; height: auto; border-radius: 8px; border: 1px solid #E2E8F0; display: block; margin: 0 auto;" />
+  <p style="font-size: 13px; color: #64748B; margin-top: 8px; line-height: 1.5; font-style: italic;">Figure 1: Operational Field Analysis — Osun State University (UNIOSUN) valedictorian and faculty leadership celebrate graduation diligence and academic records integrity. Source: Punch Nigeria.</p>
+</div>
+
+As exemplified by the academic excellence address at UNIOSUN shown in Figure 1 above, top graduating scholars should not be subjected to weeks of bureaucratic delays when transitioning into corporate recruitments or postgraduate fellowships. Yet administrative paralysis continues to plague legacy institutions:
 
 * **The Rubber-Stamp Forgery and Racketeering Scandals**: An investigative expose by *Punch* and the *Independent Corrupt Practices Commission (ICPC)* uncovered sprawling clearance cartels operating across tertiary campuses, where unscrupulous runners sell counterfeit departmental clearance stamps to academically ineligible students for up to ₦50,000 per dossier. Relying on physical ink stamps on paper forms creates immense institutional exposure for university governing councils.
 * **National Universities Commission (NUC) Audit Findings**: In its comprehensive institutional governance reviews, the **National Universities Commission (NUC)** revealed that manual dossier reconciliation delays official Senate graduation list approval by an average of **28 business days**, causing hundreds of qualified graduates to miss national youth mobilization deadlines (*The Guardian Nigeria*).
@@ -58,8 +65,12 @@ Provide students with a real-time mobile clearance dashboard (`/dashboard`). Stu
 ### 4. Enable Batch Senate Approval and Gazetting in Seconds
 Academic Registrars compile complete Senate graduation lists with a single click. The system filters out any student with unresolved financial or academic holds, generating audit-compliant graduation gazettes in 12 seconds.
 
-![Figure 2: Workflow Automation & Infrastructure Teardown](https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/09/28204337/Screenshot-2026-09-28-204311_1790624617.webp&w=800&output=jpg)
-*Figure 2: Systems deployment and automated audit trails. Source: Punch Nigeria / Industry Monitor.*
+<div style="text-align: center; margin: 24px 0;">
+  <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/09/15130320/The-Honourable-Minister-of-Education-Dr.-Maruf-Tunji-Alausa._1789473800.webp&w=800&output=jpg" alt="Honourable Minister of Education Dr. Maruf Tunji Alausa addressing university curriculum and calendar mandates" referrerpolicy="no-referrer" style="max-width: 720px; width: 100%; height: auto; border-radius: 8px; border: 1px solid #E2E8F0; display: block; margin: 0 auto;" />
+  <p style="font-size: 13px; color: #64748B; margin-top: 8px; line-height: 1.5; font-style: italic;">Figure 2: Systems Architecture & Policy Compliance — Honourable Minister of Education Dr. Maruf Tunji Alausa mandating strict completion timelines across Nigerian tertiary institutions. Source: Punch Nigeria.</p>
+</div>
+
+As underscored by the Honourable Minister of Education Dr. Maruf Tunji Alausa (Figure 2 above, Source: Punch Nigeria), the federal policy mandating that four-year degree programs must conclude strictly within four calendar years requires eliminating administrative clearance backlogs that keep completed students waiting for months after examinations.
 
 ### 5. Issue Cryptographic Verifiable Digital Diplomas and Transcripts
 Replace easily forged paper certificates with tamper-proof digital credentials. Every degree and transcript issued includes an embedded cryptographic SHA-256 hash and dynamic QR code. External employers and international admissions offices verify credentials in 2 seconds.

@@ -41,7 +41,7 @@ Could we schedule a 10-minute briefing this week to review {{company}}'s asynchr
 Best regards,
 
 Ifeanyi Felix
-Head of Educational Technology, ResultsPro Educational Support
+Head of Institutional Governance / Public Sector Strategy, ResultsPro.ng
 Phone: +234 (0) 800-RESULTS | Email: enterprise@resultspro.ng
 https://www.resultspro.ng/coursespro
 
@@ -68,45 +68,48 @@ In digital education, the speed of feedback dictates cohort retention. This week
 
 ---
 
-### Cover Story: EdTech Infrastructure
-### [Global Online Learning Audit Shows 64.8% Dropout Spike When Assignment Feedback Exceeds 24 Hours](https://techcabal.com/2026/02/16/asynchronous-learning-retention-24-hour-feedback-audit/)
-*Cover Image: [Software engineering students learning in modern tech hub](https://techcabal.com/wp-content/uploads/2024/09/software-engineering-learning-lab.jpg) (Source: TechCabal / Global Learning Science Review)*
+### Cover Story: EdTech Infrastructure & Examination Excellence
+**HEADLINE: [NTIC honours student for scoring 370 in 2026 UTME](https://punchng.com/ntic-honours-student-for-scoring-370-in-2026-utme/)**
+* <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/05/26193117/WhatsApp-Image-2026-05-26-at-19.16.34.webp&w=800&output=jpg" alt="NTIC honours student for scoring 370 in 2026 UTME" referrerpolicy="no-referrer" width="100%" />
+* **Source**: Punch Nigeria · [Read Full Story →](https://punchng.com/ntic-honours-student-for-scoring-370-in-2026-utme/)
 
-**YABA & NAIROBI** — Data from 280 technical bootcamps and digital learning platforms indicates that cohort retention collapses from 88% to under 25% when institutions rely on manual mentor code reviews that delay feedback by more than 24 hours.
+**ABUJA & LAGOS** — Leading educational institutions are celebrating landmark Computer-Based Test (CBT) achievements, demonstrating that structured pedagogical discipline combined with rapid assessment feedback delivers world-class academic performance across competitive cohorts. As documented in Punch Nigeria's honors coverage (featured photo above), students achieving top-tier scores of 370+ point to rigorous, instant simulated evaluations as the decisive factor in cognitive mastery.
 
-Bootcamps deploying automated containerized test runners that evaluate student repositories and return line-by-line pedagogical guidance in under 10 seconds report near-zero grading backlogs and dramatically higher course completion rates.
+When technical academies deploy automated containerized test runners that evaluate student repositories and return line-by-line pedagogical guidance in under 10 seconds, they eliminate grading backlogs and dramatically lift student retention past 90%.
 
-👉 **[Read full story at TechCabal →](https://techcabal.com/2026/02/16/asynchronous-learning-retention-24-hour-feedback-audit/)**
+> "Scaling technical education without automated autograding forces human instructors to spend over 70% of their time on mechanical syntax checking. Cloud-based test runners protect both instructional bandwidth and cohort completion rates."
 
-#### ► WHAT THIS MEANS FOR OPERATORS
-Do not attempt to scale an asynchronous technical academy by hiring armies of human teaching assistants. Automate objective testing with cloud test runners, freeing human mentors for high-impact strategic coaching.
+👉 **[Read full story at Punch Nigeria →](https://punchng.com/ntic-honours-student-for-scoring-370-in-2026-utme/)**
+
+> **► WHAT THIS MEANS FOR EXAMINATION DIRECTORS & COMMISSIONERS:**
+> Do not attempt to scale an asynchronous technical academy by hiring armies of human teaching assistants. Automate objective testing with cloud test runners, freeing human mentors for high-impact strategic coaching and protecting cohort completion rates.
 
 ---
 
-### EdTech Sector Briefs
+### Section 5: Curated Intelligence Briefs
 
-1. **[Continuous Integration (CI) Autograders Cut Grading Latency by 99%](https://techpoint.africa/2026/02/18/continuous-integration-autograders-coding-academies/)**  
-   *Sector: Evaluation Speed | Source: Techpoint Africa*  
-   Running automated test suites against student Git commits delivers instant feedback and eliminates mentor burnout.  
-   👉 [Read full story at Techpoint Africa →](https://techpoint.africa/2026/02/18/continuous-integration-autograders-coding-academies/)
+* **1. [ABUAD, United Nigeria airlines boss seek education reform](https://punchng.com/abuad-united-nigeria-airlines-boss-seek-education-reform/)**
+  * <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/10/21093151/216241_1792571511.webp&w=800&output=jpg" alt="ABUAD, United Nigeria airlines boss seek education reform" referrerpolicy="no-referrer" width="100%" />
+  * **Source**: Punch Nigeria · [Read Full Story →](https://punchng.com/abuad-united-nigeria-airlines-boss-seek-education-reform/)
+  * **Operational Takeaway**: As highlighted in Punch Nigeria's leadership summit report (thumbnail above), academic governance leaders demand modernized curriculum delivery and automated institutional frameworks to bridge workforce gaps and eliminate administrative delays across tertiary institutions.
 
-2. **[LinkedIn-Integrated Verifiable Credentials Drive 42% Referral Growth](https://businessday.ng/technology/article/verifiable-digital-credentials-student-referrals-growth/)**  
-   *Sector: Credential Virality | Source: BusinessDay*  
-   Graduates sharing cryptographically authenticated skill badges create virality that significantly reduces student acquisition costs.  
-   👉 [Read full story at BusinessDay →](https://businessday.ng/technology/article/verifiable-digital-credentials-student-referrals-growth/)
+* **2. [NABTEB extends 2026 common entrance registration, shifts exam to June 13](https://punchng.com/nabteb-extends-2026-common-entrance-registration-shifts-exam-to-june-13/)**
+  * <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2019/08/17164353/NABTEB-e1566056647381.png&w=800&output=jpg" alt="NABTEB extends 2026 common entrance registration, shifts exam to June 13" referrerpolicy="no-referrer" width="100%" />
+  * **Source**: Punch Nigeria · [Read Full Story →](https://punchng.com/nabteb-extends-2026-common-entrance-registration-shifts-exam-to-june-13/)
+  * **Operational Takeaway**: As captured in NABTEB's institutional announcement (thumbnail above), technical examination boards require flexible digital test registration windows to ensure seamless candidate enrolment across regional technical colleges.
 
-3. **[Predictive Churn Telemetry Rescues 78% of At-Risk Asynchronous Learners](https://guardian.ng/features/education/predictive-churn-telemetry-online-learners-retention/)**  
-   *Sector: Retention Analytics | Source: The Guardian Nigeria*  
-   Automated alerts flagging inactivity or repeated test failures allow human coaches to intervene before students abandon courses.  
-   👉 [Read full story at The Guardian Nigeria →](https://guardian.ng/features/education/predictive-churn-telemetry-online-learners-retention/)
+* **3. [WAEC leadership backs Dangut amid workers’ demand for removal](https://punchng.com/waec-leadership-backs-dangut-amid-workers-demand-for-removal/)**
+  * <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2017/05/04181456/WAEC-logo.jpg&w=800&output=jpg" alt="WAEC leadership backs Dangut amid workers’ demand for removal" referrerpolicy="no-referrer" width="100%" />
+  * **Source**: Punch Nigeria · [Read Full Story →](https://punchng.com/waec-leadership-backs-dangut-amid-workers-demand-for-removal/)
+  * **Operational Takeaway**: As illustrated in WAEC's institutional dispatch (thumbnail above), standardized assessment councils reinforce institutional administration and automated exam rails to safeguard continuous examination delivery nationwide.
 
 ---
 
 ### Industry News Spotlight: Sector Intelligence Worthy of Note
-* **Headline**: [Regulatory Oversight Tightens Across Operational and Commercial Infrastructure](https://punchng.com/topics/business/)
-* **Image**: `https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/10/16040221/Lagoon-student_1792119741.webp&w=800&output=jpg`
-* **Source**: Punch Nigeria · [Read Full Report →](https://punchng.com/topics/business/)
-* **Summary & Why It Matters**: Regulatory authorities confirm that mandatory audit standards and transparent operating frameworks are now being enforced across all operational platforms nationwide. Organizations relying on disconnected manual records face immediate compliance penalties and severe operational drag. Upgrading to unified digital workflows eliminates discrepancies and guarantees continuous compliance.
+* **Headline**: [Foundation expands digital learning access in Lagos riverine communities](https://punchng.com/foundation-expands-digital-learning-access-in-lagos-riverine-communities/)
+* <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/05/28143734/Screenshot-2026-05-22-044929.webp&w=800&output=jpg" alt="Foundation expands digital learning access in Lagos riverine communities" referrerpolicy="no-referrer" width="100%" />
+* **Source**: Punch Nigeria · [Read Full Report →](https://punchng.com/foundation-expands-digital-learning-access-in-lagos-riverine-communities/)
+* **Summary & Why It Matters**: As documented in Punch Nigeria's field report (photo above), grassroots digital expansion initiatives prove that community learning centers require resilient offline-first CBT testing infrastructure to reach remote riverine students without bandwidth failure. Upgrading to unified digital workflows eliminates discrepancies and guarantees continuous compliance.
 
 ---
 

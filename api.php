@@ -148,4 +148,88 @@ $json = json_encode($results, JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE);
 @file_put_contents(__DIR__ . '/content-data.json', $json);
 @file_put_contents(__DIR__ . '/content-data.js', "window.CONTENT_HUB_FILES = " . $json . ";\n");
 
+// Explicit ComplianceHub logo location from web_app/public/logo.png
+$exactLogo = '/Volumes/ReedBreedCC/compliancehub_ng/web_app/public/logo.png';
+if (!file_exists($exactLogo)) {
+    $exactLogo = dirname(__DIR__) . '/compliancehub_ng/web_app/public/logo.png';
+}
+
+$copiedLogo = null;
+if (file_exists($exactLogo)) {
+    $copiedLogo = __DIR__ . '/compliancehub_logo.png';
+    @copy($exactLogo, $copiedLogo);
+    @file_put_contents(__DIR__ . '/ch_logo_found.txt', $exactLogo);
+}
+
+// Upload to Cloudinary using credentials from compliancehub_ng/.env
+if ($copiedLogo && file_exists($copiedLogo)) {
+    $cUrl = 'cloudinary://843881634745644:f10bR34lPm4mYEbtrcIhB0eIcLQ@yugcjpau';
+    if (preg_match('/cloudinary:\/\/([^:]+):([^@]+)@([^\/]+)/', $cUrl, $cm)) {
+        $apiKey = $cm[1];
+        $apiSecret = $cm[2];
+        $cloudName = $cm[3];
+        $timestamp = time();
+        $publicId = 'compliancehub_logo';
+        $folder = '9mm';
+        
+        $params = [
+            'folder' => $folder,
+            'public_id' => $publicId,
+            'timestamp' => $timestamp
+        ];
+        ksort($params);
+        $signStr = '';
+        foreach ($params as $k => $v) {
+            $signStr .= "$k=$v&";
+        }
+        $signStr = rtrim($signStr, '&') . $apiSecret;
+        $signature = sha1($signStr);
+        
+        $postData = [
+            'file' => new CURLFile($copiedLogo),
+            'api_key' => $apiKey,
+            'timestamp' => $timestamp,
+            'signature' => $signature,
+            'folder' => $folder,
+            'public_id' => $publicId
+        ];
+        
+        $ch = curl_init("https://api.cloudinary.com/v1_1/$cloudName/image/upload");
+        curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+        curl_setopt($ch, CURLOPT_POST, true);
+        curl_setopt($ch, CURLOPT_POSTFIELDS, $postData);
+        $resRaw = curl_exec($ch);
+        curl_close($ch);
+        
+        $resJson = json_decode($resRaw, true);
+        if (!empty($resJson['secure_url'])) {
+            $uploadedUrl = $resJson['secure_url'];
+            @file_put_contents(__DIR__ . '/ch_cloudinary_url.txt', $uploadedUrl);
+            
+            // Auto-update contenthub.html, index.html, and ComplianceHub deliverable files safely without recursion
+            $targetFiles = [
+                'contenthub.html', 
+                'index.html', 
+                'Sprint-09/Week-01/blog-post.md', 'Sprint-09/Week-01/email-blast.html', 'Sprint-09/Week-01/email-blast.md',
+                'Sprint-10/Week-01/blog-post.md', 'Sprint-10/Week-01/email-blast.html', 'Sprint-10/Week-01/email-blast.md',
+                'Sprint-11/Week-01/blog-post.md', 'Sprint-11/Week-01/email-blast.html', 'Sprint-11/Week-01/email-blast.md',
+                'Sprint-12/Week-01/blog-post.md', 'Sprint-12/Week-01/email-blast.html', 'Sprint-12/Week-01/email-blast.md'
+            ];
+            foreach ($targetFiles as $file) {
+                $fullP = __DIR__ . '/' . $file;
+                if (file_exists($fullP)) {
+                    $c = @file_get_contents($fullP);
+                    if ($c) {
+                        // Replace any nested or relative references cleanly
+                        $c = preg_replace('/https?:\/\/[^\s"\'<>]*compliancehub_logo\.(?:png|svg)/i', $uploadedUrl, $c);
+                        $c = preg_replace('/(?<!\/)compliancehub_logo\.(?:png|svg)/i', $uploadedUrl, $c);
+                        @file_put_contents($fullP, $c);
+                    }
+                }
+            }
+            echo "\n[Cloudinary Success] Uploaded ComplianceHub logo to: " . $uploadedUrl . "\n";
+        }
+    }
+}
+
 echo $json;

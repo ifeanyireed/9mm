@@ -23,9 +23,12 @@ Enterprise B2B procurement is undergoing a generational shift. Modern retail pro
 
 This operational guide details the mathematical economics of B2B client churn and lays out a 10-step blueprint to build an automated **Institutional Retention Engine**.
 
----
+As documented in Nairametrics' retail market coverage (featured photo below), Nigeria's largest supermarket chains and retail consortia are aggressively centralizing procurement, shifting away from manual sales rep negotiation toward automated digital replenishment rails.
 
-![Hero: The Institutional Retention Engine: Automating Bulk Replenishment & Contract Pricing (Why Manual Order-Taking Caps Wholesale Scale)](https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2025/12/05003708/Olatunbosun-Alake.jpeg&w=800&output=jpg)
+<div style="text-align: center; margin: 24px 0;">
+  <img src="https://wsrv.nl/?url=https://cdn.nairametrics.com/wp-content/uploads/2026/07/founders-behind-Nigerias-largest-supermarket-chains.webp&w=800&output=jpg" alt="Modern Retail Supermarket Chains Scaling Bulk Procurement" referrerpolicy="no-referrer" style="max-width: 720px; width: 100%; height: auto; border-radius: 8px; border: 1px solid #E2E8F0; display: block; margin: 0 auto;" />
+  <p style="font-size: 13px; color: #64748B; margin-top: 8px; line-height: 1.5; font-style: italic;">Caption: Modern retail supermarket chains scale bulk procurement networks across Nigerian urban centers, demanding automated digital replenishment. Source: Nairametrics.</p>
+</div>
 
 ## 🎨 3D Visual Concept (Midjourney / Pixar Style Prompt)
 
@@ -42,8 +45,12 @@ Wholesale and commercial distribution contracts are won through competitive pric
 * **Supplier Performance Scorecards**: Major FMCG conglomerates and multinational contractors operating under ISO standards increasingly enforce automated supplier scorecards, penalizing or disqualifying distributors whose fulfillment turnaround times exceed 48 hours (*Punch Industry*).
 * **The Retention Power of Dedicated B2B Portals**: Case studies compiled by *TechCabal Insights* show that wholesale suppliers offering institutional clients dedicated digital ordering portals with real-time inventory visibility and automated order status tracking achieve **94% contract retention rates** over multi-year procurement cycles.
 
-![Figure 1: Verified Field Operations and Market Analytics](https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2025/12/06005912/money-dup.jpg&w=800&output=jpg)
-*Figure 1: Field investigations and empirical metrics. Source: Punch Nigeria / National Regulatory Data.*
+As demonstrated in TechCabal's distribution systems analysis (Figure 1 below), modern wholesale fulfillment hubs require real-time warehouse telemetry and digital order synchronization to prevent silent buyer churn.
+
+<div style="text-align: center; margin: 24px 0;">
+  <img src="https://wsrv.nl/?url=https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2022/04/TradeDepot_warehouse-1024x682.jpg&w=800&output=jpg" alt="B2B Wholesale Depots and Distribution Fulfillment Hubs" referrerpolicy="no-referrer" style="max-width: 720px; width: 100%; height: auto; border-radius: 8px; border: 1px solid #E2E8F0; display: block; margin: 0 auto;" />
+  <p style="font-size: 13px; color: #64748B; margin-top: 8px; line-height: 1.5; font-style: italic;">Figure 1: Operational Field Analysis — B2B wholesale depots and digital distribution fulfillment hubs streamline FMCG pallet replenishment. Source: TechCabal.</p>
+</div>
 
 Below are **10 operational fixes** to protect client lifetime value, eliminate silent buyer churn, and secure long-term wholesale partnerships.
 
@@ -72,11 +79,17 @@ Give client treasury teams complete visibility over their open trade credit bala
 ### 7. Configure Multi-User Organizational Hierarchies
 Enterprise buyers operate with structured internal checks and balances. Support multi-user corporate profiles where branch store managers can create purchase requisitions, regional operations directors approve orders, and central treasury officers authorize payments—all within a single governed audit trail.
 
+---
+
+As illustrated in Nairametrics' executive strategy profile (Figure 2 below), apex retail chains require structured procurement portals to automate bulk purchasing, contract pricing tiers, and volume rebates.
+
+<div style="text-align: center; margin: 24px 0;">
+  <img src="https://wsrv.nl/?url=https://cdn.nairametrics.com/wp-content/uploads/2026/07/Ebele-Enunwa-Founder-Market-Square-.png&w=800&output=jpg" alt="Regional Supermarket Chains Structured Procurement" referrerpolicy="no-referrer" style="max-width: 720px; width: 100%; height: auto; border-radius: 8px; border: 1px solid #E2E8F0; display: block; margin: 0 auto;" />
+  <p style="font-size: 13px; color: #64748B; margin-top: 8px; line-height: 1.5; font-style: italic;">Figure 2: Systems Architecture & Commercial Strategy — Regional supermarket chains establish structured procurement portals to automate bulk purchasing and volume tier discounts. Source: Nairametrics.</p>
+</div>
+
 ### 8. Institutionalize Automated Volume Rebate Ledgers
 Motivate long-term purchasing concentration by tracking volume rebate milestones programmatically. When a supermarket chain reaches 5,000 cases in a quarter, the engine automatically credits their digital wallet with their 1.5% end-of-period rebate, encouraging buyers to consolidate 100% of their volume with your distribution house.
-
-![Figure 2: Workflow Automation & Infrastructure Teardown](https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2025/12/08202610/G6hmCheWYAAS4nS-scaled.jpeg&w=800&output=jpg)
-*Figure 2: Systems deployment and automated audit trails. Source: Punch Nigeria / Industry Monitor.*
 
 ### 9. Secure First-Party Institutional CRM Data Ownership
 Eliminate the risk of sales reps taking key accounts when they leave. All communication, quotation histories, purchase cadences, and pricing agreements are recorded inside the central Ofia database. If a key account manager departs, a new commercial rep can review the client’s entire multi-year history in 5 minutes without missing a beat.

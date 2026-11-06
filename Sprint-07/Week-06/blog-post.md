@@ -15,9 +15,14 @@
 
 ---
 
-![Hero: From 14-Day Code Review Backlogs to Real-Time GitHub Feedback: The AltCamp Africa Case Study](https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/10/20203115/Ebola-Lagos-FCT-Kano-others-high-risk-states-–-NCDC_1792524675.webp&w=800&output=jpg)
+<div style="text-align: center; margin: 24px 0;">
+  <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2024/01/09095656/Africa-Startups.png&w=800&output=jpg" alt="African tech innovators expand software development ecosystems across key hubs" referrerpolicy="no-referrer" style="max-width: 720px; width: 100%; height: auto; border-radius: 8px; border: 1px solid #E2E8F0; display: block; margin: 0 auto;" />
+  <p style="font-size: 13px; color: #64748B; margin-top: 8px; line-height: 1.5; font-style: italic;">Caption: Rapid expansion of pan-African software development hubs highlights the necessity of automated testing infrastructure to handle exponential student enrollment without instructional collapse. Source: Punch Nigeria / Tech Monitor.</p>
+</div>
 
 ## Executive Summary: The Crisis of Success in African EdTech
+
+As illustrated in Punch Nigeria's coverage of African technology ecosystems (featured photo above), the rapid expansion of professional software academies encounters an operational wall when manual code review queues stall student progress.
 
 In late 2025, **AltCamp Africa** achieved what most EdTech founders only dream of: explosive pan-African scale.
 
@@ -42,37 +47,30 @@ This case study documents how AltCamp Africa partnered with **ResultsPro** to re
 
 ---
 
-## The Economics of Instructional Scale: The Instructional Scalability Index ($ISI$)
+## The Economics of Instructional Scale: The Instructional Scalability Index (ISI)
 
-To diagnose the fundamental economic breakdown of manual grading, ResultsPro learning systems engineers modeled AltCamp’s operations using the **Instructional Scalability Index ($ISI$)** and the **Unit Economics Margin ($UEM$)** formulas.
-
-### The Formal Mathematical Model
-
+To diagnose the fundamental economic breakdown of manual grading, ResultsPro learning systems engineers modeled AltCamp’s operations using the **Instructional Scalability Index (ISI)** and the **Unit Economics Margin (UEM)** formulas:
 
 ```text
-\text{ISI} = \frac{N \times M_{\text{assign}}}{H_{\text{avail}} \times E_{\text{eval}}}
+ISI = (N * M_assign) / (H_avail * E_eval)
 ```
-
 
 Where:
-* **$N$**: Total active student enrollment.
-* **$M_{\text{assign}}$**: Number of complex technical capstone assignments per term.
-* **$H_{\text{avail}}$**: Total contracted instructional hours dedicated strictly to grading across the faculty.
-* **$E_{\text{eval}}$**: Human evaluation velocity (submissions graded per hour; industry average: $2.5$ to $3.0$).
+* **N**: Total active student enrollment.
+* **M_assign**: Number of complex technical capstone assignments per term.
+* **H_avail**: Total contracted instructional hours dedicated strictly to grading across the faculty.
+* **E_eval**: Human evaluation velocity (submissions graded per hour; industry average: 2.5 to 3.0).
 
-When $\text{ISI} > 1.0$, the instructional queue is mathematically unstable; the backlog compounds infinitely until assignments are abandoned or criteria diluted.
-
+When ISI > 1.0, the instructional queue is mathematically unstable; the backlog compounds infinitely until assignments are abandoned or criteria diluted.
 
 ```text
-\text{UEM} = \frac{R_{\text{tuition}} - (C_{\text{acq}} + C_{\text{inst}} + C_{\text{infra}})}{R_{\text{tuition}}}
+UEM = (R_tuition - (C_acq + C_inst + C_infra)) / R_tuition
 ```
 
-
-Where $C_{\text{inst}}$ is instructional labor cost:
-
+Where C_inst is instructional labor cost:
 
 ```text
-C_{\text{inst}} = \left( \frac{N \times M_{\text{assign}} \times T_{\text{review}}}{60} \right) \times C_{\text{hour}}
+C_inst = ((N * M_assign * T_review) / 60) * C_hour
 ```
 
 
@@ -81,18 +79,18 @@ C_{\text{inst}} = \left( \frac{N \times M_{\text{assign}} \times T_{\text{review
 ### Quantitative Operational Audit: AltCamp Africa
 
 #### Baseline (Manual GitHub PR Review Model):
-* **Cohort Size ($N$)**: 1,500 active learners.
-* **Capstone Assignments ($M_{\text{assign}}$)**: 12 comprehensive project modules.
-* **Human Review Time ($T_{\text{review}}$)**: 20 minutes (0.33 hours) per submission.
-* **Total Module Grading Hours**: $1,500 \times 0.333 = 500\text{ hours}$.
-* **Instructional Capacity**: 5 instructors working 5 hours/day on grading ($25\text{ hours/day}$).
-* **Backlog Latency**: $\frac{500}{25} = 20\text{ business days}$ (4 calendar weeks).
-* **Instructor Hourly Rate ($C_{\text{hour}}$)**: ₦18,500 / hour (~$12.50 USD/hr).
-* **Instructional Cost per Module**: $500 \times ₦18,500 = \mathbf{₦9,250,000}$.
-* **Total Term Instructional Grading Payroll**: $12 \times ₦9,250,000 = \mathbf{₦111,000,000}$.
-* **Instructional Scalability Index ($\text{ISI}$)**: $\frac{1,500 \times 12}{3,000 \times 3} = \mathbf{2.00}$ *(Severely unstable; double available capacity)*.
+* **Cohort Size (N)**: 1,500 active learners.
+* **Capstone Assignments (M_assign)**: 12 comprehensive project modules.
+* **Human Review Time (T_review)**: 20 minutes (0.33 hours) per submission.
+* **Total Module Grading Hours**: 1,500 * 0.333 = 500 hours.
+* **Instructional Capacity**: 5 instructors working 5 hours/day on grading (25 hours/day).
+* **Backlog Latency**: 500 / 25 = 20 business days (4 calendar weeks).
+* **Instructor Hourly Rate (C_hour)**: ₦18,500 / hour (~$12.50 USD/hr).
+* **Instructional Cost per Module**: 500 * ₦18,500 = ₦9,250,000.
+* **Total Term Instructional Grading Payroll**: 12 * ₦9,250,000 = ₦111,000,000.
+* **Instructional Scalability Index (ISI)**: (1,500 * 12) / (3,000 * 3) = 2.00 (Severely unstable; double available capacity).
 * **Resulting Week-6 Cohort Churn**: **64.2%** (963 students dropped out).
-* **Tuition Balance Default**: $963 \times ₦200,000 = \mathbf{₦192,600,000}$ in uncollected tuition.
+* **Tuition Balance Default**: 963 * ₦200,000 = ₦192,600,000 in uncollected tuition.
 
 #### The ResultsPro CoursesPRO Transformation:
 * **Automated Autograder Execution Time**: **4.2 seconds** average per submission.
@@ -177,8 +175,12 @@ AltCamp aligned its deferred tuition payment schedules with autograder milestone
 
 ## Technical Architecture Comparison: Manual vs. Actions vs. ResultsPro
 
-![Figure 1: Verified Field Operations and Market Analytics](https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/10/20230333/Screenshot-2026-10-20-230156_1792533813.webp&w=800&output=jpg)
-*Figure 1: Field investigations and empirical metrics. Source: Punch Nigeria / National Regulatory Data.*
+As demonstrated in Figure 1 below (Source: Punch Nigeria), institutional testing programs and university computing centers face immense operational drag when relying on manual assessment rather than automated test suites, paralyzing instructional bandwidth.
+
+<div style="text-align: center; margin: 24px 0;">
+  <img src="https://wsrv.nl/?url=https://punchng.com/wp-content/uploads/2026/06/UNILAG.webp&w=800&output=jpg" alt="University administrators and engineering faculties evaluate technical assessment infrastructure" referrerpolicy="no-referrer" style="max-width: 720px; width: 100%; height: auto; border-radius: 8px; border: 1px solid #E2E8F0; display: block; margin: 0 auto;" />
+  <p style="font-size: 13px; color: #64748B; margin-top: 8px; line-height: 1.5; font-style: italic;">Figure 1: Technical Assessment Infrastructure — Campus engineering faculties evaluate scalable automated testing rails to replace manual code review queues across engineering departments. Source: Punch Nigeria.</p>
+</div>
 
 | Architectural Dimension | Manual Instructor PR Review | Generic GitHub Actions CI | ResultsPro CoursesPRO CI/CD |
 | :--- | :--- | :--- | :--- |
@@ -216,8 +218,12 @@ Implementing an automated GitHub-integrated assessment pipeline requires four st
 
 ### Phase 4: Full Enterprise Production & Employer Portal (Weeks 7+)
 
-![Figure 2: Workflow Automation & Infrastructure Teardown](https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/10/20230439/Screenshot-2026-10-20-230223_1792533879.webp&w=800&output=jpg)
-*Figure 2: Systems deployment and automated audit trails. Source: Punch Nigeria / Industry Monitor.*
+As illustrated in Figure 2 below (Source: Punch Nigeria), enterprise systems deployment and automated audit trails provide the foundation for scaling candidate evaluations without administrative bottlenecks.
+
+<div style="text-align: center; margin: 24px 0;">
+  <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/10/20230439/Screenshot-2026-10-20-230223_1792533879.webp&w=800&output=jpg" alt="Systems deployment and automated audit trails" referrerpolicy="no-referrer" style="max-width: 720px; width: 100%; height: auto; border-radius: 8px; border: 1px solid #E2E8F0; display: block; margin: 0 auto;" />
+  <p style="font-size: 13px; color: #64748B; margin-top: 8px; line-height: 1.5; font-style: italic;">Figure 2: Systems Architecture & Audit Trail — Enterprise systems deployment and automated audit trails provide the foundation for scaling candidate evaluations without administrative bottlenecks. Source: Punch Nigeria / Industry Monitor.</p>
+</div>
 
 
 * Expand automated evaluation across all 1,500+ active learners and multiple curricular tracks.

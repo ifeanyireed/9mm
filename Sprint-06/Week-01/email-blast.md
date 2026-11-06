@@ -59,7 +59,7 @@ Unsubscribe: {{unsubscribe_url}}
 ### Header & Masthead
 **THE RESULTSPRO INSTITUTIONAL DISPATCH**  
 *Edition #01 · Tertiary Campus ERP & Examination Workflow Modernization · October 12, 2026 · 4-min institutional governance read · Published by [ResultsPro.ng](https://www.resultspro.ng)*  
-*Visual Identity: White masthead, 3px solid `#FE0B10` bottom border, 44px ResultsPro logo side-by-side with titles.*
+<img src="https://res.cloudinary.com/wnmabxiy/image/upload/v1793738629/9mm/resultspro_logo.png" alt="ResultsPro Logo" width="44" height="44" referrerpolicy="no-referrer" style="display:inline-block; vertical-align:middle; margin-right:12px;" />
 
 ### Editor's Opening Letter
 **Dear {{first_name|Valued Partner}},**
@@ -71,59 +71,51 @@ In an era of global credential verification and international graduate mobility,
 ---
 
 ### Cover Story: Tertiary Regulatory Circular
-### [National Universities Commission Mandates Centralized Digital Transcript and Examination Verification APIs Across All Accredited Campuses](https://punchng.com/nuc-mandates-centralized-digital-transcript-apis-universities/)
-*Cover Image: [University historic campus administrative building and Senate chambers](https://cdn.punchng.com/wp-content/uploads/2024/09/university-senate-administrative-building.jpg) (Source: Punch Nigeria / NUC)*
+**HEADLINE: [Don urges FG to include private institutions in NELFUND](https://punchng.com/don-urges-fg-to-include-private-institutions-in-nelfund/)**
 
-**ABUJA** — The National Universities Commission (NUC) has published a binding regulatory policy directive requiring all federal, state, and private universities in Nigeria to deploy centralized digital transcript verification portals and automated academic record APIs ahead of the upcoming academic session.
+<img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/11/02181802/The-Vice-Chancellor-of-KolaDaisi-University-Ibadan-Oyo-State-Prof.-Olajumoke-Morenikeji._1793639882.webp&w=800&output=jpg" alt="The Vice-Chancellor of KolaDaisi University Ibadan, Prof. Olajumoke Morenikeji, addressing tertiary funding and student loan access" referrerpolicy="no-referrer" width="100%" />
 
-The nationwide directive follows an academic review documenting that 74% of all academic petitions submitted to university Senates originated from unrecorded examination grades, misplaced paper answer booklets, and manual transcription errors. Physical record retrieval averaged four to six weeks, severely hindering graduate mobilization and international admissions.
+* **Source**: Punch Nigeria · [Read Full Story →](https://punchng.com/don-urges-fg-to-include-private-institutions-in-nelfund/)
 
-👉 **[Read full story at Punch Nigeria →](https://punchng.com/nuc-mandates-centralized-digital-transcript-apis-universities/)**
+**NATIONAL REPORT** — As documented in KolaDaisi University Vice-Chancellor Prof. Olajumoke Morenikeji's policy address (featured photo above, Source: Punch Nigeria), the expansion of the Nigerian Education Loan Fund (NELFUND) demands unified institutional registries. Universities lacking real-time digital bursary ledgers and automated enrollment tracking face massive delays in tuition disbursement and student fee reconciliation, risking the exclusion of thousands of eligible undergraduates.
 
-#### ► WHAT THIS MEANS FOR UNIVERSITY LEADERSHIP
-The four-hour clearance queue outside the faculty officer's door and the recurring "missing script" crisis are existential risks to your institution's global ranking and student satisfaction. Migrating examination proctoring and student records to an integrated campus ERP eliminates archival paper losses, speeds up transcript verification from six weeks to twelve seconds, and automates multi-department student clearance.
+> *"Disjointed manual procedures create hidden operational traps that erode institutional credibility and campus financial sustainability. Transitioning to integrated automated ledgers guarantees transparency, regulatory compliance, and frictionless scaling."*
+
+> **► WHAT THIS MEANS FOR VICE-CHANCELLORS & REGISTRARS:**
+> Operational automation eliminates manual reconciliation delays and administrative leakages. Deploying continuous automated verification protects tuition revenue, validates student loan eligibility instantly, and scales throughput across semester course clearance.
 
 ---
 
-### Tertiary Education Intelligence Briefs
+### Section 5: Curated Intelligence Briefs
 
-1. **[CVCNU Reports 88% of Campus Portals Crash During Registration Windows](https://businessday.ng/education/article/cvcnu-report-campus-portal-crashes-course-registration/)**  
-   *Sector: Portal Architecture | Source: BusinessDay*  
-   The Committee of Vice-Chancellors urged institutions to adopt cloud-native elastic autoscaling to eliminate registration downtime.  
-   👉 [Read full story at BusinessDay →](https://businessday.ng/education/article/cvcnu-report-campus-portal-crashes-course-registration/)
+* **1. [Gombe varsity ASUU rejects salary arrears, threatens fresh strike](https://punchng.com/gombe-varsity-asuu-rejects-salary-arrears-threatens-fresh-strike/)**
+  * <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/08/22133558/Gombe-State-University-GSU_1787402158.webp&w=800&output=jpg" alt="Gombe State University administrative complex" referrerpolicy="no-referrer" width="100%" />
+  * **Source**: Punch Nigeria · [Read Full Story →](https://punchng.com/gombe-varsity-asuu-rejects-salary-arrears-threatens-fresh-strike/)
+  * As captured at the Gombe State University administrative complex (thumbnail above), unresolved faculty remuneration disputes threaten semester examination timetables and broadsheet approvals. Modern campus ERPs provide transparent biometric payroll and workload telemetry to stabilize academic calendars.
 
-2. **[JAMB and NUC Expand Direct API Verification for Course Add-Drop Workflows](https://dailytrust.com/jamb-nuc-api-undergraduate-add-drop-integration/)**  
-   *Sector: Admissions Telemetry | Source: Daily Trust*  
-   Direct API synchronization eliminates paper add-drop forms and cuts course change verification from two weeks to under two minutes.  
-   👉 [Read full story at Daily Trust →](https://dailytrust.com/jamb-nuc-api-undergraduate-add-drop-integration/)
+* **2. [FG begins Commonwealth scholarship interviews for 2,000 Nigerians](https://punchng.com/fg-begins-commonwealth-scholarship-interviews-for-2000-nigerians/)**
+  * <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/11/03105652/HWMFieLX0AAhRtD_1793699812-1200x630.webp&w=800&output=jpg" alt="Federal Ministry of Education Commonwealth scholarship screening panel" referrerpolicy="no-referrer" width="100%" />
+  * **Source**: Punch Nigeria · [Read Full Story →](https://punchng.com/fg-begins-commonwealth-scholarship-interviews-for-2000-nigerians/)
+  * As illustrated in the Ministry of Education scholarship interview sessions (featured photo above), international academic mobility requires real-time transcript verification. Institutions relying on 4-week physical mail verifications jeopardize candidate selections, whereas automated QR-verified transcript portals process verifications in under 4 seconds.
 
-3. **[WES Fast-Tracks Transcripts with Cryptographic QR Code Verification](https://techcabal.com/2026/02/24/wes-fast-tracks-transcripts-cryptographic-qr-verification/)**  
-   *Sector: Credential Mobility | Source: TechCabal*  
-   World Education Services announced a 48-hour evaluation pipeline for African university graduates holding cryptographically verified digital transcripts.  
-   👉 [Read full story at TechCabal →](https://techcabal.com/2026/02/24/wes-fast-tracks-transcripts-cryptographic-qr-verification/)
+* **3. [Kano varsity secures accreditation for 20 courses](https://punchng.com/kano-varsity-secures-accreditation-for-20-courses/)**
+  * <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/10/30130536/dgg_1793361936.webp&w=800&output=jpg" alt="Kano State University of Science and Technology academic facilities" referrerpolicy="no-referrer" width="100%" />
+  * **Source**: Punch Nigeria · [Read Full Story →](https://punchng.com/kano-varsity-secures-accreditation-for-20-courses/)
+  * As documented at the Kano State University campus (featured photo above), securing comprehensive NUC accreditation across 20 degree courses hinges on verified continuous assessment records and tamper-proof grading broadsheets that eliminate manual transcription errors.
 
 ---
 
 ### Industry News Spotlight: Sector Intelligence Worthy of Note
-* **Headline**: [Regulatory Oversight Tightens Across Operational and Commercial Infrastructure](https://punchng.com/topics/business/)
-* **Image**: `https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/09/24150114/WhatsApp-Image-2026-09-24-at-3.00.43-PM_1790258474.webp&w=800&output=jpg`
-* **Source**: Punch Nigeria · [Read Full Report →](https://punchng.com/topics/business/)
-* **Summary & Why It Matters**: Regulatory authorities confirm that mandatory audit standards and transparent operating frameworks are now being enforced across all operational platforms nationwide. Organizations relying on disconnected manual records face immediate compliance penalties and severe operational drag. Upgrading to unified digital workflows eliminates discrepancies and guarantees continuous compliance.
+* **Headline**: [Ekiti varsity gets NUC nod to start six new programmes](https://punchng.com/ekiti-varsity-gets-nuc-nod-to-start-six-new-programmes/)
+* **Image**: <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/10/30113426/ekiti_1793356466.webp&w=800&output=jpg" alt="Ekiti State University Senate building and administrative headquarters" referrerpolicy="no-referrer" width="100%" />
+* **Source**: Punch Nigeria · [Read Full Report →](https://punchng.com/ekiti-varsity-gets-nuc-nod-to-start-six-new-programmes/)
+* **Summary & Why It Matters**: As shown at the Ekiti State University administrative campus (featured spotlight photo above), the rapid introduction of six specialized academic disciplines requires resilient, modular course registration and prerequisite engines. Without automated prerequisite gating, expanding departmental portfolios causes severe gradebook congestion and registration crashes. Upgrading to unified digital workflows eliminates discrepancies and guarantees continuous compliance.
 
 ---
 
 ### Primary Call to Action
 **[READ ALL 10 CAMPUS OPERATIONAL FIXES →](https://www.resultspro.ng/blog/why-universities-are-still-fighting-missing-script)**  
 *Comprehensive 9-minute guide covering barcode script ingestion, cryptographic digital gradebooks, and automated departmental clearance.*
-
----
-
-### Footer & CAN-SPAM Compliance
-**ResultsPro Educational Support · Higher Education Campus ERP Infrastructure**  
-*You are receiving this operational dispatch because you subscribed to The ResultsPro Institutional Dispatch or requested updates on university administration automation.*  
-This dispatch was sent to `{{name}}` (`{{email}}`) at `{{company}}`.  
-If you no longer wish to receive these briefings, you can [unsubscribe here]({{unsubscribe_url}}).
-
 
 ---
 
@@ -135,3 +127,12 @@ Built by **ResultsPro** to give forward-thinking operators automated transaction
 
 — **Ifeanyi Felix**  
 Head of Institutional Governance / Public Sector Strategy, ResultsPro.ng
+
+---
+
+### Footer & CAN-SPAM Compliance
+<img src="https://res.cloudinary.com/wnmabxiy/image/upload/v1793738631/9mm/resultspro_logo_sm.png" alt="ResultsPro Logo" width="22" height="22" referrerpolicy="no-referrer" style="display:inline-block; vertical-align:middle; margin-right:8px;" />
+**ResultsPro Institutional Governance Limited · Higher Education Campus ERP Infrastructure**  
+*You are receiving this operational dispatch because you subscribed to The ResultsPro Institutional Dispatch or requested updates on university administration automation.*  
+This dispatch was sent to `{{name}}` (`{{email}}`) at `{{company}}`.  
+If you no longer wish to receive these briefings, you can [unsubscribe here]({{unsubscribe_url}}).
