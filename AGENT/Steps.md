@@ -83,16 +83,16 @@ This document outlines the sequential steps required to generate the complete ma
 
 ## Phase 2: Long-Form Blog Post Production (Stream 1)
 
-### Step 2.1: Outline, Visual Brief & Research Framing
-* **Action**: Build the structure for the `blog` topic in `CALENDAR_DATA`:
-  - **Visual Asset Specification**: Define the Featured Image prompt using the required style:
-    `VISUAL FOR BLOG FEATURED IMAGE: 3D Disney Pixar style animation. Netflix-grade cinematic lighting with screen glow on faces, UHD 8k, stylized technology.` featuring the sprint-appropriate character and setting.
-  - Research framing: Cite verified industry reports, regulatory announcements, and sector data relevant to the sprint (*BusinessDay*, *TechCabal*, *Nairametrics*, *NIBSS*, *World Bank*, *UBEC*, *NUC*, etc.).
-  - **Zero Calculations / Rich Educative Reporting**: Strictly no mathematical formulas, algebraic models, or worked math calculations. Instead, provide deep contextual reporting on real-world industry news, policy shifts, market trends, and operational case precedents.
-  - 10 actionable, bookmarkable operational fixes.
-  - Screen route mapping from `slugs.md`.
-  - Comparison table: "Legacy Manual Method" vs "Designated Product Platform".
-  - Closing CTA pointing to the brand's product portal.
+### Step 2.1: Outline, Visual Brief & Cohesive Story Framing
+* **Action**: Build the **Master 8-Section Cohesive Story Blueprint** for the `blog` topic in `CALENDAR_DATA`:
+  - **One Cohesive Story**: Write in warm, clear, simple 1–2 sentence paragraphs so the entire post reads as one continuous story anchored around the sprint's Nigerian persona.
+  - **Section 1 (Opening Persona Story)**: Start with a clear question/problem below the Hero Image, then open on a busy day at the persona's Nigerian business $\rightarrow$ *"But [Name] has a problem"* $\rightarrow$ 3 everyday micro-failures $\rightarrow$ *"What it lacks is a connected system."*
+  - **Section 2 (Macro Industry Validation — 4 Dated Reports + 4 Matched Images)**: Curate **4 numbered industry developments** from real Nigerian/African news & research that pass the Relevance Test. Grab and embed **4 publicly available images** that directly match each of the 4 cited reports, cite the source/date/finding, and explain in 1–2 sentences *"Why does this matter to [Name]?"*
+  - **Section 3 (Core Diagnosis)**: Revisit the persona and stack 4 parallel 1-sentence operational disconnects across departments.
+  - **Section 4 (10 Practical Fixes)**: Numbered `1` to `10` (with inline images at #1, #3, #5), each strictly following: Action Heading $\rightarrow$ Current Friction/Scenario $\rightarrow$ Connected Solution $\rightarrow$ `**Why it matters:** [1-sentence benefit].`
+  - **Section 5 (3-Column Comparison Table)**: 8-row table (`Business activity` | `Disconnected [operations]` | `Connected [operations]`).
+  - **Section 6 (Product Bridge)**: Inline image + *"Depending on the configured modules, businesses can use the platform to support:"* + 6 modular bullets.
+  - **Section 7 & 8 (Narrative Closure, CTA & Tags)**: Close the persona's realization, provide the `Ready to Connect...?` CTA, 2-sentence epigram, and `#tags`.
 
 ### Step 2.2: Full Article Drafting
 * **Action**: Write the complete article (~1,500–2,000 words), embedding the 3D Pixar visual prompt block at the top and real software UI descriptions throughout.

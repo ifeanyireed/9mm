@@ -133,18 +133,26 @@ Every sprint's content must incorporate authentic sector context, verified indus
   6. *TH: The Close (4:00–4:15)*: Decisive product pitch and URL CTA (`ofia.ng/products` or `resultspro.ng/solutions`).
 * **Production Notes**: Must include word count, tone notes, casting guidance, and a 60-second TikTok/Reels cutdown outline.
 
-### 4.2 📚 Bookmarkable Blog Posts (`blog-post.md`)
-* **Word Count**: 1,500 – 2,200 words.
-* **Metadata**: H1 Title, author byline (`@Ifeanyi Felix`), publication date, read time, category, target audience, meta description.
-* **Structure**:
-  - Executive summary blockquote.
-  - Featured Image Prompt Block (3D Disney Pixar style animation).
-  - The Industry Problem & Research Data (real market statistics).
-  - Rich Industry News, Recent Sector Events & Authoritative Citations (verifiable sector developments, regulatory milestones, institutional reports; strictly zero calculations, mathematical formulas, or worked math equations).
-  - 10 Actionable Operational Hacks/Fixes (bookmarkable, highly practical).
-  - Platform Screen Anchors (mapped to routes from `slugs.md`).
-  - Native Markdown Tables: All balance sheets, flow cycles, metric maps, and side-by-side comparison tables ("Legacy Manual Approach" vs "Designated Product") MUST be rendered as native Markdown tables. Strictly zero ASCII art boxes (`┌───┐`) and zero code blocks for tabular data.
-  - Closing Call to Action with direct product link.
+### 4.2 📚 Bookmarkable Blog Posts (`blog-post.md`) — Master 8-Section Cohesive Story Standard
+* **Core Goal**: Must read as **one complete, useful story** from start to finish—never like five disconnected articles stitched together.
+* **Tone & Format**: Warm, clear, calm, credible, and simple. Easy to read on a phone (1–2 sentence paragraphs with generous whitespace).
+* **Word Count**: 1,500 – 2,400 words.
+* **Mandatory 8-Section Structure**:
+  1. **Header, Meta Hook & Hero Question**: H1 Title, metadata, 2-sentence question-led excerpt, Hero Cover Image (`max-width: 720px`) followed immediately by a single-sentence provocative question, and the 3D Disney Pixar Featured Image Prompt Block.
+  2. **Section 1 — The Relatable Opening Persona Story (`The Busy [Business] That Was Losing Customers`)**: Open on a busy day at the persona's Nigerian business where everything looks successful from the outside, pivot with *"But [Name] has a problem,"* walk through 3 concrete everyday micro-failures, and close with *"Her business has customers, products and locations. What it lacks is a connected system."*
+  3. **Section 2 — Macro Industry Validation (`The [Industry] Is Changing, and [Businesses] Cannot Afford to Ignore It`)**: Present **4 numbered industry developments** backed by real, dated Nigerian news/research reports that pass the Relevance Test. Each of the 4 items MUST:
+     - Embed **its own matching publicly available, verified Nigerian/African news or research image** (4 matched images across the 4 points, `referrerpolicy="no-referrer"`, `max-width: 720px`, zero Unsplash).
+     - Cite the publication, date, and core finding with a link.
+     - Explicitly tie it back to the persona in 1–2 sentences (*"Why does this matter to [Name]?"* or *"For [Name], this highlights an important opportunity."*).
+  4. **Section 3 — The Core Diagnosis (`The Real Problem: Your [Channels/Departments] Are Competing Instead of Working Together`)**: Revisit the persona (*"Consider [Name]'s business again."*), stack 4 parallel one-sentence operational disconnects across departments, define the unified solution simply, and transition into the 10 ways.
+  5. **Section 4 — The 10 Practical Fixes (`10 Ways to Connect / Solve...`)**: Numbered `1` to `10` with inline images interspersed (e.g., at #1, #3, #5). Every item strictly follows the 4-part micro-template:
+     - **Action-Verb Heading**
+     - **The Current Friction / Mini-Scenario** (2–3 short paragraphs)
+     - **The Connected Solution** (2–3 short paragraphs)
+     - **Bold Closing Takeaway**: `**Why it matters:** [1-sentence operational benefit].`
+  6. **Section 5 — The 3-Column Comparison Table (`What a Connected [Business] Looks Like`)**: Clean 8-row, 3-column native Markdown table (`Business activity` | `Disconnected [operations]` | `Connected [operations]`).
+  7. **Section 6 — The Product Bridge (`How [Ofia / ResultsPro] Helps Bring Your Operations Together`)**: Include an inline image, reconnect to the persona, and introduce the platform with *"Depending on the configured modules, businesses can use the platform to support:"* followed by 6 clean module bullets.
+  8. **Section 7 & 8 — Narrative Closure, Direct CTA & Tags**: Bring narrative closure to the persona's realization, follow with `Ready to Connect Your...?` CTA block, direct link, memorable 2-sentence epigram, and `#tags`.
 
 ### 4.3 📰 Pure-News HTML Email Blast (Stream 2: `email-blast.md` / `email-blast.html`)
 * **Format**: Responsive, mobile-first HTML email newsletter with inline CSS.

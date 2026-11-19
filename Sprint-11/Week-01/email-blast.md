@@ -57,11 +57,11 @@ Unsubscribe: {{unsubscribe_url}}
 ## Complete Newsletter Publication Edition
 
 ### Header & Masthead
-<div style="display: flex; align-items: center; gap: 12px; margin-bottom: 12px;">
-  <img src="https://res.cloudinary.com/yugcjpau/image/upload/v1793934925/9mm/compliancehub_logo.png" alt="ComplianceHub" width="44" height="44" style="display: inline-block; vertical-align: middle;" />
+<div class="brand-header" style="display: flex; align-items: center; gap: 10px; margin-bottom: 12px;">
+  <img class="brand-logo" src="https://res.cloudinary.com/yugcjpau/image/upload/v1793934925/9mm/compliancehub_logo.png" alt="ComplianceHub" width="36" height="36" style="width: 36px !important; max-width: 36px !important; height: 36px !important; object-fit: contain !important; display: inline-block !important; margin: 0 !important; border: none !important; box-shadow: none !important; vertical-align: middle !important;" />
   <div style="display: inline-block; vertical-align: middle;">
     <span style="font-size: 11px; font-weight: 700; color: #D97706; text-transform: uppercase; letter-spacing: 1.5px; display: block;">COMPLIANCEHUB · SPECIALIST REGULATORY GOVERNANCE</span>
-    <strong style="font-size: 20px; color: #1E293B; display: block;">THE COMPLIANCEHUB REGULATORY BRIEF</strong>
+    <strong style="font-size: 18px; color: #1E293B; display: block;">THE COMPLIANCEHUB REGULATORY BRIEF</strong>
   </div>
 </div>
 *Edition #03 · Anti-Money Laundering, SCUML Governance & Regulated Verticals · November 23, 2026 · 4-min Regulatory Read · Published by [ComplianceHub.ng](https://www.compliancehub.ng)*
@@ -141,9 +141,9 @@ Head of Regulatory Affairs & Corporate Compliance, ComplianceHub.ng
 ---
 
 ### Footer & CAN-SPAM Compliance
-<div style="display: flex; align-items: center; gap: 8px; margin-bottom: 10px;">
-  <img src="https://res.cloudinary.com/yugcjpau/image/upload/v1793934925/9mm/compliancehub_logo.png" alt="ComplianceHub" width="22" height="22" style="display: inline-block; vertical-align: middle;" />
-  <strong style="font-size: 12px; color: #14151F;">ComplianceHub Regulatory Technologies Limited</strong>
+<div class="brand-footer" style="display: flex; align-items: center; gap: 8px; margin-bottom: 10px;">
+  <img class="brand-logo" src="https://res.cloudinary.com/yugcjpau/image/upload/v1793934925/9mm/compliancehub_logo.png" alt="ComplianceHub" width="20" height="20" style="width: 20px !important; max-width: 20px !important; height: 20px !important; object-fit: contain !important; display: inline-block !important; margin: 0 !important; border: none !important; box-shadow: none !important; vertical-align: middle !important;" />
+  <strong style="font-size: 11px; color: #14151F;">ComplianceHub Regulatory Technologies Limited</strong>
 </div>
 **Corporate Statutory Filing & Anti-Money Laundering Infrastructure**  
 *You are receiving this operational dispatch because your enterprise is registered in our corporate governance research network or requested regulatory briefings.*  

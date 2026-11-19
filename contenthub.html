@@ -646,6 +646,10 @@ button, .filter-btn, .stream-btn, .sidebar-week-btn, .copy-btn, .view-mode-tab, 
   background: var(--rp-soft);
   border-left-color: var(--rp-primary);
 }
+.sidebar-item.active.ch-item {
+  background: #ECFDF5;
+  border-left-color: #0D5C3A;
+}
 
 .sidebar-item-top {
   display: flex;
@@ -662,6 +666,9 @@ button, .filter-btn, .stream-btn, .sidebar-week-btn, .copy-btn, .view-mode-tab, 
 }
 .rp-item .sidebar-item-stream {
   color: var(--rp-primary);
+}
+.ch-item .sidebar-item-stream {
+  color: #0D5C3A;
 }
 
 .sidebar-item-week {
@@ -681,6 +688,10 @@ button, .filter-btn, .stream-btn, .sidebar-week-btn, .copy-btn, .view-mode-tab, 
 }
 .sidebar-item.active.rp-item .sidebar-item-week {
   background: var(--rp-primary);
+  color: #FFFFFF;
+}
+.sidebar-item.active.ch-item .sidebar-item-week {
+  background: #0D5C3A;
   color: #FFFFFF;
 }
 
@@ -886,6 +897,10 @@ button, .filter-btn, .stream-btn, .sidebar-week-btn, .copy-btn, .view-mode-tab, 
   background: var(--rp-primary) !important;
   border-color: var(--rp-primary) !important;
 }
+.copy-btn-ch {
+  background: #0D5C3A !important;
+  border-color: #0D5C3A !important;
+}
 .copy-btn:hover {
   opacity: 0.92;
 }
@@ -1005,14 +1020,38 @@ button, .filter-btn, .stream-btn, .sidebar-week-btn, .copy-btn, .view-mode-tab, 
 }
 
 .formatted-preview img {
-  display: block !important;
-  max-width: 560px !important;
-  width: 100% !important;
+  display: block;
+  max-width: 560px;
+  width: 100%;
+  height: auto;
+  margin: 24px auto;
+  border-radius: 8px;
+  border: 1px solid var(--line);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.05);
+}
+
+.formatted-preview img.brand-logo,
+.formatted-preview .brand-header img,
+.formatted-preview .brand-footer img,
+.formatted-preview img[width="16"],
+.formatted-preview img[width="20"],
+.formatted-preview img[width="22"],
+.formatted-preview img[width="24"],
+.formatted-preview img[width="28"],
+.formatted-preview img[width="32"],
+.formatted-preview img[width="36"],
+.formatted-preview img[width="40"],
+.formatted-preview img[width="44"],
+.formatted-preview img[width="48"] {
+  display: inline-block !important;
+  width: auto !important;
+  max-width: none !important;
   height: auto !important;
-  margin: 24px auto !important;
-  border-radius: 8px !important;
-  border: 1px solid var(--line) !important;
-  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.05) !important;
+  margin: 0 !important;
+  border-radius: 0 !important;
+  border: none !important;
+  box-shadow: none !important;
+  vertical-align: middle !important;
 }
 
 .formatted-preview p > em:only-child,
@@ -1239,7 +1278,25 @@ button, .filter-btn, .stream-btn, .sidebar-week-btn, .copy-btn, .view-mode-tab, 
         </div>
       </div>
 
-      <!-- Row 3: Streams, Weeks & Action Controls -->
+      <!-- Row 3: Weeks -->
+      <div class="toolbar-row" style="border-top: 1px solid var(--line); padding-top: 10px;">
+        <div class="filter-cluster-group" id="week-filter-pills">
+          <span style="font-weight:700; color:var(--text-heading); margin-right:4px; font-size:0.8rem; align-self:center;">Week:</span>
+          <button class="filter-btn active" data-week="all" onclick="setWeekFilter('all')">All Weeks</button>
+          <button class="filter-btn" data-week="Week 01" onclick="setWeekFilter('Week 01')">Week 01</button>
+          <button class="filter-btn" data-week="Week 02" onclick="setWeekFilter('Week 02')">Week 02</button>
+          <button class="filter-btn" data-week="Week 03" onclick="setWeekFilter('Week 03')">Week 03</button>
+          <button class="filter-btn" data-week="Week 04" onclick="setWeekFilter('Week 04')">Week 04</button>
+          <button class="filter-btn" data-week="Week 05" onclick="setWeekFilter('Week 05')">Week 05</button>
+          <button class="filter-btn" data-week="Week 06" onclick="setWeekFilter('Week 06')">Week 06</button>
+          <button class="filter-btn" data-week="Week 07" onclick="setWeekFilter('Week 07')">Week 07</button>
+          <button class="filter-btn" data-week="Week 08" onclick="setWeekFilter('Week 08')">Week 08</button>
+          <button class="filter-btn" data-week="Week 09" onclick="setWeekFilter('Week 09')">Week 09</button>
+          <button class="filter-btn" data-week="Week 10" onclick="setWeekFilter('Week 10')">Week 10</button>
+        </div>
+      </div>
+
+      <!-- Row 4: Streams, Views & Action Controls -->
       <div class="toolbar-subrow">
         <div class="stream-filter-group">
           <span style="font-weight:700; color:var(--text-heading); margin-right:4px;">Stream:</span>
@@ -1252,7 +1309,7 @@ button, .filter-btn, .stream-btn, .sidebar-week-btn, .copy-btn, .view-mode-tab, 
         </div>
 
         <div class="toolbar-actions">
-          <span id="hubResultsCount" style="font-family:var(--mono); font-size:.76rem; font-weight:600; color:var(--text-heading);">Showing 400 assets</span>
+          <span id="hubResultsCount" style="font-family:var(--mono); font-size:.76rem; font-weight:600; color:var(--text-heading);">Showing 600 assets</span>
           <button class="tool-text-btn active" id="btn-view-single" onclick="setHubViewMode('single')">Single Asset</button>
           <button class="tool-text-btn" id="btn-view-feed" onclick="setHubViewMode('feed')">All Assets</button>
           <button class="tool-text-btn" onclick="resetFilters()">Reset</button>
@@ -1269,7 +1326,7 @@ button, .filter-btn, .stream-btn, .sidebar-week-btn, .copy-btn, .view-mode-tab, 
 </main>
 
 <!-- External Data Cache (Enables file:/// browsing with zero CORS restrictions & instant sync) -->
-<script src="content-data.js"></script>
+<script src="content-data.js?v=20261107-1525"></script>
 <script>
 const INITIAL_FALLBACK_FILES = (typeof window !== 'undefined' && window.CONTENT_HUB_FILES) ? window.CONTENT_HUB_FILES : [];
 
@@ -1522,13 +1579,13 @@ function loadFilesArray(files) {
     const sprintMeta = SPRINT_METADATA[sprintKey] || {
       name: item.sprintName || 'Sprint',
       short: item.sprintShort || 'Sprint',
-      brand: (sprintKey <= 'sprint-04') ? 'ofia' : 'resultspro',
-      brandName: (sprintKey <= 'sprint-04') ? 'Ofia' : 'ResultsPro',
-      brandDomain: (sprintKey <= 'sprint-04') ? 'https://www.ofia.ng' : 'https://www.resultspro.ng',
-      logo: (sprintKey <= 'sprint-04') ? 'https://res.cloudinary.com/wnmabxiy/image/upload/v1793738590/9mm/ofia_logo.svg' : 'https://res.cloudinary.com/wnmabxiy/image/upload/v1793738629/9mm/resultspro_logo.png',
-      color: (sprintKey <= 'sprint-04') ? '#2A6BE0' : '#1A48B6',
-      bg: (sprintKey <= 'sprint-04') ? '#EAF1FD' : '#EFF6FF',
-      border: '#BFDBFE',
+      brand: (sprintKey <= 'sprint-04') ? 'ofia' : ((sprintKey <= 'sprint-08') ? 'resultspro' : 'compliancehub'),
+      brandName: (sprintKey <= 'sprint-04') ? 'Ofia' : ((sprintKey <= 'sprint-08') ? 'ResultsPro' : 'ComplianceHub'),
+      brandDomain: (sprintKey <= 'sprint-04') ? 'https://www.ofia.ng' : ((sprintKey <= 'sprint-08') ? 'https://www.resultspro.ng' : 'https://www.compliancehub.ng'),
+      logo: (sprintKey <= 'sprint-04') ? 'https://res.cloudinary.com/wnmabxiy/image/upload/v1793738590/9mm/ofia_logo.svg' : ((sprintKey <= 'sprint-08') ? 'https://res.cloudinary.com/wnmabxiy/image/upload/v1793738629/9mm/resultspro_logo.png' : 'https://res.cloudinary.com/yugcjpau/image/upload/v1793934925/9mm/compliancehub_logo.png'),
+      color: (sprintKey <= 'sprint-04') ? '#2A6BE0' : ((sprintKey <= 'sprint-08') ? '#1A48B6' : '#0D5C3A'),
+      bg: (sprintKey <= 'sprint-04') ? '#EAF1FD' : ((sprintKey <= 'sprint-08') ? '#EFF6FF' : '#ECFDF5'),
+      border: (sprintKey <= 'sprint-04') ? '#BFDBFE' : ((sprintKey <= 'sprint-08') ? '#BFDBFE' : '#A7F3D0'),
       theme: '',
       persona: '',
       thesis: ''
@@ -1703,11 +1760,26 @@ async function fetchLiveDirectory() {
 
 function setWeekFilter(week) {
   currentWeekFilter = week;
+  document.querySelectorAll('#week-filter-pills .filter-btn').forEach(btn => {
+    btn.classList.toggle('active', btn.dataset.week === week);
+  });
+  document.querySelectorAll('.sidebar-week-btn').forEach(btn => {
+    btn.classList.toggle('active', btn.dataset.week === week || (week === 'all' && btn.textContent.trim() === 'All'));
+  });
   renderHubView();
 }
 
 function setBrandFilter(brand) {
   currentBrandFilter = brand;
+
+  // If a sprint is currently selected that does not belong to the selected brand, reset sprint to 'all'
+  if (currentSprintFilter !== 'all') {
+    const meta = SPRINT_METADATA[currentSprintFilter];
+    if (brand !== 'all' && meta && meta.brand !== brand) {
+      currentSprintFilter = 'all';
+    }
+  }
+
   document.querySelectorAll('[data-brand]').forEach(btn => {
     btn.classList.remove('active', 'active-ofia', 'active-rp', 'active-ch');
     if (btn.dataset.brand === brand) {
@@ -1717,14 +1789,36 @@ function setBrandFilter(brand) {
       else if (brand === 'compliancehub') btn.classList.add('active-ch');
     }
   });
+
+  document.querySelectorAll('#sprint-filter-pills .filter-btn').forEach(btn => {
+    btn.classList.toggle('active', btn.dataset.sprint === currentSprintFilter);
+  });
+
   renderHubView();
 }
 
 function setSprintFilter(sprint) {
   currentSprintFilter = sprint;
+
+  // Auto-align the brand filter to match the selected sprint's brand
+  if (sprint !== 'all' && SPRINT_METADATA[sprint]) {
+    currentBrandFilter = SPRINT_METADATA[sprint].brand;
+  }
+
   document.querySelectorAll('#sprint-filter-pills .filter-btn').forEach(btn => {
     btn.classList.toggle('active', btn.dataset.sprint === sprint);
   });
+
+  document.querySelectorAll('[data-brand]').forEach(btn => {
+    btn.classList.remove('active', 'active-ofia', 'active-rp', 'active-ch');
+    if (btn.dataset.brand === currentBrandFilter) {
+      if (currentBrandFilter === 'all') btn.classList.add('active');
+      else if (currentBrandFilter === 'ofia') btn.classList.add('active-ofia');
+      else if (currentBrandFilter === 'resultspro') btn.classList.add('active-rp');
+      else if (currentBrandFilter === 'compliancehub') btn.classList.add('active-ch');
+    }
+  });
+
   renderHubView();
 }
 
@@ -1774,6 +1868,7 @@ function resetFilters() {
   document.querySelectorAll('[data-brand]').forEach(b => b.classList.toggle('active', b.dataset.brand === 'all'));
   document.querySelectorAll('[data-brand]').forEach(b => b.classList.remove('active-ofia', 'active-rp', 'active-ch'));
   document.querySelectorAll('#sprint-filter-pills .filter-btn').forEach(b => b.classList.toggle('active', b.dataset.sprint === 'all'));
+  document.querySelectorAll('#week-filter-pills .filter-btn').forEach(b => b.classList.toggle('active', b.dataset.week === 'all'));
   document.querySelectorAll('[data-stream]').forEach(b => b.classList.toggle('active', b.dataset.stream === 'all'));
 
   renderHubView();
@@ -1854,8 +1949,9 @@ function renderHubView() {
     const sidebarItemsHtml = filtered.map(item => {
       const isActive = item.id === selectedAssetId;
       const isRp = item.brand === 'resultspro';
+      const isCh = item.brand === 'compliancehub';
       return `
-        <div class="sidebar-item ${isActive ? 'active' : ''} ${isRp ? 'rp-item' : ''}" onclick="selectAsset('${item.id}')">
+        <div class="sidebar-item ${isActive ? 'active' : ''} ${isRp ? 'rp-item' : ''} ${isCh ? 'ch-item' : ''}" onclick="selectAsset('${item.id}')">
           <div class="sidebar-item-top">
             <span class="sidebar-item-stream">${(item.streamLabel || 'Deliverable').split(':')[0]}</span>
             <span class="sidebar-item-week">${item.week}</span>
@@ -1911,6 +2007,7 @@ function renderHubView() {
 function createCardHtml(item, isSingleView) {
   const isHtml = item.isHtml;
   const isRp = item.brand === 'resultspro';
+  const isCh = item.brand === 'compliancehub';
 
   const viewTabs = isHtml ? `
     <button class="view-mode-tab active" id="tab-btn-email-${item.id}" onclick="switchCardTab('${item.id}', 'email')">Live Email Preview</button>
@@ -1952,7 +2049,7 @@ function createCardHtml(item, isSingleView) {
             <button class="device-toggle-btn active" id="dev-desk-${item.id}" onclick="setDeviceView('${item.id}', 'desktop')">Desktop (640px)</button>
             <button class="device-toggle-btn" id="dev-mob-${item.id}" onclick="setDeviceView('${item.id}', 'mobile')">Mobile (375px)</button>
           ` : ''}
-          <button class="copy-btn ${isRp ? 'copy-btn-rp' : ''}" onclick="copyFull('${item.id}', this)">Copy Full Asset</button>
+          <button class="copy-btn ${isRp ? 'copy-btn-rp' : ''} ${isCh ? 'copy-btn-ch' : ''}" onclick="copyFull('${item.id}', this)">Copy Full Asset</button>
         </div>
       </div>
 

@@ -1005,14 +1005,38 @@ button, .filter-btn, .stream-btn, .sidebar-week-btn, .copy-btn, .view-mode-tab, 
 }
 
 .formatted-preview img {
-  display: block !important;
-  max-width: 560px !important;
-  width: 100% !important;
+  display: block;
+  max-width: 560px;
+  width: 100%;
+  height: auto;
+  margin: 24px auto;
+  border-radius: 8px;
+  border: 1px solid var(--line);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.05);
+}
+
+.formatted-preview img.brand-logo,
+.formatted-preview .brand-header img,
+.formatted-preview .brand-footer img,
+.formatted-preview img[width="16"],
+.formatted-preview img[width="20"],
+.formatted-preview img[width="22"],
+.formatted-preview img[width="24"],
+.formatted-preview img[width="28"],
+.formatted-preview img[width="32"],
+.formatted-preview img[width="36"],
+.formatted-preview img[width="40"],
+.formatted-preview img[width="44"],
+.formatted-preview img[width="48"] {
+  display: inline-block !important;
+  width: auto !important;
+  max-width: none !important;
   height: auto !important;
-  margin: 24px auto !important;
-  border-radius: 8px !important;
-  border: 1px solid var(--line) !important;
-  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.05) !important;
+  margin: 0 !important;
+  border-radius: 0 !important;
+  border: none !important;
+  box-shadow: none !important;
+  vertical-align: middle !important;
 }
 
 .formatted-preview p > em:only-child,

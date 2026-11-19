@@ -1,8 +1,8 @@
-<div style="display: flex; align-items: center; gap: 12px; margin: 0 0 20px 0; padding-bottom: 14px; border-bottom: 2px solid #D97706;">
-  <img src="https://res.cloudinary.com/yugcjpau/image/upload/v1793934925/9mm/compliancehub_logo.png" alt="ComplianceHub.ng" width="44" height="44" style="object-fit: contain; display: inline-block; vertical-align: middle;" />
+<div class="brand-header" style="display: flex; align-items: center; gap: 10px; margin: 0 0 20px 0; padding-bottom: 12px; border-bottom: 2px solid #D97706;">
+  <img class="brand-logo" src="https://res.cloudinary.com/yugcjpau/image/upload/v1793934925/9mm/compliancehub_logo.png" alt="ComplianceHub.ng" width="32" height="32" style="width: 32px !important; max-width: 32px !important; height: 32px !important; object-fit: contain !important; display: inline-block !important; margin: 0 !important; border: none !important; box-shadow: none !important; vertical-align: middle !important;" />
   <div style="display: inline-block; vertical-align: middle;">
-    <span style="font-size: 18px; font-weight: 800; color: #D97706; letter-spacing: -0.3px; display: block; line-height: 1.2;">ComplianceHub<span style="color: #0089C1;">.ng</span></span>
-    <span style="font-size: 10px; font-weight: 700; color: #64748B; text-transform: uppercase; letter-spacing: 1.5px; display: block;">Specialist Regulatory Clearances &amp; AML Governance</span>
+    <span style="font-size: 15px; font-weight: 800; color: #D97706; letter-spacing: -0.2px; display: block; line-height: 1.2;">ComplianceHub<span style="color: #0089C1;">.ng</span></span>
+    <span style="font-size: 10px; font-weight: 700; color: #64748B; text-transform: uppercase; letter-spacing: 1px; display: block;">Specialist Regulatory Clearances &amp; AML Governance</span>
   </div>
 </div>
 
@@ -53,21 +53,12 @@ This regulatory net covers:
 * Casinos, sports betting operators, and lottery companies
 * Non-Governmental Organizations (NGOs) and charitable foundations
 
-```
-                      ┌────────────────────────┐
-                      │    THE SCUML REGIME    │
-                      │  MLA 2022 ENFORCEMENT  │
-                      └───────────┬────────────┘
-                                  │
-         ┌────────────────┬───────┴────────┬────────────────┐
-         ▼                ▼                ▼                ▼
-  ┌──────────────┐ ┌──────────────┐ ┌──────────────┐ ┌──────────────┐
-  │  SCUML Cert  │ │  Cash Limit  │ │ PEP & Sanc.  │ │  Mandatory   │
-  │ Annual Audit │ │  CTR Filing  │ │ Screening    │ │ Staff AML/CFT│
-  │ Registration │ │  ₦5M Indiv.  │ │ Customer Due │ │ Training     │
-  │ & Bank KYC   │ │  ₦10M Corp.  │ │ Diligence    │ │ Certification│
-  └──────────────┘ └──────────────┘ └──────────────┘ └──────────────┘
-```
+| Compliance Pillar | Governing Authority | Legal Baseline | Statutory Obligation |
+| :--- | :--- | :--- | :--- |
+| **SCUML Certificate** | SCUML / EFCC | *Money Laundering Act 2022 s.6* | Mandatory registration and annual compliance audit for high-value entities |
+| **CTR Threshold Filing** | NFIU / SCUML | *MLA 2022 Section 10* | Mandatory report within 7 days for cash/transfers >₦5M (Indiv.) or >₦10M (Corp.) |
+| **PEP & Sanctions Screening** | NFIU Directives | *CBN / MLA Due Diligence* | Mandatory Enhanced Due Diligence on Politically Exposed Persons & 5%+ beneficial owners |
+| **Staff AML/CFT Training** | SCUML Directorate | *MLA 2022 Section 9* | Annual certified anti-money laundering training for front-desk, sales, and accounts staff |
 
 1. **Mandatory SCUML Certificate**: Operating a DNFBP without an authentic, active SCUML registration certificate is a criminal offense under the MLA 2022. Commercial banks are legally mandated to freeze accounts of non-compliant entities.
 2. **Mandatory Cash Transaction Reports (CTR)**: Any single transaction involving cash or bank transfer above **₦5,000,000 for individuals** or **₦10,000,000 for corporate bodies** must be reported to the NFIU via SCUML within seven (7) days of the transaction.
@@ -106,6 +97,13 @@ Under Section 9 of the MLA 2022, every DNFBP must designate a dedicated Complian
 ### 7. Enforce Mandatory Quarterly AML/CFT Staff Training
 Regulatory auditors will scrutinize your staff training registers. Ensure all front-desk sales executives, property agents, and accounts personnel complete accredited bite-sized AML training courses (`/modules/hubacademy`) covering red flags, suspicious transaction identification, and cash reporting limits.
 
+As illustrated in digital financial transaction telemetry and institutional payment audits (Figure 2 below), managing high-value inflows without automated AML verification exposes commercial enterprises to severe operational interdiction and automated bank freezes.
+
+<div style="text-align: center; margin: 24px 0;">
+  <img src="https://wsrv.nl/?url=https://techcabal.com/wp-content/uploads/tc/2026/06/1.-Paystack-Index-1024x684.jpg&w=800&output=jpg" alt="Figure 2: Digital Financial Settlement Systems and Automated AML Monitoring Architecture" referrerpolicy="no-referrer" style="max-width: 720px; width: 100%; height: auto; border-radius: 8px; border: 1px solid #E2E8F0; display: block; margin: 0 auto;" />
+  <p style="font-size: 13px; color: #64748B; margin-top: 8px; line-height: 1.5; font-style: italic;">Figure 2: Digital Payment Architecture & Transaction Telemetry — Enterprise financial settlement systems deployed in Nigeria; automated currency threshold monitoring protects commercial vendors and DNFBPs from sudden bank Post-No-Debit restrictions. Source: TechCabal / Paystack.</p>
+</div>
+
 ### 8. Draft and Adopt a Board-Approved AML/CFT Institutional Policy
 Operating without a written, formalized Anti-Money Laundering policy is an automatic ground for regulatory sanctions. Adopt a tailored AML policy manual defining your risk assessment methodology, customer acceptance criteria, and reporting escalation protocols.
 
@@ -138,7 +136,7 @@ With **ComplianceHub**, real estate developers, auto merchants, and professional
 👉 **[Run Free SCUML & AML Diagnostic at ComplianceHub.ng →](https://www.compliancehub.ng/onboarding?module=hubaml)**  
 *Instant evaluation of your DNFBP compliance standing, threshold reporting workflows, and bank KYC readiness.*
 
-<div style="display: flex; align-items: center; gap: 10px; margin-top: 24px; padding-top: 16px; border-top: 1px solid #E2E8F0;">
-  <img src="https://res.cloudinary.com/yugcjpau/image/upload/v1793934925/9mm/compliancehub_logo.png" alt="ComplianceHub" width="28" height="28" style="object-fit: contain; vertical-align: middle;" />
-  <span style="font-size: 12px; font-weight: 700; color: #1E293B;">ComplianceHub Regulatory Technologies Limited · FCT Abuja &amp; Victoria Island, Lagos, Nigeria</span>
+<div class="brand-footer" style="display: flex; align-items: center; gap: 8px; margin-top: 24px; padding-top: 14px; border-top: 1px solid #E2E8F0;">
+  <img class="brand-logo" src="https://res.cloudinary.com/yugcjpau/image/upload/v1793934925/9mm/compliancehub_logo.png" alt="ComplianceHub" width="20" height="20" style="width: 20px !important; max-width: 20px !important; height: 20px !important; object-fit: contain !important; display: inline-block !important; margin: 0 !important; border: none !important; box-shadow: none !important; vertical-align: middle !important;" />
+  <span style="font-size: 11px; font-weight: 700; color: #1E293B;">ComplianceHub Regulatory Technologies Limited · FCT Abuja &amp; Victoria Island, Lagos, Nigeria</span>
 </div>

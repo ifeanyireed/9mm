@@ -1,5 +1,6 @@
 <?php
 // ResultsPro & Ofia 9MM Content Hub - Live Folder Scanner
+chdir(__DIR__);
 header('Content-Type: application/json; charset=utf-8');
 header('Access-Control-Allow-Origin: *');
 header('Cache-Control: no-cache, no-store, must-revalidate');
@@ -118,18 +119,19 @@ function scanDirectory($dir, &$results) {
     }
 }
 
-// Find all Sprint-* directories (case-insensitive)
-$sprintDirs = glob('{Sprint-*,sprint-*,Sprints-*,sprints-*}', GLOB_BRACE | GLOB_ONLYDIR);
+// Find all Sprint-* directories (case-insensitive) using __DIR__
+$sprintDirs = glob(__DIR__ . '/{Sprint-*,sprint-*,Sprints-*,sprints-*}', GLOB_BRACE | GLOB_ONLYDIR);
 if (empty($sprintDirs)) {
-    $allDirs = glob('*', GLOB_ONLYDIR);
+    $allDirs = glob(__DIR__ . '/*', GLOB_ONLYDIR);
     $sprintDirs = array_values(array_filter($allDirs ?: [], function($d) {
-        return stripos($d, 'sprint') !== false;
+        return stripos(basename($d), 'sprint') !== false;
     }));
 }
 if (!empty($sprintDirs)) {
     sort($sprintDirs);
-    foreach ($sprintDirs as $sDir) {
-        scanDirectory($sDir, $results);
+    foreach ($sprintDirs as $fullSprintDir) {
+        $relSprintDir = basename($fullSprintDir);
+        scanDirectory($relSprintDir, $results);
     }
 }
 
@@ -157,12 +159,15 @@ if (!file_exists($exactLogo)) {
 $copiedLogo = null;
 if (file_exists($exactLogo)) {
     $copiedLogo = __DIR__ . '/compliancehub_logo.png';
-    @copy($exactLogo, $copiedLogo);
+    if (!file_exists($copiedLogo)) {
+        @copy($exactLogo, $copiedLogo);
+    }
     @file_put_contents(__DIR__ . '/ch_logo_found.txt', $exactLogo);
 }
 
-// Upload to Cloudinary using credentials from compliancehub_ng/.env
-if ($copiedLogo && file_exists($copiedLogo)) {
+// Upload to Cloudinary once and cache URL in ch_cloudinary_url.txt
+$cloudinaryFile = __DIR__ . '/ch_cloudinary_url.txt';
+if (!file_exists($cloudinaryFile) && $copiedLogo && file_exists($copiedLogo)) {
     $cUrl = 'cloudinary://843881634745644:f10bR34lPm4mYEbtrcIhB0eIcLQ@yugcjpau';
     if (preg_match('/cloudinary:\/\/([^:]+):([^@]+)@([^\/]+)/', $cUrl, $cm)) {
         $apiKey = $cm[1];
@@ -204,7 +209,7 @@ if ($copiedLogo && file_exists($copiedLogo)) {
         $resJson = json_decode($resRaw, true);
         if (!empty($resJson['secure_url'])) {
             $uploadedUrl = $resJson['secure_url'];
-            @file_put_contents(__DIR__ . '/ch_cloudinary_url.txt', $uploadedUrl);
+            @file_put_contents($cloudinaryFile, $uploadedUrl);
             
             // Auto-update contenthub.html, index.html, and ComplianceHub deliverable files safely without recursion
             $targetFiles = [
@@ -220,16 +225,15 @@ if ($copiedLogo && file_exists($copiedLogo)) {
                 if (file_exists($fullP)) {
                     $c = @file_get_contents($fullP);
                     if ($c) {
-                        // Replace any nested or relative references cleanly
                         $c = preg_replace('/https?:\/\/[^\s"\'<>]*compliancehub_logo\.(?:png|svg)/i', $uploadedUrl, $c);
                         $c = preg_replace('/(?<!\/)compliancehub_logo\.(?:png|svg)/i', $uploadedUrl, $c);
                         @file_put_contents($fullP, $c);
                     }
                 }
             }
-            echo "\n[Cloudinary Success] Uploaded ComplianceHub logo to: " . $uploadedUrl . "\n";
         }
     }
 }
 
+// Clean JSON response for all consumers
 echo $json;

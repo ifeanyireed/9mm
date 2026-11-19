@@ -1,8 +1,8 @@
-<div style="display: flex; align-items: center; gap: 12px; margin: 0 0 20px 0; padding-bottom: 14px; border-bottom: 2px solid #0D5C3A;">
-  <img src="https://res.cloudinary.com/yugcjpau/image/upload/v1793934925/9mm/compliancehub_logo.png" alt="ComplianceHub.ng" width="44" height="44" style="object-fit: contain; display: inline-block; vertical-align: middle;" />
+<div class="brand-header" style="display: flex; align-items: center; gap: 10px; margin: 0 0 20px 0; padding-bottom: 12px; border-bottom: 2px solid #0D5C3A;">
+  <img class="brand-logo" src="https://res.cloudinary.com/yugcjpau/image/upload/v1793934925/9mm/compliancehub_logo.png" alt="ComplianceHub.ng" width="32" height="32" style="width: 32px !important; max-width: 32px !important; height: 32px !important; object-fit: contain !important; display: inline-block !important; margin: 0 !important; border: none !important; box-shadow: none !important; vertical-align: middle !important;" />
   <div style="display: inline-block; vertical-align: middle;">
-    <span style="font-size: 18px; font-weight: 800; color: #0D5C3A; letter-spacing: -0.3px; display: block; line-height: 1.2;">ComplianceHub<span style="color: #0089C1;">.ng</span></span>
-    <span style="font-size: 10px; font-weight: 700; color: #64748B; text-transform: uppercase; letter-spacing: 1.5px; display: block;">Corporate Statutory Governance &amp; Regulatory Intelligence</span>
+    <span style="font-size: 15px; font-weight: 800; color: #0D5C3A; letter-spacing: -0.2px; display: block; line-height: 1.2;">ComplianceHub<span style="color: #0089C1;">.ng</span></span>
+    <span style="font-size: 10px; font-weight: 700; color: #64748B; text-transform: uppercase; letter-spacing: 1px; display: block;">Corporate Statutory Governance &amp; Regulatory Intelligence</span>
   </div>
 </div>
 
@@ -84,11 +84,11 @@ A primary reason annual returns get queried or rejected on the CAC Company Regis
 * Formal Board Resolution approving the audited or unaudited financial statements.
 * Form CAC 19 (Statement of Share Capital & Shareholding) reflecting current allotment.
 
-As demonstrated in the systems architecture illustrated in Figure 2 below (Source: Punch Nigeria), deploying automated cryptographic compliance ledgers and synchronized audit trails ensures statutory filings are verified programmatically, eliminating clerical transcription errors and providing audit-grade proof to commercial banks.
+As demonstrated in the systems architecture illustrated in Figure 2 below (Source: TechCabal / Paystack), deploying automated digital compliance ledgers and synchronized audit trails ensures statutory filings are verified programmatically, eliminating clerical transcription errors and providing audit-grade proof to commercial banks.
 
 <div style="text-align: center; margin: 24px 0;">
-  <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2023/12/28025502/blockchain-technology.jpg&w=800&output=jpg" alt="Cryptographic Compliance Ledger and Automated Corporate Verification Architecture" referrerpolicy="no-referrer" style="max-width: 720px; width: 100%; height: auto; border-radius: 8px; border: 1px solid #E2E8F0; display: block; margin: 0 auto;" />
-  <p style="font-size: 13px; color: #64748B; margin-top: 8px; line-height: 1.5; font-style: italic;">Figure 2: Systems Architecture & Audit Trail — Digital statutory filing ledgers and automated corporate compliance records provide verifiable, real-time proof of legal standing to commercial banks and regulatory authorities. Source: Punch Nigeria.</p>
+  <img src="https://wsrv.nl/?url=https://techcabal.com/wp-content/uploads/tc/2023/10/Terminal-Poster-04-2-1024x682.jpg&w=800&output=jpg" alt="Digital Banking Architecture and Automated Corporate Verification Telemetry" referrerpolicy="no-referrer" style="max-width: 720px; width: 100%; height: auto; border-radius: 8px; border: 1px solid #E2E8F0; display: block; margin: 0 auto;" />
+  <p style="font-size: 13px; color: #64748B; margin-top: 8px; line-height: 1.5; font-style: italic;">Figure 2: Systems Architecture & Digital Verification — High-security payment terminals and automated banking telemetry deployed in Lagos; connecting corporate compliance ledgers directly to commercial banking switches ensures rapid lifting of Post-No-Debit flags upon CAC regularization. Source: TechCabal / Paystack.</p>
 </div>
 
 ### 7. Obtain the Official CAC Electronic Status Report (E-Status)
@@ -134,7 +134,7 @@ Eliminate the risk of unexpected bank account freezes. With **ComplianceHub Corp
 
 👉 **[Run Your Free Corporate Status Audit at compliancehub.ng/corporate-audit](https://www.compliancehub.ng/corporate-audit)** — *Confidential, automated regulatory review for Nigerian enterprises.*
 
-<div style="display: flex; align-items: center; gap: 10px; margin-top: 24px; padding-top: 16px; border-top: 1px solid #E2E8F0;">
-  <img src="https://res.cloudinary.com/yugcjpau/image/upload/v1793934925/9mm/compliancehub_logo.png" alt="ComplianceHub" width="28" height="28" style="object-fit: contain; vertical-align: middle;" />
-  <span style="font-size: 12px; font-weight: 700; color: #1E293B;">ComplianceHub Regulatory Technologies Limited · FCT Abuja &amp; Victoria Island, Lagos, Nigeria</span>
+<div class="brand-footer" style="display: flex; align-items: center; gap: 8px; margin-top: 24px; padding-top: 14px; border-top: 1px solid #E2E8F0;">
+  <img class="brand-logo" src="https://res.cloudinary.com/yugcjpau/image/upload/v1793934925/9mm/compliancehub_logo.png" alt="ComplianceHub" width="20" height="20" style="width: 20px !important; max-width: 20px !important; height: 20px !important; object-fit: contain !important; display: inline-block !important; margin: 0 !important; border: none !important; box-shadow: none !important; vertical-align: middle !important;" />
+  <span style="font-size: 11px; font-weight: 700; color: #1E293B;">ComplianceHub Regulatory Technologies Limited · FCT Abuja &amp; Victoria Island, Lagos, Nigeria</span>
 </div>

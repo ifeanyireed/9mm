@@ -64,14 +64,14 @@ It is fully modular and applies to **all 8 Sprints and both Brands (Ofia vs. Res
 
 | Check ID | Verification Item | Standard Required | Pass / Fail |
 | :--- | :--- | :--- | :--- |
-| **B-01** | **Metadata & Structure** | H1 Title, author byline (`@Ifeanyi Felix`), publication date, read time, category, and meta description. | [ ] |
-| **B-02** | **Research Grounding** | Cites authoritative industry reports, verifiable sector statistics, and benchmark figures relevant to the sprint topic. | [ ] |
-| **B-03** | **Rich News, Industry Events & Citations (Zero Calculations)** | Strictly **zero calculations, formulas, or worked math equations**. Features rich, verified news reporting, recent regulatory/market events, and empirical citations from authoritative African/global bodies (*BusinessDay*, *TechCabal*, *Nairametrics*, *NIBSS*, *World Bank*, *UBEC*, *NUC*, etc.) to make the post deeply educative and authoritative. | [ ] |
-| **B-04** | **10 Actionable Tactics** | Delivers exactly 10 high-utility, bookmarkable operational fixes with clear implementation guidance. | [ ] |
-| **B-05** | **Screen Anchoring** | Grounds features in authentic software routes from `slugs.md`. | [ ] |
-| **B-06** | **Native Comparison Table & Structured Data** | Includes side-by-side comparison tables ("Legacy Manual Method" vs "Designated Product Platform") and balance sheets rendered exclusively as native Markdown tables (zero ASCII art boxes, zero fenced code blocks). | [ ] |
-| **B-07** | **Clear Closing CTA** | Summarizes the core operational shift and directs readers to the designated brand product URL. | [ ] |
-| **B-08** | **Word Count** | Substantive long-form depth between 1,500 and 2,200 words. | [ ] |
+| **B-01** | **Metadata, Hero & Cohesive Persona Story** | H1 Title, 2-sentence question-led meta excerpt, author byline (`@Ifeanyi Felix`), Hero Image + 1-sentence provocative question, and Section 1 opening persona story (*"But [Name] has a problem"* + 3 micro-failures + *"What it lacks is a connected system"*). Warm, simple, mobile-friendly 1–2 sentence paragraphs. | [ ] |
+| **B-02** | **Macro Industry Validation (4 Reports + 4 Matched Images)** | Section 2 presents **4 numbered industry developments** backed by real, dated Nigerian news/research reports that pass the Relevance Test. Each of the 4 items MUST embed **its own matching publicly available news/research image** (4 matched images in Section 2), cite the source with a link, and explain in 1–2 sentences *"Why does this matter to [Persona]?"* | [ ] |
+| **B-03** | **Core Diagnosis & Zero Calculations** | Section 3 revisits the persona and stacks 4 parallel 1-sentence department disconnects. Strictly **zero calculations, formulas, or worked math equations** anywhere in the post. | [ ] |
+| **B-04** | **10 Practical Fixes (`Why it matters:`)** | Section 4 delivers 10 numbered fixes (`1`–`10`) with inline images interspersed (e.g., at #1, #3, #5). Every item strictly follows the 4-part micro-template: Action-Verb Heading $\rightarrow$ Current Friction/Scenario $\rightarrow$ Connected Solution $\rightarrow$ `**Why it matters:** [1-sentence benefit].` | [ ] |
+| **B-05** | **Screen & Module Anchoring** | Section 6 ("How [Ofia / ResultsPro] Helps Bring Your Operations Together") includes an inline image, reconnects to the persona, and lists 6 clean modular capabilities grounded in authentic platform workflows. | [ ] |
+| **B-06** | **3-Column Native Comparison Table** | Section 5 includes a clean 8-row, 3-column native Markdown table (`Business activity` | `Disconnected [operations]` | `Connected [operations]`). Zero ASCII art boxes, zero fenced code blocks. | [ ] |
+| **B-07** | **Narrative Closure, Direct CTA & Tags** | Section 7 & 8 close the persona's story arc, present a `Ready to Connect Your...?` CTA with direct link, end with a 2-sentence epigram, and include `#tags`. | [ ] |
+| **B-08** | **Word Count & Visual Cohesion** | Substantive long-form depth (1,500–2,400 words) that reads as one complete, cohesive story from start to finish, with all images visually cohesive and actively supporting their sections. | [ ] |
 
 ---
 

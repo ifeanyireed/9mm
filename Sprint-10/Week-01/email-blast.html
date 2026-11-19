@@ -48,54 +48,59 @@
     @media only screen and (max-width: 620px) {
       .email-container {
         width: 100% !important;
-        padding: 16px !important;
       }
       .stack-column {
         display: block !important;
         width: 100% !important;
+        box-sizing: border-box !important;
+      }
+      .mobile-center {
+        text-align: center !important;
+      }
+      .mobile-padding {
+        padding: 20px 16px !important;
       }
     }
   </style>
 </head>
 <body style="margin: 0; padding: 24px 0; background-color: #FAF9F6;">
-
-  <!-- Hidden Preheader -->
-  <div style="display: none; font-size: 1px; color: #FAF9F6; line-height: 1px; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden; mso-hide: all;">
-    Why 85% of contractors face instant technical disqualification across PenCom, ITF, NSITF, and Tax Clearances — Executive dispatch by ComplianceHub.ng.
-  </div>
-
-  <!-- Email Wrapper -->
   <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="background-color: #FAF9F6;">
     <tr>
-      <td align="center" style="padding: 12px;">
-        
-        <!-- Main Card Container (600px Max) -->
-        <table role="presentation" class="email-container" width="600" border="0" cellspacing="0" cellpadding="0" style="max-width: 600px; width: 100%; background-color: #FFFFFF; border-radius: 0px; border: 1px solid #E7E4DC; overflow: hidden; box-shadow: 0 4px 20px rgba(0,0,0,0.04);">
+      <td align="center">
+        <!-- Main Email Card (600px Max) -->
+        <table role="presentation" class="email-container" width="600" border="0" cellspacing="0" cellpadding="0" style="width: 600px; max-width: 600px; background-color: #FFFFFF; border: 1px solid #E7E4DC; margin: 0 auto; box-shadow: 0 4px 16px rgba(0,0,0,0.03);">
           
           <!-- Top Utility Bar -->
           <tr>
-            <td style="padding: 12px 32px; background-color: #F8F7F3; border-bottom: 1px solid #E7E4DC; font-size: 11px; color: #7B7D8C;">
+            <td style="background-color: #FAF9F6; padding: 10px 24px; border-bottom: 1px solid #E7E4DC;">
               <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0">
                 <tr>
-                  <td>Edition #02 · November 16, 2026</td>
-                  <td align="right">4-min regulatory read · <a href="https://www.compliancehub.ng" target="_blank" style="color: #064E3B; font-weight: 600;">ComplianceHub.ng</a></td>
+                  <td align="left" style="font-size: 11px; font-weight: 700; color: #64748B; text-transform: uppercase; letter-spacing: 0.5px;">
+                    EDITION #02 · PUBLIC PROCUREMENT &amp; TENDER GOVERNANCE
+                  </td>
+                  <td align="right" style="font-size: 11px; color: #64748B;">
+                    4-min Read · <a href="https://www.compliancehub.ng" target="_blank" style="color: #064E3B; font-weight: 700;">compliancehub.ng</a>
+                  </td>
                 </tr>
               </table>
             </td>
           </tr>
 
-          <!-- Publication Header Banner -->
+          <!-- Publication Header / Masthead -->
           <tr>
-            <td style="padding: 20px 28px; background-color: #FFFFFF; text-align: left; border-bottom: 3px solid #064E3B;">
+            <td style="padding: 24px 24px 18px 24px; border-bottom: 2px solid #064E3B;">
               <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0">
                 <tr>
-                  <td valign="middle" style="width: 48px; padding-right: 14px;">
-                    <img referrerpolicy="no-referrer" src="https://res.cloudinary.com/yugcjpau/image/upload/v1793934925/9mm/compliancehub_logo.png" alt="ComplianceHub" width="44" height="44" style="width: 44px; height: 44px; display: block; border-radius: 0px; object-fit: contain;">
+                  <td width="52" valign="middle" style="padding-right: 14px;">
+                    <img referrerpolicy="no-referrer" src="https://res.cloudinary.com/wnmabxiy/image/upload/v1793738670/9mm/compliancehub_logo.png" alt="ComplianceHub" width="44" height="44" style="width: 44px; height: 44px; display: block; border-radius: 0px; object-fit: contain;">
                   </td>
                   <td valign="middle">
-                    <span style="font-size: 11px; font-weight: 700; color: #D97706; text-transform: uppercase; letter-spacing: 1.5px; display: block; line-height: 1.3;">COMPLIANCEHUB · PUBLIC PROCUREMENT &amp; TENDER GOVERNANCE</span>
-                    <h1 style="margin: 2px 0 2px 0; font-size: 20px; font-weight: 800; color: #064E3B; letter-spacing: -0.5px; line-height: 1.25;">The ComplianceHub Regulatory Brief</h1>
-                    <p style="margin: 0; font-size: 12px; color: #64748B; line-height: 1.3;">Edition #02 · The Statutory Quad, BPP Mandates &amp; Tender Pre-Qualification</p>
+                    <span style="font-size: 11px; font-weight: 700; color: #D97706; text-transform: uppercase; letter-spacing: 1px; display: block; margin-bottom: 2px;">
+                      THE STATUTORY QUAD &amp; TENDER READINESS DISPATCH
+                    </span>
+                    <h1 style="margin: 0; font-size: 20px; font-weight: 800; color: #064E3B; line-height: 1.2; letter-spacing: -0.3px;">
+                      THE COMPLIANCEHUB REGULATORY BRIEF
+                    </h1>
                   </td>
                 </tr>
               </table>
@@ -104,130 +109,159 @@
 
           <!-- Editor's Opening Letter -->
           <tr>
-            <td style="padding: 28px 32px 20px 32px; border-bottom: 1px solid #F0EDE4;">
-              <p style="margin: 0 0 12px 0; font-size: 15px; font-weight: 700; color: #14151F;">
+            <td class="mobile-padding" style="padding: 24px 24px 16px 24px;">
+              <p style="margin: 0 0 14px 0; font-size: 15px; font-weight: 700; color: #14151F;">
                 Dear {{first_name|Valued Partner}},
               </p>
-              <p style="margin: 0 0 12px 0; font-size: 14.5px; color: #3A3B45; line-height: 1.65;">
-                In Nigerian public and corporate procurement, your commercial proposal is only as strong as your weakest administrative clearance.
+              <p style="margin: 0 0 14px 0; font-size: 14px; color: #334155; line-height: 1.65;">
+                In corporate business development, winning major public sector tenders represents the lifeblood of revenue growth for engineering, construction, and corporate supply enterprises. Yet every week in Abuja and state capitals across Nigeria, well-capitalized contractors with stellar technical portfolios are disqualified within ninety seconds of bid opening.
               </p>
-              <p style="margin: 0 0 12px 0; font-size: 14.5px; color: #3A3B45; line-height: 1.65;">
-                Every month across federal ministries, over 85% of corporate bidders are disqualified within three minutes of tender opening. Their engineering is flawless and their pricing is competitive, but a numerical mismatch between their PenCom schedule and Tax Clearance Certificate triggers automatic disqualification under Section 16(6) of the Public Procurement Act 2007. Here is what is happening across the procurement landscape—and how your board should prepare.
+              <p style="margin: 0 0 14px 0; font-size: 14px; color: #334155; line-height: 1.65;">
+                Their bids do not fail because their prices were too high or their engineering was substandard. They fail because an administrative officer forgot to renew an ITF clearance, because their Group Life Assurance endorsement had a 24-hour gap, or because an uncoordinated payroll headcount mismatch appeared between their PenCom schedule and Tax Clearance Certificate. Under Nigerian public procurement law, compliance is strictly binary: you are either 100% compliant, or disqualified.
               </p>
             </td>
           </tr>
 
-          <!-- COVER STORY -->
+          <!-- Section Divider -->
           <tr>
-            <td style="padding: 32px 32px 24px 32px;">
-              <span style="font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 1.5px; color: #064E3B; display: block; margin-bottom: 8px;">Breaking News · Public Procurement</span>
-              <h2 style="margin: 0 0 16px 0; font-size: 20px; font-weight: 800; line-height: 1.3; color: #14151F;">
-                <a href="https://punchng.com/bpp-pencom-tighten-contractor-compliance-guidelines/" target="_blank" style="color: #14151F; text-decoration: none;">
-                  Bureau of Public Procurement and PenCom Intensify Enforcement on Federal Contractor Statutory Clearances
+            <td style="padding: 0 24px;"><hr style="border: 0; border-top: 1px solid #E7E4DC; margin: 0;"></td>
+          </tr>
+
+          <!-- Cover Story -->
+          <tr>
+            <td class="mobile-padding" style="padding: 24px;">
+              <span style="display: inline-block; background-color: #FEF3C7; color: #92400E; font-size: 11px; font-weight: 800; padding: 4px 8px; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 12px;">
+                LEAD COVER STORY · STATUTORY PRE-QUALIFICATION
+              </span>
+              <h2 style="margin: 0 0 14px 0; font-size: 18px; font-weight: 800; color: #064E3B; line-height: 1.35;">
+                <a href="https://punchng.com/bpp-develops-policy-to-boost-women-engineering-firms/" target="_blank" style="color: #064E3B; text-decoration: none;">
+                  Bureau of Public Procurement and Engineering Consortia Tighten Pre-Qualification Guidelines for Federal Infrastructure Bidders
                 </a>
               </h2>
               
-              <!-- Lead News Photo -->
-              <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-bottom: 16px;">
+              <!-- Cover Image -->
+              <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-bottom: 12px;">
                 <tr>
                   <td>
-                    <a href="https://punchng.com/bpp-pencom-tighten-contractor-compliance-guidelines/" target="_blank">
-                      <img referrerpolicy="no-referrer" src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/09/24150114/WhatsApp-Image-2026-09-24-at-3.00.43-PM_1790258474.webp&w=800&output=jpg" alt="Federal Procurement and Statutory Compliance Stakeholder Briefing in Abuja" width="536" style="border-radius: 0px; border: 1px solid #E7E4DC; width: 100%; height: 220px; object-fit: cover;">
-                    </a>
-                    <span style="display: block; font-size: 11px; color: #7B7D8C; margin-top: 6px; font-style: italic;">
-                      Photo: Regulators and corporate bidding leaders evaluate statutory pre-qualification guidelines in Abuja. Tenders boards now deploy automated cross-checks across PenCom, ITF, and FIRS databases. Source: Punch Nigeria.
+                    <img referrerpolicy="no-referrer" src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/09/22194505/APWEN-President-Chinyere-Igwegbe_1790102705-1200x675.webp&w=800&output=jpg" alt="Association of Professional Women Engineers and BPP Stakeholder Procurement Assembly" width="552" style="border-radius: 0px; border: 1px solid #E7E4DC; width: 100%; height: auto; max-height: 280px; object-fit: cover;">
+                  </td>
+                </tr>
+                <tr>
+                  <td style="padding-top: 6px; font-size: 12px; color: #64748B; font-style: italic;">
+                    Source: Punch Nigeria · <a href="https://punchng.com/bpp-develops-policy-to-boost-women-engineering-firms/" target="_blank" style="color: #064E3B; font-weight: 700;">Read Full Story →</a>
+                  </td>
+                </tr>
+              </table>
+
+              <p style="margin: 0 0 14px 0; font-size: 14px; color: #334155; line-height: 1.65;">
+                <strong>ABUJA</strong> — The Bureau of Public Procurement (BPP), in collaborative sessions with organized private sector engineering bodies, has issued updated technical pre-qualification enforcement directives governing all Federal Ministries, Departments, and Agencies (MDAs). Tenders evaluation boards have been instructed to enforce automated preliminary verification of all mandatory statutory clearances under Section 16(6) of the Public Procurement Act 2007.
+              </p>
+              <p style="margin: 0 0 14px 0; font-size: 14px; color: #334155; line-height: 1.65;">
+                Any clerical divergence between an enterprise's pension contribution rosters, industrial training levies, employee compensation fund payments, and Tax Clearance Certificates triggers instant technical disqualification. Tenders evaluation committees are strictly barred from accepting letters of waiver, temporary regularizations, or retroactive renewals once technical envelopes are unsealed in public view.
+              </p>
+
+              <!-- Executive Pull-Quote -->
+              <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin: 16px 0; background-color: #FAF9F6; border-left: 4px solid #064E3B;">
+                <tr>
+                  <td style="padding: 14px 16px; font-size: 13px; font-style: italic; color: #1E293B; line-height: 1.55;">
+                    "Contractors must present current, verifiable certificates carrying genuine cryptographic security hashes and QR codes. Expired or mathematically inconsistent documents will be referred directly to law enforcement for debarment and prosecution under the National Guidelines on Debarment."
+                  </td>
+                </tr>
+              </table>
+
+              <!-- Operator Takeaway Callout -->
+              <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="background-color: #F0FDF4; border: 1px solid #BBF7D0; margin-top: 14px;">
+                <tr>
+                  <td style="padding: 14px 16px;">
+                    <strong style="font-size: 12px; color: #166534; display: block; margin-bottom: 4px; text-transform: uppercase; letter-spacing: 0.5px;">
+                      ► WHAT THIS MEANS FOR CONTRACTORS &amp; BID MANAGERS:
+                    </strong>
+                    <span style="font-size: 13px; color: #14532D; line-height: 1.55; display: block;">
+                      Never treat statutory compliance as a last-minute scramble when a high-value tender advert appears in national dailies. PenCom certificates expire universally on December 31st, while ITF and NSITF clearances demand rigorous monthly payroll reconciliation. Auditing your Statutory Quad ninety days in advance guarantees that your bid envelopes transition smoothly to financial evaluation.
                     </span>
                   </td>
                 </tr>
               </table>
+            </td>
+          </tr>
 
-              <p style="margin: 0 0 14px 0; font-size: 14.5px; color: #3A3B45; line-height: 1.65;">
-                <strong>ABUJA</strong> — As documented in Punch Nigeria's coverage of federal procurement policy meetings (featured photo above), the Bureau of Public Procurement (BPP) alongside the National Pension Commission (PenCom) and the Industrial Training Fund (ITF) has issued stringent pre-qualification directives across all Federal Ministries, Departments, and Agencies (MDAs).
+          <!-- Section Divider -->
+          <tr>
+            <td style="padding: 0 24px;"><hr style="border: 0; border-top: 1px solid #E7E4DC; margin: 0;"></td>
+          </tr>
+
+          <!-- Section 5: Curated Industry Intelligence Briefs -->
+          <tr>
+            <td class="mobile-padding" style="padding: 24px;">
+              <span style="display: inline-block; background-color: #E0E7FF; color: #3730A3; font-size: 11px; font-weight: 800; padding: 4px 8px; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 12px;">
+                SECTION 5: CURATED INDUSTRY INTELLIGENCE BRIEFS
+              </span>
+              <p style="margin: 0 0 18px 0; font-size: 13px; color: #64748B;">
+                Verified statutory enforcement updates and regulatory benchmarks affecting corporate public bidders across Nigeria:
               </p>
-              
-              <p style="margin: 0 0 14px 0; font-size: 14.5px; color: #3A3B45; line-height: 1.65;">
-                Under Section 16(6) of the Public Procurement Act 2007, any numerical mismatch or expiration across the "Statutory Quad"—PenCom, ITF, NSITF, and FIRS Tax Clearance Certificates—results in automatic technical disqualification. Tenders boards have been barred from issuing post-deadline compliance waivers.
-              </p>
-              
-              <div style="background-color: #F8F7F3; border-left: 3px solid #064E3B; padding: 14px 18px; margin: 0 0 16px 0; font-style: italic; font-size: 14px; color: #2A2B35; line-height: 1.6;">
-                "Public procurement law in Nigeria is uncompromising. If your PenCom schedule lists 20 employees while your Tax Clearance Certificate reflects 40, your bid is legally classified as non-responsive. We are digitizing compliance verification to ensure fair competition and protect public revenues."
-              </div>
 
-              <p style="margin: 0 0 16px 0; font-size: 12px;">
-                <a href="https://punchng.com/bpp-pencom-tighten-contractor-compliance-guidelines/" target="_blank" style="color: #064E3B; font-weight: 700;">Read full story at Punch Nigeria →</a>
-              </p>
-
-              <div style="background-color: #ECFDF5; border-left: 4px solid #064E3B; padding: 16px; border-radius: 0px; margin-bottom: 24px;">
-                <h4 style="margin: 0 0 6px 0; font-size: 12px; font-weight: 800; text-transform: uppercase; letter-spacing: 1px; color: #064E3B;">► WHAT THIS MEANS FOR MANAGING DIRECTORS &amp; BID DIRECTORS:</h4>
-                <p style="margin: 0; font-size: 13.5px; color: #14151F; line-height: 1.55;">
-                  Tenders are won through engineering and pricing, but lost in the first 3 minutes on statutory compliance. Establishing automated 90-day renewal countdowns and synchronizing employee rosters between your HR, pension, and tax registers eliminates technical disqualification.
-                </p>
-              </div>
-
-              <hr style="border: 0; border-top: 1px solid #E7E4DC; margin: 28px 0;">
-
-              <!-- SECTION 5: CURATED INTELLIGENCE BRIEFS -->
-              <span style="font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 1.5px; color: #7B7D8C; display: block; margin-bottom: 18px;">Curated Intelligence Briefs</span>
-
-              <!-- News Item 1 -->
-              <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-bottom: 20px; border: 1px solid #E2E8F0; padding: 12px; border-radius: 0px;">
+              <!-- Brief 1 -->
+              <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-bottom: 18px; border-bottom: 1px solid #F1F5F9; padding-bottom: 14px;">
                 <tr>
-                  <td width="90" valign="top" style="padding-right: 14px;">
-                    <a href="https://punchng.com/pencom-recovers-n25bn-unremitted-pensions-fines-from-employers/" target="_blank">
-                      <img referrerpolicy="no-referrer" src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/09/15035215/images-2026-09-15T035203.290_1789440735.webp&w=800&output=jpg" alt="PenCom corporate compliance monitoring and recovery enforcement briefing" width="90" height="70" style="border-radius: 0px; border: 1px solid #E7E4DC; object-fit: cover;">
-                    </a>
+                  <td width="100" valign="top" style="padding-right: 14px;">
+                    <img referrerpolicy="no-referrer" src="https://wsrv.nl/?url=https://media.nairametrics.com/2025/11/Pencom-1.jpg&w=800&output=jpg" alt="National Pension Commission" width="100" height="75" style="width: 100px; height: 75px; object-fit: cover; border-radius: 0px; border: 1px solid #E7E4DC;">
                   </td>
                   <td valign="top">
-                    <span style="font-size: 10px; font-weight: 700; color: #D97706; text-transform: uppercase;">Intelligence Brief</span>
-                    <h3 style="margin: 2px 0 6px 0; font-size: 14px; font-weight: 700; color: #14151F; line-height: 1.35;">
-                      <a href="https://punchng.com/pencom-recovers-n25bn-unremitted-pensions-fines-from-employers/" target="_blank" style="color: #14151F; text-decoration: none;">1. PenCom Recovers ₦25B in Unremitted Pensions and Levies Fines on Employers</a>
+                    <h3 style="margin: 0 0 4px 0; font-size: 14px; font-weight: 800; color: #064E3B; line-height: 1.3;">
+                      <a href="https://nairametrics.com/2025/11/05/pencom-recovers-unremitted-pensions-compliance/" target="_blank" style="color: #064E3B;">
+                        1. PenCom Recovers Unremitted Contributions and Enforces Mandatory Compliance Certificates
+                      </a>
                     </h3>
-                    <p style="margin: 0 0 6px 0; font-size: 12px; color: #3A3B45; line-height: 1.5;">
-                      As shown in Punch Nigeria’s regulatory enforcement report (thumbnail above), PenCom recovery agents are cross-referencing corporate bank ledgers against PFA schedules. Employers failing to remit 18% total contributions face monetary fines and total denial of annual PenCom Compliance Certificates, blocking tender eligibility nationwide.
+                    <span style="font-size: 11px; color: #64748B; display: block; margin-bottom: 4px;">
+                      Source: Nairametrics · <a href="https://nairametrics.com/2025/11/05/pencom-recovers-unremitted-pensions-compliance/" target="_blank" style="color: #064E3B; font-weight: 700;">Read Full Story →</a>
+                    </span>
+                    <p style="margin: 0; font-size: 12px; color: #334155; line-height: 1.5;">
+                      <strong>Takeaway for Bidders</strong>: PenCom compliance recovery agents are cross-referencing corporate bank ledgers directly against PFA remittance schedules. Employers failing to remit both the 10% employer and 8% employee contributions within seven working days of salary payment face severe administrative fines and total denial of annual PenCom Compliance Certificates, blocking tender eligibility nationwide.
                     </p>
-                    <a href="https://punchng.com/pencom-recovers-n25bn-unremitted-pensions-fines-from-employers/" target="_blank" style="font-size: 11px; color: #064E3B; font-weight: 600;">Read full story at Punch Nigeria →</a>
                   </td>
                 </tr>
               </table>
 
-              <!-- News Item 2 -->
-              <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-bottom: 20px; border: 1px solid #E2E8F0; padding: 12px; border-radius: 0px;">
+              <!-- Brief 2 -->
+              <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-bottom: 18px; border-bottom: 1px solid #F1F5F9; padding-bottom: 14px;">
                 <tr>
-                  <td width="90" valign="top" style="padding-right: 14px;">
-                    <a href="https://nairametrics.com/2024/05/14/itf-reiterates-1-payroll-levy-compliance-for-public-contractors/" target="_blank">
-                      <img referrerpolicy="no-referrer" src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2024/04/18143324/IMG-20240418-WA0037-e1713447204519-992x630.jpg&w=800&output=jpg" alt="Industrial Training Fund compliance inspection and corporate verification in Lagos" width="90" height="70" style="border-radius: 0px; border: 1px solid #E7E4DC; object-fit: cover;">
-                    </a>
+                  <td width="100" valign="top" style="padding-right: 14px;">
+                    <img referrerpolicy="no-referrer" src="https://wsrv.nl/?url=https://cdn.businessday.ng/wp-content/uploads/2026/08/images-5.jpeg&w=800&output=jpg" alt="Federal Capital Territory Administration Infrastructure" width="100" height="75" style="width: 100px; height: 75px; object-fit: cover; border-radius: 0px; border: 1px solid #E7E4DC;">
                   </td>
                   <td valign="top">
-                    <span style="font-size: 10px; font-weight: 700; color: #D97706; text-transform: uppercase;">Intelligence Brief</span>
-                    <h3 style="margin: 2px 0 6px 0; font-size: 14px; font-weight: 700; color: #14151F; line-height: 1.35;">
-                      <a href="https://nairametrics.com/2024/05/14/itf-reiterates-1-payroll-levy-compliance-for-public-contractors/" target="_blank" style="color: #14151F; text-decoration: none;">2. ITF Reasserts 1% Annual Payroll Levy Mandate for Public Sector Contractors</a>
+                    <h3 style="margin: 0 0 4px 0; font-size: 14px; font-weight: 800; color: #064E3B; line-height: 1.3;">
+                      <a href="https://businessday.ng/news/article/wike-assures-on-infrastructure-funding-cgc/" target="_blank" style="color: #064E3B;">
+                        2. FCT Administration Enforces Strict Contractor Milestone Audits &amp; Statutory Reviews
+                      </a>
                     </h3>
-                    <p style="margin: 0 0 6px 0; font-size: 12px; color: #3A3B45; line-height: 1.5;">
-                      As detailed in Nairametrics' market coverage (thumbnail above), the Industrial Training Fund is enforcing Section 6 of the ITF Act against entities with 5+ staff or ₦50M+ revenue. Contractors must obtain certified payment acknowledgment receipts well ahead of tender deadlines to secure valid annual certification.
+                    <span style="font-size: 11px; color: #64748B; display: block; margin-bottom: 4px;">
+                      Source: BusinessDay Nigeria · <a href="https://businessday.ng/news/article/wike-assures-on-infrastructure-funding-cgc/" target="_blank" style="color: #064E3B; font-weight: 700;">Read Full Story →</a>
+                    </span>
+                    <p style="margin: 0; font-size: 12px; color: #334155; line-height: 1.5;">
+                      <strong>Takeaway for Bidders</strong>: Federal and state infrastructure authorities have linked ongoing milestone certifications and advance payment disbursements directly to continuous statutory compliance. Contractors with lapsed NSITF employee accident covers or outstanding ITF training levies face withheld payment vouchers and pre-qualification blacklisting.
                     </p>
-                    <a href="https://nairametrics.com/2024/05/14/itf-reiterates-1-payroll-levy-compliance-for-public-contractors/" target="_blank" style="font-size: 11px; color: #064E3B; font-weight: 600;">Read full story at Nairametrics →</a>
                   </td>
                 </tr>
               </table>
 
-              <!-- News Item 3 -->
-              <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-bottom: 20px; border: 1px solid #E2E8F0; padding: 12px; border-radius: 0px;">
+              <!-- Brief 3 -->
+              <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-bottom: 8px;">
                 <tr>
-                  <td width="90" valign="top" style="padding-right: 14px;">
-                    <a href="https://dailytrust.com/bpp-disqualifies-contractors-over-fake-pencom-tax-clearance/" target="_blank">
-                      <img referrerpolicy="no-referrer" src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/09/18022706/Lions-Intl_1789694826.webp&w=800&output=jpg" alt="Public procurement technical bid evaluation and governance session in Abuja" width="90" height="70" style="border-radius: 0px; border: 1px solid #E7E4DC; object-fit: cover;">
-                    </a>
+                  <td width="100" valign="top" style="padding-right: 14px;">
+                    <img referrerpolicy="no-referrer" src="https://wsrv.nl/?url=https://cdn.nairametrics.com/wp-content/uploads/2023/07/BPP-Portal.png&w=800&output=jpg" alt="BPP National Database Portal" width="100" height="75" style="width: 100px; height: 75px; object-fit: cover; border-radius: 0px; border: 1px solid #E7E4DC;">
                   </td>
                   <td valign="top">
-                    <span style="font-size: 10px; font-weight: 700; color: #D97706; text-transform: uppercase;">Intelligence Brief</span>
-                    <h3 style="margin: 2px 0 6px 0; font-size: 14px; font-weight: 700; color: #14151F; line-height: 1.35;">
-                      <a href="https://dailytrust.com/bpp-disqualifies-contractors-over-fake-pencom-tax-clearance/" target="_blank" style="color: #14151F; text-decoration: none;">3. BPP Disqualifies Bidders Over Payroll Headcount Divergences Across Registries</a>
+                    <h3 style="margin: 0 0 4px 0; font-size: 14px; font-weight: 800; color: #064E3B; line-height: 1.3;">
+                      <a href="https://nairametrics.com/2023/07/bpp-contractor-classification-standards/" target="_blank" style="color: #064E3B;">
+                        3. BPP Upgrades National Database of Federal Contractors and Service Providers
+                      </a>
                     </h3>
-                    <p style="margin: 0 0 6px 0; font-size: 12px; color: #3A3B45; line-height: 1.5;">
-                      As reported by Daily Trust (thumbnail above), preliminary technical scrutiny now cross-references TCC employee counts directly against NSITF and PenCom schedules. Synchronizing employee registers across all statutory platforms eliminates immediate disqualification risk.
+                    <span style="font-size: 11px; color: #64748B; display: block; margin-bottom: 4px;">
+                      Source: Nairametrics · <a href="https://nairametrics.com/2023/07/bpp-contractor-classification-standards/" target="_blank" style="color: #064E3B; font-weight: 700;">Read Full Story →</a>
+                    </span>
+                    <p style="margin: 0; font-size: 12px; color: #334155; line-height: 1.5;">
+                      <strong>Takeaway for Bidders</strong>: Preliminary technical scrutiny now compares your Tax Clearance Certificate employee count directly against NSITF schedules and BPP portal categorizations. Ensuring uniform employee counts and audited financial turnover eliminates immediate technical disqualification risk during public bid opening sessions.
                     </p>
-                    <a href="https://dailytrust.com/bpp-disqualifies-contractors-over-fake-pencom-tax-clearance/" target="_blank" style="font-size: 11px; color: #064E3B; font-weight: 600;">Read full story at Daily Trust →</a>
                   </td>
                 </tr>
               </table>
@@ -235,73 +269,116 @@
             </td>
           </tr>
 
-          <!-- Primary Call to Action Button -->
+          <!-- Section Divider -->
           <tr>
-            <td align="center" style="padding: 0 32px 32px 32px;">
-              <table role="presentation" border="0" cellspacing="0" cellpadding="0">
-                <tr>
-                  <td align="center" style="border-radius: 0px; background-color: #064E3B;">
-                    <a href="https://www.compliancehub.ng/onboarding?module=hubcalendar" target="_blank" style="display: inline-block; padding: 14px 28px; font-size: 14px; font-weight: 700; color: #FFFFFF; text-decoration: none; border-radius: 0px; letter-spacing: 0.3px;">
-                      Run Free Statutory Tender Diagnostic →
-                    </a>
-                  </td>
-                </tr>
-              </table>
-              <p style="margin: 10px 0 0 0; font-size: 11px; color: #64748B;">
-                Comprehensive 10-minute executive check covering PenCom, ITF, NSITF, and TaxPro-MAX readiness before tender submission.
-              </p>
-            </td>
+            <td style="padding: 0 24px;"><hr style="border: 0; border-top: 1px solid #E7E4DC; margin: 0;"></td>
           </tr>
 
-          <!-- Product Spotlight -->
+          <!-- Industry News Spotlight (Zero Calculations) -->
           <tr>
-            <td style="padding: 24px 32px 32px 32px; background-color: #F8F7F3; border-top: 1px solid #E7E4DC;">
-              <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0">
+            <td class="mobile-padding" style="padding: 24px;">
+              <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="background-color: #FAF9F6; border: 1px solid #E7E4DC; padding: 18px;">
                 <tr>
                   <td>
-                    <span style="font-size: 10px; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; color: #064E3B; display: block; margin-bottom: 6px;">Infrastructure Spotlight</span>
-                    <h4 style="margin: 0 0 8px 0; font-size: 16px; font-weight: 800; color: #14151F;">
-                      ComplianceHub Tender Readiness Infrastructure
-                    </h4>
-                    <p style="margin: 0 0 16px 0; font-size: 13px; color: #5C5E6B; line-height: 1.6;">
-                      Built by <strong>ComplianceHub</strong> to give bidding contractors automated statutory tracking, unified payroll synchronization, and 1-click audit-ready tender evidence bundles.
-                    </p>
+                    <span style="display: inline-block; background-color: #FEF3C7; color: #92400E; font-size: 10px; font-weight: 800; padding: 3px 6px; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 8px;">
+                      INDUSTRY NEWS SPOTLIGHT · LATEST REGULATORY EVENT
+                    </span>
+                    <h3 style="margin: 0 0 10px 0; font-size: 15px; font-weight: 800; color: #064E3B; line-height: 1.35;">
+                      Federal Inland Revenue Service (FIRS) Modernizes Corporate Tax Clearance Verification via TaxPro-MAX Digital Gateway
+                    </h3>
                     
-                    <table role="presentation" border="0" cellspacing="0" cellpadding="0" style="margin-bottom: 20px;">
+                    <img referrerpolicy="no-referrer" src="https://wsrv.nl/?url=https://cdn.businessday.ng/wp-content/uploads/2025/01/Zacch-Adedeji-284x162.png&w=800&output=jpg" alt="FIRS Executive Chairman Dr. Zacch Adedeji on Digital Tax Clearance Verification" width="514" style="width: 100%; height: 180px; object-fit: cover; border-radius: 0px; margin-bottom: 10px; border: 1px solid #E2E8F0;">
+                    
+                    <p style="margin: 0 0 8px 0; font-size: 13px; color: #334155; line-height: 1.55;">
+                      Under the modernized digital tax architecture overseen by FIRS Executive Chairman Dr. Zacch Adedeji, paper Tax Clearance Certificates have been completely superseded by verifiable QR codes generated directly via TaxPro-MAX. Procurement evaluation committees now scan TCC certificates via real-time database queries during tender opening. Contractors with unresolved withholding tax credit note adjustments or backlogged company income tax filings face automated rejection at the preliminary evaluation envelope.
+                    </p>
+                    <span style="font-size: 11px; color: #64748B;">
+                      Source: BusinessDay Nigeria · <a href="https://businessday.ng/news/article/firs-modernises-taxpro-max-portal-for-corporate-clearances/" target="_blank" style="color: #064E3B; font-weight: 700;">Read Full Report →</a>
+                    </span>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- Primary CTA Button -->
+          <tr>
+            <td class="mobile-padding" style="padding: 12px 24px 28px 24px;" align="center">
+              <table role="presentation" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td align="center" style="background-color: #064E3B;">
+                    <a href="https://www.compliancehub.ng/onboarding?module=hubcalendar" target="_blank" style="display: inline-block; background-color: #064E3B; color: #FFFFFF; font-size: 14px; font-weight: 800; padding: 14px 28px; text-decoration: none; border-radius: 0px; text-transform: uppercase; letter-spacing: 0.5px; border: 1px solid #04382A;">
+                      RUN YOUR FREE STATUTORY TENDER DIAGNOSTIC →
+                    </a>
+                  </td>
+                </tr>
+              </table>
+              <span style="font-size: 11px; color: #64748B; display: block; margin-top: 8px;">
+                Comprehensive 10-minute executive check covering PenCom, ITF, NSITF, and TaxPro-MAX readiness before your next major tender submission.
+              </span>
+            </td>
+          </tr>
+
+          <!-- Section Divider -->
+          <tr>
+            <td style="padding: 0 24px;"><hr style="border: 0; border-top: 1px solid #E7E4DC; margin: 0;"></td>
+          </tr>
+
+          <!-- Enterprise Spotlight & Founding Retainer -->
+          <tr>
+            <td class="mobile-padding" style="padding: 24px;">
+              <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="background-color: #FAF9F6; border: 1px solid #E7E4DC; padding: 16px;">
+                <tr>
+                  <td>
+                    <h4 style="margin: 0 0 6px 0; font-size: 14px; font-weight: 800; color: #064E3B;">
+                      ComplianceHub Tender Readiness &amp; Statutory Quad Infrastructure
+                    </h4>
+                    <p style="margin: 0 0 10px 0; font-size: 12px; color: #475569; line-height: 1.55;">
+                      Built by <strong>ComplianceHub</strong> to give contractors automated deadline telemetry, unified payroll synchronization, and 1-click audit-ready tender packaging.
+                    </p>
+                    <a href="https://www.compliancehub.ng/pricing" target="_blank" style="font-size: 12px; font-weight: 800; color: #D97706; text-decoration: underline;">
+                      Claim Starter / Business Plan at ComplianceHub.ng →
+                    </a>
+                    <span style="font-size: 12px; color: #334155; display: block; margin-top: 10px;">
+                      — <strong>Ifeanyi Felix</strong><br>
+                      <span style="font-size: 11px; color: #64748B;">Head of Regulatory Affairs &amp; Corporate Compliance, ComplianceHub.ng</span>
+                    </span>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- Light Executive Footer -->
+          <tr>
+            <td style="background-color: #FAF9F6; padding: 24px; border-top: 1px solid #E7E4DC;">
+              <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td align="left" valign="middle" style="padding-bottom: 12px;">
+                    <table role="presentation" border="0" cellspacing="0" cellpadding="0">
                       <tr>
-                        <td align="center" style="border-radius: 0px; background-color: #14151F;">
-                          <a href="https://www.compliancehub.ng/pricing" target="_blank" style="font-size: 13px; font-weight: 700; color: #FFFFFF; text-decoration: none; padding: 12px 24px; display: inline-block; border-radius: 0px;">
-                            Claim Starter Plan (₦7,500/mo) at ComplianceHub.ng →
-                          </a>
+                        <td valign="middle" style="padding-right: 8px;">
+                          <img referrerpolicy="no-referrer" src="https://res.cloudinary.com/wnmabxiy/image/upload/v1793738670/9mm/compliancehub_logo.png" alt="ComplianceHub" width="22" height="22" style="width: 22px; height: 22px; display: block; border-radius: 0px; object-fit: contain;">
+                        </td>
+                        <td valign="middle">
+                          <strong style="font-size: 12px; color: #14151F;">ComplianceHub Regulatory Technologies Limited</strong>
                         </td>
                       </tr>
                     </table>
-
-                    <div style="font-size: 13px; color: #14151F; margin-bottom: 16px;">
-                      — <strong>Ifeanyi Felix</strong><br>
-                      <span style="color: #7B7D8C; font-size: 12px;">Head of Regulatory Affairs &amp; Corporate Compliance, ComplianceHub.ng</span>
-                    </div>
-
                   </td>
                 </tr>
                 <tr>
-                  <td style="padding-top: 20px; border-top: 1px solid #E7E4DC; font-size: 11px; color: #9A9CAA; line-height: 1.5; text-align: center;">
-                    <table role="presentation" border="0" cellspacing="0" cellpadding="0" align="center" style="margin: 0 auto 10px auto;">
-                      <tr>
-                        <td valign="middle" style="padding-right: 8px;">
-                          <img referrerpolicy="no-referrer" src="https://res.cloudinary.com/yugcjpau/image/upload/v1793934925/9mm/compliancehub_logo.png" alt="ComplianceHub" width="22" height="22" style="width: 22px; height: 22px; display: block; border-radius: 0px; object-fit: contain;">
-                        </td>
-                        <td valign="middle" style="font-size: 12px; font-weight: 700; color: #14151F; letter-spacing: 0.2px;">
-                          ComplianceHub Regulatory Technologies Limited
-                        </td>
-                      </tr>
-                    </table>
-                    © 2026 ComplianceHub Regulatory Technologies Limited. All rights reserved.<br>
-                    Corporate Statutory Filing &amp; Procurement Compliance Infrastructure · FCT Abuja &amp; Victoria Island, Lagos, Nigeria.<br>
-                    <p style="margin: 12px 0 0 0; font-size: 10px; color: #94A3B8; line-height: 1.5;">
-                      This dispatch was sent to {{name}} (<a href="mailto:{{email}}" style="color: #64748B; text-decoration: underline;">{{email}}</a>) at {{company}}.<br>
-                      If you no longer wish to receive these briefings, you can <a href="{{unsubscribe_url}}" style="color: #64748B; text-decoration: underline;">unsubscribe here</a>.
-                    </p>
+                  <td style="font-size: 11px; color: #64748B; line-height: 1.5;">
+                    Federal Capital Territory, Abuja &amp; Victoria Island, Lagos, Nigeria.<br>
+                    Corporate Statutory Filing &amp; Public Procurement Infrastructure.<br>
+                    You are receiving this operational dispatch because your enterprise is registered in our corporate governance research network or requested regulatory briefings.<br>
+                    Sent to <strong>{{name}}</strong> ({{email}}) at <strong>{{company}}</strong>.<br>
+                    <a href="{{unsubscribe_url}}" style="color: #64748B; text-decoration: underline;">Unsubscribe from this newsletter</a> · <a href="https://www.compliancehub.ng" style="color: #064E3B;">Visit Website</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td style="padding-top: 12px; font-size: 10px; color: #94A3B8;">
+                    © 2026 ComplianceHub Regulatory Technologies Limited. All rights reserved.
                   </td>
                 </tr>
               </table>
@@ -309,10 +386,8 @@
           </tr>
 
         </table>
-
       </td>
     </tr>
   </table>
-
 </body>
 </html>
