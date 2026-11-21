@@ -1,180 +1,279 @@
-# 📱 Social Media & Carousel Pack: The 3 Deadliest Payroll Audit Traps
+# Social Media & Omnichannel Content Pack: Sprint 10 Week 03
 
-* **Sprint & Week**: Sprint 10 (Statutory Quad & Tender Readiness) · Week 03 (The Tangible Pains)
-* **Theme**: The 3 Deadliest Payroll Audit Traps: How to pass on-site PenCom and ITF inspections without penalties
-* **Author**: @Ifeanyi Felix · **Brand**: ComplianceHub (`https://www.compliancehub.ng`)
-* **Core Call to Action**: Drive traffic to read the full operational guide: `https://www.compliancehub.ng/onboarding?module=hubcalendar`
-* **In-App Exploration**: Modules [`/modules`](https://www.compliancehub.ng/modules) · Solutions [`/solutions`](https://www.compliancehub.ng/solutions) · Resources [`/resources`](https://www.compliancehub.ng/resources)
-* **Target Audience**: Federal & State Bidding Contractors, Infrastructure Consortiums, Corporate HR Directors, CFOs, Procurement Leads (`ch-group-c`)
+* **Sprint & Week:** Sprint 10 (Statutory Quad & Tender Readiness) · Week 03 (The Tangible Pains)
+* **Brand:** ComplianceHub.ng (`https://www.compliancehub.ng`)
+* **Theme:** The 3 Deadliest Payroll Audit Traps in PenCom and ITF Compliance: 10 Fixes for On-Site Regulatory Inspections
+* **Author:** @Ifeanyi Felix (Head of Regulatory Affairs & Corporate Compliance, ComplianceHub.ng)
+* **Primary Blog Link:** `https://www.compliancehub.ng/blog/pencom-itf-payroll-audit-traps-regulatory-inspections`
+* **Target Audience:** Federal & State Bidding Contractors, Infrastructure Consortiums, Corporate HR Directors, Chief Financial Officers, Procurement Leads (`ch-group-c`)
 
 ---
 
-## 1. LinkedIn (Corporate Governance & Enterprise Strategy)
+## 1. LinkedIn Suite (Public Procurement & Corporate Finance Leadership)
 
-### Long-Form Thought Leadership Post
+### A. Long-Form Thought Leadership Post
+
 ```text
-In Nigerian public contracting, holding an annual PenCom or ITF clearance certificate does NOT make your company immune to regulatory sanctions.
+Holding valid PenCom and ITF compliance certificates in your Abuja boardroom will NOT protect your company from a ₦42.5 million retroactive demand notice.
 
-Here is an operational reality catching major engineering and contracting firms off guard across Abuja and Lagos:
+Six months after winning a ₦1.2 billion federal road rehabilitation lot, an established Abuja civil engineering firm received an unannounced visit from accredited PenCom recovery agents and ITF senior compliance officers.
 
-Under Section 104 of the Pension Reform Act 2014 (PRA 2014) and the Industrial Training Fund Act, recovery agents and area inspectors have statutory power to conduct unannounced on-site forensic audits of your last 5 years of payroll records.
+They demanded five years of wage books, bank payroll schedules, PFA receipts, and signed Audited Financial Statements.
 
-When inspectors arrive, they don't look at your certificate. They inspect your wage books, bank schedules, and PFA receipts.
+Three weeks later, the CFO and Compliance Director received a devastating assessment:
+• ₦18.5M ITF Reclassification: Finance calculated the 1% ITF levy on "Basic Salary" only—improperly excluding housing allowances, transport stipends, and site bonuses.
+• ₦24M PenCom Penalty Assessment: Monthly pension remittances were routinely delayed 14–30 days past the mandatory 7-working-day window—triggering PRA 2014's compounding 2% per month statutory penalty across five years.
+• Immediate BPP IRR Suspension: Thirty-eight recurring site technicians paid via cash imprest vouchers were flagged as undisclosed payroll, freezing all active federal tenders.
 
-And they look for 3 specific audit traps:
+Under Section 104 of the Pension Reform Act 2014 and the Industrial Training Fund Act, annual paper certificates are only the starting line.
 
-1. The "Basic Salary Only" Exclusion Trap
-Many companies calculate PenCom (18%) and ITF (1%) solely on basic salaries. Under the law, pension applies to total monthly emoluments (basic + housing + transport), while ITF applies to gross annual payroll. Underpaying on allowances triggers immediate retroactive reassessments.
+Inspection-proof Nigerian contractors deploy a continuous Forensic Payroll Audit Shield:
+1. Compute 18% PenCom strictly on Basic + Housing + Transport emoluments and 1% ITF on full gross annual payroll.
+2. Lock automated PFA remittances inside the 7-working-day post-salary window with archived PFC transfer proofs.
+3. End cash-imprest payouts to recurring site labor—use formal payroll or statutory-cleared subcontractors.
+4. Reconcile Audited Financial Statements "Staff Costs" against ITF and PenCom filings every quarter.
+5. Maintain an indexed 5-year digital audit vault retrievable in 15 minutes.
 
-2. The 7-Day Remittance Interest Spiral (Section 11)
-PRA 2014 mandates that employee and employer pension contributions reach PFAs within 7 working days of salary payment. Delaying payment by two weeks triggers a mandatory statutory compounding interest penalty of not less than 2% per month on the unremitted balance.
+Paper certificates expire on December 31st. Forensic payroll governance protects your balance sheet all year.
 
-3. The Casual & Site Labor Ambush
-Paying masons, welders, and equipment operators via informal cash vouchers is a major audit trigger. Inspectors legally reclassify casual labor as direct employment, creating millions in back-liabilities.
+Read all 10 fixes to survive on-site PenCom & ITF inspections with zero fines:
+👉 https://www.compliancehub.ng/blog/pencom-itf-payroll-audit-traps-regulatory-inspections
 
-When recovery agents issue a ₦30M+ demand notice, they notify the Bureau of Public Procurement (BPP)—freezing your federal bidding eligibility on the spot.
-
-At ComplianceHub, we help contractors build an unassailable payroll audit shield:
-• Synchronizing payroll baselines across PenCom, ITF, and audited accounts
-• Automating the 7-day PFA remittance schedule
-• Structuring site casual labor through compliant subcontracting vehicles
-• Recovering up to 50% of annual ITF contributions through certified training grants (Form ITF 8A)
-
-Read the complete operational teardown (10 Fixes): https://www.compliancehub.ng/onboarding?module=hubcalendar
-
-Contractors & CFOs: Could your company's historic payroll survive an unannounced on-site audit by PenCom recovery agents today?
-```
-
-### Short Alternative (Punchy Mobile Feed)
-```text
-Having a paper PenCom or ITF clearance certificate doesn't mean your company is audit-proof.
-
-Under the Pension Reform Act 2014, recovery agents can audit 5 years of wage books. If you:
-• Deduct pensions only on "basic salary"
-• Remit to PFAs later than 7 working days post-payroll
-• Pay casual site workers via cash vouchers
-
-...you face 2% monthly compounding interest penalties and immediate BPP tender suspension.
-
-Audit your payroll compliance before inspectors arrive: https://www.compliancehub.ng/onboarding?module=hubcalendar
+#PenComCompliance #ITFAuditNigeria #PayrollAuditTraps #PRA2014 #BPPCompliance #FederalContractorsNigeria #ComplianceHub
 ```
 
 ---
 
-## 2. Twitter / X Thread (10-Tweet Educational Breakdown)
+### B. Short-Form Tactical Post
 
 ```text
-1/10
-If your contracting firm bids on Federal Ministry tenders, holding a PenCom certificate won't stop recovery agents from issuing a ₦30M retroactive penalty notice. 
+Three silent payroll traps are triggering multi-million-Naira PenCom and ITF demand notices during unannounced on-site inspections in Nigeria:
 
-Here are the 3 deadliest payroll audit traps and how to survive an on-site inspection 🧵👇
+1. Calculating pension & 1% ITF on "Basic Salary" only while excluding housing, transport, and site bonuses.
+2. Delaying monthly RSA pension remittances past the 7-working-day window (attracting 2%/month statutory penalties under PRA 2014).
+3. Paying recurring site technicians off-payroll via cash imprests without subcontractor statutory clearances.
 
-2/10
-The Regulatory Reality:
-Under Section 104 of the Pension Reform Act 2014, PenCom recovery agents and ITF inspectors have the legal authority to audit five years of wage registers, bank statement schedules, and tax returns at your office.
+One failed audit suspends your BPP Interim Registration Report overnight.
 
-3/10
-Trap 1: "Basic Salary" Only.
-Deducting 18% pension or 1% ITF strictly on basic salary violates federal law. Pension applies to total monthly emoluments (basic, housing, transport). ITF applies to gross payroll including allowances and bonuses.
+Read all 10 operational fixes to make your wage books inspection-proof:
+👉 https://www.compliancehub.ng/blog/pencom-itf-payroll-audit-traps-regulatory-inspections
 
-4/10
-Trap 2: The 7-Day Remittance Window.
-Under Section 11 of PRA 2014, pension deductions must reach PFAs within 7 working days of salary payment. Delays trigger compounding statutory interest penalties of at least 2% per month on the unpaid balance.
+#PenCom #ITF #BPPCompliance #ComplianceHub #CorporateGovernanceNigeria
+```
 
-5/10
-Trap 3: Unstructured Casual Labor.
-Engaging site masons, operators, or welders on cash vouchers? During audits, inspectors reclassify them as full employees, hitting you with retroactive pension, training, and employee compensation levies.
+---
 
-6/10
-Tactic 1: Establish One Master Payroll Truth.
-Decouple payroll calculations from decentralized spreadsheets. Maintain a locked master payroll register that programmatically calculates statutory deductions on total emoluments.
+### C. 6-Slide Executive Carousel Breakdown
 
-7/10
-Tactic 2: Automate 7-Day Treasury Workflows.
-Configure your banking portal so salary disbursements automatically generate PFA contribution schedules within 7 working days, eliminating compounding interest penalties permanently.
+#### Slide 1: Hook & Cover
+* **Headline:** Holding Valid Certificates Won't Stop a ₦42.5M Payroll Audit
+* **Sub-headline:** The 3 deadliest PenCom & ITF inspection traps ambushing Nigerian contractors—and how to disarm them.
+* **Visual Anchor:** Crisp ComplianceHub emerald-and-gold executive briefing layout with 5-Year Audit Vault seal.
+* **Footer:** Swipe to audit your payroll ➔
 
-8/10
-Tactic 3: Structure Casual Labor Through Subcontractors.
-Never pay site labor on informal vouchers. Engage workers through accredited HR subcontracting firms with their own valid PenCom, ITF, and NSITF clearance certificates.
+#### Slide 2: Trap 1 — The "Basic Salary Only" Illusion
+* **Headline:** Basic Salary Is NOT Your Statutory Base
+* **Body:**
+  • Under PRA 2014 Section 4, 18% pension applies to monthly emoluments (Basic + Housing + Transport).
+  • Under the ITF Act, the 1% levy applies to total gross annual payroll—including bonuses and overtime.
+* **The Consequence:** Retroactive 5-year ITF reclassifications running into tens of millions of Naira.
+* **Footer:** Slide 2/6 · Payroll Audit Trap #1
 
-9/10
-Tactic 4: Claim the 50% ITF Training Reimbursement.
-Did you train your engineers or project managers? Under Section 8 of the ITF Act, companies can claim up to 50% of annual ITF contributions back in cash by submitting Form ITF 8A.
+#### Slide 3: Trap 2 — The 7-Working-Day Remittance Slip
+* **Headline:** Late Pension Remittances Compound at 2% Per Month
+* **Body:**
+  • Holding deducted RSA pensions for 14–30 days during cash-flow delays triggers PRA 2014 Section 11(6)–(7).
+  • Recovery agents apply not less than 2% monthly statutory penalties retroactively across five years.
+* **The Consequence:** Routine cash timing delays silently grow into ₦24M+ statutory demand notices.
+* **Footer:** Slide 3/6 · Payroll Audit Trap #2
 
-10/10
-Passing on-site regulatory audits requires mathematical proof, not casual excuses.
+#### Slide 4: Trap 3 — The Off-Payroll Site Labor Ambush
+* **Headline:** Project Cash Imprests Invite Reclassification
+* **Body:**
+  • Paying recurring site artisans and operators via petty cash without RSA PINs or corporate vendor SLAs gets reclassified as undisclosed staff.
+  • Regulators notify BPP—suspending your Interim Registration Report (IRR) on the national portal.
+* **Footer:** Slide 4/6 · Payroll Audit Trap #3
 
-Run a free statutory tender diagnostic on your company today:
+#### Slide 5: The 5-Point Inspection-Proof Payroll Shield
+* **Headline:** How Premier Contractors Clear Audits in 40 Minutes
+* **Body:**
+  ✓ Lock PRA 2014 & ITF gross emolument formulas into monthly payroll runs.
+  ✓ Automate PFA transfers inside 7 working days with timestamped PFC proofs.
+  ✓ Require CAC, PenCom & ITF packets from every labor subcontractor pre-pay.
+  ✓ Reconcile Audited Accounts "Staff Costs" quarterly before audit sign-off.
+  ✓ Maintain a cloud 5-year digital audit vault retrievable in 15 minutes.
+* **Footer:** Slide 5/6 · Implementation Blueprint
+
+#### Slide 6: Product Bridge & Call to Action
+* **Headline:** Build Your Automated Payroll Audit Shield
+* **Body:**
+  ComplianceHub HubCalendar & Payroll Audit Shield reconciles PenCom, ITF, Audited Accounts, and 5-year evidence vaults so inspections become routine sign-offs.
+* **Call to Action:** Run your Statutory Payroll Diagnostic at www.compliancehub.ng/onboarding?module=hubcalendar.
+* **Footer:** Slide 6/6 · ComplianceHub Regulatory Technologies Limited
+
+---
+
+### D. LinkedIn Poll
+
+**Poll Question:** If PenCom recovery agents and ITF inspectors requested 5 years of wage books at your office tomorrow morning, what would be your biggest vulnerability?
+
+* **Option 1:** Reconciling "Basic Salary" vs. full statutory allowances & gross payroll (Recommended)
+* **Option 2:** Proving every monthly pension remittance cleared within 7 working days
+* **Option 3:** Documenting casual/site labor and subcontractor statutory independence
+* **Option 4:** Retrieving 5 years of stamped PFC receipts & ITF tellers quickly
+
+**Accompanying Context:**
+Annual compliance certificates never stop five-year forensic payroll inspections under PRA 2014 and the ITF Act. Which audit area takes your finance team the most effort to defend? Share below.
+
+---
+
+### E. First Comment Copy
+
+```text
+Read our complete 10-fix guide to surviving unannounced PenCom recovery agent and ITF area office payroll inspections:
+👉 https://www.compliancehub.ng/blog/pencom-itf-payroll-audit-traps-regulatory-inspections
+
+Run an instant Statutory Payroll & Tender Diagnostic on ComplianceHub:
 👉 https://www.compliancehub.ng/onboarding?module=hubcalendar
 ```
 
 ---
 
-## 3. Instagram / LinkedIn Carousel Framework (8-Slide Master Deck)
+## 2. Twitter / X Suite (Fast-Paced Commentary & Thread)
 
-### Slide 1: Cover Slide (High-Impact Hook)
-* **Visual**: Deep emerald green background (`#064E3B`), minimalist typography, bold inspection magnifying glass graphic over payroll ledger, ComplianceHub 32px emblem at top right.
-* **Headline**: The ₦38 Million Payroll Trap.
-* **Sub-headline**: How to survive on-site PenCom and ITF forensic audits without statutory penalties.
-* **Footer**: Swipe to bulletproof your payroll records → | `compliancehub.ng`
+### A. 7-Tweet Executive Teardown Thread
 
-### Slide 2: The On-Site Audit Reality
-* **Visual**: Charcoal background with a high-contrast demand notice card.
-* **Headline**: Paper Certificates Aren't Enough.
-* **Body Points**:
-  * Recovery agents have statutory power to audit 5 years of historic wage books.
-  * Routine desk certificates do not shield you from forensic inspection.
-  * Penalties for delayed remittances compound at not less than 2% per month.
-* **Footer**: Slide 2/8 | Payroll Audit Traps
+```text
+1/7 An Abuja civil engineering firm held valid PenCom and ITF certificates in its boardroom.
 
-### Slide 3: Trap 1 — The "Basic Salary Only" Flaw
-* **Visual**: Split card showing Basic vs. Total Emoluments calculation.
-* **Headline**: Avoid Partial Payroll Exclusions.
-* **Body Points**:
-  * PenCom 18% must be calculated on total emoluments (basic + housing + transport).
-  * ITF 1% applies to gross annual wages including allowances and bonuses.
-  * Excluding allowances triggers multimillion-Naira retroactive demand notices.
-* **Footer**: Slide 3/8 | Payroll Audit Traps
+Six months into a ₦1.2B federal road contract, recovery agents walked in for a 5-year payroll audit—and slapped them with a ₦42.5M demand notice.
 
-### Slide 4: Trap 2 — The 7-Day Remittance Rule
-* **Visual**: Calendar timeline showing 7-day statutory clock ticking down.
-* **Headline**: The 7-Day Pension Cliff (PRA Section 11).
-* **Body Points**:
-  * Pension contributions must reach PFAs within 7 working days post-salary.
-  * Delays trigger statutory 2% monthly compounding interest penalties.
-  * Automating PFA schedules eliminates late remittance liabilities.
-* **Footer**: Slide 4/8 | Payroll Audit Traps
+Here are the 3 payroll traps that caught them. 🧵👇
 
-### Slide 5: Trap 3 — Casual Site Labor Disconnect
-* **Visual**: Construction hardhat icon with subcontracting contract document.
-* **Headline**: Structure Temporary Site Workers.
-* **Body Points**:
-  * Paying site workers via cash vouchers triggers direct employment reclassification.
-  * Engage casual labor through accredited HR subcontractors.
-  * Ensure subcontractors hold independent PenCom, ITF, and NSITF clearances.
-* **Footer**: Slide 5/8 | Payroll Audit Traps
+2/7 Trap 1: The "Basic Salary Only" Shortcut.
+Finance calculated pension and 1% ITF strictly on Basic Salary—ignoring housing, transport, and site bonuses.
 
-### Slide 6: Fix — Claim Up to 50% ITF Reimbursements
-* **Visual**: Money bag / rebate icon with certified training certificate seal.
-* **Headline**: Turn Compliance into Cash Rebates.
-* **Body Points**:
-  * Employers contributing to ITF can claim up to 50% reimbursement on annual levies.
-  * Document staff vocational and technical training programs.
-  * Submit Form ITF 8A to receive cash grants directly from the Fund.
-* **Footer**: Slide 6/8 | Payroll Audit Traps
+Under PRA 2014 & the ITF Act, allowances count. Four years of omitted allowances triggered an ₦18.5M ITF demand.
 
-### Slide 7: Protect Your BPP Federal Pre-Qualification
-* **Visual**: BPP portal badge with verified green checkmark.
-* **Headline**: Keep Your Tender Eligibility Active.
-* **Body Points**:
-  * Unresolved audit demand notices result in immediate BPP profile deactivation.
-  * Synchronized wage records protect your federal contracting status.
-  * Guarantees 100% responsiveness on multi-billion Naira MDA bids.
-* **Footer**: Slide 7/8 | Payroll Audit Traps
+3/7 Trap 2: The 7-Working-Day Remittance Slip.
+When project payments lagged, the firm delayed remitting pension deductions by 14–30 days.
 
-### Slide 8: Final Call to Action
-* **Visual**: Sleek dark emerald card with glowing white & gold CTA button.
-* **Headline**: Could Your Wage Books Survive an On-Site Audit?
-* **Body**: Run an automated, confidential compliance diagnostic of your PenCom, ITF, and NSITF payroll baselines in under 5 minutes.
-* **CTA Button**: Run Statutory Diagnostic at compliancehub.ng/onboarding?module=hubcalendar
-* **Footer**: ComplianceHub.ng · Public Procurement Governance & Statutory Quad Synchronization · FCT Abuja & Victoria Island, Lagos
+PRA 2014 Section 11(6)–(7) imposes not less than 2% monthly statutory penalties retroactively—snowballing into a ₦24M liability.
+
+4/7 Trap 3: The Casual Site Labor Ambush.
+38 recurring field technicians paid off-payroll via cash imprests had zero RSA PINs or corporate vendor SLAs.
+
+Inspectors reclassified them as undisclosed staff—and notified BPP to suspend the firm's IRR immediately.
+
+5/7 How inspection-proof Nigerian contractors eliminate these traps permanently:
+
+1️⃣ Lock PRA 2014 (Basic + Housing + Transport) & full gross ITF formulas into payroll.
+2️⃣ Automate PFA remittances inside 7 working days with archived PFC receipts.
+
+6/7 3️⃣ Demand CAC, PenCom & ITF clearances from every labor subcontractor before payout.
+4️⃣ Reconcile Audited Accounts "Staff Costs" quarterly—never after sign-off.
+5️⃣ Host a 5-year digital audit binder retrievable in 15 minutes.
+
+7/7 Paper certificates get you into the tender hall. Forensic payroll governance keeps you in business.
+
+Read all 10 PenCom & ITF payroll audit fixes:
+👉 https://www.compliancehub.ng/blog/pencom-itf-payroll-audit-traps-regulatory-inspections
+```
+
+---
+
+### B. Standalone Punchy Tweet (<280 Characters)
+
+```text
+Valid PenCom & ITF certificates won't protect you from a 5-year on-site payroll audit.
+
+"Basic Salary Only" formulas, late 7-day pension transfers (2%/mo fines), and cash site labor can suspend your BPP IRR overnight.
+
+10 fixes for Nigerian CFOs:
+👉 https://www.compliancehub.ng/blog/pencom-itf-payroll-audit-traps-regulatory-inspections
+```
+
+---
+
+## 3. Facebook Community Suite (Contractors, CFOs & HR Leaders)
+
+### A. Community Discussion Post
+
+```text
+Attention Nigerian Engineering Contractors, CFOs, HR Managers, and Compliance Directors:
+
+Did you know that holding valid annual PenCom and ITF certificates does NOT stop recovery agents from conducting an unannounced 5-year forensic inspection of your wage books and bank statements?
+
+Three everyday payroll shortcuts are hitting contractors with multi-million-Naira demand notices and sudden BPP IRR suspensions:
+• Calculating pension and 1% ITF strictly on "Basic Salary" while leaving out housing, transport, and site bonuses.
+• Remitting monthly RSA deductions 14–30 days late during cash-flow crunches (attracting compounding 2% monthly PRA 2014 penalties).
+• Paying recurring site technicians through petty cash imprests instead of formal payroll or statutory-cleared subcontractors.
+
+With ComplianceHub HubCalendar & Payroll Audit Shield:
+• Lock PRA 2014 and ITF gross payroll baselines automatically against your Audited Financial Statements.
+• Enforce 7-working-day RSA remittance alerts with timestamped PFC payment archives.
+• Keep an indexed 5-year digital audit vault ready for 15-minute retrieval whenever inspectors arrive.
+
+Read all 10 payroll audit fixes here:
+👉 https://www.compliancehub.ng/blog/pencom-itf-payroll-audit-traps-regulatory-inspections
+
+Comment "AUDIT" below if you want our 5-year PenCom & ITF inspection checklist!
+```
+
+---
+
+### B. Open Discussion Prompt
+
+```text
+Question for CFOs, HR Leads & Contractors: Have you ever faced an on-site PenCom recovery agent or ITF area office inspection?
+
+What was the toughest document or payroll question they raised?
+A) Reconciling allowances and gross payroll with Audited Financial Statements
+B) Proving 7-working-day monthly pension transfer timestamps
+C) Explaining casual site labor or subcontractor invoices
+D) Retrieving older PFC receipts and Remita tellers from 3–5 years ago
+
+Drop your letter below and let's share practical defense lessons! 👇
+```
+
+---
+
+## 4. Meta Ecosystem Suite (Instagram & Threads)
+
+### A. Instagram Feed Post & Carousel Copy
+
+```text
+Having valid PenCom and ITF certificates on your wall does NOT stop a ₦42.5M retroactive demand notice during an on-site payroll inspection. ⚠️📋
+
+Here are the 3 deadliest payroll audit traps ambushing Nigerian contractors right now:
+• "Basic Salary Only" exclusions triggering massive 1% ITF reclassifications.
+• Late pension remittances past 7 working days accruing 2% monthly compounding PRA 2014 penalties.
+• Unrecorded casual site labor paid via cash imprests—leading to instant BPP IRR suspension.
+
+Swipe through our 6-slide briefing to build an inspection-proof payroll shield:
+
+Slide 1: Holding Valid Certificates Won't Stop a ₦42.5M Audit
+Slide 2: Trap 1 — The "Basic Salary Only" Illusion
+Slide 3: Trap 2 — The 7-Working-Day Remittance Slip
+Slide 4: Trap 3 — The Off-Payroll Site Labor Ambush
+Slide 5: The 5-Point Inspection-Proof Payroll Shield
+Slide 6: Build Your Automated Audit Shield on ComplianceHub
+
+🔗 Link in bio to read all 10 PenCom & ITF payroll audit fixes: https://www.compliancehub.ng/blog/pencom-itf-payroll-audit-traps-regulatory-inspections
+
+DM us "AUDIT" to run a complimentary Statutory Payroll Diagnostic!
+
+#PenComCompliance #ITFAudit #PayrollComplianceNigeria #BPPCompliance #ComplianceHub #AbujaContractors #CorporateFinanceNigeria
+```
+
+---
+
+### B. Threads Standalone Post (<500 Characters)
+
+```text
+Most Nigerian CFOs think holding an annual PenCom and ITF certificate means they are safe.
+
+Then recovery agents walk in asking for five years of bank payroll schedules—and "Basic Salary Only" deductions plus 14-day late pension transfers turn into a ₦42.5M demand notice and a frozen BPP IRR.
+
+Audit your emolument base and lock 7-working-day RSA remittances before inspectors knock.
+```

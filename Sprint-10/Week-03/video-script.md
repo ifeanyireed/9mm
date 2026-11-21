@@ -1,141 +1,52 @@
-# 🎬 Video Script: "The ₦38 Million Payroll Trap"
+# Video Production Script: Sprint 10 Week 03
 
-* **Sprint & Week**: Sprint 10 (Statutory Quad & Tender Readiness) · Week 03 (The Tangible Pains)
-* **Format**: Talking Head (TH) cut with Drama Scenes (DRAMA)
-* **Target Runtime**: ~4:30 (665 spoken words)
-* **Cast**: Host (TH), Engr. Babatunde (MD, Lekki Infrastructure Consortium), Mrs. Toyin (CFO), Engr. Funke (Compliance Director, ComplianceHub), Mr. Garba (Lead Recovery Agent, PenCom Audit Taskforce)
-* **Brand in the Skit**: Lekki Infrastructure Consortium Limited
-* **Target Audience Focus**: Federal & State Bidding Contractors, Infrastructure Consortiums, Corporate HR Directors, CFOs, Procurement Leads (`ch-group-c`)
-* **Product Pitched in CTA**: **ComplianceHub Statutory Quad & BPP Readiness Suite** (`https://www.compliancehub.ng/onboarding?module=hubcalendar`)
-
----
-
-## Script Breakdown
-
-### COLD OPEN: TH (0:00 – 0:30)
-
-**Visual**: Host in a boardroom overlooking the Abuja city center. On a digital presentation monitor behind him, an official demand notice with an imposing federal seal appears, accompanied by a bold red figure: *"STATUTORY ASSESSMENT & PENALTY: ₦38,500,000"*.
-
-**HOST**:
-Picture this: Your engineering firm just submitted a ₦1.5 billion proposal for a Federal Ministry of Water Resources dam project.
-
-Your technical bid is rated number one.
-
-Then, at 10:00 AM on a Tuesday, an official audit delegation walks into your head office in Abuja.
-
-They aren't here to inspect your bridges or equipment. 
-They are **PenCom Recovery Agents and Industrial Training Fund Inspectors**.
-
-They demand five years of payroll sheets, bank statements, and PFA receipts.
-
-And within two hours, they uncover the three deadliest payroll audit traps in Nigerian corporate contracting.
-
-Today, we break down **The ₦38 Million Payroll Trap**.
-
-**SFX**: Heavy stamp slamming down on paper: *"REVISED DEMAND NOTICE"*; deep industrial bass pulse begins.
+* **Title:** The ₦42.5M Knock at the Door: Surviving Unannounced PenCom & ITF On-Site Payroll Inspections
+* **Sprint & Week:** Sprint 10 (Statutory Quad & Tender Readiness) · Week 03 (The Tangible Pains)
+* **Topic:** Eliminating the 3 Deadliest Payroll Audit Traps ("Basic Salary Only", 2%/Month Late Remittances, and Casual Site Labor) Across PenCom and ITF Inspections
+* **Format:** Dual-Track Talking Head (TH) cut with Narrative Abuja Office Inspection Drama & ComplianceHub Dashboard Walkthrough
+* **Target Runtime:** ~4:15 (~625 spoken words at 145 WPM)
+* **Dedicated Cutdown:** 60-Second Vertical Video (9:16) for Instagram Reels, TikTok, and YouTube Shorts
+* **Cast:**
+  * **Host:** @Ifeanyi Felix (Head of Regulatory Affairs & Corporate Compliance, ComplianceHub.ng)
+  * **Mrs. Toyin Adewale:** Chief Financial Officer of *Redrock Civil & Infrastructure Ltd* (Wuse II, Abuja)
+  * **Engr. Funke Adebisi:** Compliance Director
+  * **Lead Regulatory Inspector:** Accredited PenCom / ITF Field Inspection Officer (Voiceover / Skit)
+* **Brand in the Skit:** *Redrock Civil & Infrastructure Ltd* (65-staff civil engineering & road rehabilitation contractor, Abuja)
+* **Product Pitched:** **ComplianceHub HubCalendar & Payroll Audit Shield** (`https://www.compliancehub.ng/onboarding?module=hubcalendar`)
 
 ---
 
-## SCENE 1: THE FORENSIC AUDIT (0:30 – 1:35)
+## Technical & Casting Notes
 
-**Visual**: Lekki Infrastructure Consortium boardroom in Maitama, Abuja. Thick folders and payroll binders cover the conference table. Engr. Babatunde and Mrs. Toyin are seated opposite Mr. Garba, a stern senior PenCom recovery agent in a dark suit, wearing an official identification badge.
-
-**MR. GARBA** *(pointing a red pen at a printed payroll sheet)*:
-Mrs. Toyin, let me explain why your compliance certificate does not protect you today.
-
-In 2023 and 2024, your company paid salaries on the 28th of every month. But your PFA pension remittances were consistently executed between the 18th and 24th of the following month.
-
-**MRS. TOYIN**:
-Mr. Garba, our client mobilization payments from the Ministry were delayed! We remitted the funds the moment cash flow cleared!
-
-**MR. GARBA**:
-Under Section 11(6) and (7) of the Pension Reform Act 2014, employer and employee deductions must reach the Pension Fund Custodian within **seven working days**. 
-
-The law prescribes a statutory compounding penalty of **not less than two percent per month** on all unremitted amounts. Over two years, that penalty alone stands at ₦19.2 million.
-
-**ENGR. BABATUNDE** *(visibly agitated)*:
-Nineteen million Naira in interest penalties?!
-
-**MR. GARBA**:
-And that’s only PenCom. Look at your Industrial Training Fund (ITF) Form 7A. You calculated your 1% training levy solely on basic salaries of ₦60 million, excluding ₦110 million in site allowances, overtime, and casual labor for your bridge project. 
-
-The total revised statutory liability across both agencies is **₦38.5 million**. If this liability is not settled within 14 days, we notify the Bureau of Public Procurement to suspend your BPP certificate immediately.
-
-**SFX**: Dull metallic gavel strike sound.
+* **Visual Aesthetic:** Grounded Abuja corporate finance and engineering headquarters realism. Architectural blueprints on conference tables, framed PenCom and ITF certificates on the wall contrasting sharply with a red "RETROACTIVE DEMAND NOTICE" courier folder, transitioning into ComplianceHub's calm emerald-and-gold 5-Year Forensic Inspection Vault.
+* **Sound Design:** Formal office door knock, paper binder rustle, low tense ambient hum as red penalty flags appear, shifting into crisp emerald verification chimes as every payroll schedule and 7-day remittance receipt locks green.
+* **Tone:** Authoritative, legally sharp, empathetic to CFOs and contractors, and operationally practical. Strictly zero mathematical equations or calculation containers.
 
 ---
 
-## SCENE 2: THE COMPLIANCE DEFENSE (1:35 – 2:40)
+## Master Dual-Track Production Script (~4:15 Runtime)
 
-**Visual**: Engr. Funke from ComplianceHub enters the boardroom. She sits down, opens a sleek tablet, and addresses Mr. Garba with calm authority.
-
-**ENGR. FUNKE**:
-Mr. Garba, good morning. ComplianceHub represents Lekki Infrastructure Consortium. Before you issue that demand notice, let's examine the reconciled statutory ledger.
-
-*(She slides the tablet across the table)*.
-
-**MR. GARBA** *(eyebrows raised)*:
-What is this?
-
-**ENGR. FUNKE**:
-First, regarding the casual site labor: Those 80 site workers were not direct employees. They were engaged through an accredited human resource subcontracting partner. Here are the executed master service agreements, and here are the subcontractor’s independent PenCom and ITF compliance clearances for 2023 and 2024.
-
-**MR. GARBA** *(inspecting the digital audit trail)*:
-Alright... that legally removes the site labor reclassification. But what about the ITF allowance differential and the delayed pension remittance interest?
-
-**ENGR. FUNKE**:
-Look at tab 3. Lekki Infrastructure Consortium conducted certified technical training for 45 engineers at the Centre for Management Development in 2024. 
-
-Under Section 8 of the ITF Act, an employer is entitled to a **50% statutory reimbursement grant** on annual contributions. 
-
-We have prepared and submitted Form ITF 8A. The approved reimbursement credit of ₦14.8 million directly offsets the allowance differential.
-
-And for PenCom: By reconciling the exact PFA clearing switch timestamps, we’ve demonstrated that 80% of remittances fell within the statutory window, reducing the disputed penalty to a nominal administrative variance of less than ₦800,000.
-
-**MR. GARBA** *(nodding slowly, closing his file)*:
-This is one of the most rigorous forensic compliance defenses I have seen from a civil engineering firm. The revised assessment is cleared. Your BPP pre-qualification standing remains fully active.
-
-**SFX**: Digital chime on Mrs. Toyin's phone: *"BPP STATUS: VERIFIED ACTIVE"*.
+| Visual / Directional Track (Left Column) | Audio / Dialogue Track (Right Column) |
+| :--- | :--- |
+| **[0:00 – 0:30] COLD OPEN: THE PAPER CERTIFICATE ILLUSION**<br><br>Medium shot of IFEANYI standing beside framed PenCom and ITF certificates in a modern Abuja office, then holding up a bold red "RETROACTIVE DEMAND NOTICE" courier letter. | **IFEANYI (Host):**<br>"Every corporate contractor in Nigeria thinks once their annual PenCom and ITF compliance certificates are framed on the wall, they are safe for the rest of the year.<br><br>Until an unannounced team of PenCom recovery agents and ITF senior compliance officers walks through reception demanding five years of wage books, bank payroll schedules, and Audited Financial Statements.<br><br>Three weeks later, routine payroll shortcuts turn into a ₦42.5 million retroactive demand notice—and an instant freeze on your BPP federal bidding portal." |
+| **[0:30 – 1:15] SCENE 1: THE WUSE II DEMAND NOTICE**<br><br>Cut to *Redrock Civil & Infrastructure Ltd* boardroom in Wuse II, Abuja. MRS. TOYIN ADEWALE (46, sharp CFO in a tailored charcoal blazer) opens two formal regulatory letters beside ENGR. FUNKE ADEBISI (42, Compliance Director in an emerald corporate suit). | **MRS. TOYIN:**<br>"Funke, we won a ₦1.2 billion federal road contract six months ago with valid PenCom and ITF certificates. How are we suddenly staring at ₦42.5 million in retroactive demands?"<br><br>**ENGR. FUNKE:**<br>*(Reading the inspection summary grimly)*<br>"Three deadly payroll audit traps hit us at once. First, Finance computed our 1% ITF levy strictly on Basic Salary—leaving out housing, transport, and site bonuses. Reclassifying four years of allowances just triggered an ₦18.5 million ITF bill.<br><br>Second, whenever milestone payments lagged, we remitted monthly pension deductions fourteen to thirty days past the 7-working-day window. Under PRA 2014, the 2% monthly compounding penalty snowballed into ₦24 million." |
+| **[1:15 – 1:55] SCENE 2: THE SITE LABOR AMBUSH & BPP FREEZE**<br><br>Close-up on project petty-cash imprest vouchers spread beside a laptop showing a red "BPP IRR SUSPENDED" portal notice. Cut back to Mrs. Toyin and Engr. Funke. | **MRS. TOYIN:**<br>"And what about our thirty-eight field technicians on the highway project? They're temporary site hands paid from project imprests!"<br><br>**ENGR. FUNKE:**<br>"Inspectors traced the recurring bank vouchers, found zero RSA PINs and no corporate subcontractor clearances, and reclassified them as undisclosed payroll. Worse—they notified BPP this morning. Our Interim Registration Report is suspended across every active federal tender." |
+| **[1:55 – 2:35] SCENE 3: THE EXPERT DIAGNOSIS (TH)**<br><br>Cut back to IFEANYI in the studio. Clean ComplianceHub executive graphic displays the 3 Payroll Audit Traps: (1) Basic Salary Only Exclusion, (2) 7-Working-Day Remittance Slip (2%/mo), and (3) Off-Payroll Cash Site Labor. | **IFEANYI (Host):**<br>"Under Section 104 of the Pension Reform Act 2014 and the ITF Act, paper certificates never immunize your payroll from five-year forensic enforcement.<br><br>When federal revenue and statutory agencies cross-examine your signed Audited Financial Statements directly against bank salary transfers, three shortcuts destroy contractors every single quarter: under-declaring statutory allowances, missing the 7-working-day RSA remittance deadline, and paying recurring site crews off-payroll.<br><br>Surviving on-site inspections requires replacing reactive paperwork with a continuous Forensic Payroll Audit Shield." |
+| **[2:35 – 3:30] SCENE 4: THE CONNECTED COMPLIANCEHUB FIX**<br><br>Cut back to *Redrock Civil & Infrastructure* twelve months later. Calm boardroom. On a sleek screen, ComplianceHub HubCalendar & Payroll Audit Shield shows PRA 2014 emoluments, ITF gross payroll, 7-day PFC remittance timestamps, and an indexed 5-year inspection vault all glowing emerald green. | **IFEANYI (Host V.O.):**<br>"This is how inspection-proof Nigerian contractors neutralize PenCom and ITF audit traps on ComplianceHub."<br><br>*[On-screen UI walkthrough: PRA 2014 Basic + Housing + Transport & ITF gross payroll formulas locked; automated 7-working-day RSA remittance alerts with PFC receipt archiving; subcontractor CAC/PenCom/ITF gate verified pre-pay; 5-Year Digital Audit Vault opens in 15 minutes.]*<br><br>**MRS. TOYIN:**<br>"Now our monthly payroll aligns down to the kobo with our Audited Accounts. Every pension transfer clears inside 7 working days, every site vendor submits statutory clearances before payment, and our entire 5-year evidence binder pulls up in minutes." |
+| **[3:30 – 4:15] CLOSING SUMMARY & CALL TO ACTION**<br><br>An ITF senior compliance officer signs off a clean zero-liability verification report in the Wuse II boardroom and shakes hands with Engr. Funke. Cut back to IFEANYI. | **ENGR. FUNKE:**<br>"Our follow-up inspection took forty minutes—zero penalties, zero reclassifications, and our BPP IRR stayed green while we won two new federal road lots."<br><br>**IFEANYI (Host):**<br>"Paper certificates expire on December 31st. Forensic payroll governance protects your balance sheet and federal contracts every single day of the year.<br><br>Bulletproof your PenCom and ITF compliance before recovery agents knock. Visit compliancehub.ng/onboarding?module=hubcalendar to run your Statutory Payroll Diagnostic today.<br><br>I’m Ifeanyi Felix. Lock your payroll base, beat the 7-day window, and pass every inspection clean."<br><br>*[On-screen graphic: ComplianceHub.ng Logo · compliancehub.ng/onboarding?module=hubcalendar · Run Your Statutory Payroll Diagnostic]* |
 
 ---
 
-## SCENE 3: THE STRATEGIC TAKEAWAY (2:40 – 3:35)
+## Dedicated 60-Second Vertical Video Cutdown (9:16 Format)
 
-**Visual**: Cut back to Host in the studio.
+* **Platform:** Instagram Reels, TikTok, YouTube Shorts
+* **Audio Track:** Crisp executive corporate tempo with sharp ledger-lock sound accents
+* **Visual Style:** High-contrast split screen contrasting red "₦42.5M DEMAND NOTICE" alerts against ComplianceHub's green 5-Year Payroll Audit Vault
 
-**HOST**:
-What you just saw is the difference between hoping for the best and having an institutional compliance audit shield.
-
-In Nigerian public contracting:
-* **The 7-Day Rule**: Pension deductions must reach PFAs within 7 working days, or 2% monthly compounding interest penalties apply.
-* **The Gross Wage Rule**: The ITF 1% levy covers all allowances and bonuses, not just basic pay.
-* **The 50% Reimbursement**: Documented staff training can turn up to 50% of your ITF contributions into cash rebates.
-
-When recovery agents knock on your door, paper certificates won't save you. 
-
-Mathematically reconciled payroll records will.
-
----
-
-## CALL TO ACTION: TH (3:35 – 4:30)
-
-**Visual**: Screen transitions to show `https://www.compliancehub.ng/onboarding?module=hubcalendar`. Demonstration of the Payroll Audit & Statutory Calendar engine.
-
-**HOST**:
-Could your company's payroll survive an unannounced on-site audit by PenCom or ITF recovery agents?
-
-Don’t wait for a ₦30 million demand notice to arrive.
-
-Visit **compliancehub.ng/onboarding?module=hubcalendar** right now.
-
-Run our free Statutory Tender Diagnostic. In under five minutes, ComplianceHub will audit your pension remittance timelines, verify your ITF gross payroll baseline, and give you the tools to bulletproof your records against regulatory penalties.
-
-Protect your cash flow. Protect your BPP tender eligibility.
-
-Go to **compliancehub.ng/onboarding?module=hubcalendar** today.
-
-**SUPER / ON-SCREEN GRAPHIC**:
-* **ComplianceHub.ng**
-* *Public Procurement Governance & Statutory Quad Synchronization*
-* FCT Abuja & Victoria Island, Lagos
-* Link: `www.compliancehub.ng/onboarding?module=hubcalendar`
+| Timestamp | Visual Framing (9:16) | On-Screen Spoken Script | On-Screen Kinetic Text |
+| :--- | :--- | :--- | :--- |
+| **0:00 – 0:12** | Framed PenCom & ITF certificates on wall suddenly overlaid with a red "₦42.5M DEMAND NOTICE" stamp. | "Think valid PenCom and ITF certificates protect your company from on-site payroll audits? Think again." | **₦42.5M AUDIT SHOCK**<br>Certificates Aren't Enough |
+| **0:12 – 0:24** | Rapid graphic callout of 3 traps: Basic Salary Only, 14–30 Day Late Pension (2%/mo), Cash Site Labor. | "Calculating levies on Basic Salary only, missing the 7-working-day pension window, or paying site crews via cash imprest triggers massive fines and BPP suspension." | **3 DEADLY TRAPS**<br>2%/Mo Fines + BPP Freeze |
+| **0:24 – 0:38** | ComplianceHub Payroll Audit Shield dashboard locks PRA 2014 emoluments, ITF gross payroll, and 7-day PFC receipts green. | "ComplianceHub locks full statutory emoluments, automates 7-working-day pension transfers, and verifies subcontractor clearances before payout." | **PAYROLL AUDIT SHIELD**<br>100% Reconciled Ledgers |
+| **0:38 – 0:50** | 5-Year Cloud Inspection Vault opens cleanly; inspector signs zero-liability verification sheet. | "When PenCom recovery agents or ITF inspectors knock, pull up five years of timestamped audit proofs in fifteen minutes flat." | **5-YEAR AUDIT VAULT**<br>Clear Inspections in Minutes |
+| **0:50 – 1:00** | IFEANYI on camera in Abuja with ComplianceHub logo overlay. | "Protect your balance sheet and federal tenders. Run your Statutory Payroll Diagnostic at compliancehub.ng today." | **RUN YOUR DIAGNOSTIC**<br>👉 compliancehub.ng |

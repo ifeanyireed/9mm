@@ -1,5 +1,5 @@
 <div class="brand-header" style="display: flex; align-items: center; gap: 10px; margin: 0 0 20px 0; padding-bottom: 12px; border-bottom: 2px solid #0D5C3A;">
-  <img class="brand-logo" src="https://res.cloudinary.com/yugcjpau/image/upload/v1793934925/9mm/compliancehub_logo.png" alt="ComplianceHub.ng" width="32" height="32" style="width: 32px !important; max-width: 32px !important; height: 32px !important; object-fit: contain !important; display: inline-block !important; margin: 0 !important; border: none !important; box-shadow: none !important; vertical-align: middle !important;" />
+  <img class="brand-logo" src="https://res.cloudinary.com/iqwyufpt/image/upload/v1795139981/9mm/compliancehub_logo.png" alt="ComplianceHub.ng" width="32" height="32" style="width: 32px !important; max-width: 32px !important; height: 32px !important; object-fit: contain !important; display: inline-block !important; margin: 0 !important; border: none !important; box-shadow: none !important; vertical-align: middle !important;" />
   <div style="display: inline-block; vertical-align: middle;">
     <span style="font-size: 15px; font-weight: 800; color: #0D5C3A; letter-spacing: -0.2px; display: block; line-height: 1.2;">ComplianceHub<span style="color: #0089C1;">.ng</span></span>
     <span style="font-size: 10px; font-weight: 700; color: #64748B; text-transform: uppercase; letter-spacing: 1px; display: block;">Corporate Affairs Commission (CAC) Statutory Governance</span>
@@ -175,7 +175,7 @@ The **ComplianceHub Corporate Governance Suite** connects your boardroom decisio
 
 <div class="brand-footer" style="display: flex; align-items: center; justify-content: space-between; margin-top: 40px; padding-top: 16px; border-top: 1px solid #E2E8F0;">
   <div style="display: flex; align-items: center; gap: 8px;">
-    <img class="brand-logo" src="https://res.cloudinary.com/yugcjpau/image/upload/v1793934925/9mm/compliancehub_logo.png" alt="ComplianceHub.ng" width="20" height="20" style="width: 20px !important; max-width: 20px !important; height: 20px !important; object-fit: contain !important; display: inline-block !important; margin: 0 !important; border: none !important; box-shadow: none !important; vertical-align: middle !important;" />
+    <img class="brand-logo" src="https://res.cloudinary.com/iqwyufpt/image/upload/v1795139981/9mm/compliancehub_logo.png" alt="ComplianceHub.ng" width="20" height="20" style="width: 20px !important; max-width: 20px !important; height: 20px !important; object-fit: contain !important; display: inline-block !important; margin: 0 !important; border: none !important; box-shadow: none !important; vertical-align: middle !important;" />
     <span style="font-size: 12px; font-weight: 700; color: #0D5C3A;">ComplianceHub<span style="color: #0089C1;">.ng</span></span>
   </div>
   <span style="font-size: 11px; color: #94A3B8;">Enterprise Corporate Governance &amp; CAMA 2020 Automation · Lagos · Abuja</span>

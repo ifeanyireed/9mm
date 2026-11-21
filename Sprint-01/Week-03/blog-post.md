@@ -272,8 +272,8 @@ The goal is to let your social media content inspire customers while a connected
 ## How Ofia Helps Bring Your Storefront and Inventory Together
 
 <div style="text-align: center; margin: 24px 0;">
-  <img src="https://wsrv.nl/?url=https://techcabal.com/wp-content/uploads/tc/2026/01/Senior-Leadership-Team-Paystack-scaled.jpg&w=800&output=jpg" alt="Commerce and financial technology leaders building connected digital retail infrastructure across Nigeria" referrerpolicy="no-referrer" style="max-width: 720px; width: 100%; height: auto; border-radius: 8px; border: 1px solid #E2E8F0; display: block; margin: 0 auto;" />
-  <p style="font-size: 13px; color: #64748B; margin-top: 8px; line-height: 1.5; font-style: italic;">Connected digital commerce and payment infrastructure helps growing Nigerian retail brands manage orders, stock and payments in one place. Source: TechCabal.</p>
+  <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/08/28031304/Screenshot-2026-08-28-031250_1787883184.webp&w=800&output=jpg" alt="SunTrust Bank and OPay digital payment partnership expanding connected retail checkout infrastructure in Nigeria" referrerpolicy="no-referrer" style="max-width: 720px; width: 100%; height: auto; border-radius: 8px; border: 1px solid #E2E8F0; display: block; margin: 0 auto;" />
+  <p style="font-size: 13px; color: #64748B; margin-top: 8px; line-height: 1.5; font-style: italic;">Digital payment partnerships such as the SunTrust Bank and OPay alliance are expanding connected retail checkout infrastructure so Nigerian brands can manage orders, stock and payments in one place. Source: Punch Nigeria.</p>
 </div>
 
 Chioma's boutique does not need to hire three more assistants just to reply to messages about sizes and colours.
@@ -282,7 +282,7 @@ It needs a system where her social media storefront, stockroom and delivery team
 
 This is where **Ofia Shop Manager & Storefront** comes in.
 
-As commerce infrastructure evolves across Nigeria (shown in TechCabal's industry coverage above), Ofia is built to help growing social sellers and retail brands organise their product catalogues, inventory and checkouts in one place.
+As digital payment and commerce partnerships expand across Nigeria (shown in [Punch Nigeria's coverage of the SunTrust Bank and OPay digital payment partnership](https://punchng.com/suntrust-bank-opay-seal-digital-payment-partnership/) above), Ofia is built to help growing social sellers and retail brands organise their product catalogues, inventory and checkouts in one place.
 
 Depending on the configured modules, businesses can use the platform to support:
 

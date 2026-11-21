@@ -66,7 +66,7 @@ Because a customer considering a high-value appliance or sofa needs more than a 
 
 ### 2. Point-of-Sale Consumer Financing Is Helping Shoppers Close Big Purchases Faster
 
-<img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/10/29114237/WhatsApp-Image-2026-10-29-at-11.40.00_1793270557.webp&w=800&output=jpg" alt="Optimum Global Acquires Mayfair Microfinance Bank to Expand Commercial Merchant Lending" referrerpolicy="no-referrer" loading="lazy" style="width: 100%; max-width: 720px; border-radius: 8px; margin: 16px 0;" />
+<img src="https://wsrv.nl/?url=https://punchng.com/wp-content/uploads/2026/07/Margaret-Adeseye_1784858238.webp&w=800&output=jpg" alt="Lagos commercial safety and retail infrastructure operations safeguarding high-footfall physical supermarkets and showrooms (Source: Punch Nigeria)" referrerpolicy="no-referrer" loading="lazy" style="width: 100%; max-width: 720px; border-radius: 8px; margin: 16px 0;" />
 
 In October 2026, [Punch Nigeria reported on Optimum Global's acquisition of Mayfair Microfinance Bank](https://punchng.com/optimum-global-acquires-mayfair-microfinance-bank/), part of a growing push to expand accessible credit and point-of-sale financing for Nigerian consumers and merchants.
 
@@ -90,7 +90,7 @@ For Tunde, capturing every showroom quote and sale digitally gives him a complet
 
 ### 4. Rising Prime Showroom Rents Demand 24/7 Digital Conversion From Every Walk-In Visitor
 
-<img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/10/26014243/WhatsApp-Image-2026-10-26-at-01.31.48_1792975363.webp&w=800&output=jpg" alt="Commercial Real Estate and Prime Retail Showroom Spaces in Lagos" referrerpolicy="no-referrer" loading="lazy" style="width: 100%; max-width: 720px; border-radius: 8px; margin: 16px 0;" />
+<img src="https://wsrv.nl/?url=https://punchng.com/wp-content/uploads/2026/07/Peter-Obi-supermarket_1784439837-scaled.webp&w=800&output=jpg" alt="Walk-in shoppers browsing stocked retail aisles inside a modern Nigerian supermarket showroom (Source: Punch Nigeria)" referrerpolicy="no-referrer" loading="lazy" style="width: 100%; max-width: 720px; border-radius: 8px; margin: 16px 0;" />
 
 In October 2026, [Punch Nigeria examined the rising cost of prime commercial property in Lagos](https://punchng.com/ngx-targets-n300trn-market-cap-pushes-for-more-listings/) as retail chains and property developers expand across Victoria Island, Lekki and Ikeja.
 
@@ -142,7 +142,7 @@ They immediately see exact dimensions, power ratings, colour options and live pr
 
 ### 2. Add a One-Tap "Send Spec Sheet to My WhatsApp" Button on Product Pages
 
-<img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/10/28012027/teamapt_1793146827.webp&w=800&output=jpg" alt="Retail Payment and Connected POS Innovation Team Driving In-Store Digital Customer Capture" referrerpolicy="no-referrer" loading="lazy" style="width: 100%; max-width: 720px; border-radius: 8px; margin: 16px 0;" />
+<img src="https://wsrv.nl/?url=https://punchng.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-13-at-19.23.41_1783967122.webp&w=800&output=jpg" alt="Connected supermarket and retail checkout resilience requiring secure digital product sheets and cloud POS continuity (Source: Punch Nigeria)" referrerpolicy="no-referrer" loading="lazy" style="width: 100%; max-width: 720px; border-radius: 8px; margin: 16px 0;" />
 
 Many high-ticket shoppers need to share product measurements and photos with a spouse, architect or business partner before making a final decision.
 
@@ -269,7 +269,7 @@ You can then move high-interest items to prime floor spots and adjust pricing or
 
 ## How Ofia Helps Connect Your Showroom Floor to Online Sales
 
-<img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/10/30092324/IMG_8374_1793348604.webp&w=800&output=jpg" alt="Unified Digital Trade and Connected Retail Checkout Infrastructure" referrerpolicy="no-referrer" loading="lazy" style="width: 100%; max-width: 720px; border-radius: 8px; margin: 16px 0;" />
+<img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/10/13085609/South-Korewa-stabbing_1791878169.webp&w=800&output=jpg" alt="High-traffic physical retail market operations underscoring the need for seamless digital showroom conversion and omnichannel customer retention (Source: Punch Nigeria)" referrerpolicy="no-referrer" loading="lazy" style="width: 100%; max-width: 720px; border-radius: 8px; margin: 16px 0;" />
 
 Tunde's showroom does not need more foot traffic to double its revenue. It needs a connected system that makes sure undecided walk-in visitors can easily finish buying after they leave the building.
 

@@ -60,17 +60,17 @@ Weeks 4 to 10 across all sprints must match the exact depth, comprehensive struc
 ## 5. Brand Segregation & Author Personas
 * **Sprints 01 to 04**: **Ofia.ng**
   - **Domain**: `https://www.ofia.ng`
-  - **Logo**: `https://res.cloudinary.com/wnmabxiy/image/upload/v1793738590/9mm/ofia_logo.svg`
+  - **Logo**: `https://res.cloudinary.com/iqwyufpt/image/upload/v1795139974/9mm/ofia_logo.svg`
   - **Author**: @Ifeanyi Felix (Head of Commerce Editorial, Ofia.ng)
   - **Themes**: Social commerce checkout, B2B multi-store inventory, digital escrow & dispute resolution, omnichannel retail.
 * **Sprints 05 to 08**: **ResultsPro.ng**
   - **Domain**: `https://www.resultspro.ng`
-  - **Logo**: `https://res.cloudinary.com/wnmabxiy/image/upload/v1793738629/9mm/resultspro_logo.png`
+  - **Logo**: `https://res.cloudinary.com/iqwyufpt/image/upload/v1795139977/9mm/resultspro_logo.png`
   - **Author**: Ifeanyi Felix (Head of Institutional Governance / Public Sector Strategy)
   - **Themes**: K-12 private school ERP, tertiary campus university automation, EdTech CBT infrastructure, SUBEB biometric civil service & ghost worker auditing.
 * **Sprints 09 to 12**: **ComplianceHub.ng**
   - **Domain**: `https://www.compliancehub.ng`
-  - **Logo**: `https://res.cloudinary.com/wnmabxiy/image/upload/v1793738670/9mm/compliancehub_logo.png`
+  - **Logo**: `https://res.cloudinary.com/iqwyufpt/image/upload/v1795139981/9mm/compliancehub_logo.png`
   - **Author**: @Ifeanyi Felix (Head of Corporate Governance & Regulatory Technology)
   - **Themes**: Corporate Affairs Commission (CAC) post-incorporation & annual returns governance, Statutory Quad (FIRS TCC, PENCOM, ITF, NSITF) & BPP federal procurement tender readiness, DNFBP AML/CFT & SCUML regulatory reporting, Enterprise Data Protection (NDPA 2023) compliance & cross-border data audits.
 

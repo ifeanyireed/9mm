@@ -1,127 +1,246 @@
-# 📰 Email Blast: The Ofia Commerce Brief — Edition #50
+# Omnichannel Retail & Showroom Conversion Briefing: Sprint 04 Week 03
 
-* **Sprint & Week**: Sprint 04 (Omnichannel Retail) · Week 03 (The Tangible Pains)
-* **HTML Version**: [`email-blast.html`](file:///Volumes/ReedBreedCC/9mm/Sprint-04/Week-03/email-blast.html)
-* **Author**: @Ifeanyi Felix · **Brand**: Ofia (`https://www.ofia.ng`)
-* **Target Audience**: Retail store owners, commercial showroom operators, furniture and homeware brand directors
-* **Primary Brand CTA**: `https://www.ofia.ng/products` ("Explore Ofia Digital Showroom at Ofia.ng")
+## Part 1: Subject Line Matrix
 
----
-
-## Subject Line Matrix
-* **Option 1 (Pain Hook)**: Is your showroom a dead end at {{company}}?
-* **Option 2 (Curiosity Hook)**: Why 82% of walk-in shoppers never return: The missing digital bridge
-* **Option 3 (Metric Hook)**: ₦2.09B in foregone sales: The true cost of paper business cards in retail
-* **Preview Text**: Why 82% of showroom foot traffic evaporates without making a purchase and how to bridge physical store visits to automated digital sales.
+* **Option 1 (Pain Hook):** Why 80% of weekend showroom visitors walk out without buying at {{company}}
+* **Option 2 (Curiosity / Warning Hook):** The paper business card leak quietly draining showroom ROI at {{company}}
+* **Option 3 (Metric / SLA Hook):** Turning undecided walk-in browsers into confirmed online orders at {{company}}
 
 ---
 
-## Direct 1-to-1 Cold Outreach Sequence (Sales Outreach to Leads)
+## Part 2: Cold Outreach Sequence
 
-* **To**: Commercial Showroom Directors & Luxury Retail Brand Executives (e.g., premier interior design, furniture, and luxury goods)
-* **Subject**: Preventing 82% showroom drop-off & bridging offline foot traffic at {{company}}
+### Touchpoint 1 (Day 1: Pain Hook — The Disappearing Weekend Visitor)
 
-```text
-Dear {{first_name|Valued Partner}},
+**Subject:** Why 80% of weekend showroom visitors walk out without buying at {{company}}
 
-I recently reviewed {{company}}'s stunning showroom operations—the visual display, merchandising, and product curation are remarkable.
+Hi {{first_name}},
 
-Quick strategic question: out of the hundreds of qualified visitors who walk through {{company}}'s doors on a Saturday, how many of those unconverted shoppers leave behind their verified WhatsApp number or digital profile before walking out?
+Think about the last couple who spent forty minutes admiring a dining set, refrigerator, or sectional sofa on your showroom floor—then said, *"Let us go home and measure our space before we pay."*
 
-Retail journey research shows that 82.4% of unconverted showroom visitors never return because they were handed a paper card and had no frictionless way to inspect product specs or check stock from home. Over a year, that disconnect leaks over ₦2.09B in foregone sales across high-ticket retail.
+If your sales associate wrote the model name and price on the back of a paper business card, what are the odds that visitor actually returns to complete the order?
 
-We built Ofia Digital Showroom to solve this exact bottleneck:
-1. Acrylic QR plaques beside floor displays deliver instant 360° product specs to customer phones.
-2. Captures verified customer WhatsApp contacts directly into {{company}}'s store CRM.
-3. Automated 24-hour follow-up workflows help your team close up to 34% of unconverted visitors.
-4. Real-time omnichannel inventory sync so shoppers can order online with complete confidence.
+Across prime furniture, appliance, and interior showrooms in Lekki, Victoria Island, and Abuja, roughly 80% of qualified weekend visitors leave anonymously—without a saved product link, a verified WhatsApp contact, or a simple way to finish checking out from home. Meanwhile, you still pay millions in annual showroom rent for every walk-in footstep.
 
-Could we schedule a 10-minute operational call this week to review {{company}}'s showroom visitor conversion workflows and share our omnichannel benchmarks?
+At Ofia, we engineered **Ofia POS Terminal & Omnichannel Showroom ERP** to bridge your physical floor to the customer's phone: scannable QR display plaques send exact dimensions and live pricing straight to the visitor's WhatsApp, while floor tablets generate instant one-click digital wishlists and payment links.
+
+Are you open to seeing how Nigerian showrooms convert undecided walk-in browsers into completed weekday online orders?
 
 Best regards,
 
-Ifeanyi Felix
-Head of Commerce Editorial, Ofia.ng
-Phone: +234 (0) 800-OFIA-GROW | Email: growth@ofia.ng
-https://www.ofia.ng/products
+**@Ifeanyi Felix**  
+Head of Commerce Editorial, Ofia.ng  
+Ofia Enterprise Growth Limited  
+{{unsubscribe_url}}
 
 ---
-Sent to {{name}} ({{email}}) at {{company}}
-Unsubscribe: {{unsubscribe_url}}
+
+### Touchpoint 2 (Day 4: Warning Signs & Floor Friction — Why Your Showroom & Website Break at the Exit Door)
+
+**Subject:** The paper business card leak quietly draining showroom ROI at {{company}}
+
+Hi {{first_name}},
+
+High-ticket shoppers rarely buy expensive appliances, furniture, or electronics on impulse without measuring their space or confirming with a spouse or architect. When your showroom has no digital handoff, three silent conversion leaks occur every weekend:
+* **20-Minute Warehouse Phone Calls:** A shopper wants a display armchair in emerald green instead of beige, and your associate disappears to call the central warehouse supervisor until the customer walks out to a competitor.
+* **Lost Room Quotes:** Associates scribble six item codes on paper pads that get misplaced by Sunday evening, with zero 24-hour follow-up capability.
+* **Zero Online Commission Credit:** Floor staff ignore your website because they only earn commission at the physical cash desk—so they never encourage undecided visitors to finish paying online.
+
+Ofia gives floor associates mobile tablets synced to live warehouse inventory, builds attributed digital wishlists that credit the showroom associate even when the buyer pays online three days later, and supports split-tender checkout across cards and transfers.
+
+Would Thursday at 2:00 PM work for a quick 10-minute walkthrough tailored to {{company}}'s showroom floor?
+
+Best regards,
+
+**@Ifeanyi Felix**  
+Head of Commerce Editorial, Ofia.ng  
+Ofia Enterprise Growth Limited  
+{{unsubscribe_url}}
+
+---
+
+### Touchpoint 3 (Day 8: Case Study Proof & Value Offer — Maximising Every Square Metre of Showroom Space)
+
+**Subject:** Turning undecided walk-in browsers into confirmed online orders at {{company}}
+
+Hi {{first_name}},
+
+When high-ticket showrooms connect their physical floor displays to **Ofia POS Terminal & Omnichannel Showroom ERP**, three immediate commercial improvements take hold:
+
+1. **Verified Lead Capture on Every Display:** Scannable acrylic QR plaques let shoppers tap *"Send Spec Sheet to My WhatsApp,"* saving their contact and exact product interest directly into your CRM.
+2. **Instant Multi-Branch Stock Visibility:** Associates check exact showroom and central warehouse stock on floor tablets beside the customer and schedule delivery on the spot.
+3. **Smooth High-Ticket Split Checkout:** Shoppers split large orders across POS cards, bank transfers, or structured payment plans on one reconciled invoice—either at the counter or from home via their attributed wishlist link.
+
+We are onboarding a select cohort of furniture, appliance, and multi-branch retailers onto our **Ofia Founding Showroom Program**. As part of this cohort, {{company}} receives:
+* Custom QR display plaque links and interactive digital catalogue onboarding for your floor SKUs.
+* Mobile tablet POS and attributed wishlist setup with live central warehouse sync.
+* 90 days of zero platform setup fees plus on-site floor associate training.
+
+Reply to this email if you would like us to set up sample QR spec sheets for five flagship items in your showroom this week.
+
+Warm regards,
+
+**@Ifeanyi Felix**  
+Head of Commerce Editorial, Ofia.ng  
+Ofia Enterprise Growth Limited  
+{{unsubscribe_url}}
+
+---
+
+## Part 3: Executive Email Newsletter
+
+### Top Utility Bar & Executive Masthead
+
+* **EDITION #33** | April 2026 | 4 Min Read | [www.ofia.ng](https://www.ofia.ng)
+
+```html
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="margin-bottom: 24px;">
+  <tr>
+    <td valign="middle" style="width: 52px;">
+      <img src="https://res.cloudinary.com/iqwyufpt/image/upload/v1795139974/9mm/ofia_logo.svg" alt="Ofia Logo" width="44" height="44" style="display: block; border: 0;" />
+    </td>
+    <td valign="middle" style="padding-left: 14px;">
+      <div style="font-size: 20px; font-weight: 800; color: #0f172a; letter-spacing: -0.5px; font-family: 'Dropa', sans-serif;">OFIA OMNICHANNEL INTELLIGENCE</div>
+      <div style="font-size: 12px; font-weight: 600; color: #64748b; text-transform: uppercase; letter-spacing: 0.5px;">Executive Briefing for Modern Showrooms &amp; Multi-Branch Retailers</div>
+    </td>
+  </tr>
+</table>
 ```
 
 ---
 
-## Complete Newsletter Publication Edition
-
-### Header & Masthead
-**THE OFIA COMMERCE BRIEF**  
-*Edition #50 · Commercial Showrooms & Offline-to-Online Funnels · October 26, 2026 · 4-min operational read · Published by [Ofia.ng](https://www.ofia.ng)*  
-*Visual Identity: White masthead, 3px solid `#EF8B3C` bottom border, 44px Ofia logo side-by-side with titles.*
-
 ### Editor's Opening Letter
+
 **Dear {{first_name|Valued Partner}},**
 
-A customer spends forty-five minutes walking through your physical showroom, inspects three luxury items, asks your sales associate several questions, and then says the dreaded phrase: *"Let me think about it."*
+On a Saturday afternoon inside a bustling home appliances and interior showroom in Lekki Phase 1, couples are testing velvet sectional sofas, interior designers are comparing chandelier finishes, and families are inspecting double-door inverter refrigerators across two floors.
 
-Your sales clerk hands them a glossy paper business card. Two hours later, that card is lost at the bottom of a handbag or thrown in a car console. Over 82% of qualified showroom visitors never return because your physical space has no automated digital capture mechanism. This week, major capital market directives and consumer electronics distribution trends highlight why physical storefronts must become connected digital capture engines. Here is your operational briefing.
+Yet by Sunday evening—just like Tunde's showroom in our Week 03 teardown—a quiet revenue leak has occurred. Out of ninety qualified visitors who spent thirty minutes browsing the floor, only eleven bought on the spot. The other seventy-nine left to measure their living rooms or consult a spouse, carrying nothing more than handwritten notes on paper business cards that disappeared by Monday morning.
 
----
+You pay millions in annual showroom rent to attract serious buyers through your doors. Letting 80% of them walk out without a digital bridge to your catalogue, live warehouse stock, and one-click checkout turns prime physical retail space into a costly museum.
 
-### Cover Story: Customer Journey Architecture
-**HEADLINE: [NGX Pushes for Major Consumer Retail Listings to Modernize Capital Access Across Commercial Chains](https://punchng.com/ngx-targets-n300trn-market-cap-pushes-for-more-listings/)**
-* <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/10/12012409/NGX_1791764649.webp&w=800&output=jpg" alt="NGX Pushes for Major Consumer Retail Listings to Modernize Capital Access Across Commercial Chains" referrerpolicy="no-referrer" width="100%" />
-* **Source**: Punch Nigeria · [Read Full Story →](https://punchng.com/ngx-targets-n300trn-market-cap-pushes-for-more-listings/)
-
-**LAGOS** — As the Nigerian Exchange Group advances toward its ₦300 trillion market capitalization target, leadership has initiated a targeted campaign to list major retail conglomerates, supermarket operators, and commercial showroom chains. As captured in the NGX trading floor ceremony photo above (Source: Punch Nigeria), the listing push comes as institutional investors demand strict visibility into omnichannel foot traffic and repeat customer lifetime value. In research presented at the capital market summit, retail analysts noted that physical showrooms operating without digital visitor tracking suffer massive valuation discounts because their footfall does not compound into recurring digital revenue.
-
-> *"A commercial retail chain that only tracks customer identity at the final moment of cash checkout is throwing away 80% of its customer acquisition investments. Modern institutional retail requires digital touchpoints—from display QR scans to automated CRM onboarding—so that every footstep through the front doors becomes a tracked corporate asset."*
-
-Commercial showrooms that bridge floor browsing with interactive QR plaques and instant WhatsApp catalog bookmarks report a 34% increase in secondary online sales from visitors who left the store without buying.
-
-> **► WHAT THIS MEANS FOR OMNICHANNEL OPERATORS & RETAILERS:**  
-> Never let an unconverted showroom visitor walk out with just a paper card or brochure. Place scannable acrylic QR codes on your floor merchandise that deliver instant product dimensions, financing plans, and warranty details to customer phones while capturing their verified profile for automated follow-up.
+In this thirty-third edition, we examine rising operational demands on Nigerian physical retailers, highlight the rapid rise of self-service physical-to-digital commerce across the country, and share ten practical fixes to convert walk-in browsers into confirmed online buyers.
 
 ---
 
-### Curated Commerce News Events
+### Lead News Cover Story
 
-1. **[LG Electronics Accelerates Smart Connected Appliances Across Commercial Retail Showrooms](https://punchng.com/lg-targets-zero-labour-homes-with-ai-technology/)**  
-   * <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/10/29001745/OIP-2026-10-29T001725.844_1793229465.webp&w=800&output=jpg" alt="LG Electronics Accelerates Smart Connected Appliances Across Commercial Retail Showrooms" referrerpolicy="no-referrer" width="100%" />
-   * **Source**: Punch Nigeria · [Read Full Story →](https://punchng.com/lg-targets-zero-labour-homes-with-ai-technology/)  
-   As documented in the smart connected appliance showcase photo above (Source: Punch Nigeria), consumer electronics manufacturers are redesigning physical showroom layouts to feature interactive digital display tags. High-ticket appliance shoppers deliberate for an average of 4.2 days before purchasing; showrooms deploying digital specs tags capture customer phone numbers during browsing, enabling automated 24-hour reminder workflows.
+**HEADLINE: [Lagos Seals Three Supermarkets for Violating Single-Use Plastics Ban — Why Rising Physical Store Pressure Demands Maximum Showroom Conversion](https://punchng.com/lagos-seals-three-supermarkets-for-violating-single-use-plastics-ban/)**
 
-2. **[Optimum Global Acquires Mayfair MFB to Scale Point-of-Sale Lending for Commercial Merchants](https://punchng.com/optimum-global-acquires-mayfair-microfinance-bank/)**  
-   * <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/10/29114237/WhatsApp-Image-2026-10-29-at-11.40.00_1793270557.webp&w=800&output=jpg" alt="Optimum Global Acquires Mayfair MFB to Scale Point-of-Sale Lending for Commercial Merchants" referrerpolicy="no-referrer" width="100%" />
-   * **Source**: Punch Nigeria · [Read Full Story →](https://punchng.com/optimum-global-acquires-mayfair-microfinance-bank/)  
-   As highlighted in the microfinance acquisition photo above (Source: Punch Nigeria), commercial microfinance consolidations are expanding embedded consumer credit at physical checkout counters. Showroom retailers offering instant split-tender financing and digital pre-approvals convert hesitant walk-in shoppers who would otherwise abandon purchases due to lump-sum payment friction.
+<div style="max-width: 600px; margin: 16px 0; text-align: center;">
+  <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2025/07/01171952/IMG_0495.jpeg&w=800&output=jpg" alt="Lagos State enforcement officials inspecting physical retail supermarkets for operational compliance (Photo: Punch Nigeria)" referrerpolicy="no-referrer" style="width: 100%; height: auto; border-radius: 0px !important; display: block;" />
+  <p style="font-size: 12px; color: #64748b; margin-top: 6px; text-align: left; font-style: italic;">Lagos physical retail operators face stricter compliance oversight and rising commercial lease costs, making every walk-in visitor conversion critical. (Photo: Punch Nigeria)</p>
+</div>
 
-3. **[LSETF Rolls Out ₦5m Structured Business Loans to Accelerate Retail Digital Migration](https://punchng.com/step-by-step-guide-to-accessing-n5m-lagos-business-loan/)**  
-   * <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/11/03125059/Lagos-State-Employment-Trust-Fund_1793706659.webp&w=800&output=jpg" alt="LSETF Rolls Out ₦5m Structured Business Loans to Accelerate Retail Digital Migration" referrerpolicy="no-referrer" width="100%" />
-   * **Source**: Punch Nigeria · [Read Full Story →](https://punchng.com/step-by-step-guide-to-accessing-n5m-lagos-business-loan/)  
-   As shown in the Lagos State enterprise loan signing photo above (Source: Punch Nigeria), Lagos State enterprise trust initiatives are providing structured capital for physical retail merchants modernizing their floor technology. Retailers replacing manual ledgers with cloud-synchronized SmartPOS terminals and digital QR display plaques can leverage these credit lines to scale multi-branch omnichannel operations.
+* **Source**: Punch Nigeria · [Read Full Story →](https://punchng.com/lagos-seals-three-supermarkets-for-violating-single-use-plastics-ban/)
+
+As captured in Punch Nigeria's coverage of [Lagos State sealing three supermarkets for violating the single-use plastics ban](https://punchng.com/lagos-seals-three-supermarkets-for-violating-single-use-plastics-ban/) (featured photo above), operating brick-and-mortar retail stores across Nigeria's prime commercial corridors now carries higher operational stakes than ever before. Between climbing commercial leases in Lekki, Victoria Island, and Ikeja, rising generator and energy costs, and heightened municipal compliance enforcement, every square metre of showroom floor space must deliver measurable revenue return.
+
+Yet most furniture, electronics, and homeware showrooms still lose the vast majority of their qualified walk-in traffic at the exit door. When high-ticket shoppers need to verify cabinet dimensions at home or confirm budgets with a partner, handing out paper business cards breaks the buying journey in half.
+
+By equipping every floor display with scannable QR spec plaques, giving associates live warehouse stock tablets, and sending attributed WhatsApp wishlists with one-click checkout links, physical stores keep selling long after Saturday closing time.
+
+> *"Your showroom does the hardest job in retail—earning a shopper's physical visit and trust. Letting them walk out without a digital link to finish buying from home wastes your most expensive marketing asset."*
+
+> **► WHAT THIS MEANS FOR SHOWROOM OWNERS & RETAIL DIRECTORS:**  
+> Stop treating a walk-in visit as a one-time event that ends at the exit door. Connect your physical displays, Isolo or Ikeja central warehouses, and online checkout into a unified system so every browsing couple leaves with your exact product specifications, live pricing, and a one-tap payment link right on their WhatsApp.
 
 ---
 
-### Industry News Spotlight: Sector Intelligence Worthy of Note
-* **Headline**: [Enterprise Development Centre Partners Mobilize Funding and Market Access for SME Retailers](https://punchng.com/edc-partners-target-sme-funding-market-access-across-africa/)
-* <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/10/01004759/OIP-2026-11-01T004717.530_1793490479.webp&w=800&output=jpg" alt="Enterprise Development Centre Partners Mobilize Funding and Market Access for SME Retailers" referrerpolicy="no-referrer" width="100%" />
-* **Source**: Punch Nigeria · [Read Full Report →](https://punchng.com/edc-partners-target-sme-funding-market-access-across-africa/)
-* **Summary & Why It Matters**: As illustrated in Punch Nigeria's sector spotlight photo above, pan-African enterprise development coalitions confirm that omnichannel retail infrastructure is essential to securing commercial distributor partnerships. Retailers that bridge physical store footfall with automated CRM re-engagement protect customer lifetime value and eliminate the leakage of paper-based showrooming.
+### Section 5: Curated Industry Intelligence Briefs
+
+* **1. [NAFDAC Shuts Chinese Supermarkets Over Unregistered Products](https://punchng.com/nafdac-shuts-chinese-supermarkets-over-unregistered-products/)**
+  <div style="max-width: 600px; margin: 12px 0;">
+    <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2020/08/20075420/NAFDAC-DG-Prof-Mojisola-Adeyeye.jpg&w=800&output=jpg" alt="NAFDAC leadership briefing on product verification and transparent retail standards across Nigerian supermarkets (Photo: Punch Nigeria)" referrerpolicy="no-referrer" width="100%" style="width: 100%; height: auto; display: block;" />
+  </div>
+  * **Source**: Punch Nigeria · [Read Full Story →](https://punchng.com/nafdac-shuts-chinese-supermarkets-over-unregistered-products/)
+  * **Operational Takeaway:** As underscored in Punch Nigeria's coverage pictured above, Nigerian regulators and shoppers alike are demanding transparent, verifiable product information on retail shelves. Placing scannable QR plaques next to showroom appliances and homeware lets buyers verify exact model specifications, warranty coverage, and authenticity instantly on their phones.
+
+* **2. [NAFDAC Shuts Two Chinese Supermarkets, Shops in Abuja](https://punchng.com/nafdac-shuts-two-chinese-supermarkets-shops-in-abuja/)**
+  <div style="max-width: 600px; margin: 12px 0;">
+    <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2025/10/03111256/NAFDAC.jpg&w=800&output=jpg" alt="Regulatory enforcement action at Abuja retail shops highlighting multi-branch inventory governance requirements (Photo: Punch Nigeria)" referrerpolicy="no-referrer" width="100%" style="width: 100%; height: auto; display: block;" />
+  </div>
+  * **Source**: Punch Nigeria · [Read Full Story →](https://punchng.com/nafdac-shuts-two-chinese-supermarkets-shops-in-abuja/)
+  * **Operational Takeaway:** As documented in Punch Nigeria's Abuja enforcement report above, multi-city retail operators cannot afford fragmented branch records. Managing Lagos showrooms, Abuja branches, and central warehouses on one live cloud catalogue eliminates 20-minute stock-check phone calls while maintaining airtight SKU consistency across locations.
+
+* **3. [Sunbeth Energies Expands Self-Service Fuelling to Oyo](https://punchng.com/sunbeth-energies-expands-self-service-fuelling-to-oyo/)**
+  <div style="max-width: 600px; margin: 12px 0;">
+    <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/10/22022315/sunbeth_1792632195.webp&w=800&output=jpg" alt="Sunbeth Energies expanding modern self-service physical retail technology infrastructure in Oyo State (Photo: Punch Nigeria)" referrerpolicy="no-referrer" width="100%" style="width: 100%; height: auto; display: block;" />
+  </div>
+  * **Source**: Punch Nigeria · [Read Full Story →](https://punchng.com/sunbeth-energies-expands-self-service-fuelling-to-oyo/)
+  * **Operational Takeaway:** As shown in Punch Nigeria's report above, Nigerian shoppers are embracing frictionless self-service tools inside physical commercial locations. Empowering showroom visitors to scan displays, pull specs straight to WhatsApp, and track QR display interest gives forward-looking retailers both higher conversion and live floor merchandising data.
+
+---
+
+### Industry News Spotlight
+
+<div style="border: 1px solid #e2e8f0; padding: 20px; background-color: #f8fafc; margin: 24px 0;">
+  <div style="font-size: 11px; font-weight: 700; color: #2563eb; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px;">INDUSTRY SPOTLIGHT</div>
+  <div style="font-size: 16px; font-weight: 700; color: #0f172a; margin-bottom: 12px;">
+    <a href="https://punchng.com/mrs-quickfuel-begin-self-service-pms-other-retail-sales/" style="color: #0f172a; text-decoration: none;">MRS, QuickFuel Begin Self-Service Retail Sales — How Blended Physical-Digital Checkout Is Reshaping Nigerian Showrooms</a>
+  </div>
+  <div style="width: 100%; height: 180px; overflow: hidden; margin-bottom: 14px;">
+    <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/11/18154655/IMG_1844_1795013215-scaled.webp&w=800&output=jpg" alt="MRS and QuickFuel launching blended self-service retail checkout infrastructure across Nigeria (Photo: Punch Nigeria)" referrerpolicy="no-referrer" style="width: 100%; height: 180px; object-fit: cover; border-radius: 0px !important; display: block;" />
+  </div>
+  <p style="font-size: 13px; color: #475569; line-height: 1.6; margin-bottom: 10px;">
+    As pictured in Punch Nigeria's coverage of MRS and QuickFuel rolling out self-service retail sales above, modern physical retail in Nigeria is rapidly converging with digital checkout convenience. For furniture, appliance, and luxury showrooms, the same principle unlocks massive trapped revenue: combining QR display wishlists, 24-hour personalised WhatsApp follow-ups, staff-attributed online payment links, and split-tender checkout removes every barrier between admiring a product in person and completing the order seamlessly.
+  </p>
+  <p style="font-size: 12px; color: #64748b; margin-bottom: 0;">
+    <strong>Source:</strong> Punch Nigeria &nbsp;·&nbsp; <a href="https://punchng.com/mrs-quickfuel-begin-self-service-pms-other-retail-sales/" style="color: #2563eb; text-decoration: underline;">Read Full Story →</a>
+  </p>
+</div>
 
 ---
 
 ### Primary Call to Action
-* **Button Text**: **Read the Full Operational Teardown (10 Fixes) →**
-* **Destination**: [`https://www.ofia.ng/blog/walk-in-foot-traffic-to-online-cart-conversion`](file:///Volumes/ReedBreedCC/9mm/Sprint-04/Week-03/blog-post.md)
+
+<div style="text-align: center; margin: 32px 0;">
+  <a href="https://www.ofia.ng/blog/offline-to-online-showroom-conversion-bottlenecks" style="background-color: #0f172a; color: #ffffff; padding: 14px 28px; font-size: 14px; font-weight: 700; text-decoration: none; display: inline-block; letter-spacing: 0.5px;">READ THE 10-STEP SHOWROOM CONVERSION GUIDE →</a>
+</div>
 
 ---
 
-### Enterprise Spotlight & Founding Offer
-**Ofia Digital Showroom & Omnichannel CRM Engine**  
-Built by **Ofia** to help luxury furniture, electronics, and fashion showrooms convert up to 34% of unconverted floor visitors through interactive display plaques, WhatsApp catalog re-engagement, and real-time inventory synchronization.
+### Product Spotlight & Founding Offer
 
-👉 **[Claim Founding Plan (₦5,000/mo) at Ofia.ng →](https://www.ofia.ng/pricing)**
+<div style="border-left: 4px solid #0f172a; padding: 18px 22px; background-color: #f1f5f9; margin: 28px 0;">
+  <div style="font-size: 15px; font-weight: 800; color: #0f172a; margin-bottom: 6px;">INTRODUCING: OFIA POS TERMINAL &amp; OMNICHANNEL SHOWROOM ERP</div>
+  <p style="font-size: 13px; color: #334155; line-height: 1.6; margin-bottom: 12px;">
+    Bridge your showroom floor, central warehouse, and online store into one seamless buying journey built for Nigerian furniture, appliance, and luxury retailers:
+  </p>
+  <ul style="font-size: 13px; color: #334155; line-height: 1.6; padding-left: 18px; margin-bottom: 14px;">
+    <li><strong>Scannable QR Plaques &amp; WhatsApp Spec Capture:</strong> Turn anonymous walk-in browsers into verified CRM leads automatically.</li>
+    <li><strong>Tablet POS, Live Warehouse Stock &amp; Attributed Wishlists:</strong> Check central depot availability beside the customer and credit associates on online completions.</li>
+    <li><strong>Split-Tender High-Ticket Checkout:</strong> Combine POS cards, bank transfers, and structured installment plans under one reconciled invoice.</li>
+  </ul>
+  <div style="font-size: 13px; font-weight: 700; color: #0f172a; margin-bottom: 6px;">Exclusive Founding Showroom Offer:</div>
+  <p style="font-size: 13px; color: #475569; line-height: 1.5; margin-bottom: 0;">
+    Receive complimentary QR display catalogue setup, tablet POS onboarding, and 90 days of zero platform setup fees. <a href="https://www.ofia.ng/products" style="color: #2563eb; font-weight: 700; text-decoration: underline;">Book Your Showroom Demo →</a>
+  </p>
+</div>
 
-— **Ifeanyi Felix**  
+Warm regards,
+
+**@Ifeanyi Felix**  
 Head of Commerce Editorial, Ofia.ng
+
+---
+
+### Light Executive Footer
+
+```html
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-top: 1px solid #e2e8f0; padding-top: 20px; margin-top: 32px;">
+  <tr>
+    <td valign="middle" style="width: 32px;">
+      <img src="https://res.cloudinary.com/iqwyufpt/image/upload/v1795139974/9mm/ofia_logo.svg" alt="Ofia Icon" width="22" height="22" style="display: block; border: 0;" />
+    </td>
+    <td valign="middle" style="padding-left: 10px; font-size: 11px; color: #64748b; font-family: 'Dropa', sans-serif;">
+      <strong>Ofia Enterprise Growth Limited</strong> · Admiralty Way, Lekki Phase 1, Lagos, Nigeria
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="padding-top: 10px; font-size: 10px; color: #94a3b8; line-height: 1.5;">
+      Sent to {{name}} ({{email}}) as a registered commerce executive or retail partner at {{company}}. To update your delivery preferences or unsubscribe, please click <a href="{{unsubscribe_url}}" style="color: #64748b; text-decoration: underline;">here</a>.
+    </td>
+  </tr>
+</table>
+```

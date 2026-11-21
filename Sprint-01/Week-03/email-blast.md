@@ -1,137 +1,248 @@
-# 📰 Email Blast: The Ofia Commerce Brief — Edition #44
+# Social Commerce & Variant Intelligence Briefing: Sprint 01 Week 03
 
-* **Sprint & Week**: Sprint 01 (Impulse Buy) · Week 03 (The Tangible Pains)
-* **HTML Version**: [`email-blast.html`](file:///Volumes/ReedBreedCC/9mm/Sprint-01/Week-03/email-blast.html) (Production-ready responsive HTML with inline CSS)
-* **Author**: @Ifeanyi Felix · **Brand**: Ofia (`https://www.ofia.ng`)
-* **Target Audience**: Social sellers, fashion apparel brands, multi-SKU retail operators
-* **Primary Brand CTA**: `https://www.ofia.ng/products` ("Read All 10 Variant Fixes")
+## Part 1: Subject Line Matrix
 
----
-
-## Subject Line Matrix
-* **Option 1 (Pain Hook)**: Still tracking colors and sizes in a notebook at {{company}}?
-* **Option 2 (Curiosity Hook)**: The 72-SKU trap: Why multi-variant drops break in DMs at {{company}}
-* **Option 3 (Metric Hook)**: ₦1,065,000/week: The true cost of manual variant blunders
-* **Preview Text**: Why 38% of social fashion returns stem from manual chat negotiation and how to automate your size matrix.
+* **Option 1 (Pain Hook):** The manual size-and-colour bottleneck costing viral sales at {{company}}
+* **Option 2 (Curiosity / Warning Hook):** Why viral Instagram drops turn into stockroom chaos at {{company}}
+* **Option 3 (Metric / SLA Hook):** Eliminating double-sold variants and wrong-size returns at {{company}}
 
 ---
 
-## Direct 1-to-1 Cold Outreach Sequence (To Fashion & Retail Founders)
+## Part 2: Cold Outreach Sequence
 
-* **To**: Founders / Operations Leads at Target Fashion Boutiques (e.g., `@zephansandco`, `@sgtcclothing`)
-* **Subject**: Preventing variant overselling & sizing error refunds at {{company}}
+### Touchpoint 1 (Day 1: Pain Hook — The 25-Minute DM Stock Check)
 
-```text
-Dear {{first_name|Valued Partner}},
+**Subject:** The manual size-and-colour bottleneck costing viral sales at {{company}}
 
-I noticed your gorgeous new collection on Instagram—the color palette is striking.
+Hi {{first_name}},
 
-One quick question regarding operations: when you drop a new collection with 6 styles across 3 colors and 4 sizes (that's 72 distinct SKUs), how does your team make sure an intern doesn't oversell Size 10 Champagne Gold while you're busy confirming orders on WhatsApp?
+When a new collection reel takes off on Instagram or TikTok, how long does a ready-to-buy shopper wait while your team walks to the stockroom to check whether Size 12 in emerald green is still on the hanger?
 
-Retail audits show that manual variant tracking across social media creates an average 14.2% oversell error rate during drops, causing expensive refunds and return shipping bills.
+For most fast-growing fashion, footwear, and beauty brands in Lagos, six styles across three colours and four sizes mean managing 72 separate inventory combinations inside paper notebooks and WhatsApp threads.
 
-We built the Ofia Multi-Variant Matrix to eliminate this completely:
-1. Auto-generates clean size and color buttons on your mobile storefront in 60 seconds.
-2. Real-time stock reservation locks items during checkout so zero double-sells happen.
-3. Automatically triggers restock pre-order waitlists when popular sizes sell out.
+By the time a sales assistant returns twenty-five minutes later to confirm stock, the shopper has gone offline. Worse, two buyers on Instagram and WhatsApp frequently transfer money for the exact same last piece—forcing awkward apology calls, manual refunds, and returned parcels from wrong-size packing mistakes.
 
-Could we schedule a 10-minute operational call this week to review {{company}}'s variant catalog and share our inventory reservation benchmarks?
+At Ofia, we built **Ofia Shop Manager & Multi-Variant Storefront** so shoppers tap a clean link, pick their exact colour and size from live inventory, and check out instantly—automatically locking stock so no item is ever double-sold.
+
+Are you open to seeing how growing Nigerian apparel and beauty brands turn viral views into error-free orders without hiring extra DM assistants?
 
 Best regards,
 
-Ifeanyi Felix
-Head of Commerce Editorial, Ofia Enterprise Growth
-Phone: +234 (0) 800-OFIA-GROW | Email: growth@ofia.ng
-https://www.ofia.ng/products
+**@Ifeanyi Felix**  
+Head of Commerce Editorial, Ofia.ng  
+Ofia Enterprise Growth Limited  
+{{unsubscribe_url}}
 
 ---
-Sent to {{name}} ({{email}}) at {{company}}
-Unsubscribe: {{unsubscribe_url}}
+
+### Touchpoint 2 (Day 4: Warning Signs & Operational Risk — The Hidden Cost of Chat Screenshots)
+
+**Subject:** Why viral Instagram drops turn into stockroom chaos at {{company}}
+
+Hi {{first_name}},
+
+Offering more sizes, colours, and bundles should multiply your revenue—not multiply your dispatch mistakes.
+
+Yet across Nigeria's booming social commerce sector, merchants who track multi-variant stock manually inside DMs hit three recurring operational walls:
+* **Silent DM Abandonment:** Ready buyers drop off when they have to message *"Do you have Medium in gold?"* at 10:00 PM and wait until morning for a reply.
+* **Simultaneous Double-Selling:** Without automated checkout reservation, two buyers send bank transfers for the final unit within minutes of each other.
+* **Chat-Screenshot Packing Errors:** Bank transfer alerts show the amount paid—never the size or colour discussed twenty messages earlier—causing dispatch riders to deliver the wrong variant and doubling courier costs.
+
+Ofia replaces scattered chat notes with a structured multi-variant catalogue, real-time checkout stock locking, and automated digital packing slips that flow directly from customer checkout to your dispatch desk.
+
+Would Thursday at 2:00 PM work for a quick 10-minute walkthrough of how Ofia organises multi-size catalogues for {{company}}?
+
+Best regards,
+
+**@Ifeanyi Felix**  
+Head of Commerce Editorial, Ofia.ng  
+Ofia Enterprise Growth Limited  
+{{unsubscribe_url}}
+
+---
+
+### Touchpoint 3 (Day 8: Case Study Proof & Value Offer — Turning Viral Drops into Zero-Error Fulfilment)
+
+**Subject:** Eliminating double-sold variants and wrong-size returns at {{company}}
+
+Hi {{first_name}},
+
+When growing Lekki apparel studios transition from paper tally notebooks to **Ofia Shop Manager & Storefront**, three immediate operational shifts happen during their very next collection launch:
+
+1. **Instant Self-Service Variant Selection:** Shoppers view live size and colour availability 24/7 and pay without waiting in a DM queue.
+2. **Zero Double-Selling:** Real-time checkout stock holds automatically reserve the final piece during payment confirmation and return it to stock if a cart is abandoned.
+3. **First-Time-Right Dispatch:** Automated digital packing slips display the exact style, colour code, and size on every order ticket—slashing wrong-item returns and capturing waitlist contacts on sold-out sizes.
+
+We are currently onboarding a select group of growing social commerce and apparel brands onto the **Ofia Founding Merchant Program**. As part of this cohort, {{company}} receives:
+* Guided multi-variant SKU catalogue setup across all colours, sizes, and bundles.
+* Instant branded storefront deployment (`yourbrand.ofia.shop/shopfront`) with automated payment confirmation.
+* 90 days of zero platform setup fees plus dedicated team onboarding.
+
+Reply to this email if you would like us to map out a live multi-variant demo catalogue for your next collection drop.
+
+Warm regards,
+
+**@Ifeanyi Felix**  
+Head of Commerce Editorial, Ofia.ng  
+Ofia Enterprise Growth Limited  
+{{unsubscribe_url}}
+
+---
+
+## Part 3: Executive Email Newsletter
+
+### Top Utility Bar & Executive Masthead
+
+* **EDITION #03** | January 2026 | 4 Min Read | [www.ofia.ng](https://www.ofia.ng)
+
+```html
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="margin-bottom: 24px;">
+  <tr>
+    <td valign="middle" style="width: 52px;">
+      <img src="https://res.cloudinary.com/iqwyufpt/image/upload/v1795139974/9mm/ofia_logo.svg" alt="Ofia Logo" width="44" height="44" style="display: block; border: 0;" />
+    </td>
+    <td valign="middle" style="padding-left: 14px;">
+      <div style="font-size: 20px; font-weight: 800; color: #0f172a; letter-spacing: -0.5px; font-family: 'Dropa', sans-serif;">OFIA COMMERCE INTELLIGENCE</div>
+      <div style="font-size: 12px; font-weight: 600; color: #64748b; text-transform: uppercase; letter-spacing: 0.5px;">Executive Briefing for High-Velocity Social &amp; Retail Brands</div>
+    </td>
+  </tr>
+</table>
 ```
 
 ---
 
-## Complete Newsletter Publication Edition
+### Editor's Opening Letter
 
-### Header & Masthead
-**THE OFIA COMMERCE BRIEF**  
-*Edition #44 · October 26, 2026 · 4-min operational read · Published by Ofia.ng*
-
----
-
-### Editor's Note
 **Dear {{first_name|Valued Partner}},**
 
-Offering your customers six styles across three colors and four sizes is great for conversion. But tracking those 72 unique items with biro tally marks in a notebook is an operational disaster waiting to strike.
+Picture a Friday evening at a fast-growing ready-to-wear fashion studio in Lekki. A new six-piece collection reel goes live on Instagram and TikTok in three colours and four sizes. Within an hour, hundreds of shoppers are commenting and flooding WhatsApp with inquiries.
 
-When you oversell a size that ran out two hours earlier, you don't just lose the sale—you pay payment gateway refund penalties and destroy customer trust. Here is how modern retailers are automating their variant matrices.
+From the outside, the drop looks like an unqualified triumph. Yet behind the scenes, the founder—like Chioma in our latest field teardown—is fighting a stockroom crisis. Sales assistants pause conversations for twenty-five minutes to count hangers in the back room, two buyers transfer money for the exact same final Size 10 dress before anyone crosses it off a notebook, and dispatch riders return parcels because chat screenshots never made it accurately onto packing labels.
 
----
+The lesson is clear: *your social media marketing is moving at digital speed, while manual variant tracking is holding your revenue hostage.*
 
-### Lead News Cover Story: Inventory Architecture
-**HEADLINE: [E-Commerce Logistics Integrations Modernize Warehousing and Returns for Fast-Growing Retailers](https://techcabal.com/2024/05/02/e-commerce-logistics-partner-renda-raises-1-9-million-to-expand-across-nigeria-kenya/)**
-* **Featured Image**: `https://wsrv.nl/?url=https://techcabal.com/wp-content/uploads/tc/2024/05/WVML3973-1024x723.jpg&w=800&output=jpg`
-* **Image Description**: Modern commercial warehousing and fulfillment facility operations in Lagos, illustrating the organized sorting and palletization required to manage high-volume multi-SKU retail dispatches.
-* **Source**: TechCabal · [Read Full Story →](https://techcabal.com/2024/05/02/e-commerce-logistics-partner-renda-raises-1-9-million-to-expand-across-nigeria-kenya/)
-
-**LAGOS** — The latest African Retail Operations Audit reveals that more than one out of three returns across independent fashion boutiques is caused by miscommunication during direct message sales discussions.
-
-As captured in the logistics fulfillment hub pictured in TechCabal's field reporting above, commercial supply chains require rigid SKU accuracy to maintain delivery velocity. When merchants attempt to fulfill multi-variant collections from unstructured chat notes, fulfillment staff frequently dispatch the wrong color or size, triggering severe courier re-routing expenses and high customer churn.
-
-> **► WHAT THIS MEANS FOR SOCIAL SELLERS & BOUTIQUES:**  
-> Never let a customer "type" their size or color in free-form chat. Use an interactive digital catalog with distinct variant pills that automatically decrement stock the instant payment completes.
+In this third edition of Ofia Commerce Intelligence, we examine Nigeria's expanding e-commerce inclusion wave, unpack why variant accuracy sits at the heart of online buyer trust, and share the ten-step architectural playbook to turn viral product drops into smooth, error-free fulfilment.
 
 ---
 
-### Curated Intelligence Briefs
+### Lead News Cover Story
 
-* **1. [Fashion Runways and Multi-Variant Collections Drive Urgent Need for Digital SKU Tracking](https://techcabal.com/2025/05/10/nigeria-fashion-industry-software/)**  
-  * <img src="https://wsrv.nl/?url=https://techcabal.com/wp-content/uploads/tc/2025/05/LFDW-1024x683.jpg&w=800&output=jpg" alt="Fashion Runways and Multi-Variant Collections Drive Urgent Need for Digital SKU Tracking" referrerpolicy="no-referrer" width="100%" />  
-  * **Source**: TechCabal · [Read Full Story →](https://techcabal.com/2025/05/10/nigeria-fashion-industry-software/)  
-  * As shown in TechCabal's runway coordination coverage (photo above), boutique designers launching complex seasonal collections across dozens of sizes and colors face a 38% wrong-item return rate when tracking orders through chat rather than automated digital SKU matrices. Deploying interactive variant selectors completely eliminates fulfillment mismatches.
+**HEADLINE: [Jumia Deepens Inclusion Drive in E-Commerce Market — What Widening Digital Adoption Means for Multi-Variant Brands](https://punchng.com/jumia-deepens-inclusion-drive-in-e-commerce-market/)**
 
-* **2. [CBN and Payment Switches Enforce Instant Automated Reversals for Failed Transactions](https://nairametrics.com/2025/10/11/cbn-releases-new-guidelines-for-instant-refund-for-failed-atm-transactions/)**  
-  * <img src="https://wsrv.nl/?url=https://cdn.nairametrics.com/wp-content/uploads/2024/01/Untitled-design-58.png&w=800&output=jpg" alt="CBN and Payment Switches Enforce Instant Automated Reversals for Failed Transactions" referrerpolicy="no-referrer" width="100%" />  
-  * **Source**: Nairametrics · [Read Full Story →](https://nairametrics.com/2025/10/11/cbn-releases-new-guidelines-for-instant-refund-for-failed-atm-transactions/)  
-  * As documented in the Central Bank of Nigeria directive notice (photo above), financial regulators have instituted strict automated reversal mandates and dispute penalties for merchants accepting payments for unavailable inventory. Automated stock-locking at checkout protects retailers from costly chargeback penalties.
+<div style="max-width: 600px; margin: 16px 0; text-align: center;">
+  <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/05/26031847/Jumia.webp&w=800&output=jpg" alt="Jumia e-commerce inclusion drive and commercial retail expansion across Nigeria as featured by Punch Nigeria" referrerpolicy="no-referrer" style="width: 100%; height: auto; border-radius: 0px !important; display: block;" />
+  <p style="font-size: 12px; color: #64748b; margin-top: 6px; text-align: left; font-style: italic;">E-commerce inclusion initiatives are expanding mobile shopping demand across Nigeria, raising the operational bar for merchant inventory accuracy. (Photo: Punch Nigeria)</p>
+</div>
 
-* **3. [Automated Storefront Builders and Pre-Order Waitlists Recover 34% of Out-of-Stock Demand](https://techcabal.com/2023/03/21/qshop-v2-0-empowering-retailers-with-advanced-storefront-customisations-and-enhanced-e-commerce-capabilities/)**  
-  * <img src="https://wsrv.nl/?url=https://techcabal.com/wp-content/uploads/tc/2023/03/QShop-v2-launch-1024x644.jpg&w=800&output=jpg" alt="Automated Storefront Builders and Pre-Order Waitlists Recover 34% of Out-of-Stock Demand" referrerpolicy="no-referrer" width="100%" />  
-  * **Source**: TechCabal · [Read Full Story →](https://techcabal.com/2023/03/21/qshop-v2-0-empowering-retailers-with-advanced-storefront-customisations-and-enhanced-e-commerce-capabilities/)  
-  * As illustrated in the commerce dashboard interface (photo above), modern storefront software enables automated waitlists that capture customer intent on sold-out variants, recovering up to 34% of lost revenue when stock is replenished without manual outreach.
+* **Source**: Punch Nigeria · [Read Full Story →](https://punchng.com/jumia-deepens-inclusion-drive-in-e-commerce-market/)
+
+As illustrated in Punch Nigeria's coverage of [Jumia's deepening inclusion drive across Nigeria's e-commerce market](https://punchng.com/jumia-deepens-inclusion-drive-in-e-commerce-market/) (featured photo above), digital retail adoption is no longer restricted to a narrow segment of early adopters in Victoria Island or Maitama. Millions of first-time and repeat mobile shoppers across urban and secondary commercial corridors are now comfortable browsing and ordering fashion, beauty, and lifestyle goods directly from their phones.
+
+Yet as demand surges, independent social sellers who still manage product variants inside notebooks and WhatsApp threads face an acute operational wall. A modest six-style apparel drop offered in three colours and four sizes creates 72 distinct stock units. When a reel goes viral, manual chat checks cannot keep pace with simultaneous buyer inquiries—resulting in silent DM abandonment, double-sold last units, and costly dispatch mix-ups.
+
+Shoppers entering Nigeria's digital economy expect the same self-service speed they experience on large commerce platforms: instant visibility into which colours and sizes are available, immediate checkout locking, and accurate doorstep delivery.
+
+> *"When your marketing attracts hundreds of shoppers in an hour, tracking sizes in a paper notebook stops being a harmless habit—it becomes an active leak in your cash register."*
+
+> **► WHAT THIS MEANS FOR SOCIAL RETAIL FOUNDERS & OPERATIONS LEADS:**  
+> Widening e-commerce adoption rewards merchants whose catalogues are structured for self-service speed. Moving every size, colour, and bundle onto a connected storefront with automated checkout stock locking ensures your team captures peak viral demand 24/7 without double-selling or mispacking a single parcel.
 
 ---
 
-### Industry News Spotlight: Sector Intelligence Worthy of Note
-* **Headline**: [The Trust Problem Killing Nigerian E-Commerce and How Automated Escrow Solves It](https://nairametrics.com/2026/08/03/the-trust-problem-killing-nigerian-ecommerce-and-how-it-gets-solved/)
-* **Image**: `https://wsrv.nl/?url=https://cdn.nairametrics.com/wp-content/uploads/2026/08/toye-Akinwale-centered.png&w=800&output=jpg`
-* **Image Description**: Tech executive Toye Akinwale discussing digital trust frameworks, payment protection, and automated dispute resolution in Nigerian digital retail.
-* **Source**: Nairametrics · [Read Full Report →](https://nairametrics.com/2026/08/03/the-trust-problem-killing-nigerian-ecommerce-and-how-it-gets-solved/)
-* **Summary & Why It Matters**: Operating on pay-on-delivery or informal chat payment requests creates severe working capital leakage and delivery abandonment for online retailers. In the sector analysis spotlighted above, e-commerce leaders emphasize that when buyers receive mismatched variants due to sizing ambiguities, order rejections surge. Deploying structured catalog selection alongside automated escrow eliminates dispute risk and protects retailer margins.
-  **Why It Matters to Retail Operators:** Merging structured catalog selection with automated escrow verification cuts return logistics costs by over 40% and builds immediate buyer confidence.
+### Section 5: Curated Industry Intelligence Briefs
+
+* **1. [E-Commerce, Ride-Hailing Boost Nigeria’s Gig Economy to $5.17bn](https://punchng.com/e-commerce-ride-hailing-boost-nigerias-gig-economy-to-5-17bn/)**
+  <div style="max-width: 600px; margin: 12px 0;">
+    <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/04/15055835/WhatsApp-Image-2026-04-15-at-4.19.04-AM.jpeg&w=800&output=jpg" alt="Nigeria gig economy and e-commerce last-mile logistics operations reaching $5.17 billion as reported by Punch Nigeria" referrerpolicy="no-referrer" style="width: 100%; height: auto; border-radius: 0px !important; display: block;" />
+  </div>
+  * **Source**: Punch Nigeria · [Read Full Story →](https://punchng.com/e-commerce-ride-hailing-boost-nigerias-gig-economy-to-5-17bn/)
+  * **Operational Takeaway:** As documented in Punch Nigeria's coverage above, e-commerce and last-mile delivery networks have propelled Nigeria's gig economy to $5.17 billion. While dispatch riders can now move parcels across cities faster than ever, merchants lose those speed gains whenever packing teams rely on messy chat screenshots. Generating automated digital packing slips directly from checkout guarantees riders deliver the exact size and colour every time.
+
+* **2. [Jumia Flags Trust Gap as Biggest Barrier to E-Commerce](https://punchng.com/jumia-flags-trust-gap-as-biggest-barrier-to-e-commerce/)**
+  <div style="max-width: 600px; margin: 12px 0;">
+    <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2016/03/29060509/Jumia_CLIENT.jpg&w=800&output=jpg" alt="Nigerian e-commerce delivery and online shopping customer experience addressing the consumer trust gap (Photo: Punch Nigeria)" referrerpolicy="no-referrer" style="width: 100%; height: auto; border-radius: 0px !important; display: block;" />
+  </div>
+  * **Source**: Punch Nigeria · [Read Full Story →](https://punchng.com/jumia-flags-trust-gap-as-biggest-barrier-to-e-commerce/)
+  * **Operational Takeaway:** As highlighted in Punch Nigeria's report pictured above, buyer scepticism remains the single largest barrier to online retail growth in Nigeria. Nothing triggers "what I ordered versus what I got" distrust faster than accepting payment for an out-of-stock size or shipping an unapproved substitute. Live inventory counts and automated stock locking protect both your conversion rate and your brand reputation.
+
+* **3. [‘Nigerian Fashion Designers Redefining Luxury’](https://punchng.com/nigerian-fashion-designers-redefining-luxury/)**
+  <div style="max-width: 600px; margin: 12px 0;">
+    <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/11/19020820/fashion-design_1795050500.webp&w=800&output=jpg" alt="Nigerian fashion designers showcasing luxury multi-variant apparel collections as covered by Punch Nigeria" referrerpolicy="no-referrer" style="width: 100%; height: auto; border-radius: 0px !important; display: block;" />
+  </div>
+  * **Source**: Punch Nigeria · [Read Full Story →](https://punchng.com/nigerian-fashion-designers-redefining-luxury/)
+  * **Operational Takeaway:** As showcased in Punch Nigeria's fashion feature above, Nigerian apparel houses are setting new global benchmarks for luxury craftsmanship. High-spending buyers expect a shopping experience that matches the calibre of the garments—interactive size/colour selection, clear pricing, and automated restock waitlists rather than waiting hours in a DM queue.
+
+---
+
+### Industry News Spotlight
+
+<div style="border: 1px solid #e2e8f0; padding: 20px; background-color: #f8fafc; margin: 24px 0;">
+  <div style="font-size: 11px; font-weight: 700; color: #2563eb; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px;">INDUSTRY SPOTLIGHT</div>
+  <div style="font-size: 16px; font-weight: 700; color: #0f172a; margin-bottom: 12px;">
+    <a href="https://punchng.com/fake-job-offers-two-nigerians-rescued-from-sex-trafficking-in-mali/" style="color: #0f172a; text-decoration: none;">Fake Job Offers: Two Nigerians Rescued From Trafficking — Why Verified Digital Channels Matter Across Nigeria's Online Economy</a>
+  </div>
+  <div style="width: 100%; height: 180px; overflow: hidden; margin-bottom: 14px;">
+    <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/11/17105301/WhatsApp-Image-2026-11-17-at-10.52.34_1794909181.webp&w=800&output=jpg" alt="Official briefing in Punch Nigeria coverage underscoring the dangers of unverified online offers and the need for verified digital identity" referrerpolicy="no-referrer" style="width: 100%; height: 180px; object-fit: cover; border-radius: 0px !important; display: block;" />
+  </div>
+  <p style="font-size: 13px; color: #475569; line-height: 1.6; margin-bottom: 10px;">
+    As documented in Punch Nigeria's report pictured above, fraudulent online solicitations routed through unverified social accounts continue to heighten public caution across Nigeria's digital landscape. For legitimate e-commerce merchants and fashion founders, this environment makes institutional credibility non-negotiable: asking first-time buyers to transfer money to a personal bank account shared in an informal DM triggers immediate hesitation. Operating a verified, structured digital storefront with transparent SKU catalogues and automated receipts gives buyers clear proof they are transacting with an authentic, accountable brand.
+  </p>
+  <p style="font-size: 12px; color: #64748b; margin-bottom: 0;">
+    <strong>Source:</strong> Punch Nigeria &nbsp;·&nbsp; <a href="https://punchng.com/fake-job-offers-two-nigerians-rescued-from-sex-trafficking-in-mali/" style="color: #2563eb; text-decoration: underline;">Read Full Story →</a>
+  </p>
+</div>
 
 ---
 
 ### Primary Call to Action
-* **Button Text**: **Read All 10 Variant Fixes →**
-* **Destination**: [`https://www.ofia.ng/blog/variant-tracking-bottlenecks-10-fixes`](file:///Volumes/ReedBreedCC/9mm/Sprint-01/Week-03/blog-post.md)
+
+<div style="text-align: center; margin: 32px 0;">
+  <a href="https://www.ofia.ng/blog/manual-variant-tracking-bottlenecks-viral-sales" style="background-color: #0f172a; color: #ffffff; padding: 14px 28px; font-size: 14px; font-weight: 700; text-decoration: none; display: inline-block; letter-spacing: 0.5px;">READ THE COMPLETE 10-STEP VARIANT PLAYBOOK →</a>
+</div>
 
 ---
 
-### Enterprise Spotlight & Founding Offer
-**Ofia Unified Operating Infrastructure**  
-Built by **Ofia** to give forward-thinking operators automated transaction tracking, instant reconciliation, and institutional-grade operational controls.
+### Product Spotlight & Founding Offer
 
-👉 **[Claim Founding Plan (₦5,000/mo) at Ofia.ng →](https://www.ofia.ng/pricing)**
+<div style="border-left: 4px solid #0f172a; padding: 18px 22px; background-color: #f1f5f9; margin: 28px 0;">
+  <div style="font-size: 15px; font-weight: 800; color: #0f172a; margin-bottom: 6px;">INTRODUCING: OFIA SHOP MANAGER &amp; MULTI-VARIANT STOREFRONT</div>
+  <p style="font-size: 13px; color: #334155; line-height: 1.6; margin-bottom: 12px;">
+    Connect your Instagram and TikTok launches directly to a structured multi-variant catalogue, real-time inventory locking, and clean dispatch slips. Built for fast-growing Nigerian fashion, beauty, and retail brands:
+  </p>
+  <ul style="font-size: 13px; color: #334155; line-height: 1.6; padding-left: 18px; margin-bottom: 14px;">
+    <li><strong>Interactive Size &amp; Colour Selection:</strong> Shoppers tap live variant buttons on your storefront and pay immediately—even at midnight.</li>
+    <li><strong>Real-Time Checkout Stock Locking:</strong> Automatically reserves the last unit during payment so two customers never pay for the same dress.</li>
+    <li><strong>Structured Digital Packing Slips &amp; Waitlists:</strong> Eliminate wrong-size deliveries and capture WhatsApp restock alerts on sold-out sizes.</li>
+  </ul>
+  <div style="font-size: 13px; font-weight: 700; color: #0f172a; margin-bottom: 6px;">Exclusive Founding Merchant Offer:</div>
+  <p style="font-size: 13px; color: #475569; line-height: 1.5; margin-bottom: 0;">
+    Get guided multi-variant SKU catalogue onboarding and 90 days of zero platform setup fees for your brand. <a href="https://www.ofia.ng/products" style="color: #2563eb; font-weight: 700; text-decoration: underline;">Launch Your Connected Storefront →</a>
+  </p>
+</div>
 
-— **Ifeanyi Felix**  
+Warm regards,
+
+**@Ifeanyi Felix**  
 Head of Commerce Editorial, Ofia.ng
 
 ---
 
-### Footer & Compliance
-Ofia Enterprise Growth · Unified Commerce Operating Infrastructure  
-Victoria Island, Lagos, Nigeria.
+### Light Executive Footer
 
-Sent to {{name}} ({{email}}) at {{company}}.  
-Unsubscribe: {{unsubscribe_url}}
+```html
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-top: 1px solid #e2e8f0; padding-top: 20px; margin-top: 32px;">
+  <tr>
+    <td valign="middle" style="width: 32px;">
+      <img src="https://res.cloudinary.com/iqwyufpt/image/upload/v1795139974/9mm/ofia_logo.svg" alt="Ofia Icon" width="22" height="22" style="display: block; border: 0;" />
+    </td>
+    <td valign="middle" style="padding-left: 10px; font-size: 11px; color: #64748b; font-family: 'Dropa', sans-serif;">
+      <strong>Ofia Enterprise Growth Limited</strong> · Admiralty Way, Lekki Phase 1, Lagos, Nigeria
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="padding-top: 10px; font-size: 10px; color: #94a3b8; line-height: 1.5;">
+      Sent to {{name}} ({{email}}) as a registered commerce executive or retail partner at {{company}}. To update your delivery preferences or unsubscribe, please click <a href="{{unsubscribe_url}}" style="color: #64748b; text-decoration: underline;">here</a>.
+    </td>
+  </tr>
+</table>
+```

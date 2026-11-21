@@ -100,7 +100,7 @@ ComplianceHub Regulatory Technologies Limited
 <table width="100%" cellpadding="0" cellspacing="0" border="0" style="margin-bottom: 24px;">
   <tr>
     <td valign="middle" style="width: 52px;">
-      <img src="https://res.cloudinary.com/wnmabxiy/image/upload/v1793738670/9mm/compliancehub_logo.png" alt="ComplianceHub Logo" width="44" height="44" style="display: block; border: 0;" />
+      <img src="https://res.cloudinary.com/iqwyufpt/image/upload/v1795139981/9mm/compliancehub_logo.png" alt="ComplianceHub Logo" width="44" height="44" style="display: block; border: 0;" />
     </td>
     <td valign="middle" style="padding-left: 14px;">
       <div style="font-size: 20px; font-weight: 800; color: #064E3B; letter-spacing: -0.5px; font-family: 'Dropa', sans-serif;">THE COMPLIANCEHUB REGULATORY BRIEF</div>
@@ -231,7 +231,7 @@ ComplianceHub Regulatory Technologies Limited
 <table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-top: 1px solid #E7E4DC; padding-top: 20px; margin-top: 32px;">
   <tr>
     <td valign="middle" style="width: 32px;">
-      <img src="https://res.cloudinary.com/wnmabxiy/image/upload/v1793738670/9mm/compliancehub_logo.png" alt="ComplianceHub Icon" width="22" height="22" style="display: block; border: 0;" />
+      <img src="https://res.cloudinary.com/iqwyufpt/image/upload/v1795139981/9mm/compliancehub_logo.png" alt="ComplianceHub Icon" width="22" height="22" style="display: block; border: 0;" />
     </td>
     <td valign="middle" style="padding-left: 10px; font-size: 11px; color: #64748b; font-family: 'Dropa', sans-serif;">
       <strong>ComplianceHub Regulatory Technologies Limited</strong> · Abuja &amp; Victoria Island, Lagos, Nigeria

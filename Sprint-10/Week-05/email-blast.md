@@ -64,7 +64,7 @@ Unsubscribe: {{unsubscribe_url}}
 
 ### Header & Masthead
 <div class="brand-header" style="display: flex; align-items: center; gap: 10px; margin-bottom: 12px;">
-  <img class="brand-logo" src="https://res.cloudinary.com/yugcjpau/image/upload/v1793934925/9mm/compliancehub_logo.png" alt="ComplianceHub" width="36" height="36" style="width: 36px !important; max-width: 36px !important; height: 36px !important; object-fit: contain !important; display: inline-block !important; margin: 0 !important; border: none !important; box-shadow: none !important; vertical-align: middle !important;" />
+  <img class="brand-logo" src="https://res.cloudinary.com/iqwyufpt/image/upload/v1795139981/9mm/compliancehub_logo.png" alt="ComplianceHub" width="36" height="36" style="width: 36px !important; max-width: 36px !important; height: 36px !important; object-fit: contain !important; display: inline-block !important; margin: 0 !important; border: none !important; box-shadow: none !important; vertical-align: middle !important;" />
   <div style="display: inline-block; vertical-align: middle;">
     <span style="font-size: 11px; font-weight: 700; color: #D97706; text-transform: uppercase; letter-spacing: 1.5px; display: block;">COMPLIANCEHUB · REGULATORY GOVERNANCE BRIEFING</span>
     <strong style="font-size: 18px; color: #064E3B; display: block;">THE COMPLIANCEHUB REGULATORY BRIEF</strong>
@@ -158,7 +158,7 @@ Head of Regulatory Affairs & Corporate Compliance, ComplianceHub.ng
 
 ### Footer & CAN-SPAM Compliance
 <div class="brand-footer" style="display: flex; align-items: center; gap: 8px; margin-bottom: 10px;">
-  <img class="brand-logo" src="https://res.cloudinary.com/yugcjpau/image/upload/v1793934925/9mm/compliancehub_logo.png" alt="ComplianceHub" width="20" height="20" style="width: 20px !important; max-width: 20px !important; height: 20px !important; object-fit: contain !important; display: inline-block !important; margin: 0 !important; border: none !important; box-shadow: none !important; vertical-align: middle !important;" />
+  <img class="brand-logo" src="https://res.cloudinary.com/iqwyufpt/image/upload/v1795139981/9mm/compliancehub_logo.png" alt="ComplianceHub" width="20" height="20" style="width: 20px !important; max-width: 20px !important; height: 20px !important; object-fit: contain !important; display: inline-block !important; margin: 0 !important; border: none !important; box-shadow: none !important; vertical-align: middle !important;" />
   <strong style="font-size: 11px; color: #14151F;">ComplianceHub Regulatory Technologies Limited</strong>
 </div>
 **The Statutory Quad & Public Procurement Governance**  

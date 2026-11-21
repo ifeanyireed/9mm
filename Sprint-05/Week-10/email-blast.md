@@ -102,7 +102,7 @@ Central Business District, Abuja, Nigeria
 **THE RESULTSPRO GOVERNANCE DISPATCH**  
 *Edition #10 · December 14, 2026 · 4-min operational read · ResultsPro.ng*
 
-![ResultsPro Logo](https://res.cloudinary.com/wnmabxiy/image/upload/v1793738629/9mm/resultspro_logo.png)
+![ResultsPro Logo](https://res.cloudinary.com/iqwyufpt/image/upload/v1795139977/9mm/resultspro_logo.png)
 
 **Dear {{first_name|Valued Partner}},**
 
@@ -186,7 +186,7 @@ Head of Institutional Governance / Public Sector Strategy, ResultsPro.ng
 ---
 
 ### Footer & CAN-SPAM Compliance
-![ResultsPro Logo](https://res.cloudinary.com/wnmabxiy/image/upload/v1793738631/9mm/resultspro_logo_sm.png)
+![ResultsPro Logo](https://res.cloudinary.com/iqwyufpt/image/upload/v1795139979/9mm/resultspro_logo_sm.png)
 
 **ResultsPro Institutional Governance Limited · K-12 Institutional Management Infrastructure**  
 *You are receiving this institutional dispatch because you subscribed to The ResultsPro Governance Dispatch or requested updates on school administration automation.*  

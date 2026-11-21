@@ -7,7 +7,7 @@
 
 Your classrooms are ready for the new term, but why is your bursary office still buried under hundreds of unidentified bank transfer screenshots? Discover why Nigerian private schools struggle with resumption week fee reconciliation and 10 practical ways to connect tuition payments, PTA dues and student clearance.
 
-<img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/09/18022706/Lions-Intl_1789694826.webp&w=800&output=jpg" alt="Lagos Educators and School Administrators at a Professional Governance and Management Workshop" referrerpolicy="no-referrer" loading="lazy" style="width: 100%; max-width: 720px; border-radius: 8px; margin: 16px 0;" />
+<img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/11/06014135/md-school_1793925695.webp&w=800&output=jpg" alt="Nigerian private school classroom learning and campus administration illustrating the need for connected bursary and resumption clearance systems (Photo: Punch Nigeria)" referrerpolicy="no-referrer" loading="lazy" style="width: 100%; max-width: 720px; border-radius: 8px; margin: 16px 0;" />
 
 **Your parents have already paid their children's school fees over the weekend, so why are they still standing in a queue outside your bursar's office on Monday morning trying to prove it?**
 

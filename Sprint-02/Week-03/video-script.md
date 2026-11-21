@@ -1,128 +1,52 @@
-# 🎬 Video Script: "The 72-Hour Quote"
+# Video Production Script: Sprint 02 Week 03
 
-* **Sprint & Week**: Sprint 02 (Supply Chain B2B) · Week 03 (The Tangible Pains)
-* **Topic**: 5 manual B2B quoting bottlenecks that cost you enterprise contracts
-* **Format**: Dual-Track Talking Head (TH) cut with Drama Skit & Screen Demo
-* **Target Runtime**: ~4:15 (~630 spoken words at 140 WPM)
-* **Cast**: Host (@Ifeanyi Felix), Chief Obinna (Industrial Building Materials Distributor), Femi (Procurement Director), Sales Desk Clerk (Junior Staff)
-* **Brand in the Skit**: Atlantic Industrial Supplies Ltd
-* **Product Pitched**: **Ofia B2B Dynamic Quoting Engine & IMS** (`/erp/admin/inventory`, `ofia.ng/products`)
+* **Title:** The 48-Hour Pro-Forma Trap: 5 Manual B2B Quoting Bottlenecks Costing You Enterprise Contracts
+* **Sprint & Week:** Sprint 02 (Supply Chain B2B) · Week 03 (The Tangible Pains)
+* **Topic:** Connecting Multi-Warehouse Stock, Tiered Pricing, Dynamic Haulage, and Credit Controls to Win Corporate Tenders Fast
+* **Format:** Dual-Track Talking Head (TH) cut with Narrative Wholesale Depot Skit & B2B Quoting Architecture Walkthrough
+* **Target Runtime:** ~4:15 (~625 spoken words at 145 WPM)
+* **Dedicated Cutdown:** 60-Second Vertical Video (9:16) for Instagram Reels, TikTok, and YouTube Shorts
+* **Cast:**
+  * **Host:** @Ifeanyi Felix (Head of Commerce Editorial, Ofia.ng)
+  * **Bayo:** Managing Director of an electrical & building materials distribution depot in Ikeja, Lagos
+  * **Segun:** Senior Wholesale Sales Representative
+  * **Procurement Manager:** Corporate buyer from a major real estate construction firm (Phone Voiceover)
+* **Brand in the Skit:** *Bayo Electrical & Building Materials Depot* (Ikeja, Trade Fair & Sagamu warehouses)
+* **Product Pitched:** **Ofia Inventory IMS & B2B Commerce** (`https://www.ofia.ng/products`)
 
 ---
 
 ## Technical & Casting Notes
-* **Visual Style**: High-stakes commercial B2B contract negotiation. Marble corporate boardroom contrasting with noisy open-plan sales desks covered in desktop calculators and supplier price binders.
-* **Casting**:
-  * **Host (@Ifeanyi Felix)**: Sharp commercial strategy advisor. Dark navy bespoke blazer over crisp white shirt.
-  * **Chief Obinna**: 50-year-old traditional corporate titan in an immaculate agbada with a gold signet ring.
-  * **Femi**: 38-year-old pragmatic construction procurement director with a hard hat and high-vis vest in his hand.
-* **Sound Design**: Fast typing on mechanical desktop calculators, ringing office landlines, echoing email send chimes.
+
+* **Visual Aesthetic:** Authentic Nigerian industrial wholesale realism. Towering warehouse racking stacked with reels of armoured cable, industrial switchgear cartons, and lighting pallets; forklifts humming across the loading bay; contrasting crumpled paper RFQs and dense Excel tabs against clean, glowing glass tablets displaying the Ofia Dynamic B2B Quoter.
+* **Sound Design:** Forklift reverse beeps, warehouse ambient hum, phone ringing unanswered, frantic Excel keyboard typing, heavy ledger thudding on a desk, transitioning into crisp digital quote confirmation chimes and smooth dispatch printer cues.
+* **Tone:** Commercial, sharp, empathetic, and executive-ready. Strictly zero mathematical equations or academic formulas.
 
 ---
 
-## Dual-Track Master Production Script
+## Master Dual-Track Production Script (~4:15 Runtime)
 
-### [0:00 – 0:25] Cold Open: The Speed Advantage (TH)
-**[VISUAL]**: Close-up on IFEANYI holding a massive ₦450 million commercial tender document stamped "PROPOSAL DEADLINE: EXPIRED".
-
-**IFEANYI (Host)**:
-"Enterprise procurement directors do not cancel contracts over a fifty naira price difference.
-They cancel because your sales desk takes three days to calculate a quote while your competitor sends a binding digital bid in three minutes.
-In B2B commerce, speed is not a courtesy. Speed is pricing power.
-If your pricing team has to call the warehouse supervisor, check current diesel rates, and manually recalculate volume discounts on an Excel sheet...
-You are losing your biggest corporate deals before you even hit send."
-
----
-
-### [0:25 – 1:15] Scene 1: The High (The Mega Tender Inquiry)
-**[VISUAL]**: Chief Obinna's corner office. Chief Obinna stands over his junior sales desk clerk, waving an urgent formal Request for Quotation (RFQ).
-
-**CHIEF OBINNA** *(eyes shining with excitement)*:
-"This is it! Mega Construction Consortium wants ten thousand bags of cement, fifty tons of structural steel, and two thousand sheets of roofing cladding delivered across four different project sites! An eighty million naira deal! How fast can we get our bid to their procurement desk?"
-
-**SALES CLERK** *(flipping open a thick black supplier binder)*:
-"Chief, give me until Thursday afternoon! I need to call the factory in Ogun State for their updated steel prices, get the freight rates from the trailer association, and calculate our tiered volume discount!"
-
-**CHIEF OBINNA**:
-"Today is Tuesday. Thursday is too long!"
-
-**SALES CLERK**:
-"Chief, if we rush, we might miscalculate the freight margin and lose money on diesel! It takes two days to do the math properly!"
+| Visual / Directional Track (Left Column) | Audio / Dialogue Track (Right Column) |
+| :--- | :--- |
+| **[0:00 – 0:30] COLD OPEN: THE 48-HOUR CONTRACT LOSS**<br><br>Tight close-up on IFEANYI standing on the loading bay walkway of a busy Ikeja wholesale depot. Behind him, forklifts lift pallets of armoured cables and switchgear onto waiting haulage trucks. | **IFEANYI (Host):**<br>"Look around this warehouse. Pallets of armoured cable, rows of industrial switchgear, thousands of lighting fixtures ready to roll.<br><br>This distributor has enough stock on the floor right now to fulfil a fifty-million-naira corporate order.<br><br>So why is a serious construction buyer still waiting forty-eight hours just to receive a simple price quote?<br><br>Because across Nigeria's wholesale supply chain, full warehouses don't lose deals—slow, disconnected manual quoting does. Let's break down the five quoting bottlenecks quietly costing distributors major enterprise contracts." |
+| **[0:30 – 1:15] SCENE 1: THE MULTI-DEPOT PHONE TAG**<br><br>Cut to Bayo's Ikeja sales office, Tuesday morning. BAYO (44, crisp navy shirt over warehouse vest) walks past SEGUN (29, sales rep), who has an Excel workbook open on his screen and a phone pressed to his ear. | **BAYO:**<br>"Segun, did that real estate construction firm send in their RFQ?"<br><br>**SEGUN:**<br>*(Frantically clicking Excel tabs)* "Yes, oga—four thousand metres of armoured cable and sixty distribution boards! Their procurement manager wants a confirmed pro-forma before close of business so her finance committee can approve payment."<br><br>**BAYO:**<br>"Great! Send it out immediately."<br><br>**SEGUN:**<br>*(Wincing as phone rings out)* "I'm trying, sir. I've called Ikeja, Trade Fair, and Sagamu to confirm coil counts. The Sagamu supervisor is offloading a container and hasn't picked up. Plus, accounts is still searching paper files to check their thirty-day credit balance."<br><br>*(Calendar clock graphic wipes forward 48 hours to Thursday afternoon.)* |
+| **[1:15 – 1:55] SCENE 2: THE LOST PO & MARGIN BLEED**<br><br>Thursday afternoon. Segun hits 'Send' on a static PDF email. Moments later, Bayo's desk phone rings on speaker. Simultaneously, an accounts clerk drops a red-marked Abuja haulage invoice onto Bayo's desk. | **PROCUREMENT MANAGER (V.O.):**<br>"Bayo, we just saw your pro-forma now. Unfortunately, we needed to lock our budget on Tuesday. We already paid another distributor who confirmed stock and haulage the same morning."<br><br>*[Call ends. Bayo stares at the desk, then picks up the red-marked invoice from the accounts clerk.]*<br><br>**BAYO:**<br>*(Disbelieving)* "Wait—what is this on the Abuja hotel order? Why did transport eat almost our entire profit?"<br><br>**SEGUN:**<br>*(Looking down)* "Sir... the junior clerk used last month's haulage rate sheet before diesel went up again."<br><br>*(Close-up on Bayo exhaling heavily as a stack of paper RFQs and spreadsheets sits between them.)* |
+| **[1:55 – 2:35] SCENE 3: THE EXPERT DIAGNOSIS (TH)**<br><br>Cut back to IFEANYI in the studio. Behind him, four disconnected department icons appear—*Sales Desk*, *Multi-Depot Warehouses*, *Haulage Rates*, and *Credit Ledger*—blocked by red latency bars. | **IFEANYI (Host):**<br>"Bayo didn't lose that construction contract because of product quality or warehouse capacity. He lost it to five manual quoting bottlenecks.<br><br>First, blind multi-depot stock checks turn a five-minute quote into two days of phone tag.<br><br>Second, static Excel price lists trigger wrong tier discounts and double-quoted stock.<br><br>Third, outdated haulage sheets silently wipe out profit margins on interstate orders.<br><br>Fourth, isolated paper ledgers stall thirty-day credit checks. And fifth, static PDF pro-formas force buyers to print, sign, scan, and wait while staff retype warehouse pick slips." |
+| **[2:35 – 3:30] SCENE 4: THE CONNECTED OFIA B2B FIX**<br><br>Cut back to Bayo's Ikeja depot, two months later. Calm, high-velocity sales desk. Segun opens Ofia Inventory IMS & B2B Commerce on a sleek tablet as a new corporate RFQ arrives. | **IFEANYI (Host V.O.):**<br>"Here is how Bayo transformed his quoting desk with Ofia Inventory IMS and B2B Commerce."<br><br>*[On-screen UI demo: Segun selects the corporate buyer. Tier-1 Contractor pricing applies automatically. Live pallet counts appear for Ikeja, Trade Fair, and Sagamu. A green badge confirms: 'Credit Status: Clear · 48-Hr Timed Stock Hold Active'.]*<br><br>**SEGUN:**<br>"Live stock across Ikeja and Trade Fair is confirmed, their contractor tier is applied, and Ofia automatically calculated the exact weight-and-destination haulage fee to Abuja. Sending the interactive digital quote now!"<br><br>*[Cut to procurement manager tapping 'Approve & Download Pro-Forma' on her phone. Instant green alert appears on Bayo's warehouse screen: 'Payment Reconciled · Auto-Split Pick Lists Generated: 600 Units Ikeja, 400 Units Trade Fair'.]*<br><br>**IFEANYI (Host V.O.):**<br>"And for routine monthly restocks, verified corporate buyers log straight into Bayo's self-service B2B portal to see their contract pricing and reorder around the clock." |
+| **[3:30 – 4:15] CLOSING SUMMARY & CALL TO ACTION**<br><br>Bayo walks confidently past the loading bay as trucks depart on schedule, glancing at a live executive dashboard on his phone showing same-day quote conversions. | **BAYO:**<br>"Five-minute verified quotes. Protected haulage margins. Automatic split-depot picking—and we are winning corporate tenders before competitors even finish calling their warehouses."<br><br>**IFEANYI (Host):**<br>"Your warehouses hold the stock corporate buyers need. Your connected quoting system makes sure you are the first supplier to win their order.<br><br>Stop losing fifty-million-naira contracts to forty-eight-hour spreadsheet delays. Visit ofia.ng/products today and explore Ofia's B2B Commerce and Multi-Warehouse Inventory suite.<br><br>I’m Ifeanyi Felix. Quote fast, protect your margins, and let's scale your wholesale enterprise."<br><br>*[On-screen graphic: Ofia Logo · www.ofia.ng/products · Book Your B2B IMS Walkthrough]* |
 
 ---
 
-### [1:15 – 2:40] Scene 2: The Crash (The Lost Contract)
-**[VISUAL]**: Thursday afternoon, 3:30 PM. The sales clerk proudly places a neatly printed, bound paper quotation on Chief Obinna’s desk.
+## Dedicated 60-Second Vertical Video Cutdown (9:16 Format)
 
-**SALES CLERK**:
-"Done, Chief! Calculated down to the last kobo with a healthy 18% gross margin. I am emailing it to Femi right now."
+* **Platform:** Instagram Reels, TikTok, YouTube Shorts
+* **Audio Track:** Crisp, driving industrial corporate beat with sharp UI confirmation tones
+* **Visual Style:** High-contrast split screens comparing slow paper/phone quoting against live Ofia B2B tablet workflows
 
-**[VISUAL]**: Chief Obinna immediately calls Femi on speakerphone.
-
-**FEMI (Procurement Director, on speakerphone)**:
-"Chief Obinna? Ah, good afternoon. Are you calling about the construction RFQ?"
-
-**CHIEF OBINNA** *(proudly)*:
-"Yes, Femi! We just submitted our formal competitive quotation. Best prices in the market."
-
-**FEMI** *(apologetic tone)*:
-"Chief, I’m sorry. We closed the tender yesterday morning at 11:00 AM. Another supplier sent a real-time digital quote with live stock verification forty minutes after we issued the RFQ. Their contract was signed, purchase order issued, and their first trailers are already unloading at our Epe construction site."
-
-**[VISUAL]**: Chief Obinna freezes. The sales clerk slowly lowers his head. 
-Chief Obinna drops the bound quote onto the floor.
-
-**[VISUAL]**: Split-screen display:
-* *Left Screen (Chief Obinna's 72-Hour Quoting Drag)*: Sales desks drowning in manual Excel formulas, telephone calls to distant warehouses, outdated supplier price lists, and lost corporate contracts.
-* *Right Screen (Ofia Automated B2B Quoting)*: An agile distributor using Ofia. The sales rep inputs the required quantities into the **Ofia B2B Dynamic Quoter** (`/erp/admin/inventory`). The system automatically pulls live warehouse stock, calculates freight surcharges by destination, applies customer volume tier discounts, and generates a binding, signable digital quote in 45 seconds.
-
----
-
-### [2:40 – 3:20] Talking Head: The Mathematical Cost of Quoting Latency
-**[VISUAL]**: Cut to IFEANYI in the analytical studio. On-screen graphic illuminates the Quoting Velocity Equation.
-
-$$Enterprise Win Rate = Baseline Win Rate (40%) × e^{-0.35 × Quote Delivery Days}$$
-
-**IFEANYI (Host)**:
-"Let’s look at enterprise sales behavior data.
-B2B procurement studies show that the first qualified vendor to submit a fully verified quote wins the contract **64% of the time**.
-Every twenty-four hours of quoting delay decays your win probability by **35%**.
-By Day 3, your chance of winning an enterprise tender drops below **12%**, regardless of how low your price is.
-When your sales desk spends 10 hours a day manually recalculating freight and margin formulas, you aren't being thorough—you are disqualifying your company from the market."
-
----
-
-### [3:20 – 4:00] Scene 3: The Rewind (The 60-Second B2B Quote)
-**[VISUAL]**: HARD REWIND SFX. Cut back to Chief Obinna's office on Tuesday morning.
-
-**CHIEF OBINNA** *(looking at an iPad running Ofia B2B Quoting Engine)*:
-"Femi needs ten thousand bags of cement, fifty tons of structural steel, delivered to four project sites."
-
-**[VISUAL]**: The sales clerk taps four buttons on the screen:
-- *Select Customer: Mega Construction Consortium (Tier 1 Preferred Pricing applied automatically).*
-- *Select Items: Cement (Warehouse A), Structural Steel (Warehouse C).*
-- *Destination: Epe, Lekki, Ikeja (Automated logistics fleet surcharge appended).*
-The screen calculates the total in 0.8 seconds: **₦79,450,000**.
-He taps *Issue Secure Digital Quote*.
-
-**[VISUAL]**: Femi receives an encrypted SMS and email link on his phone at the construction site. He reviews the terms, taps *Accept & Authorize*, and digitally signs on his smartphone.
-
-**FEMI** *(voice note)*:
-"Incredible speed, Chief. Purchase Order #4912 generated. Please dispatch tomorrow morning."
-
----
-
-### [4:00 – 4:15] The Close: Actionable CTA
-**[VISUAL]**: IFEANYI steps forward. The Ofia B2B Enterprise portal illuminates the screen.
-
-**IFEANYI (Host)**:
-"Turn your B2B sales desk from a slow calculation bottleneck into an instant closing engine.
-Deploy dynamic automated quoting, tiered client pricing, and real-time inventory validation with Ofia.
-Visit **ofia.ng/products** to modernize your B2B sales cycle today."
-
----
-
-## 60-Second TikTok / Reels Cutdown
-* **0:00 - 0:08 (Hook)**: "B2B enterprise buyers don’t cancel deals because of price. They cancel because your sales desk takes 3 days to send a quote." *(Visual: Chief Obinna discovering his ₦80M deal was closed by someone else).*
-* **0:09 - 0:25 (The Bottleneck)**: "Every 24 hours you spend calling warehouses and calculating freight on Excel decays your tender win probability by 35%. By Day 3, you have a 12% chance of winning."
-* **0:26 - 0:45 (The Solution)**: "Ofia auto-calculates volume discounts, live warehouse stock, and delivery freight in 45 seconds. Your client receives a signable digital quote on their phone before competitors finish opening Excel."
-* **0:46 - 0:60 (CTA)**: "Stop losing enterprise contracts to quoting delays. Visit ofia.ng/products."
+| Timestamp | Visual Framing (9:16) | On-Screen Spoken Script | On-Screen Kinetic Text |
+| :--- | :--- | :--- | :--- |
+| **0:00 – 0:12** | Fast jump cuts: Forklifts moving armoured cable in Ikeja; sales rep dialing endlessly while staring at Excel. | "Your warehouse has the stock for a ₦50M order—so why is the corporate buyer waiting 48 hours just to get a price quote?" | **THE 48-HOUR TRAP**<br>Full Depot · Lost Contract |
+| **0:12 – 0:24** | Split screen: Unanswered depot phone call on left; red-marked Abuja haulage invoice and paper credit ledger on right. | "Calling three depots to count stock, quoting last month's haulage rates, and checking paper credit ledgers lets faster rivals steal your PO." | **5 QUOTING BOTTLENECKS**<br>Slow Stock · Wrong Freight · Paper Credit |
+| **0:24 – 0:38** | Close-up on Ofia B2B Quoter tablet showing live Ikeja, Trade Fair & Sagamu stock, automated pricing tiers, and 48-hr stock reserve. | "With Ofia B2B Commerce, your reps see live stock across every depot, apply contract pricing tiers, and calculate exact weight-based haulage in seconds." | **OFIA B2B QUOTER**<br>Live Depots · Auto Haulage · 48hr Holds |
+| **0:38 – 0:50** | Buyer taps 'Approve Pro-Forma' on phone; warehouse tablet instantly generates split pick lists for Ikeja and Trade Fair. | "Credit checks run automatically, digital pro-formas get one-tap approval, and confirmed orders split straight into warehouse pick lists." | **5-MINUTE PRO-FORMAS**<br>Instant Order-to-Dispatch Sync |
+| **0:50 – 1:00** | IFEANYI on camera in the wholesale loading bay. Ofia logo overlay. | "Win corporate tenders first. Visit ofia.ng/products and connect your wholesale quoting and inventory today." | **WIN MORE TENDERS**<br>👉 ofia.ng/products |

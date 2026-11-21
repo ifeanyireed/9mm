@@ -60,7 +60,7 @@ Unsubscribe: {{unsubscribe_url}}
 ### Header & Masthead
 **THE RESULTSPRO INSTITUTIONAL DISPATCH**  
 *Edition #06 · Automated Graduation Clearance & Degree Audit Telemetry · November 16, 2026 · 4-min institutional governance read · Published by [ResultsPro.ng](https://www.resultspro.ng)*  
-<img src="https://res.cloudinary.com/wnmabxiy/image/upload/v1793738629/9mm/resultspro_logo.png" alt="ResultsPro Logo" width="44" height="44" referrerpolicy="no-referrer" style="display:inline-block; vertical-align:middle; margin-right:12px;" />
+<img src="https://res.cloudinary.com/iqwyufpt/image/upload/v1795139977/9mm/resultspro_logo.png" alt="ResultsPro Logo" width="44" height="44" referrerpolicy="no-referrer" style="display:inline-block; vertical-align:middle; margin-right:12px;" />
 
 ### Editor's Opening Letter
 **Dear {{first_name|Valued Partner}},**
@@ -133,7 +133,7 @@ Head of Institutional Governance / Public Sector Strategy, ResultsPro.ng
 ---
 
 ### Footer & CAN-SPAM Compliance
-<img src="https://res.cloudinary.com/wnmabxiy/image/upload/v1793738631/9mm/resultspro_logo_sm.png" alt="ResultsPro Logo" width="22" height="22" referrerpolicy="no-referrer" style="display:inline-block; vertical-align:middle; margin-right:8px;" />
+<img src="https://res.cloudinary.com/iqwyufpt/image/upload/v1795139979/9mm/resultspro_logo_sm.png" alt="ResultsPro Logo" width="22" height="22" referrerpolicy="no-referrer" style="display:inline-block; vertical-align:middle; margin-right:8px;" />
 **ResultsPro Institutional Governance Limited · Higher Education Campus ERP Infrastructure**  
 *You are receiving this operational dispatch because you subscribed to The ResultsPro Institutional Dispatch or requested updates on university administration automation.*  
 This dispatch was sent to `{{name}}` (`{{email}}`) at `{{company}}`.  

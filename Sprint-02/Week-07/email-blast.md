@@ -66,7 +66,7 @@ Unsubscribe: {{unsubscribe_url}}
 
 ### Top Utility Bar & Executive Masthead
 *Edition #50 · Weekly B2B Commerce Intelligence · 6 Min Read · [ofia.ng](https://www.ofia.ng)*  
-<img src="https://res.cloudinary.com/wnmabxiy/image/upload/v1793738590/9mm/ofia_logo.svg" alt="Ofia Logo" width="44" height="44" />
+<img src="https://res.cloudinary.com/iqwyufpt/image/upload/v1795139974/9mm/ofia_logo.svg" alt="Ofia Logo" width="44" height="44" />
 
 ---
 
@@ -166,7 +166,7 @@ Head of Commerce Editorial, Ofia.ng
 ---
 
 ### Light Executive Footer
-<img src="https://res.cloudinary.com/wnmabxiy/image/upload/v1793738590/9mm/ofia_logo.svg" alt="Ofia Logo" width="22" height="22" />  
+<img src="https://res.cloudinary.com/iqwyufpt/image/upload/v1795139974/9mm/ofia_logo.svg" alt="Ofia Logo" width="22" height="22" />  
 Ofia Enterprise Growth · Unified Commerce Operating Infrastructure  
 Victoria Island, Lagos, Nigeria.  
 Sent to {{name}} ({{email}}) at {{company}}.  

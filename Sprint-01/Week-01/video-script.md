@@ -1,209 +1,52 @@
-# 🎬 Video Script: "The Medium Problem"
+# Video Production Script: Sprint 01 Week 01
 
-* **Sprint & Week**: Sprint 01 (Impulse Buy) · Week 01 (The Core Problem)
-* **Format**: Talking Head (TH) cut with Drama Scenes (DRAMA)
-* **Target Runtime**: ~4:15
-* **Cast**: Host (TH), Chioma (Store Owner), Customer Voices (V.O.), Rival Seller (Cameo)
-* **Brand in the Skit**: Chioma's Closet (an Instagram fashion brand)
-* **Target Audience Focus**: Social sellers, boutique owners on Instagram/TikTok (e.g., `@zephansandco`, `@sgtcclothing`)
-* **Product Pitched in CTA**: **Ofia Shop Manager** (`https://www.ofia.ng/products`)
-
----
-
-## Script Breakdown
-
-### COLD OPEN: TH (0:00 – 0:25)
-
-**Visual**: Host sitting at a clean desk. A smartphone lies face-down on the surface. In the background, it buzzes and vibrates continuously, inching across the desk. The Host pauses, looks at the phone, then turns directly to the camera.
-
-**HOST**:
-Let me describe the worst day of an Instagram seller's life.
-
-Your reel goes viral. Four hundred thousand views. Your phone is buzzing so hard it's literally walking across the table.
-
-And you are *crying*.
-
-Why? Because the only thing people want to buy is the one size you don't have. Size medium.
-
-*(Beat. The phone gives an aggressive buzz.)*
-
-Let me show you how it happens.
-
-**SFX**: Record scratch, followed by a rapid-fire notification chime.
+* **Title:** The 100-DM Wall: How to Turn Viral Instagram Reels into 60-Second Automated Checkouts
+* **Sprint & Week:** Sprint 01 (Impulse Buy) · Week 01 (The Core Problem)
+* **Topic:** Eliminating Manual DM Checkout Friction, Double-Selling, and Fake Transfer Alerts
+* **Format:** Dual-Track Talking Head (TH) cut with Relatable Boutique Skit & Storefront Walkthrough
+* **Target Runtime:** ~4:15 (~620 spoken words at 145 WPM)
+* **Dedicated Cutdown:** 60-Second Vertical Video (9:16) for Instagram Reels, TikTok, and YouTube Shorts
+* **Cast:**
+  * **Host:** @Ifeanyi Felix (Head of Commerce Editorial, Ofia.ng)
+  * **Chioma:** Founder of *Vela & Silk Atelier* (Lekki Phase 1, Lagos)
+  * **Tolu:** Sales Assistant at *Vela & Silk Atelier*
+  * **Banker (V.O. / Screen):** Late-evening Victoria Island shopper
+* **Brand in the Skit:** *Vela & Silk Atelier* (Instagram Fashion Boutique Studio, Lekki Phase 1, Lagos)
+* **Product Pitched:** **Ofia Social Commerce & Automated Storefront** (`https://www.ofia.ng/products`)
 
 ---
 
-### SCENE 1: THE HIGH (0:25 – 1:15)
+## Technical & Casting Notes
 
-**Visual**: Chioma's apartment in Lagos. Ring light glowing, a clothing rack with colourful hangers, and a plate of jollof rice on the floor. Chioma is filming a mirror try-on of a two-piece emerald green co-ord set.
-
-**CHIOMA** *(smiling brightly at phone)*:
-Okay, this is the Zara set, but make it Lagos-friendly. Only ₦18,500. Sizes S, M, and L available. Link in bio! Okay, post.
-
-**Visual**: She taps Post. She wipes her forehead, sits down, and resumes folding a parcel with brown tape.
-
-**SFX**: Single notification chime. Then three in quick succession. Then an overwhelming cascade of notification pings.
-
-**Visual**: Close-up of Chioma's phone screen. The metrics surge in real time: 2K views... 42K... 180K... 400K views.
-
-**CHIOMA** *(whispering, hands visibly trembling)*:
-No. No, no. Is this... is this real?
-
-**Visual**: She collapses back onto her bed, screaming into a pillow in pure joy. Fast-cut montage: dancing across the living room, kissing her phone screen, dialing her mum on speakerphone.
-
-**CHIOMA** *(screaming into phone)*:
-Mummy! Mummy, we are trending! I'm rich! I'm *rich!*
-
-**SFX**: Energetic, triumphant music. The music cuts off abruptly with an ominous thud as Chioma taps into her Instagram Direct Messages.
+* **Visual Aesthetic:** Bright, sunlit Lekki fashion studio with emerald satin and champagne silk dresses on brass rails, ring lights, and authentic smartphone screens contrasting chaotic DM notification storms against a sleek, calm Ofia mobile checkout flow.
+* **Sound Design:** Rapid-fire Instagram DM pop chimes escalating into overwhelm, phone buzzes, crisp button clicks, clean NIBSS payment confirmation ding, and warm WhatsApp receipt notification.
+* **Tone:** Warm, empathetic, practical, and commercially sharp. Zero mathematical formulas or academic equations.
 
 ---
 
-### SCENE 2: THE CRASH (1:15 – 2:45)
+## Master Dual-Track Production Script (~4:15 Runtime)
 
-**Visual**: Chioma's DM inbox. The unread badge reads **"99+"**. She scrolls, and a torrent of buyer messages flies across the screen:
-- *"Price?"*
-- *"Pls price"*
-- *"DM for price??"*
-- *"Is this available?"*
-- *"Do you have medium?"*
-- *"Medium pls"*
-- *"Hello???"*
-- *"Why are you not replying to your customers?!"*
-
-**CHIOMA** *(typing frantically, sweating, talking aloud to herself)*:
-Okay, okay. One at a time. ₦18,500... delivery to Ibadan is... wait, let me check the dispatch book...
-
-**SFX**: Notifications stacking like machine-gun fire.
-
-**Visual**: Time-lapse sequence. The wall clock spins. Jollof rice sits cold. Her hair scarf loosens. Daylight fades into nighttime shadows.
-
-**CHIOMA** *(reading a message aloud)*:
-*"I want medium, send account number now."*
-
-**Visual**: Chioma flips open a dog-eared spiral notebook with handwritten stock numbers. The "M" column has a heavy pen stroke through it: **0 left**. She murmurs to herself: *"Wait... I sold the last two mediums yesterday afternoon."*
-
-**CHIOMA** *(quietly, stunned)*:
-There is no medium.
-
-**Visual**: She types into the chat: *"Sorry dear, medium is finished."* 
-Seen. No response. 
-Another message: *"Pls can you restock?"* She doesn't know when the fabric supplier will deliver.
-
-**CUSTOMER VOICE (V.O., annoyed)**:
-I wanted it for a dinner tonight. I've been waiting two hours for you to reply. Forget it.
-
-**Visual**: Split-screen display:
-* *Left Screen*: Chioma frantically typing on her phone with tired eyes.
-* *Right Screen*: A **Rival Seller** sitting calmly in an office, sipping coffee. A notification pops up, and she sends a direct storefront link.
-
-**RIVAL SELLER** *(smiling at camera)*:
-Medium? Tap the link. Pick your size. Pay. It ships at 8 AM tomorrow.
-
-**Visual**: The customer taps the link, selects Size M, pays in 15 seconds. A green checkmark dings: *"Payment Received ✅"*.
-
-**Visual**: Cut back to Chioma. Her 400,000 views are generating zero revenue. She lets her phone drop onto her lap and stares blankly at the wall.
-
-**CHIOMA** *(flatly)*:
-I did everything right. I went viral. And I still lost the money.
-
-**SFX**: Melancholy piano chords. A single notification pings. It reads: *"Hello???"*
+| Visual / Directional Track (Left Column) | Audio / Dialogue Track (Right Column) |
+| :--- | :--- |
+| **[0:00 – 0:30] COLD OPEN: THE 100-DM WALL**<br><br>Close-up on IFEANYI in a clean Lagos studio holding a smartphone whose screen is lighting up nonstop with animated message pop-ups: *"Price?"*, *"Size 12?"*, *"Delivery to Abuja?"*, *"Hello??"* | **IFEANYI (Host):**<br>"Here is a brutal truth every growing Nigerian Instagram vendor learns the hard way.<br><br>Your store doesn't stall because people stop wanting your products. It stalls right around 100 DMs a day because every single order depends on how fast your thumbs can type.<br><br>By the time you answer 'Price please?' ninety minutes later, your buyer's impulse window is dead, and your message sits permanently on 'Seen.' Welcome to the 100-DM Wall." |
+| **[0:30 – 1:15] SCENE 1: THE VIRAL REEL CHAOS**<br><br>Cut to *Vela & Silk Atelier* in Lekki Phase 1. Friday, 8:45 PM. CHIOMA (29, stylish, exhausted) sits surrounded by ring lights and dress racks while TOLU (23, assistant) types frantically on a second phone. Notifications chime relentlessly. | **CHIOMA:**<br>"Tolu, that champagne silk reel just hit forty thousand views! My DMs are freezing! Did you reply to the lady asking for Size 12?"<br><br>**TOLU:**<br>*(Frantically scrolling)* "Ma, I'm still checking if we have Size 10 in emerald! Two ladies just sent transfer screenshots for the same dress—and one alert hasn't even dropped in our bank app yet!"<br><br>**CHIOMA:**<br>*(Sighing, rubbing temples)* "Wait—hold the dispatch rider! Don't release anything until I check the bank app. And we still haven't typed out tomorrow's addresses for Lekki and Ikeja!"<br><br>*(Cut to smartphone screen showing an evening Victoria Island shopper waiting 90 minutes, then closing the Instagram app.)* |
+| **[1:15 – 1:55] SCENE 2: THE FOUR HIDDEN LEAKS**<br><br>Split-screen motion graphic: Left shows Chioma's frantic DM chat log; Right highlights four red warning cards animating in cleanly as Ifeanyi narrates. | **IFEANYI (Host):**<br>"Watch what manual chat checkout is quietly doing to Chioma's boutique every weekend.<br><br>First, the four-minute impulse drop-off: evening shoppers buy on emotion—wait an hour to reply, and the sale vanishes.<br><br>Second, double-selling: assistants manually check racks and accidentally promise the exact same last dress to two buyers.<br><br>Third, fake transfer screenshots: asking customers to send cropped alerts invites counterfeit alert scams.<br><br>And fourth, midnight address transcription: hand-copying street names from DMs to riders causes failed deliveries and double courier fees." |
+| **[1:55 – 2:45] SCENE 3: THE AUTOMATED STOREFRONT SHIFT**<br><br>Cut back to IFEANYI walking past a clean display showing an Instagram Reel transitioning seamlessly into an Ofia mobile product page. | **IFEANYI (Host):**<br>"Hiring three more assistants to type faster won't fix this. You have to separate brand discovery from order execution.<br><br>Let Instagram and TikTok spark the desire—and let an automated storefront handle checkout.<br><br>Put your exact price and available sizes right in Line One of your caption. Link your bio, stories, and keyword auto-replies straight to a multi-variant product page.<br><br>When a shopper taps their size and enters checkout, cloud inventory locks that unit immediately so nobody else can double-buy it." |
+| **[2:45 – 3:35] SCENE 4: SIX WEEKS LATER AT VELA & SILK**<br><br>Cut back to *Vela & Silk Atelier*, Friday, 8:50 PM. Calm, warm atmosphere. Chioma posts her new linen drop, sets her phone down, and smiles as clean Ofia order notifications chime gently. Close-up on a buyer's phone tapping "Size 12", selecting "Victoria Island Delivery", and receiving instant NIBSS confirmation + WhatsApp receipt. | **IFEANYI (Host V.O.):**<br>"Look at Chioma's studio six weeks later on Ofia Social Commerce.<br><br>A buyer watches her Reel, taps the link, picks Size 12, sees her exact Victoria Island delivery fee, and pays via an automated virtual account.<br><br>The instant NIBSS confirms settlement, Ofia marks the order paid, drops stock automatically, and sends a branded WhatsApp receipt—zero screenshots, zero fake alerts, zero manual typing.<br><br>On Saturday morning, Tolu prints thirty-eight clean, structured dispatch labels in ten minutes flat."<br><br>**CHIOMA:**<br>"My last drop sold out while I was having dinner with my family. Zero missed DMs, zero fake alerts, and every buyer is now in my VIP list." |
+| **[3:35 – 4:15] CLOSING SUMMARY & CALL TO ACTION**<br><br>IFEANYI in studio holding smartphone displaying a clean Ofia mobile storefront. | **IFEANYI (Host):**<br>"Your Instagram content sparks customer desire. Your automated storefront turns that desire into verified revenue around the clock.<br><br>Stop letting human typing speed cap your brand's growth. Visit ofia.ng/products today and launch your automated social storefront with our Founding Merchant onboarding.<br><br>I'm Ifeanyi Felix. Automate your checkout, reclaim your evenings, and scale your brand without the inbox chaos."<br><br>*[On-screen graphic: Ofia Logo · www.ofia.ng/products · Launch Your Social Storefront]* |
 
 ---
 
-### TALKING HEAD: THE MATH (2:45 – 3:20)
+## Dedicated 60-Second Vertical Video Cutdown (9:16 Format)
 
-**Visual**: Host back at the desk. The phone is silent. Clean, minimal on-screen graphics appear alongside the Host.
+* **Platform:** Instagram Reels, TikTok, YouTube Shorts
+* **Audio Track:** Crisp modern Afro-tech beat with subtle notification sound design
+* **Visual Style:** Fast vertical cuts with bold kinetic captions and clean mobile UI overlays
 
-**HOST**:
-That wasn't bad marketing. The reel did exactly what it was supposed to do.
-
-*(Beat.)*
-
-What failed was the checkout. It required a human being to type.
-
-You pay Meta for traffic. You spend hours filming, editing, and running ads. Then an impulse buyer arrives, ready to pull out their card, and what do they encounter?
-
-**On-Screen Text Graphics**:
-* *"DM for price"*
-* *"Is it available?"*
-* *"Replied in 2 hours"*
-
-**HOST**:
-Impulse buyers don't wait. The impulse to buy on mobile lasts about ninety seconds. If your checkout requires a negotiation, the customer moves on to someone who makes buying effortless.
-
-You are paying Mark Zuckerberg for traffic, but losing the sale because your checkout requires human intervention.
-
----
-
-### SCENE 3: THE REWIND (3:20 – 4:00)
-
-**Visual**: Quick video rewind effect. Sound of tape rewinding. Chioma is back at the moment of publishing her viral reel in her green co-ord set. But this time, her bio link directs to a dedicated digital storefront (`chiomascloset.ofia.shop`).
-
-**Visual**: Fast-paced mobile screen walkthrough:
-1. Customer taps the link in bio.
-2. The product page loads instantly with live variant stock:
-   * **S: 12 in stock**
-   * **M: Low stock — 2 left**
-   * **L: 8 in stock**
-3. The customer selects Medium, adds an address, and pays via Paystack in 15 seconds.
-4. Auto-receipt and delivery tracking code are generated instantly.
-
-**SFX**: Rapid cash register "cha-ching" sounds repeating.
-
-**Visual**: Chioma's phone screen shows an **Order Management Dashboard**: 214 orders completed, 214 receipts dispatched, 0 unread DMs. Chioma is relaxing on the couch eating warm jollof rice, her phone resting face-up.
-
-**CHIOMA** *(peacefully)*:
-Wait... so what am I supposed to do with my afternoon now?
-
-**Visual**: An automated system alert pops up on her screen: *"Size M reached reorder threshold. Supplier restock order drafted."*
-
-**CHIOMA** *(grinning)*:
-I make more mediums before the next video.
-
-**Visual**: Freeze frame on Chioma's relaxed smile.
-
----
-
-### TALKING HEAD: THE CLOSE (4:00 – 4:25)
-
-**Visual**: Host straight to camera, warm, confident, and direct. Beside the Host sits a sleek mobile phone mockup displaying the Ofia Shopfront interface.
-
-**HOST**:
-Going viral isn't the hardest part of e-commerce. Having the infrastructure to catch that demand is.
-
-If your checkout still runs through your direct messages, you're not operating an online store. You're operating an overwhelmed customer service desk with a very expensive ad budget.
-
-That's why high-growth social sellers run on **Ofia Shop Manager**.
-
-**On-Screen Bullets (appearing sequentially)**:
-* **Multi-variant catalog**: Sizes and colors selected directly by the customer
-* **Live stock synchronization**: Inventory updates the instant an order is paid
-* **Automated low-stock alerts**: Reorder warnings *before* your best-sellers run dry
-* **Integrated fulfillment**: Orders move straight from storefront to dispatch waybill
-
-**HOST**:
-Your customer watches your reel, taps the link, chooses their size, sees live inventory, and checks out in seconds. No "price?", no "is it available?", no two-hour delay. And when your medium sizes run low, you know before your next viral post—not after.
-
-*(Beat.)*
-
-The first 500 businesses get Ofia's Founding Offer. Visit the link below.
-
-**On-Screen Text**: Ofia Shop Manager | **https://www.ofia.ng/products** | Founding Offer: First 500 Businesses
-
-**HOST**:
-Don't let your next viral reel become someone else's sale.
-
-**SFX**: Single clean notification ping. Fade to black.
-
----
-
-## Production Notes & Alternative Cuts
-
-* **Total Word Count**: ~630 spoken words (calibrated for a ~4:15 runtime with visual pauses and reaction beats).
-* **Tone**: Energetic comedic drama for the skit sequences, contrasting with clear, grounded operator analysis during the Talking Head segments.
-* **60-Second TikTok / Reels Cutdown**:
-  1. *0:00–0:10*: Cold Open hook ("Let me show you why your viral reel lost you money").
-  2. *0:10–0:25*: Fast cut of Chioma's DMs flooded with "Do you have medium?" while she stares at her zero-stock notebook.
-  3. *0:25–0:40*: Split-screen with the Rival Seller sending a direct checkout link that closes the sale in 15 seconds.
-  4. *0:40–1:00*: Host close: "Stop losing sales in the DM queue. Set up your storefront at **ofia.ng/products**."
-* **Casting & Styling**: Cast a relatable vendor persona for Chioma. Use authentic Nigerian e-commerce props: ring light, clothes rail, spiral notebook with handwritten tallies, packaging tape, and mobile phone screens.
+| Timestamp | Visual Framing (9:16) | On-Screen Spoken Script | On-Screen Kinetic Text |
+| :--- | :--- | :--- | :--- |
+| **0:00 – 0:12** | Fast close-up of phone flooded with *"Price?"*, *"Size 12?"*, *"Hello??"* pop-ups; founder looks overwhelmed. | "Your Instagram store doesn't stall because demand dries up. It stalls at 100 DMs a day because your thumbs can't type fast enough." | **THE 100-DM WALL**<br>Typing Speed = Revenue Ceiling |
+| **0:12 – 0:24** | Split screen: Evening buyer waiting on a DM reply vs. closing Instagram; red stamp: *"Sale Lost."* | "Evening shoppers have a four-minute impulse window. Make them wait an hour for a price reply and a bank number, and the sale vanishes." | **4-MINUTE WINDOW**<br>Slow DMs Kill Impulse Sales |
+| **0:24 – 0:38** | Sleek screen recording of Ofia storefront: Tap link ➔ Pick Size 12 ➔ Auto Delivery Fee ➔ Instant Virtual Account Paid. | "With Ofia's automated storefront, buyers tap your link, pick their size, see delivery fees, and complete NIBSS-verified payment in 60 seconds—zero fake screenshots." | **60-SECOND CHECKOUT**<br>Live Stock Lock · Instant NIBSS |
+| **0:38 – 0:50** | Branded WhatsApp receipt chimes onto buyer's phone; clean courier labels print effortlessly. | "Stock locks automatically, WhatsApp receipts go out instantly, and dispatch addresses stay 100% error-free—even while you sleep." | **24/7 AUTOMATION**<br>WhatsApp Receipts · Clean Dispatch |
+| **0:50 – 1:00** | IFEANYI on camera smiling, pointing to clean CTA graphic with Ofia logo. | "Stop running a growing brand inside a chat inbox. Visit ofia.ng/products and automate your social checkout today." | **BREAK THE 100-DM WALL**<br>👉 ofia.ng/products |

@@ -1,112 +1,52 @@
-# 🎬 Video Script: The Bootcamp Grading Wall
+# Video Production Script: Sprint 07 Week 01
 
-* **Sprint & Week**: Sprint 07 (EdTech Scale) · Week 01 (The Core Problem)
-* **Theme**: The Cohort Grading Deficit — Why scaling bootcamps drown in project reviews
-* **Runtime**: ~4:15 (dual-track talking head + drama skit)
-* **Word Count**: ~625 words (at 140 WPM)
-* **Host / Character**: Host (@Ifeanyi Felix), Tunde (Lead Coding Instructor at DecaCode Bootcamp), Segun (Junior Teaching Assistant)
+* **Title:** Drowning in 1,000 Pull Requests: How Massive Coding Bootcamps Eliminate 72-Hour Feedback Latency
+* **Sprint & Week:** Sprint 07 (EdTech Scale) · Week 01 (The Core Problem)
+* **Topic:** Replacing Manual GitHub Code Reviews with 15-Second Containerized CI Autograders and Predictive Mentor Telemetry
+* **Format:** Dual-Track Talking Head (TH) cut with Late-Night Lagos Coding Hub Drama & Containerized CI Dashboard Walkthrough
+* **Target Runtime:** ~4:15 (~625 spoken words at 145 WPM)
+* **Dedicated Cutdown:** 60-Second Vertical Video (9:16) for Instagram Reels, TikTok, and YouTube Shorts
+* **Cast:**
+  * **Host:** @Ifeanyi Felix (Head of Institutional Governance / Public Sector Strategy, ResultsPro.ng)
+  * **Tunde:** Lead Software Instructor at *Yaba StackForge Academy* (Lagos)
+  * **Ngozi:** Teaching Assistant burning out on weekend pull-request triage
+  * **Sadiq:** Remote full-stack bootcamp learner in Abuja waiting on project feedback
+* **Brand in the Skit:** *Yaba StackForge Academy* (Fast-scaling Lagos software bootcamp expanding from 45 fellows to 1,000 concurrent builders)
+* **Product Pitched:** **ResultsPro CoursesPRO & TutorsPRO Containerized Autograding Suite** (`https://www.resultspro.ng/products`)
 
 ---
 
 ## Technical & Casting Notes
-* **Visual Style**: Clean, modern cinematic lighting. Tech studio look with split dual monitor backlighting (warm tungsten key, cool cyan fill).
-* **Casting**:
-  * **Host (@Ifeanyi Felix)**: Sharp, analytical, empathetic yet uncompromising. Dark navy turtleneck or charcoal blazer.
-  * **Tunde**: Overworked lead engineering instructor. Glasses, graphic developer tee, large headphones slung around neck, bloodshot cartoonish exhaustion.
-  * **Segun**: Anxious junior TA holding cold energy drinks and an overflowing clipboard of unassigned pull requests.
-* **Sound Design**: Fast typing SFX, Slack notification pings multiplying exponentially, dramatic bass drops on statistic reveals, hard camera rewinds.
+
+* **Visual Aesthetic:** Authentic late-night Yaba tech-hub realism—dual-monitor engineering studio, cool blue IDE screen glow, overflowing GitHub PR queues, contrasting sharply with ResultsPro CoursesPRO's crisp emerald CI build badges turning green in parallel.
+* **Sound Design:** Rapid keyboard clatter, Discord complaint notification pings, tired late-night sighs, shifting cleanly into brisk Docker build-complete chimes and energized morning coaching huddle ambiance.
+* **Tone:** Sharp, technical, deeply empathetic to bootcamp instructors and founders. Strictly zero mathematical equations or calculation containers.
 
 ---
 
-## Dual-Track Master Production Script
+## Master Dual-Track Production Script (~4:15 Runtime)
 
-### [0:00 - 0:25] Cold Open: The High-Stakes Pattern Interrupt
-**[VISUAL]**: Close-up on IFEANYI looking directly down the lens. Dark studio backdrop. Behind him, a giant display shows 500 red notifications piling up on a GitHub dashboard.
-
-**IFEANYI (Host)**:
-"If you run an online coding bootcamp, data science academy, or professional accelerator, here is a hard truth you won't hear at demo day:
-Your growth ceiling is not student acquisition.
-Your growth ceiling is the human breaking point of grading one thousand student projects before Week 2 starts.
-Because the moment your grading turnaround stretches from 24 hours to 10 days... your student completion rate doesn't just decline.
-It falls off a cliff."
-
----
-
-### [0:25 - 1:15] Scene 1: The High (The Cohort Launch)
-**[VISUAL]**: Split to bright, modern co-working space. Neon sign: *DecaCode Accelerator*. TUNDE is high-fiving SEGUN in front of a laptop. Upbeat lo-fi beats playing.
-
-**TUNDE**:
-"Segun! Did you see the final enrollment numbers? 650 students in Cohort 4! We did ₦85 million in tuition revenue this quarter alone. The marketing team killed it!"
-
-**SEGUN**:
-"Tunde, that’s insane! But wait... isn't Week 1 project submission due this Friday midnight?"
-
-**TUNDE** *(waving dismissively)*:
-"Relax. It’s just a simple React task-tracker app. We have a team of four TAs. We’ll knock out the code reviews over the weekend and have grades back by Monday morning."
+| Visual / Directional Track (Left Column) | Audio / Dialogue Track (Right Column) |
+| :--- | :--- |
+| **[0:00 – 0:30] COLD OPEN: THE 1,000-PR SCALING WALL**<br><br>Close-up on IFEANYI inside a modern Yaba engineering studio. Behind him, a live cohort screen leaps from "45 STUDENTS — 92% COMPLETION" to "1,000 STUDENTS — 412 UNGRADED PULL REQUESTS." | **IFEANYI (Host):**<br>"Every ambitious coding bootcamp dreams of scaling from forty-five pilot fellows to a thousand paying developers.<br><br>Marketing fills the seats. Then Sunday midnight hits.<br><br>One thousand students push their GitHub repositories at once—and your instructional team crashes into a physical wall.<br><br>When feedback stretches past seventy-two hours, active student engagement plunges by forty-eight percent—and week-long delays push cohort drop-off past sixty-five percent.<br><br>Let’s look inside the midnight bottleneck quietly breaking scaling bootcamps." |
+| **[0:30 – 1:15] SCENE 1: MIDNIGHT AT YABA STACKFORGE ACADEMY**<br><br>Cut to *Yaba StackForge Academy* at 12:30 AM. TUNDE (32, Lead Software Instructor with glasses and headphones around his neck) sits surrounded by open GitHub tabs and red terminal build errors. NGOZI (26, exhausted TA) sets down her laptop looking defeated. | **NGOZI:**<br>"Tunde, I just spent three hours cloning twelve student repos and fixing broken Node dependencies—and I still have sixty-eight pull requests left from Sunday. Worse, Discord is blowing up because two TAs gave completely different scores on the same REST API assignment."<br><br>**TUNDE:**<br>*(Rubbing his temples as red PR counters keep climbing)*<br>"Three of our best TAs resigned this month alone. And while we’re stuck checking boilerplate syntax until Thursday night, we have zero hours left to run architecture reviews or mock technical interviews." |
+| **[1:15 – 1:55] SCENE 2: THE SILENT LEARNER DROP-OFF**<br><br>Cut to SADIQ (23, remote student in Abuja) refreshing his submission portal on Day 5: still "AWAITING TA REVIEW." Frustrated, he closes his browser tab. Back in Yaba, Tunde watches the cohort retention chart plunge downward. | **SADIQ (V.O.):**<br>"I spent twenty hours building this authentication API. Five days later, still zero feedback—and the class already moved on to Docker. I feel completely lost."<br><br>**TUNDE:**<br>"We have great learners and strong employer demand—so why does growing to a thousand students feel like destroying the very quality that built our brand?" |
+| **[1:55 – 2:35] SCENE 3: THE EXPERT DIAGNOSIS (TH)**<br><br>Cut to IFEANYI in the studio. Clean telemetry cards animate verified industry findings: 48% engagement drop past 72h, 65% drop-off past 7 days, 55%+ TA turnover, 28% inter-grader variance. | **IFEANYI (Host):**<br>"Tunde’s crisis proves one core rule of technical education: retention is governed by Time to First Meaningful Feedback.<br><br>Research from the AfDB Coding for Employment Initiative confirms engagement drops forty-eight percent once feedback exceeds seventy-two hours, while manual multi-TA teams suffer twenty-eight percent grading variance and over fifty-five percent annual TA turnover.<br><br>You cannot solve a thousand-project backlog by hiring fifty more manual graders. You solve it with containerized CI autograding." |
+| **[2:35 – 3:30] SCENE 4: THE CONNECTED RESULTSPRO FIX**<br><br>Cut back to *Yaba StackForge Academy* two cohorts later at 6:00 PM—calm and energized. Sadiq pushes his code; on screen, ResultsPro CoursesPRO spins up an isolated Docker sandbox, executes fourteen unit tests in nine seconds, returns a clear line-by-line hint, and flashes green checkmarks across hundreds of builds in parallel. | **IFEANYI (Host V.O.):**<br>"That is how modern coding bootcamps scale on ResultsPro CoursesPRO and TutorsPRO."<br><br>*[On-screen UI walkthrough: Containerized CI sandbox grades code in under 15 seconds; AST anti-plagiarism check clears originality; locked interactive rubrics standardize qualitative design reviews; TutorsPRO Mentor Cockpit flags fifteen learners stuck on repeated build failures for proactive coaching.]*<br><br>**TUNDE:**<br>"Every student pull request now runs inside an isolated Docker test sandbox in under fifteen seconds. Copied repos are caught automatically by AST plagiarism audits, and our TAs spend their mornings coaching architecture and rescuing at-risk learners instead of debugging semicolons at midnight." |
+| **[3:30 – 4:15] CLOSING SUMMARY & CALL TO ACTION**<br><br>Tunde smiles as his cohort dashboard shows 1,400 active learners and 90%+ completion, with graduates unlocking QR-verified ResultsPro certificates. Cut back to IFEANYI in the studio. | **TUNDE:**<br>"Turnaround dropped from seven days to nine seconds. TA turnover vanished. And we scaled to fourteen hundred concurrent builders without adding manual grading payroll."<br><br>**IFEANYI (Host):**<br>"Your curriculum recruits Africa’s brightest builders into your cohort. Your automated evaluation engine delivers the instant feedback that turns them into job-ready engineers.<br><br>Visit resultspro.ng/products today to schedule your CoursesPRO sandbox walkthrough.<br><br>I’m Ifeanyi Felix. Eliminate feedback latency and scale your bootcamp without limits."<br><br>*[On-screen graphic: ResultsPro Logo · www.resultspro.ng/products · Grade 1,000 Projects in 15 Seconds]* |
 
 ---
 
-### [1:15 - 2:40] Scene 2: The Crash (The Pull Request Avalanche)
-**[VISUAL]**: Cut to Sunday, 11:45 PM. The office is dark except for the glare of three massive computer screens. Empty takeaway containers and energy drink cans litter the desk. Tunde is rubbing his eyes in horror. The Slack chime sounds repeatedly: *Ding! Ding! Ding!*
+## Dedicated 60-Second Vertical Video Cutdown (9:16 Format)
 
-**SEGUN** *(bursting in, clutching his laptop)*:
-"Tunde! We have a catastrophic bottleneck! 580 students submitted pull requests on GitHub. Segun reviewed 22 projects in five hours, and his brain is fried. I’ve done 18. That leaves 540 repos unreviewed, and Week 2 lectures start in seven hours!"
+* **Platform:** Instagram Reels, TikTok, YouTube Shorts
+* **Audio Track:** Crisp modern tech beat with sharp Docker build-green success chimes
+* **Visual Style:** High-contrast split screen contrasting midnight 412-PR red queues against 15-second ResultsPro containerized green builds
 
-**TUNDE** *(scrolling frantically through 45 open browser tabs)*:
-"Half of these repos don't even have dependencies installed! Look at this one: a student renamed the entry file, and another submitted a zip file with 2GB of `node_modules`! Segun, if we give generic feedback, they complain in the Discord channel. If we do line-by-line code reviews, it takes 25 minutes per student!"
-
-**[VISUAL]**: Split-screen effect. 
-* *Left Screen (DecaCode)*: Discord chat exploding with angry student pings: *"Where are my Week 1 grades?"*, *"Is anyone reviewing my PR?"*, *"I want a refund!"*
-* *Right Screen (Modern Automated Academy)*: ResultsPro CoursesPRO automated CI pipeline testing student code repos instantly in sandbox containers, passing test suites, and delivering rubric scores in 4.2 seconds.
-
----
-
-### [2:40 - 3:20] Talking Head: The Mathematical Friction
-**[VISUAL]**: Cut back to IFEANYI in the analytical studio. On-screen graphic overlays the mathematical formula in glowing green.
-
-$$Cohort Grading Deficit = (Cohort Size × Submissions × Review Time) - Instructor Capacity$$
-
-**IFEANYI (Host)**:
-"Let’s look at the operational math that breaks fast-scaling EdTech academies.
-Take a cohort of 500 active students submitting two weekly assignments.
-That is 1,000 code reviews or practical submissions every single week.
-At a conservative 20 minutes per manual review:
-500 Students × 2 Submissions × 20 Minutes ÷ 60 = **333 instructor hours required per week**.
-If you have three full-time TAs working 40 hours exclusively grading, their combined capacity is 120 hours.
-That creates a **213-hour weekly grading deficit**.
-Your grading turnaround stretches from 24 hours to 14 days. Students lose momentum, get stuck on prerequisites, and by Week 4, 65% stop logging into classes."
-
----
-
-### [3:20 - 4:00] Scene 3: The Rewind (The Automated Cohort Engine)
-**[VISUAL]**: HARD REWIND SFX. The timeline snaps back to Friday, 11:59 PM. Tunde and Segun are sitting calmly at their desks sipping hot coffee. 
-
-**SEGUN**:
-"Submission deadline just passed. 620 student repositories pushed to the portal."
-
-**TUNDE** *(smiling, clicking into ResultsPro CoursesPRO)*:
-"Watch this. The automated container runner just spun up. It executed the automated test suites, checked styling compliance, ran test assertions across all 620 repos in four minutes, and assigned micro-rubric grades directly into their gradebooks.
-The TAs only need to review the top 5% edge cases and leave qualitative mentor notes."
-
-**SEGUN**:
-"Grades are already published to student dashboards. Zero Discord complaints. Zero instructor burnout."
-
----
-
-### [4:00 - 4:15] The Close: Actionable CTA
-**[VISUAL]**: Host IFEANYI steps forward. The clean ResultsPro CoursesPRO interface displays on screen.
-
-**IFEANYI (Host)**:
-"Scaling an educational academy requires institutional infrastructure, not exhausted instructors.
-Stop burning out your engineering leads on manual grading queues.
-Automate cohort assignment workflows, TA rubrics, and project autograders with ResultsPro CoursesPRO.
-Visit **resultspro.ng/coursespro** to schedule your platform walk-through today."
-
----
-
-## 60-Second TikTok / Reels Cutdown
-
-* **0:00 - 0:08 (Hook)**: "The reason 65% of students drop out of coding bootcamps is not the difficulty of code. It’s this mathematical formula." *(Visual: Tunde rubbing bloodshot eyes in front of 400 unread pull requests).*
-* **0:09 - 0:25 (The Problem)**: "A 500-student cohort submitting 2 weekly labs requires 333 hours of manual grading every week. With 3 instructors, you have a 213-hour deficit. Feedback takes two weeks, and students give up."
-* **0:26 - 0:45 (The Solution)**: "Automated container test runners and sandbox autograders evaluate code submissions against rubrics in 4 seconds flat. Your TAs focus on mentorship, not checking syntax."
-* **0:46 - 0:60 (CTA)**: "Scale your academy cohorts without breaking your faculty. Visit resultspro.ng/coursespro."
+| Timestamp | Visual Framing (9:16) | On-Screen Spoken Script | On-Screen Kinetic Text |
+| :--- | :--- | :--- | :--- |
+| **0:00 – 0:12** | Fast cuts: 1,000 enrolled learners banner drops into an exhausted instructor surrounded by 412 red GitHub PR tabs at 12:30 AM. | "Scaling your coding bootcamp to 1,000 students is exciting—until 1,000 manual GitHub pull requests break your instructors at midnight." | **1,000 PROJECTS**<br>7-Day Manual Review Wall |
+| **0:12 – 0:24** | Frustrated remote learner shuts laptop; benchmark cards pop onto screen. | "Once feedback slips past 72 hours, engagement drops 48%—and week-long queues trigger 65% cohort drop-off plus 55% TA turnover." | **72-HOUR CLIFF**<br>48% Drop · 65% Churn |
+| **0:24 – 0:38** | Screen recording of ResultsPro CoursesPRO running isolated Docker CI sandboxes turning red assertions into green checkmarks with hints in 9 seconds. | "ResultsPro CoursesPRO executes containerized unit tests, linting, and line-by-line pedagogical hints across 1,000 projects in under 15 seconds." | **RESULTSPRO COURSESPRO**<br>15-Second CI Autograding |
+| **0:38 – 0:50** | AST anti-plagiarism shield clears originality; TutorsPRO alerts mentors to coach stuck learners live; QR certificate unlocks. | "AST plagiarism checks guard credibility, TutorsPRO alerts mentors to rescue stuck learners early, and graduates unlock QR-verified credentials." | **90%+ COMPLETION**<br>Zero TA Burnout |
+| **0:50 – 1:00** | IFEANYI on camera in the Lagos studio with ResultsPro logo overlay. | "Stop debugging semicolons at midnight. Book your CoursesPRO sandbox demo at resultspro.ng/products today." | **ELIMINATE LATENCY**<br>👉 resultspro.ng/products |

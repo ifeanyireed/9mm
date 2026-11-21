@@ -168,7 +168,7 @@ if (file_exists($exactLogo)) {
 // Upload to Cloudinary once and cache URL in ch_cloudinary_url.txt
 $cloudinaryFile = __DIR__ . '/ch_cloudinary_url.txt';
 if (!file_exists($cloudinaryFile) && $copiedLogo && file_exists($copiedLogo)) {
-    $cUrl = 'cloudinary://843881634745644:f10bR34lPm4mYEbtrcIhB0eIcLQ@yugcjpau';
+    $cUrl = 'cloudinary://418569558489612:FebJ0Rr11vUZNnsT77IwI1jfqoo@iqwyufpt';
     if (preg_match('/cloudinary:\/\/([^:]+):([^@]+)@([^\/]+)/', $cUrl, $cm)) {
         $apiKey = $cm[1];
         $apiSecret = $cm[2];

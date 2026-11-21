@@ -119,7 +119,7 @@ EDITION #04 | 30 NOVEMBER 2026 | CIRCULATION: 18,500+ DIRECTORS & GENERAL COUNSE
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
   <tr>
     <td style="width: 50px; vertical-align: middle;">
-      <img src="https://res.cloudinary.com/wnmabxiy/image/upload/v1793738670/9mm/compliancehub_logo.png" alt="ComplianceHub.ng" width="44" height="44" style="width: 44px; height: 44px; object-fit: contain; display: block;" />
+      <img src="https://res.cloudinary.com/iqwyufpt/image/upload/v1795139981/9mm/compliancehub_logo.png" alt="ComplianceHub.ng" width="44" height="44" style="width: 44px; height: 44px; object-fit: contain; display: block;" />
     </td>
     <td style="vertical-align: middle; padding-left: 12px;">
       <div style="font-size: 16px; font-weight: 800; color: #0D5C3A; line-height: 1.2;">ComplianceHub<span style="color: #0089C1;">.ng</span></div>
@@ -274,7 +274,7 @@ ComplianceHub Regulatory Technologies Limited · Victoria Island, Lagos
 <table style="width: 100%; border-collapse: collapse; margin-top: 24px; padding-top: 16px; border-top: 1px solid #E2E8F0;">
   <tr>
     <td style="width: 30px; vertical-align: middle;">
-      <img src="https://res.cloudinary.com/wnmabxiy/image/upload/v1793738670/9mm/compliancehub_logo.png" alt="ComplianceHub" width="22" height="22" style="width: 22px; height: 22px; object-fit: contain; display: block;" />
+      <img src="https://res.cloudinary.com/iqwyufpt/image/upload/v1795139981/9mm/compliancehub_logo.png" alt="ComplianceHub" width="22" height="22" style="width: 22px; height: 22px; object-fit: contain; display: block;" />
     </td>
     <td style="vertical-align: middle; padding-left: 8px;">
       <span style="font-size: 11px; font-weight: 700; color: #1E293B;">ComplianceHub Regulatory Technologies Limited</span>

@@ -1,124 +1,52 @@
-# 🎬 Video Script: "The Spiral Notebook Audit"
+# Video Production Script: Sprint 01 Week 03
 
-* **Sprint & Week**: Sprint 01 (Impulse Buy) · Week 03 (The Tangible Pains)
-* **Topic**: 3 manual variant tracking bottlenecks that are costing you viral sales
-* **Format**: Dual-Track Talking Head (TH) cut with Drama Skit & Screen Walkthrough
-* **Target Runtime**: ~4:15 (~625 spoken words at 140 WPM)
-* **Cast**: Host (@Ifeanyi Felix), Chioma (Boutique Founder), Disgruntled Shopper (V.O.)
-* **Brand in the Skit**: Chioma's Closet
-* **Product Pitched**: **Ofia Shop Manager & Real-Time Variant Matrix** (`/erp/admin/marketplace`, `ofia.ng/products`)
+* **Title:** The Viral Drop Stockroom Meltdown: 3 Manual Variant Bottlenecks Costing You Sales
+* **Sprint & Week:** Sprint 01 (Impulse Buy) · Week 03 (The Tangible Pains)
+* **Topic:** Eliminating Manual Size Checks, Cross-Channel Double-Selling, and Wrong-Variant Returns with Multi-Variant Storefronts
+* **Format:** Dual-Track Talking Head (TH) cut with Narrative Boutique Skit & Storefront Architecture Walkthrough
+* **Target Runtime:** ~4:15 (~625 spoken words at 145 WPM)
+* **Dedicated Cutdown:** 60-Second Vertical Video (9:16) for Instagram Reels, TikTok, and YouTube Shorts
+* **Cast:**
+  * **Host:** @Ifeanyi Felix (Head of Commerce Editorial, Ofia.ng)
+  * **Chioma:** Founder of a ready-to-wear fashion studio in Lekki, Lagos
+  * **Tope:** Chioma's Sales & Packing Assistant
+  * **Dispatch Rider:** Delivery rider returning mismatched parcels
+* **Brand in the Skit:** *Chioma's Ready-to-Wear Studio* (Lekki Phase 1, Lagos)
+* **Product Pitched:** **Ofia Shop Manager & Storefront** (`https://www.ofia.ng/products`)
 
 ---
 
 ## Technical & Casting Notes
-* **Visual Style**: High-contrast, gritty retail comedy into sharp UI walkthrough. Starts with dog-eared spiral notebooks with crossed-out pen marks, transitioning to a clean, luminous multi-variant matrix on an ultra-wide screen.
-* **Casting**:
-  * **Host (@Ifeanyi Felix)**: Direct, experienced, business diagnostic specialist. Dark navy linen shirt with rolled cuffs.
-  * **Chioma**: Energetic boutique owner with ink stains on her fingers from tallying variant sales in a notebook.
-* **Sound Design**: Ballpoint pen scribbling violently on paper; paper tearing; clear digital confirmation "ding" when inventory auto-locks.
+
+* **Visual Aesthetic:** Vibrant, stylish Lagos fashion studio realism. Colour-sorted garment rails (emerald green two-piece sets, champagne gold dresses, terracotta wraps), studio ring lights, juxtaposed with a cluttered paper inventory notebook and buzzing phones—transitioning cleanly into sleek tablet catalogues and printed digital packing slips.
+* **Sound Design:** Rapid Instagram DM and WhatsApp notification pings, frantic pen scratching on paper, sliding metal clothes hangers, bank transfer alert chimes, and calm, crisp UI confirmation clicks during the Ofia walkthrough.
+* **Tone:** Warm, empathetic, sharp, and commercially grounded. Strictly zero mathematical equations or academic formulas.
 
 ---
 
-## Dual-Track Master Production Script
+## Master Dual-Track Production Script (~4:15 Runtime)
 
-### [0:00 – 0:25] Cold Open: The Spiral Notebook (TH)
-**[VISUAL]**: Close-up on IFEANYI holding up a torn, dog-eared A4 spiral notebook filled with blue and black biro tally marks, crossed-out numbers, and coffee stains.
-
-**IFEANYI (Host)**:
-"Look at this notebook.
-This is the single most expensive piece of technology in African social commerce.
-It cost fifty naira at the supermarket.
-And it silently leaks between two and four million naira every single month.
-Why? Because the moment your fashion brand offers four sizes across three colors, you have twelve separate inventory states.
-If you are tracking twelve inventory states with a blue ballpoint pen... you are not running a boutique. You are gambling."
+| Visual / Directional Track (Left Column) | Audio / Dialogue Track (Right Column) |
+| :--- | :--- |
+| **[0:00 – 0:30] COLD OPEN: THE VIRAL DROP PARADOX**<br><br>Tight close-up on IFEANYI standing in a brightly lit Lagos studio beside a garment rack lined with emerald green and champagne gold dresses. A smartphone on a tripod displays a viral Instagram reel racking up likes and DM bubbles. | **IFEANYI (Host):**<br>"Your new collection reel just hit thousands of views on Instagram and TikTok. Your DMs are exploding. From the outside, your fashion brand is having a breakout Friday.<br><br>So why is your team still losing customers over simple size and colour checks?<br><br>Here is the trap most growing social commerce brands fall into: you launch six gorgeous styles in three colours and four sizes—and you try to track seventy-two separate product variants inside a paper notebook and WhatsApp chats.<br><br>Welcome to the three manual variant tracking bottlenecks that quietly drain your viral sales." |
+| **[0:30 – 1:15] SCENE 1: THE 25-MINUTE STOCKROOM WALK**<br><br>Cut to Chioma's Lekki fashion studio, Friday evening. CHIOMA (30, stylish designer) beams at her phone as notifications flood in. TOPE (23, sales assistant) flips frantically through a ruled exercise book while holding two phones. | **CHIOMA:**<br>"Tope, this six-piece drop is flying! Keep replying to the Instagram DMs—don't leave anyone hanging!"<br><br>**TOPE:**<br>*(Stressed, squinting at Instagram screen)* "Ma, a buyer wants the emerald green two-piece set in Size 12. Let me check the notebook... wait, someone crossed this page out. Let me run to the back room and count the hangers!"<br><br>*[Tope puts the phone down and rushes past racks into the back stockroom. Rapid sound of metal hangers clinking. A digital clock wipe fast-forwards 25 minutes.]*<br><br>**TOPE:**<br>*(Returning out of breath, typing furiously)* "Okay, we have one Size 12 left! I've replied... oh. She saw it and didn't respond. She's gone offline." |
+| **[1:15 – 1:55] SCENE 2: THE DOUBLE SALE & RETURNED PARCELS**<br><br>Ten minutes later. Both phones chime with bank transfer alerts. Chioma looks up sharply as Tope freezes over the paper notebook. Seconds later, the studio door opens and a DISPATCH RIDER walks in carrying three returned poly-mailers. | **TOPE:**<br>*(Panicking)* "Aunty Chioma! A WhatsApp buyer just paid for the last champagne gold dress in Size 10... and an Instagram buyer just sent a transfer screenshot for the exact same Size 10 dress two seconds later! I hadn't crossed it off yet!"<br><br>**CHIOMA:**<br>*(Sighs deeply, rubbing her temples)* "Two paid customers for one dress? Now I have to call one of them and beg for a refund."<br><br>**DISPATCH RIDER:**<br>*(Setting three packages on the counter)* "Madam, I brought back three parcels from Ikeja and Surulere. The customers say they ordered Size 10 in your chat, but what we packed inside is Size 14."<br><br>*(Close-up on Chioma holding a crumpled transfer screenshot that shows only an amount—zero size or colour details.)* |
+| **[1:55 – 2:35] SCENE 3: THE EXPERT DIAGNOSIS (TH)**<br><br>Cut back to IFEANYI in the studio. Behind him, a clean graphic splits into three red warning cards: *25-Min Stock Checks*, *Cross-Channel Overselling*, and *Chat-Screenshot Packing Errors*. | **IFEANYI (Host):**<br>"Chioma doesn't have a design problem or a marketing problem. She has a disconnected variant system.<br><br>First, manual stock checks kill impulse demand. Shoppers are ready to buy in the first few minutes after watching your video—not twenty-five minutes later.<br><br>Second, when Instagram, WhatsApp, and your Lekki showroom don't share one live stock count, two buyers inevitably pay for your last piece.<br><br>Third, bank transfer screenshots never tell your packing team what colour or size a buyer picked. That is how 'What I Ordered versus What I Got' returns destroy both your courier margins and buyer trust." |
+| **[2:35 – 3:30] SCENE 4: THE CONNECTED OFIA STOREFRONT FIX**<br><br>Cut back to Chioma's Lekki studio, one month later. Calm, organised workspace. A shopper's smartphone screen shows Chioma's branded Ofia Storefront (`client_slug.ofia.shop/shopfront`) with clean clickable colour swatches and size buttons. | **IFEANYI (Host V.O.):**<br>"Here is how Chioma fixed all three bottlenecks using Ofia Shop Manager and Storefront."<br><br>*[On-screen UI demo: Shopper taps 'Emerald Green', then taps 'Size 12'. Stock shows 'In Stock'. Shopper taps Pay. The system instantly places a temporary checkout lock on that Size 12 unit.]*<br><br>**CHIOMA:**<br>"Now every style, colour, and size has its own live count in our Ofia inventory catalogue. Customers tap our bio link, pick their exact size, and check out—even at midnight while we sleep."<br><br>*[Cut to Tope at the packing table. A sleek digital packing slip appears on her tablet showing the product photo, 'Champagne Gold · Size 10', customer address, and confirmed payment status.]*<br><br>**IFEANYI (Host V.O.):**<br>"The instant payment clears, stock updates across every channel, a clear digital packing slip routes to dispatch, and any sold-out size automatically turns into a 'Notify Me' restock waitlist." |
+| **[3:30 – 4:15] CLOSING SUMMARY & CALL TO ACTION**<br><br>Chioma hands neatly labelled parcels to the smiling dispatch rider, then checks her tablet showing fastest-selling sizes and colours for her next production run. | **CHIOMA:**<br>"No counting hangers during a drop. Zero double-sold dresses. And zero wrong-size returns."<br><br>**IFEANYI (Host):**<br>"Your social media content brings customers to your brand. Your connected inventory system makes sure every customer gets the exact item they ordered.<br><br>Stop losing ready buyers while someone walks to the stockroom to check a size. Visit ofia.ng/products today and set up your multi-variant storefront on Ofia.<br><br>I’m Ifeanyi Felix. Organise your variants, operate connected, and turn every viral post into a clean sale."<br><br>*[On-screen graphic: Ofia Logo · www.ofia.ng/products · Launch Your Multi-Variant Storefront]* |
 
 ---
 
-### [0:25 – 1:15] Scene 1: The High (The Sunday Night Drop)
-**[VISUAL]**: Chioma sits in front of a mirror with a freshly arrived batch of satin wrap tops: Royal Blue, Champagne Gold, and Emerald Green, in Sizes 8, 10, 12, and 14.
+## Dedicated 60-Second Vertical Video Cutdown (9:16 Format)
 
-**CHIOMA** *(holding up her notebook to her smartphone camera)*:
-"Ladies! The Bellini Wrap Tops have landed! Only forty-eight pieces in total. Comment your color and size below or send a screenshot to DMs to claim your fit!"
+* **Platform:** Instagram Reels, TikTok, YouTube Shorts
+* **Audio Track:** Upbeat, crisp Afro-pop lo-fi groove with sharp notification pings and clean UI clicks
+* **Visual Style:** Fast vertical jump cuts, split-screen phone UI, and bold high-contrast captions
 
-**[VISUAL]**: The comments flood in:
-- *"Size 10 Gold!"*
-- *"Size 12 Blue, account details please!"*
-- *"Size 10 Blue, paid!"*
-
-**CHIOMA** *(smiling, biro in hand)*:
-"I have my system. Every time someone sends proof of payment, I cross out a tally mark. It’s foolproof."
-
----
-
-### [1:15 – 2:40] Scene 2: The Crash (The Variant Meltdown)
-**[VISUAL]**: Four hours later. Midnight. Chioma’s desk is covered in printed bank receipts, screenshot printouts, and opened WhatsApp threads.
-
-**CHIOMA** *(squinting at her notebook, tapping her biro against the page)*:
-"Wait... did I cross out the Size 10 in Champagne Gold when Sade paid, or was that for the customer from Port Harcourt? 
-Wait, no... the Port Harcourt customer wanted Emerald Green, but wrote Gold in her payment narration!"
-
-**[VISUAL]**: She hurriedly flips through three different Instagram DM threads.
-*VOICE OVER (Customer from Abuja)*:
-"Hello! I paid for Size 10 Champagne Gold four hours ago! You said on your story there were two left!"
-
-**CHIOMA** *(voice trembling)*:
-"I... I thought there was one left in the stockroom."
-
-**[VISUAL]**: Chioma grabs a flashlight, runs to her back storage rack, and rips open a sealed carton. 
-She pulls out wrap tops one by one:
-*Size 8 Gold... Size 14 Gold... Size 12 Emerald... Size 8 Emerald...*
-There is no Size 10 in Champagne Gold. It was sold twice three hours ago.
-
-**[VISUAL]**: Split-screen display:
-* *Left Screen (Chioma's Notebook Hell)*: Chioma typing desperate apology messages at 1:15 AM offering store credit to an irate customer who needs the outfit for an engagement party tomorrow.
-* *Right Screen (Ofia Dynamic Matrix)*: An automated boutique founder sleeping peacefully. Their store uses the **Ofia Multi-Variant Matrix** (`/erp/admin/marketplace`). When the last Size 10 Gold is added to cart, the button immediately disables with a grey "Out of Stock" state across all channels.
-
----
-
-### [2:40 – 3:20] Talking Head: The Mathematical Cost of Variant Leakage
-**[VISUAL]**: Cut to IFEANYI in the analytical studio. On-screen graphic displays the Variant Friction Calculation.
-
-$$Variant Oversell Drag = (SKU Variants × Manual Order Volume) × Stockout Error Rate (14.2%) × AOV$$
-
-**IFEANYI (Host)**:
-"Here is the arithmetic that destroys social seller margins.
-When an apparel store carries just 6 styles across 3 colors and 4 sizes, that is **72 unique SKUs**.
-Tracking 72 SKUs in a notebook or basic spreadsheet produces an average **14.2% variant error rate** during peak sales periods.
-If your average order value is ₦25,000 and you process 300 orders a week:
-$$300 × 14.2% = 42.6 Variant Blunders$$
-$$42.6 × ₦25,000 = ₦1,065,000 in lost revenue, refunds, and return shipping every week.$$
-Stop managing a 72-cell matrix with human memory."
-
----
-
-### [3:20 – 4:00] Scene 3: The Rewind (The 60-Second Ofia Fix)
-**[VISUAL]**: HARD REWIND SFX. Cut back to Chioma's computer screen showing **Ofia Shop Manager** (`/erp/admin/inventory`).
-
-**CHIOMA** *(smiling calmly at the screen)*:
-"Watch how simple this is."
-
-**[VISUAL]**: Screen recording demonstration:
-1. She selects product *Bellini Wrap Top*.
-2. Taps *Generate Variant Matrix*.
-3. Checks boxes for Colors (Gold, Blue, Green) and Sizes (8, 10, 12, 14).
-4. Enters batch quantities in a clean tabular grid.
-5. Hits *Publish to Storefront*.
-Instantly, the public product page (`boutique.ofia.shop/bellini`) displays dynamic variant pills. When a customer selects "Champagne Gold," only available sizes remain clickable. Sold-out sizes automatically display an "Alert Me When Restocked" button.
-
----
-
-### [4:00 – 4:15] The Close: Actionable CTA
-**[VISUAL]**: IFEANYI steps forward, tossing the spiral notebook into a recycling bin.
-
-**IFEANYI (Host)**:
-"Retire the paper notebook.
-Eliminate overselling, stop manual refunds, and protect your brand reputation.
-Configure your live variant matrix today at **ofia.ng/products**."
-
----
-
-## 60-Second TikTok / Reels Cutdown
-* **0:00 - 0:08 (Hook)**: "Still tracking clothing sizes and colors in a spiral notebook? Here is how much money you’re silently losing." *(Visual: Chioma staring in horror at an empty clothing rack).*
-* **0:09 - 0:25 (The Pain)**: "A boutique with 6 styles, 3 colors, and 4 sizes is managing 72 unique items. A paper notebook has a 14.2% error rate. That’s ₦1,000,000 in refunds and courier waste every single month."
-* **0:26 - 0:45 (The Solution)**: "Ofia Shop Manager auto-generates a multi-variant matrix in 60 seconds. Customers click color, click size, and stock deducts automatically."
-* **0:46 - 0:60 (CTA)**: "Throw away the notebook. Visit ofia.ng/products and automate your catalog today."
+| Timestamp | Visual Framing (9:16) | On-Screen Spoken Script | On-Screen Kinetic Text |
+| :--- | :--- | :--- | :--- |
+| **0:00 – 0:12** | Fast jump cuts: Viral fashion reel hits thousands of views; assistant sprints into a crowded stockroom counting hangers. | "Your fashion reel goes viral—and you still lose the sale. Why? Because 6 styles in 3 colours and 4 sizes is 72 items trapped in a paper notebook." | **THE 72-SKU TRAP**<br>Viral Views ≠ Clean Sales |
+| **0:12 – 0:24** | Split screen: WhatsApp alert on left and Instagram alert on right both paying for the last Size 10 dress; rider returning wrong-size bags. | "Shoppers vanish during 25-minute size checks. Two buyers pay for your last Size 10 dress at once. And chat screenshots lead to wrong-size returns." | **3 VARIANT BOTTLENECKS**<br>Wait Times · Double Sales · Returns |
+| **0:24 – 0:38** | Close-up on smartphone tapping clickable 'Emerald Green' and 'Size 12' buttons on an Ofia Storefront; badge flashes 'Reserved During Checkout'. | "With Ofia Storefront, buyers tap their exact colour and size, see real-time stock, and checkout automatically locks the last piece so nobody oversells." | **OFIA STOREFRONT**<br>Live Sizes · Auto Stock Locks |
+| **0:38 – 0:50** | Packing assistant views a crisp digital packing slip with garment photo, exact size code, and paid status; sold-out button shows 'Notify Me'. | "Every paid order creates a clear digital packing slip—zero guesswork—and sold-out sizes capture buyers on automatic restock waitlists." | **ZERO MIX-UPS**<br>Digital Packing Slips + Waitlists |
+| **0:50 – 1:00** | IFEANYI on camera beside the organised studio rail. Ofia logo overlay. | "Turn every viral view into an accurate order. Visit ofia.ng/products and organise your multi-variant catalogue today." | **STOP OVERSELLING**<br>👉 ofia.ng/products |

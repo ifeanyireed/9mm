@@ -66,7 +66,7 @@ Because top-line sales volume means very little if platform fees take 15% to 24%
 
 ### 2. E-Commerce Growth and Courier Costs Are Forcing Brands to Protect Their Direct Margins
 
-<img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/01/26001145/Oduwole.jpg&w=800&output=jpg" alt="Trade and Commerce Leadership Addressing E-Commerce and Logistics Expansion in Nigeria" referrerpolicy="no-referrer" loading="lazy" style="width: 100%; max-width: 720px; border-radius: 8px; margin: 16px 0;" />
+<img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2025/09/03190422/FCCPC.webp&w=800&output=jpg" alt="Federal Competition and Consumer Protection Commission oversight reinforcing fair trade and transparent merchant economics in Nigeria (Source: Punch Nigeria)" referrerpolicy="no-referrer" loading="lazy" style="width: 100%; max-width: 720px; border-radius: 8px; margin: 16px 0;" />
 
 In early 2026, [Punch Nigeria reported on how expanding e-commerce and courier activity across Nigeria](https://punchng.com/fmcg-firms-slash-finance-costs-by-n21bn/) is pushing consumer brands and manufacturers to cut unnecessary intermediary and financing costs to protect operating cash flow.
 

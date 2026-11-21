@@ -7,7 +7,7 @@
 
 Your warehouses are full of stock, but are slow manual quotes costing you major corporate contracts? Discover why Nigerian wholesale distributors lose deals to quoting delays and 10 practical fixes to send accurate B2B proposals in minutes.
 
-<img src="https://wsrv.nl/?url=https://cdn.businessday.ng/wp-content/uploads/2025/01/Transport-and-logistics-ed.jpg&w=800&output=jpg" alt="Inside a Nigerian industrial wholesale warehouse and logistics distribution hub" referrerpolicy="no-referrer" loading="lazy" style="width: 100%; max-width: 720px; border-radius: 8px; margin: 16px 0;" />
+<img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/11/19005439/UAC_1795046079.webp&w=800&output=jpg" alt="Corporate wholesale distribution and logistics infrastructure restructuring in Nigeria following UAC and TGI logistics transaction" referrerpolicy="no-referrer" loading="lazy" style="width: 100%; max-width: 720px; border-radius: 8px; margin: 16px 0;" />
 
 **Your warehouse has the stock to fulfil a fifty-million-naira order, so why is your buyer still waiting three days just to receive a price quote?**
 
@@ -271,7 +271,7 @@ Your sales team can then focus their energy on winning new large tenders and man
 
 ## How Ofia Helps Bring Your Wholesale Quoting and Inventory Together
 
-<img src="https://wsrv.nl/?url=https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2022/02/Omnibiz-Retailer-Image-1024x683.jpg&w=800&output=jpg" alt="Nigerian wholesale distributor and retail merchant inspecting carton inventory with digital B2B ordering tools" referrerpolicy="no-referrer" loading="lazy" style="width: 100%; max-width: 720px; border-radius: 8px; margin: 16px 0;" />
+<img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2025/11/05230102/Abubakar-Dantsoho.jpg&w=800&output=jpg" alt="Regional port and supply chain leadership pushing collaboration on commercial logistics efficiency across West Africa (Source: Punch Nigeria)" referrerpolicy="no-referrer" loading="lazy" style="width: 100%; max-width: 720px; border-radius: 8px; margin: 16px 0;" />
 
 Bayo's distribution business does not need more spreadsheets or longer phone calls between the sales desk and the warehouse. It needs a single system where pricing, stock, haulage and credit work together.
 

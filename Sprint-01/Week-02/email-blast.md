@@ -120,7 +120,7 @@ EDITION #43 | 19 OCTOBER 2026 | CIRCULATION: 24,000+ MERCHANTS & DIRECTORS
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
   <tr>
     <td style="width: 50px; vertical-align: middle;">
-      <img src="https://res.cloudinary.com/wnmabxiy/image/upload/v1793738590/9mm/ofia_logo.svg" alt="Ofia.ng" width="44" height="44" style="width: 44px; height: 44px; object-fit: contain; display: block;" />
+      <img src="https://res.cloudinary.com/iqwyufpt/image/upload/v1795139974/9mm/ofia_logo.svg" alt="Ofia.ng" width="44" height="44" style="width: 44px; height: 44px; object-fit: contain; display: block;" />
     </td>
     <td style="vertical-align: middle; padding-left: 12px;">
       <div style="font-size: 16px; font-weight: 800; color: #2A6BE0; line-height: 1.2;">Ofia<span style="color: #EF8B3C;">.ng</span></div>
@@ -275,7 +275,7 @@ Ofia Enterprise Growth · Victoria Island, Lagos
 <table style="width: 100%; border-collapse: collapse; margin-top: 24px; padding-top: 16px; border-top: 1px solid #E2E8F0;">
   <tr>
     <td style="width: 30px; vertical-align: middle;">
-      <img src="https://res.cloudinary.com/wnmabxiy/image/upload/v1793738590/9mm/ofia_logo.svg" alt="Ofia" width="22" height="22" style="width: 22px; height: 22px; object-fit: contain; display: block;" />
+      <img src="https://res.cloudinary.com/iqwyufpt/image/upload/v1795139974/9mm/ofia_logo.svg" alt="Ofia" width="22" height="22" style="width: 22px; height: 22px; object-fit: contain; display: block;" />
     </td>
     <td style="vertical-align: middle; padding-left: 8px;">
       <span style="font-size: 11px; font-weight: 700; color: #1E293B;">Ofia Enterprise Growth</span>

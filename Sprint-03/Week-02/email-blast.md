@@ -131,7 +131,7 @@ Unsubscribe: {{unsubscribe_url}}
 *Edition #47 · October 19, 2026 · 5-min operational read · Published by Ofia.ng (`https://www.ofia.ng`)*
 
 <div style="display: flex; align-items: center; gap: 16px; margin: 20px 0 24px 0; border-bottom: 2px solid #0F172A; padding-bottom: 16px;">
-  <img src="https://res.cloudinary.com/wnmabxiy/image/upload/v1793738590/9mm/ofia_logo.svg" alt="Ofia Logo" width="44" height="44" style="display: block; width: 44px; height: 44px;" />
+  <img src="https://res.cloudinary.com/iqwyufpt/image/upload/v1795139974/9mm/ofia_logo.svg" alt="Ofia Logo" width="44" height="44" style="display: block; width: 44px; height: 44px;" />
   <div>
     <h2 style="margin: 0; font-size: 20px; font-weight: 700; color: #0F172A; letter-spacing: -0.02em;">THE OFIA COMMERCE BRIEF</h2>
     <p style="margin: 2px 0 0 0; font-size: 13px; color: #64748B; font-weight: 500;">Transitioning from Marketplace Tenants to Sovereign First-Party Brand Owners</p>
@@ -218,7 +218,7 @@ Head of Commerce Editorial, Ofia.ng
 ### Light Executive Footer
 <div style="border-top: 1px solid #E2E8F0; padding-top: 16px; margin-top: 24px; font-size: 12px; color: #64748B;">
   <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 8px;">
-    <img src="https://res.cloudinary.com/wnmabxiy/image/upload/v1793738590/9mm/ofia_logo.svg" alt="Ofia Logo" width="22" height="22" style="display: block; width: 22px; height: 22px;" />
+    <img src="https://res.cloudinary.com/iqwyufpt/image/upload/v1795139974/9mm/ofia_logo.svg" alt="Ofia Logo" width="22" height="22" style="display: block; width: 22px; height: 22px;" />
     <span style="font-weight: 600; color: #0F172A;">Ofia Enterprise Growth</span>
   </div>
   <p style="margin: 0 0 4px 0;">Plot 14, Commercial Avenue, Sabo Yaba, Lagos, Nigeria.</p>
