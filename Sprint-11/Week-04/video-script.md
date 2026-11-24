@@ -82,7 +82,7 @@ Watch how ComplianceHub resolves this in under 90 seconds:
 *(A bright green confirmation badge flashes on screen: "TRANSACTION CTR-2026-NFIU-88491 ACKNOWLEDGED & CLEARED")*.
 
 **BARRISTER CHIOMA**:
-Now, watch tactic number ten. *(She clicks 'Export Institutional Bank Clearance Pack')*. 
+Now, watch tactic number nine. *(She clicks 'Export Institutional Bank Clearance Pack')*. 
 
 Tony, check your corporate email right now.
 
@@ -141,3 +141,12 @@ Run your diagnostic today at **compliancehub.ng/onboarding?module=hubaml**.
 **SFX**: Confident, resonant outro sonic branding; screen displays ComplianceHub logo with URL and contact details.
 
 *(Fade to Black)*
+
+---
+
+## ⚡ 60-Second Short / Reel Cutdown (TikTok / Reels / Shorts)
+
+* **[0:00 – 0:12] Hook**: "Your anchor investor wired a legitimate ₦45 million milestone on Tuesday—and by Friday morning your bank froze payroll with a Post-No-Debit hold."
+* **[0:13 – 0:28] Diagnosis**: Mr. Tony explains Section 11 of MLA 2022: the bank reported the wire to NFIU goAML in 24 hours, and BlueWater had no accredited officer or matching 7-day CTR.
+* **[0:29 – 0:46] Payoff**: "Barrister Chioma transmits the validated XML CTR in 90 seconds and exports an institutional bank clearance dossier—lifting the PND in 20 minutes."
+* **[0:47 – 0:60] CTA**: "Run your free SCUML & AML Diagnostic at compliancehub.ng/onboarding?module=hubaml."

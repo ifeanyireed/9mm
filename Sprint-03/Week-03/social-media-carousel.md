@@ -123,7 +123,7 @@ Discover the 10 practical ways independent Nigerian brands launch zero-commissio
 * **Headline:** Build Your Own Balance Sheet, Not a Platform's Fee Revenue
 * **Body:**
   Ofia Sovereign Storefront & Escrow Engine gives independent Nigerian brands zero-commission digital storefronts, built-in buyer escrow, courier tracking, and direct CRM ownership.
-* **Call to Action:** Read the full 10-fix guide and explore Ofia's independent storefront tools at www.ofia.ng/products.
+* **Call to Action:** Read all 10 fixes at https://www.ofia.ng/blog/marketplace-commissions-killing-retail-margins and explore Ofia at www.ofia.ng/products.
 * **Footer:** Slide 6/6 · Ofia Enterprise Growth Limited
 
 ---
@@ -253,7 +253,7 @@ B) Return penalty deductions from failed pay-on-delivery orders
 C) Waiting 14 to 21 days for payout settlements while suppliers want cash
 D) Not having my customers' WhatsApp numbers for repeat reorders
 
-Drop your letter below and tell us how you're handling it! 👇
+Drop your letter below and read our full 10-step margin recovery guide here: 👉 https://www.ofia.ng/blog/marketplace-commissions-killing-retail-margins 👇
 ```
 
 ---
@@ -296,9 +296,7 @@ DM us "STOREFRONT" to migrate your catalogue to a zero-commission, escrow-backed
 ```text
 You make the product, buy the packaging, and pay return fees when pay-on-delivery buyers vanish at the door.
 
-Then the marketplace takes 15% off your gross price, holds your cash for 14 days, and masks your buyers' phone numbers.
+Then the marketplace takes 15% off gross sales, freezes payouts 14 days, and masks buyer contacts.
 
-High order volume means nothing when the platform keeps nearly three-quarters of your profit.
-
-Marketplaces help shoppers discover you once. Your own zero-commission, escrow-backed storefront builds your balance sheet.
+Reclaim your margins with a zero-commission escrow storefront. Read all 10 fixes: 👉 https://www.ofia.ng/blog/marketplace-commissions-killing-retail-margins
 ```

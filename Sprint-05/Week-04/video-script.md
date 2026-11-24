@@ -77,7 +77,7 @@ It comes down to three structural vulnerabilities:
 DR. (MRS.) ALABI and MR. OKON stand before a large interactive screen running ResultsPro SchoolHub. MISS JOY is typing CA test marks on her tablet.
 
 **MISS JOY**:
-"Dr. Alabi, all 45 subject teachers across our Lekki, Ikeja, and Abuja campuses have submitted their week-by-week Continuous Assessment marks."
+"Dr. Alabi, all 85 subject teachers across our Lekki, Ikeja GRA, and Abuja campuses have submitted their week-by-week Continuous Assessment marks."
 
 **MR. OKON**:
 *(Tapping the master button on screen: 'Compile All Campus Report Cards')*

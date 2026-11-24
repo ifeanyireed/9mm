@@ -121,8 +121,8 @@ See the 10 practical fixes modern Nigerian showrooms use to convert undecided wa
 #### Slide 6: Product Bridge & Call to Action
 * **Headline:** Connect Your Showroom Floor to Online Checkout
 * **Body:**
-  Ofia POS Terminal & Omnichannel Retail ERP links your QR floor displays, tablet quotes, warehouse inventory, and split-tender checkout into one seamless system.
-* **Call to Action:** Read the full 10-fix showroom guide and explore Ofia Omnichannel ERP at www.ofia.ng/products.
+  Ofia POS Terminal & Omnichannel Retail ERP links your QR floor displays, tablet quotes, warehouse inventory, and split-tender checkout into one connected system.
+* **Call to Action:** Read all 10 fixes at https://www.ofia.ng/blog/offline-to-online-showroom-conversion-bottlenecks and explore Ofia at www.ofia.ng/products.
 * **Footer:** Slide 6/6 · Ofia Enterprise Growth Limited
 
 ---
@@ -248,7 +248,7 @@ B) Delays confirming colour or stock availability from our warehouse
 C) Single bank card limits stalling high-ticket payments at the counter
 D) Our online store doesn't match what's currently on our showroom floor
 
-Drop your letter below and let's talk solutions! 👇
+Drop your letter below and read our full 10-step showroom guide here: 👉 https://www.ofia.ng/blog/offline-to-online-showroom-conversion-bottlenecks 👇
 ```
 
 ---
@@ -290,11 +290,9 @@ DM us "SHOWROOM" to book a demo of Ofia's QR plaques, floor tablets, and omnicha
 ### B. Threads Standalone Post (<500 Characters)
 
 ```text
-You pay millions in Lekki showroom rent to bring high-intent buyers through the door—then hand undecided couples a paper business card when they go home to measure their living room.
+You pay millions in Lekki showroom rent—then hand undecided couples a paper business card they lose by Sunday.
 
-By Sunday, that card is lost in a handbag. And 80% of your weekend traffic vanishes without a trace.
+Replace paper notes with scannable QR plaques, WhatsApp spec sheets, and attributed digital wishlists.
 
-Replace paper notes with scannable QR plaques, one-tap WhatsApp spec sheets, and attributed digital wishlists.
-
-Your showroom wins their heart. Your connected checkout closes the sale from anywhere.
+Read all 10 showroom fixes: 👉 https://www.ofia.ng/blog/offline-to-online-showroom-conversion-bottlenecks
 ```

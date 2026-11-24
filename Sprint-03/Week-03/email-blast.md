@@ -1,10 +1,11 @@
-# Direct Commerce & Escrow Margin Briefing: Sprint 03 Week 03
+# The Ofia Commerce Brief: Sprint 03 Week 03
 
 ## Part 1: Subject Line Matrix
 
 * **Option 1 (Pain Hook):** The 15% marketplace commission quietly draining operating profit at {{company}}
 * **Option 2 (Curiosity / Warning Hook):** Why high order volume on marketplaces leaves razor-thin cash flow at {{company}}
 * **Option 3 (Metric / SLA Hook):** Reclaiming full retail margins and cutting payout waits at {{company}}
+* **Preview Text:** Why 15% marketplace commissions, POD return fines, and 14-day holds wipe out nearly 75% of brand profit—and how escrow storefronts fix it.
 
 ---
 
@@ -24,12 +25,10 @@ At Ofia, we built **Ofia Sovereign Storefront & Milestone Escrow Engine** so ind
 
 Are you open to seeing how Nigerian consumer brands keep 100% of their retail margin while converting first-time buyers with automated buyer escrow?
 
-Best regards,
-
-**@Ifeanyi Felix**  
+— Ifeanyi Felix  
 Head of Commerce Editorial, Ofia.ng  
-Ofia Enterprise Growth Limited  
-{{unsubscribe_url}}
+Ofia Enterprise Growth  
+Sent to {{email}} at {{company}} · [Unsubscribe]({{unsubscribe_url}})
 
 ---
 
@@ -48,12 +47,10 @@ Ofia lets you import your existing CSV catalogue in minutes, protect buyers with
 
 Would Thursday at 2:00 PM work for a brief 10-minute walkthrough tailored to {{company}}?
 
-Best regards,
-
-**@Ifeanyi Felix**  
+— Ifeanyi Felix  
 Head of Commerce Editorial, Ofia.ng  
-Ofia Enterprise Growth Limited  
-{{unsubscribe_url}}
+Ofia Enterprise Growth  
+Sent to {{email}} at {{company}} · [Unsubscribe]({{unsubscribe_url}})
 
 ---
 
@@ -76,12 +73,10 @@ We are onboarding a select cohort of independent Nigerian retail brands onto our
 
 Reply to this email if you would like to preview how your catalogue looks on a zero-commission escrow storefront this week.
 
-Warm regards,
-
-**@Ifeanyi Felix**  
+— Ifeanyi Felix  
 Head of Commerce Editorial, Ofia.ng  
-Ofia Enterprise Growth Limited  
-{{unsubscribe_url}}
+Ofia Enterprise Growth  
+Sent to {{email}} at {{company}} · [Unsubscribe]({{unsubscribe_url}})
 
 ---
 
@@ -91,19 +86,17 @@ Ofia Enterprise Growth Limited
 
 * **EDITION #23** | March 2026 | 4 Min Read | [www.ofia.ng](https://www.ofia.ng)
 
-```html
-<table width="100%" cellpadding="0" cellspacing="0" border="0" style="margin-bottom: 24px;">
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="margin-bottom: 24px; border-bottom: 2px solid #2A6BE0; padding-bottom: 16px;">
   <tr>
     <td valign="middle" style="width: 52px;">
-      <img src="https://res.cloudinary.com/iqwyufpt/image/upload/v1795139974/9mm/ofia_logo.svg" alt="Ofia Logo" width="44" height="44" style="display: block; border: 0;" />
+      <img src="https://res.cloudinary.com/iqwyufpt/image/upload/v1795139974/9mm/ofia_logo.svg" alt="Ofia Logo" width="44" height="44" style="display: block; border: 0; border-radius: 0px; object-fit: contain;" />
     </td>
     <td valign="middle" style="padding-left: 14px;">
-      <div style="font-size: 20px; font-weight: 800; color: #0f172a; letter-spacing: -0.5px; font-family: 'Dropa', sans-serif;">OFIA DIRECT COMMERCE INTELLIGENCE</div>
+      <div style="font-size: 20px; font-weight: 800; color: #1e293b; letter-spacing: -0.5px; font-family: 'Dropa', sans-serif;">THE OFIA COMMERCE BRIEF</div>
       <div style="font-size: 12px; font-weight: 600; color: #64748b; text-transform: uppercase; letter-spacing: 0.5px;">Executive Briefing on Merchant Margins, Escrow &amp; Brand Sovereignty</div>
     </td>
   </tr>
 </table>
-```
 
 ---
 
@@ -117,26 +110,26 @@ Yet at month-end—just like Zainab in our Week 03 margin teardown—the settlem
 
 *High order volume means very little if third-party fee stacks leave your working capital stranded.*
 
-In this twenty-third edition, we examine why fee transparency, platform dependency risk, and data ownership are forcing Nigerian brands to build sovereign escrow-backed storefronts—and outline ten practical steps to reclaim your margins without losing buyer trust.
+In this twenty-third edition of The Ofia Commerce Brief, we examine why Nigeria's surging digital payments ecosystem is empowering brands to build sovereign escrow-backed storefronts—and outline ten practical steps to reclaim your margins without losing buyer trust.
 
 ---
 
 ### Lead News Cover Story
 
-**HEADLINE: [FCCPC Warns DisCos Over Estimated Billing, Illegal Disconnections — The Wider Lesson on Opaque Fee Stacks for Nigerian Merchants](https://punchng.com/fccpc-warns-discos-over-estimated-billing-illegal-disconnections/)**
+**HEADLINE: [Hamzat, Flutterwave CEO Gbenga Agboola Seek Stronger Investment in Lagos Digital Economy — Why Independent Brands Must Own Direct Rails](https://nairametrics.com/2026/11/21/hamzat-gbenga-agboola-seek-stronger-corporate-investment-in-lagos-digital-economy/)**
 
 <div style="max-width: 600px; margin: 16px 0; text-align: center;">
-  <img src="https://wsrv.nl/?url=https://punchng.com/wp-content/uploads/2026/06/IMG_4487_1782817378.webp&w=800&output=jpg" alt="Federal Competition and Consumer Protection Commission regulatory leadership warning against opaque billing practices in Nigeria (Photo: Punch Nigeria)" referrerpolicy="no-referrer" style="width: 100%; height: auto; border-radius: 0px !important; display: block;" />
-  <p style="font-size: 12px; color: #64748b; margin-top: 6px; text-align: left; font-style: italic;">Regulatory scrutiny from the FCCPC over opaque billing and unfair consumer charges underscores the growing demand for transparent commercial economics across Nigeria. (Photo: Punch Nigeria)</p>
+  <img src="https://wsrv.nl/?url=https://media.nairametrics.com/wp-content/uploads/2026/11/Image-85-1.webp&w=800&output=jpg" alt="Lagos Deputy Governor Obafemi Hamzat and Flutterwave CEO Gbenga Agboola championing Lagos digital commerce infrastructure (Photo: Nairametrics)" referrerpolicy="no-referrer" style="width: 100%; height: auto; border-radius: 0px !important; display: block;" />
+  <p style="font-size: 12px; color: #64748b; margin-top: 6px; text-align: left; font-style: italic;">Lagos State leadership and Flutterwave's CEO calling for deeper investment in Nigeria's digital commerce economy—underscoring why merchants should own direct payment rails. (Photo: Nairametrics)</p>
 </div>
 
-* **Source**: Punch Nigeria · [Read Full Story →](https://punchng.com/fccpc-warns-discos-over-estimated-billing-illegal-disconnections/)
+* **Source**: Nairametrics · [Read Full Story →](https://nairametrics.com/2026/11/21/hamzat-gbenga-agboola-seek-stronger-corporate-investment-in-lagos-digital-economy/)
 
-As documented in Punch Nigeria's coverage of [the FCCPC's warning to electricity distribution companies over estimated billing and unfair charges](https://punchng.com/fccpc-warns-discos-over-estimated-billing-illegal-disconnections/) (featured photo above), tolerance for opaque intermediary deductions and unilateral penalties is collapsing across Nigeria's commercial economy. Whether dealing with utility billing or digital retail channels, operators are scrutinising every naira siphoned off before cash hits their balance sheet.
+As documented in Nairametrics' coverage of [Lagos Deputy Governor Obafemi Hamzat and Flutterwave CEO Gbenga Agboola calling for deeper corporate investment in Lagos's digital economy](https://nairametrics.com/2026/11/21/hamzat-gbenga-agboola-seek-stronger-corporate-investment-in-lagos-digital-economy/) (featured photo above), Nigeria's direct digital payments and commerce infrastructure has matured dramatically. Independent merchants no longer need to surrender control of customer checkouts to legacy marketplace middlemen just to process reliable online payments.
 
-For independent e-commerce founders selling through third-party marketplaces, the unit-economics reckoning is equally urgent. A 15% gross commission does not merely trim net profit—for a consumer brand operating on healthy 20% to 25% product margins, it consumes the majority of actual operating income while the merchant absorbs inflation in glass bottles, raw ingredients, and courier tariffs. Add doorstep pay-on-delivery rejections and two-week payout holds, and fast-growing brands frequently find themselves cash-starved despite record sales.
+For independent consumer brands still selling primarily through third-party aggregators, the unit-economics reckoning is urgent. A 15% gross commission does not merely trim net profit—for a skincare or fashion brand operating on a 22% gross margin, it consumes nearly three-quarters of actual operating income while the founder absorbs rising packaging, ingredient, and courier costs alongside 14-day settlement holds.
 
-Transitioning repeat sales to an independent storefront equipped with milestone buyer escrow restores full pricing transparency: shoppers get verified delivery protection, and founders keep their margins intact.
+Transitioning repeat sales to an independent storefront equipped with milestone buyer escrow restores full pricing transparency: shoppers get verified delivery protection, and founders keep their margins and customer records intact.
 
 > *"Marketplaces can introduce a shopper to your product once. Paying 15% commission on that same loyal buyer's fifth bottle is a tax on your own brand equity."*
 
@@ -161,21 +154,21 @@ Transitioning repeat sales to an independent storefront equipped with milestone 
   * **Source**: Punch Nigeria · [Read Full Story →](https://punchng.com/jumia-targets-affordability-in-black-friday-sales/)
   * **Operational Takeaway:** As highlighted in Punch Nigeria's retail report above, aggressive marketplace discounting campaigns compress vendor margins even further when stacked atop category commissions. Protect your unit economics by keeping single entry SKUs on marketplaces while offering exclusive multi-item bundles and refill packs solely on your direct zero-commission storefront.
 
-* **3. [Jumia Cut Losses by 38% as 2025 Revenue Hits $188.9m](https://punchng.com/jumia-cut-losses-by-38-as-2025-revenue-hits-188-9m/)**
+* **3. [Nigerian Fintech Leaders Build Direct Global Payment Rails for High-Growth Merchants](https://nairametrics.com/2026/11/22/seyi-ebenezer-meet-the-banker-building-a-global-payments-business-from-nigeria/)**
   <div style="max-width: 600px; margin: 12px 0;">
-    <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/02/10193433/Untitled.png&w=800&output=jpg" alt="Financial performance report highlighting Jumia loss reduction and marketplace monetization metrics (Photo: Punch Nigeria)" referrerpolicy="no-referrer" style="width: 100%; height: auto; border-radius: 0px !important; display: block;" />
+    <img src="https://wsrv.nl/?url=https://media.nairametrics.com/wp-content/uploads/2026/11/Media-2026-11-22T191012.569.jpg&w=800&output=jpg" alt="Nigerian fintech founder Seyi Ebenezer profiled by Nairametrics on building direct commercial payments infrastructure from Nigeria" referrerpolicy="no-referrer" style="width: 100%; height: auto; border-radius: 0px !important; display: block;" />
   </div>
-  * **Source**: Punch Nigeria · [Read Full Story →](https://punchng.com/jumia-cut-losses-by-38-as-2025-revenue-hits-188-9m/)
-  * **Operational Takeaway:** As shown in Punch Nigeria's financial coverage above, large e-commerce aggregators are prioritizing disciplined monetization and advertising revenue to narrow operating losses. For independent sellers, this confirms marketplace take rates and sponsored ad auctions will remain firm—making direct-to-consumer margin ownership an urgent boardroom priority.
+  * **Source**: Nairametrics · [Read Full Story →](https://nairametrics.com/2026/11/22/seyi-ebenezer-meet-the-banker-building-a-global-payments-business-from-nigeria/)
+  * **Operational Takeaway:** As profiled in Nairametrics' coverage pictured above, Nigerian payment innovators are removing cross-border and domestic settlement bottlenecks for independent enterprises. Brands that pair direct payment rails with milestone escrow eliminate 14-day aggregator payout freezes and keep working capital turning faster.
 
 ---
 
 ### Industry News Spotlight
 
-<div style="border: 1px solid #e2e8f0; padding: 20px; background-color: #f8fafc; margin: 24px 0;">
-  <div style="font-size: 11px; font-weight: 700; color: #2563eb; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px;">INDUSTRY SPOTLIGHT</div>
-  <div style="font-size: 16px; font-weight: 700; color: #0f172a; margin-bottom: 12px;">
-    <a href="https://punchng.com/jumia-tightens-data-governance-to-protect-consumers/" style="color: #0f172a; text-decoration: none;">Jumia Tightens Data Governance to Protect Consumers — Why First-Party Customer Ownership Belongs on Your Own Storefront</a>
+<div style="border: 1px solid #e2e8f0; border-top: 3px solid #EF8B3C; padding: 20px; background-color: #f8fafc; margin: 24px 0;">
+  <div style="font-size: 11px; font-weight: 700; color: #EF8B3C; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px;">INDUSTRY NEWS SPOTLIGHT</div>
+  <div style="font-size: 16px; font-weight: 700; color: #1e293b; margin-bottom: 12px;">
+    <a href="https://punchng.com/jumia-tightens-data-governance-to-protect-consumers/" style="color: #1e293b; text-decoration: none;">Jumia Tightens Data Governance to Protect Consumers — Why First-Party Customer Ownership Belongs on Your Own Storefront</a>
   </div>
   <div style="width: 100%; height: 180px; overflow: hidden; margin-bottom: 14px;">
     <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/02/03033331/WhatsApp-Image-2026-02-03-at-12.46.39-AM.jpeg&w=800&output=jpg" alt="E-commerce executive addressing consumer data governance and privacy controls across online marketplaces (Photo: Punch Nigeria)" referrerpolicy="no-referrer" style="width: 100%; height: 180px; object-fit: cover; border-radius: 0px !important; display: block;" />
@@ -184,7 +177,7 @@ Transitioning repeat sales to an independent storefront equipped with milestone 
     As highlighted in Punch Nigeria's report on stricter marketplace data governance pictured above, major e-commerce platforms are enforcing tighter controls over shopper contact records—meaning third-party sellers cannot access buyer phone numbers or purchase histories to nurture repeat loyalty directly. By including QR care-guide inserts inside shipments that invite customers onto your own consent-based Ofia storefront, you build a compliant first-party customer database and send zero-commission WhatsApp restock reminders directly to repeat buyers.
   </p>
   <p style="font-size: 12px; color: #64748b; margin-bottom: 0;">
-    <strong>Source:</strong> Punch Nigeria &nbsp;·&nbsp; <a href="https://punchng.com/jumia-tightens-data-governance-to-protect-consumers/" style="color: #2563eb; text-decoration: underline;">Read Full Story →</a>
+    <strong>Source:</strong> Punch Nigeria &nbsp;·&nbsp; <a href="https://punchng.com/jumia-tightens-data-governance-to-protect-consumers/" style="color: #2A6BE0; text-decoration: underline;">Read Full Story →</a>
   </p>
 </div>
 
@@ -193,15 +186,15 @@ Transitioning repeat sales to an independent storefront equipped with milestone 
 ### Primary Call to Action
 
 <div style="text-align: center; margin: 32px 0;">
-  <a href="https://www.ofia.ng/blog/marketplace-commissions-killing-retail-margins" style="background-color: #0f172a; color: #ffffff; padding: 14px 28px; font-size: 14px; font-weight: 700; text-decoration: none; display: inline-block; letter-spacing: 0.5px;">READ THE 10-STEP MARGIN RECOVERY GUIDE →</a>
+  <a href="https://www.ofia.ng/blog/marketplace-commissions-killing-retail-margins" style="background-color: #2A6BE0; color: #ffffff; padding: 14px 28px; font-size: 14px; font-weight: 700; text-decoration: none; display: inline-block; letter-spacing: 0.5px;">READ THE 10-STEP MARGIN RECOVERY GUIDE →</a>
 </div>
 
 ---
 
 ### Product Spotlight & Founding Offer
 
-<div style="border-left: 4px solid #0f172a; padding: 18px 22px; background-color: #f1f5f9; margin: 28px 0;">
-  <div style="font-size: 15px; font-weight: 800; color: #0f172a; margin-bottom: 6px;">INTRODUCING: OFIA SOVEREIGN STOREFRONT &amp; MILESTONE ESCROW ENGINE</div>
+<div style="border-left: 4px solid #2A6BE0; padding: 18px 22px; background-color: #f8fafc; border-top: 1px solid #e2e8f0; border-right: 1px solid #e2e8f0; border-bottom: 1px solid #e2e8f0; margin: 28px 0;">
+  <div style="font-size: 15px; font-weight: 800; color: #1e293b; margin-bottom: 6px;">INTRODUCING: OFIA SOVEREIGN STOREFRONT &amp; MILESTONE ESCROW ENGINE</div>
   <p style="font-size: 13px; color: #334155; line-height: 1.6; margin-bottom: 12px;">
     Launch your own zero-commission online store with built-in buyer escrow protection, fast delivery-verified settlement, and complete customer data ownership:
   </p>
@@ -210,29 +203,26 @@ Transitioning repeat sales to an independent storefront equipped with milestone 
     <li><strong>Automated Milestone Buyer Escrow:</strong> Hold buyer payments safely until doorstep delivery confirmation—slashing POD rejection penalties.</li>
     <li><strong>Fast Settlement &amp; First-Party CRM:</strong> Eliminate 14-day payout freezes and trigger zero-commission WhatsApp restock reminders.</li>
   </ul>
-  <div style="font-size: 13px; font-weight: 700; color: #0f172a; margin-bottom: 6px;">Exclusive Founding Brand Offer:</div>
+  <div style="font-size: 13px; font-weight: 700; color: #1e293b; margin-bottom: 6px;">Exclusive Founding Brand Offer:</div>
   <p style="font-size: 13px; color: #475569; line-height: 1.5; margin-bottom: 0;">
-    Enjoy complimentary CSV catalogue migration from existing marketplaces and 90 days of zero platform setup fees. <a href="https://www.ofia.ng/products" style="color: #2563eb; font-weight: 700; text-decoration: underline;">Launch Your Zero-Commission Store →</a>
+    Enjoy complimentary CSV catalogue migration from existing marketplaces and 90 days of zero platform setup fees. <a href="https://www.ofia.ng/products" style="color: #2A6BE0; font-weight: 700; text-decoration: underline;">Launch Your Zero-Commission Store →</a>
   </p>
 </div>
 
-Warm regards,
-
-**@Ifeanyi Felix**  
+**— Ifeanyi Felix**  
 Head of Commerce Editorial, Ofia.ng
 
 ---
 
 ### Light Executive Footer
 
-```html
 <table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-top: 1px solid #e2e8f0; padding-top: 20px; margin-top: 32px;">
   <tr>
     <td valign="middle" style="width: 32px;">
-      <img src="https://res.cloudinary.com/iqwyufpt/image/upload/v1795139974/9mm/ofia_logo.svg" alt="Ofia Icon" width="22" height="22" style="display: block; border: 0;" />
+      <img src="https://res.cloudinary.com/iqwyufpt/image/upload/v1795139974/9mm/ofia_logo.svg" alt="Ofia Icon" width="22" height="22" style="display: block; border: 0; border-radius: 0px;" />
     </td>
     <td valign="middle" style="padding-left: 10px; font-size: 11px; color: #64748b; font-family: 'Dropa', sans-serif;">
-      <strong>Ofia Enterprise Growth Limited</strong> · Admiralty Way, Lekki Phase 1, Lagos, Nigeria
+      <strong>Ofia Enterprise Growth</strong> · Admiralty Way, Lekki Phase 1, Lagos, Nigeria
     </td>
   </tr>
   <tr>
@@ -241,4 +231,3 @@ Head of Commerce Editorial, Ofia.ng
     </td>
   </tr>
 </table>
-```

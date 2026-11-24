@@ -116,8 +116,8 @@ Read all 10 field remedies:
 * **Headline:** Turn 90-Day Paper Backlogs Into 4-Second Live Audits
 * **Body:**
   ResultsPro Institutional Quality Assurance Suite connects every field inspector directly to executive GIS dashboards—protecting students, revenue, and legislative accountability.
-* **Call to Action:** Read all 10 field remedies and request an institutional demo at www.resultspro.ng/products.
-* **Footer:** Slide 6/6 · ResultsPro Technologies Limited
+* **Call to Action:** Read all 10 field remedies at https://www.resultspro.ng/blog/public-sector-inspection-data-bottlenecks and schedule a demo at www.resultspro.ng/solutions.
+* **Footer:** Slide 6/6 · ResultsPro Educational Support
 
 ---
 
@@ -189,9 +189,9 @@ Read all 10 field remedies for modernizing state inspection telemetry:
 ### B. Standalone Punchy Tweet (<280 Characters)
 
 ```text
-Over 18% of paper school inspection forms vanish in transit—and the rest take 90 days to reach headquarters. In public governance, delayed data equals no data.
+18% of paper school inspection forms vanish in transit—and the rest take 90 days to reach headquarters. Delayed data equals no data.
 
-See 10 offline-first field remedies for state inspectorates:
+10 offline-first field remedies for state inspectorates:
 👉 https://www.resultspro.ng/blog/public-sector-inspection-data-bottlenecks
 ```
 
@@ -237,7 +237,8 @@ B) Waiting months for zonal summaries to reach the Commissioner's desk
 C) Following up to confirm whether schools actually fixed flagged hazards
 D) Spotting forged paper approval certificates at unaccredited academies
 
-Drop your letter below and share what tools would help your field team most! 👇
+Drop your letter below—and read all 10 offline-first field remedies in our full guide:
+👉 https://www.resultspro.ng/blog/public-sector-inspection-data-bottlenecks 👇
 ```
 
 ---
@@ -276,7 +277,9 @@ DM us "TELEMETRY" to schedule a confidential walkthrough for your ministry or SU
 ### B. Threads Standalone Post (<500 Characters)
 
 ```text
-A cracked classroom roof flagged on a paper inspection form that sits un-transcribed in a zonal filing cabinet for 90 days puts students at risk just as surely as never inspecting the school at all.
+A cracked classroom roof noted on a paper form that sits un-transcribed in a zonal cabinet for 90 days puts students at risk just like never inspecting the school at all.
 
-Offline-first mobile inspection tablets + GPS-geotagged photos + automated 30-day remediation tickets turn a 90-day paper blindfold into 4-second live school protection.
+Offline-first tablets + GPS photos + automated 30-day tickets turn a 90-day blindfold into 4-second live oversight.
+
+Read all 10 field remedies: https://www.resultspro.ng/blog/public-sector-inspection-data-bottlenecks
 ```

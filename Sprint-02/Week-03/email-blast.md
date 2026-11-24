@@ -1,10 +1,11 @@
-# B2B Supply Chain & Wholesale Intelligence Briefing: Sprint 02 Week 03
+# The Ofia Commerce Brief: Sprint 02 Week 03
 
 ## Part 1: Subject Line Matrix
 
 * **Option 1 (Pain Hook):** The 48-hour manual quoting delay costing enterprise contracts at {{company}}
 * **Option 2 (Curiosity / Warning Hook):** Why outdated haulage sheets and depot phone calls silently kill margins at {{company}}
 * **Option 3 (Metric / SLA Hook):** Turning 3-day B2B RFQ turnaround into 5-minute verified pro-forma quotes at {{company}}
+* **Preview Text:** Why 48-hour depot phone tag and outdated haulage sheets cost Nigerian wholesale distributors ₦50M contracts—and 10 fixes to quote in minutes.
 
 ---
 
@@ -26,12 +27,10 @@ At Ofia, we built **Ofia Inventory IMS & Dynamic B2B Quoter** so your sales desk
 
 Are you open to seeing how Nigerian industrial suppliers and wholesale distributors turn multi-day RFQs into same-hour confirmed orders?
 
-Best regards,
-
-**@Ifeanyi Felix**  
+— Ifeanyi Felix  
 Head of Commerce Editorial, Ofia.ng  
-Ofia Enterprise Growth Limited  
-{{unsubscribe_url}}
+Ofia Enterprise Growth  
+Sent to {{email}} at {{company}} · [Unsubscribe]({{unsubscribe_url}})
 
 ---
 
@@ -52,12 +51,10 @@ Ofia connects multi-depot stock visibility, timed 24-to-48-hour soft inventory h
 
 Would Thursday at 2:00 PM work for a focused 10-minute walkthrough tailored to {{company}}'s warehouse and quoting workflow?
 
-Best regards,
-
-**@Ifeanyi Felix**  
+— Ifeanyi Felix  
 Head of Commerce Editorial, Ofia.ng  
-Ofia Enterprise Growth Limited  
-{{unsubscribe_url}}
+Ofia Enterprise Growth  
+Sent to {{email}} at {{company}} · [Unsubscribe]({{unsubscribe_url}})
 
 ---
 
@@ -80,12 +77,10 @@ We are onboarding a select cohort of Nigerian B2B distributors onto our **Ofia F
 
 Reply to this email if you would like to test a live B2B quote workflow using five of your actual wholesale SKUs this week.
 
-Warm regards,
-
-**@Ifeanyi Felix**  
+— Ifeanyi Felix  
 Head of Commerce Editorial, Ofia.ng  
-Ofia Enterprise Growth Limited  
-{{unsubscribe_url}}
+Ofia Enterprise Growth  
+Sent to {{email}} at {{company}} · [Unsubscribe]({{unsubscribe_url}})
 
 ---
 
@@ -95,19 +90,17 @@ Ofia Enterprise Growth Limited
 
 * **EDITION #13** | February 2026 | 4 Min Read | [www.ofia.ng](https://www.ofia.ng)
 
-```html
-<table width="100%" cellpadding="0" cellspacing="0" border="0" style="margin-bottom: 24px;">
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="margin-bottom: 24px; border-bottom: 2px solid #2A6BE0; padding-bottom: 16px;">
   <tr>
     <td valign="middle" style="width: 52px;">
-      <img src="https://res.cloudinary.com/iqwyufpt/image/upload/v1795139974/9mm/ofia_logo.svg" alt="Ofia Logo" width="44" height="44" style="display: block; border: 0;" />
+      <img src="https://res.cloudinary.com/iqwyufpt/image/upload/v1795139974/9mm/ofia_logo.svg" alt="Ofia Logo" width="44" height="44" style="display: block; border: 0; border-radius: 0px; object-fit: contain;" />
     </td>
     <td valign="middle" style="padding-left: 14px;">
-      <div style="font-size: 20px; font-weight: 800; color: #0f172a; letter-spacing: -0.5px; font-family: 'Dropa', sans-serif;">OFIA B2B SUPPLY CHAIN INTELLIGENCE</div>
+      <div style="font-size: 20px; font-weight: 800; color: #1e293b; letter-spacing: -0.5px; font-family: 'Dropa', sans-serif;">THE OFIA COMMERCE BRIEF</div>
       <div style="font-size: 12px; font-weight: 600; color: #64748b; text-transform: uppercase; letter-spacing: 0.5px;">Executive Briefing for Wholesale Distributors &amp; Industrial Suppliers</div>
     </td>
   </tr>
 </table>
-```
 
 ---
 
@@ -121,7 +114,7 @@ Yet behind the sales desk—just like Bayo's distribution company in our latest 
 
 Worse still, when a junior clerk quotes an interstate order using last month's haulage sheet, rising transport costs wipe out the order's entire margin.
 
-In this thirteenth edition, we examine why transport inefficiencies and freight volatility are reshaping Nigerian wholesale pricing, review key supply-chain shifts across regional trade, and share ten practical ways to turn your quoting desk from a three-day bottleneck into your sharpest competitive advantage.
+In this thirteenth edition of The Ofia Commerce Brief, we examine why transport inefficiencies and freight volatility are reshaping Nigerian wholesale pricing, review key supply-chain shifts across regional trade, and share ten practical ways to turn your quoting desk from a three-day bottleneck into your sharpest competitive advantage.
 
 ---
 
@@ -158,28 +151,28 @@ Modern corporate buyers expect immediate clarity: live confirmed depot availabil
   * **Source**: Punch Nigeria · [Read Full Story →](https://punchng.com/ops-identifies-sectors-to-attract-more-uae-investments/)
   * **Operational Takeaway:** As pictured in Punch Nigeria's coverage above, Nigeria's Organised Private Sector is actively courting institutional capital across trade, manufacturing, and supply-chain infrastructure. Wholesale distributors seeking large corporate and international contractor accounts must retire handwritten RFQs in favour of interactive digital quotes, transparent credit controls, and clean audit trails.
 
-* **2. [China Pulls Out of Sri Lanka Port Logistics Venture](https://punchng.com/china-pulls-out-of-sri-lanka-port-logistics-venture/)**
+* **2. [UAC Completes Sale of 43% Stake in DP World Logistics to TGI Group](https://nairametrics.com/2026/11/18/uac-completes-sale-of-43-stake-in-dp-world-logistics-to-tgi-group/)**
   <div style="max-width: 600px; margin: 12px 0;">
-    <img src="https://wsrv.nl/?url=https://punchng.com/wp-content/uploads/2026/06/china-4594413_1280.webp&w=800&output=jpg" alt="Global maritime port container terminal and international supply chain logistics infrastructure (Photo: Punch Nigeria)" referrerpolicy="no-referrer" style="width: 100%; height: auto; border-radius: 0px !important; display: block;" />
+    <img src="https://wsrv.nl/?url=https://media.nairametrics.com/wp-content/uploads/2026/10/UACN-1.jpg&w=800&output=jpg" alt="UAC of Nigeria corporate commercial logistics restructuring transaction covered by Nairametrics" referrerpolicy="no-referrer" style="width: 100%; height: auto; border-radius: 0px !important; display: block;" />
   </div>
-  * **Source**: Punch Nigeria · [Read Full Story →](https://punchng.com/china-pulls-out-of-sri-lanka-port-logistics-venture/)
-  * **Operational Takeaway:** As illustrated in Punch Nigeria's global maritime report above, abrupt shifts in international port logistics ventures underline how quickly import lead times and landed replacement costs can change. Distributors must place timed 24-to-48-hour soft holds on quoted stock so unconfirmed RFQs never lock up scarce imported inventory indefinitely.
+  * **Source**: Nairametrics · [Read Full Story →](https://nairametrics.com/2026/11/18/uac-completes-sale-of-43-stake-in-dp-world-logistics-to-tgi-group/)
+  * **Operational Takeaway:** As reported in Nairametrics' coverage pictured above, major Nigerian conglomerates including UAC and TGI Group are actively consolidating third-party logistics capacity. Independent distributors competing alongside institutional conglomerates must place timed 24-to-48-hour soft holds on quoted stock so unconfirmed RFQs never lock up high-velocity inventory indefinitely.
 
-* **3. [INEC Begins Early Logistics Planning for 2027 Elections](https://punchng.com/inec-begins-early-logistics-planning-for-2027-elections/)**
+* **3. [Dangote, Afreximbank Partner Gento on Proposed Regional Deep-Sea Port](https://nairametrics.com/2026/11/22/dangote-afreximbank-partner-gento-on-proposed-sierra-leone-seaport/)**
   <div style="max-width: 600px; margin: 12px 0;">
-    <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/09/23223247/INEC_1790199167.webp&w=800&output=jpg" alt="National institutional logistics planning and multi-state distribution coordination across Nigeria (Photo: Punch Nigeria)" referrerpolicy="no-referrer" style="width: 100%; height: auto; border-radius: 0px !important; display: block;" />
+    <img src="https://wsrv.nl/?url=https://media.nairametrics.com/wp-content/uploads/2026/11/Gento.jpg&w=800&output=jpg" alt="Dangote Group, Afreximbank, and Gento Group executives signing regional West African deep-sea port MoU (Photo: Nairametrics)" referrerpolicy="no-referrer" style="width: 100%; height: auto; border-radius: 0px !important; display: block;" />
   </div>
-  * **Source**: Punch Nigeria · [Read Full Story →](https://punchng.com/inec-begins-early-logistics-planning-for-2027-elections/)
-  * **Operational Takeaway:** As reported in Punch Nigeria's briefing above, nationwide institutional logistics mobilisation inevitably tightens commercial fleet capacity across major Nigerian haulage routes. Wholesale operations with automated multi-depot split fulfilment can route orders from the closest stocked warehouse, slashing transit distances and keeping enterprise SLAs intact.
+  * **Source**: Nairametrics · [Read Full Story →](https://nairametrics.com/2026/11/22/dangote-afreximbank-partner-gento-on-proposed-sierra-leone-seaport/)
+  * **Operational Takeaway:** As captured in Nairametrics' maritime infrastructure coverage above, West African industrial leaders are scaling cross-border port and bulk-cargo corridors. Multi-depot wholesale operations with automated split-warehouse fulfilment can route enterprise orders from the closest stocked facility, slashing transit distances and keeping SLAs intact.
 
 ---
 
 ### Industry News Spotlight
 
-<div style="border: 1px solid #e2e8f0; padding: 20px; background-color: #f8fafc; margin: 24px 0;">
-  <div style="font-size: 11px; font-weight: 700; color: #2563eb; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px;">INDUSTRY SPOTLIGHT</div>
-  <div style="font-size: 16px; font-weight: 700; color: #0f172a; margin-bottom: 12px;">
-    <a href="https://punchng.com/otl-to-host-african-energy-supply-investment-talks/" style="color: #0f172a; text-decoration: none;">OTL to Host African Energy Supply, Investment Talks — Why Fuel Dynamics Demand Dynamic B2B Freight Quoting</a>
+<div style="border: 1px solid #e2e8f0; border-top: 3px solid #EF8B3C; padding: 20px; background-color: #f8fafc; margin: 24px 0;">
+  <div style="font-size: 11px; font-weight: 700; color: #EF8B3C; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px;">INDUSTRY NEWS SPOTLIGHT</div>
+  <div style="font-size: 16px; font-weight: 700; color: #1e293b; margin-bottom: 12px;">
+    <a href="https://punchng.com/otl-to-host-african-energy-supply-investment-talks/" style="color: #1e293b; text-decoration: none;">OTL to Host African Energy Supply, Investment Talks — Why Fuel Dynamics Demand Dynamic B2B Freight Quoting</a>
   </div>
   <div style="width: 100%; height: 180px; overflow: hidden; margin-bottom: 14px;">
     <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/10/15072538/OTL_1792045538.webp&w=800&output=jpg" alt="OTL Africa Downstream Energy Supply stakeholders convened for regional fuel and logistics discussions (Photo: Punch Nigeria)" referrerpolicy="no-referrer" style="width: 100%; height: 180px; object-fit: cover; border-radius: 0px !important; display: block;" />
@@ -188,7 +181,7 @@ Modern corporate buyers expect immediate clarity: live confirmed depot availabil
     As shown in Punch Nigeria's coverage of OTL Africa's downstream energy supply forum above, fuel supply chain economics sit at the core of commercial distribution across West Africa. Whenever diesel and haulage rates fluctuate, wholesalers relying on manually typed delivery fees absorb painful margin shocks on bulk interstate shipments. Linking SKU weights directly to updatable regional freight rate tables—backed by automated margin-floor approval rules—guarantees every pro-forma quote reflects real-world transport costs on the exact day it is issued.
   </p>
   <p style="font-size: 12px; color: #64748b; margin-bottom: 0;">
-    <strong>Source:</strong> Punch Nigeria &nbsp;·&nbsp; <a href="https://punchng.com/otl-to-host-african-energy-supply-investment-talks/" style="color: #2563eb; text-decoration: underline;">Read Full Story →</a>
+    <strong>Source:</strong> Punch Nigeria &nbsp;·&nbsp; <a href="https://punchng.com/otl-to-host-african-energy-supply-investment-talks/" style="color: #2A6BE0; text-decoration: underline;">Read Full Story →</a>
   </p>
 </div>
 
@@ -197,15 +190,15 @@ Modern corporate buyers expect immediate clarity: live confirmed depot availabil
 ### Primary Call to Action
 
 <div style="text-align: center; margin: 32px 0;">
-  <a href="https://www.ofia.ng/blog/manual-b2b-quoting-bottlenecks-enterprise-contracts" style="background-color: #0f172a; color: #ffffff; padding: 14px 28px; font-size: 14px; font-weight: 700; text-decoration: none; display: inline-block; letter-spacing: 0.5px;">READ THE 10-STEP B2B QUOTING PLAYBOOK →</a>
+  <a href="https://www.ofia.ng/blog/manual-b2b-quoting-bottlenecks-enterprise-contracts" style="background-color: #2A6BE0; color: #ffffff; padding: 14px 28px; font-size: 14px; font-weight: 700; text-decoration: none; display: inline-block; letter-spacing: 0.5px;">READ THE 10-STEP B2B QUOTING PLAYBOOK →</a>
 </div>
 
 ---
 
 ### Product Spotlight & Founding Offer
 
-<div style="border-left: 4px solid #0f172a; padding: 18px 22px; background-color: #f1f5f9; margin: 28px 0;">
-  <div style="font-size: 15px; font-weight: 800; color: #0f172a; margin-bottom: 6px;">INTRODUCING: OFIA INVENTORY IMS &amp; DYNAMIC B2B QUOTER</div>
+<div style="border-left: 4px solid #2A6BE0; padding: 18px 22px; background-color: #f8fafc; border-top: 1px solid #e2e8f0; border-right: 1px solid #e2e8f0; border-bottom: 1px solid #e2e8f0; margin: 28px 0;">
+  <div style="font-size: 15px; font-weight: 800; color: #1e293b; margin-bottom: 6px;">INTRODUCING: OFIA INVENTORY IMS &amp; DYNAMIC B2B QUOTER</div>
   <p style="font-size: 13px; color: #334155; line-height: 1.6; margin-bottom: 12px;">
     Unite your sales desk, multi-location warehouses, freight rate sheets, and credit ledger in one high-velocity B2B platform engineered for Nigerian distributors:
   </p>
@@ -214,29 +207,26 @@ Modern corporate buyers expect immediate clarity: live confirmed depot availabil
     <li><strong>Automated Pricing Tiers &amp; Freight Tables:</strong> Apply customer volume discounts and weight-indexed haulage surcharges with zero manual spreadsheets.</li>
     <li><strong>Credit Checks &amp; Self-Service B2B Portal:</strong> Verify aging balances automatically and let approved corporate buyers reorder 24/7.</li>
   </ul>
-  <div style="font-size: 13px; font-weight: 700; color: #0f172a; margin-bottom: 6px;">Exclusive Founding Distributor Offer:</div>
+  <div style="font-size: 13px; font-weight: 700; color: #1e293b; margin-bottom: 6px;">Exclusive Founding Distributor Offer:</div>
   <p style="font-size: 13px; color: #475569; line-height: 1.5; margin-bottom: 0;">
-    Receive complimentary multi-warehouse catalog migration, freight matrix setup, and 90 days of zero platform setup fees. <a href="https://www.ofia.ng/products" style="color: #2563eb; font-weight: 700; text-decoration: underline;">Book Your B2B Quoter Demo →</a>
+    Receive complimentary multi-warehouse catalog migration, freight matrix setup, and 90 days of zero platform setup fees. <a href="https://www.ofia.ng/products" style="color: #2A6BE0; font-weight: 700; text-decoration: underline;">Book Your B2B Quoter Demo →</a>
   </p>
 </div>
 
-Warm regards,
-
-**@Ifeanyi Felix**  
+**— Ifeanyi Felix**  
 Head of Commerce Editorial, Ofia.ng
 
 ---
 
 ### Light Executive Footer
 
-```html
 <table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-top: 1px solid #e2e8f0; padding-top: 20px; margin-top: 32px;">
   <tr>
     <td valign="middle" style="width: 32px;">
-      <img src="https://res.cloudinary.com/iqwyufpt/image/upload/v1795139974/9mm/ofia_logo.svg" alt="Ofia Icon" width="22" height="22" style="display: block; border: 0;" />
+      <img src="https://res.cloudinary.com/iqwyufpt/image/upload/v1795139974/9mm/ofia_logo.svg" alt="Ofia Icon" width="22" height="22" style="display: block; border: 0; border-radius: 0px;" />
     </td>
     <td valign="middle" style="padding-left: 10px; font-size: 11px; color: #64748b; font-family: 'Dropa', sans-serif;">
-      <strong>Ofia Enterprise Growth Limited</strong> · Admiralty Way, Lekki Phase 1, Lagos, Nigeria
+      <strong>Ofia Enterprise Growth</strong> · Admiralty Way, Lekki Phase 1, Lagos, Nigeria
     </td>
   </tr>
   <tr>
@@ -245,4 +235,3 @@ Head of Commerce Editorial, Ofia.ng
     </td>
   </tr>
 </table>
-```

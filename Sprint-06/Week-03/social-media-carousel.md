@@ -121,8 +121,8 @@ Read all 10 practical ways to modernise university grading, broadsheets, and tra
 * **Headline:** Let Your Senate Focus on Academic Standards
 * **Body:**
   ResultsPro ExamsPro & Tertiary Registry ERP connects exam script tracking, CCMAS broadsheets, Senate audit trails, and instant QR-verified transcripts into one trusted institutional ledger.
-* **Call to Action:** Read the full 10-fix operational teardown and schedule a Senate demonstration at www.resultspro.ng.
-* **Footer:** Slide 6/6 · ResultsPro Technologies Limited
+* **Call to Action:** Read all 10 fixes at https://www.resultspro.ng/blog/university-transcript-grading-bottlenecks and schedule a demo at www.resultspro.ng/solutions.
+* **Footer:** Slide 6/6 · ResultsPro Educational Support
 
 ---
 
@@ -195,7 +195,7 @@ Read all 10 practical fixes for tertiary grading and transcripts:
 ### B. Standalone Punchy Tweet (<280 Characters)
 
 ```text
-Your graduates worked four years for their degrees. Why does it still take six weeks of digging through basement cabinets just to send their transcript to a scholarship board?
+Graduates spend 4 years earning degrees—why wait 6 weeks for basement transcript files?
 
 Fix university grading & transcripts in 10 steps:
 👉 https://www.resultspro.ng/blog/university-transcript-grading-bottlenecks
@@ -246,7 +246,7 @@ B) Replacing departmental Excel broadsheets with automated CGPA calculation
 C) Cutting alumni transcript turnaround from weeks to minutes
 D) Digitising legacy paper broadsheets for older graduating sets
 
-Drop your letter below—we would love to hear your perspective! 👇
+Drop your letter below and read our full 10-step tertiary grading & transcript guide here: 👉 https://www.resultspro.ng/blog/university-transcript-grading-bottlenecks 👇
 ```
 
 ---
@@ -285,7 +285,7 @@ DM us "EXAMSPRO" to book an executive demonstration for your university, polytec
 ### B. Threads Standalone Post (<500 Characters)
 
 ```text
-Nothing undermines a university's global reputation faster than a brilliant graduate missing an international scholarship deadline because clerks spent six weeks digging through basement cabinets for a 100-level score sheet.
+Nothing hurts a university's global standing faster than an alumnus missing a scholarship deadline over a 6-week basement transcript search.
 
-When barcode script tracking, direct cloud score entry, automated NUC CCMAS broadsheets, and QR-verified transcripts run on one ledger, Senate meetings stay decisive and alumni move worldwide without friction.
+Connect barcode script tracking, CCMAS broadsheets, and QR transcripts. Read all 10 fixes: 👉 https://www.resultspro.ng/blog/university-transcript-grading-bottlenecks
 ```

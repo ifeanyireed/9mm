@@ -6,7 +6,7 @@
 * **Target Runtime**: ~4:15 (~630 spoken words at 140 WPM)
 * **Cast**: Host (@Ifeanyi Felix), Yemi (Owner, Casa Bella Living Furniture Showroom), Blessing (Floor Cashier / Store Supervisor), Customer (Phone Voiceover)
 * **Brand in the Skit**: Casa Bella Living (Victoria Island Luxury Showroom)
-* **Product Pitched**: **Ofia Smart Cloud POS & Real-Time Omnichannel ERP Sync** (`/erp/admin/pos`, `https://www.ofia.ng/products`)
+* **Product Pitched**: **Ofia Smart Cloud POS & Real-Time Omnichannel ERP Sync** (`https://www.ofia.ng/products`)
 
 ---
 
@@ -31,7 +31,7 @@
 A walk-in customer in your Victoria Island showroom swipes their card to buy the very last imported marble dining table on the floor.
 At the exact same second, a customer in Abuja buys that exact same dining table on your website.
 Your offline POS terminal doesn't talk to your online e-commerce website.
-You just double-sold a ₦2,500,000 piece of furniture.
+You just double-sold a ₦2,800,000 piece of furniture.
 Now you have to make the humiliating phone call:
 *'Sorry ma, our website had a technical glitch... we have to refund you.'*
 Welcome to the Omnichannel Inventory Divide—and today, we are taking you behind the scenes to show you how we solved it with Ofia's 200-millisecond stock lock."

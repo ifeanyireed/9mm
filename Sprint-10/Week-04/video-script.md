@@ -142,3 +142,12 @@ Visit **compliancehub.ng/onboarding?module=hubcalendar** today.
 * *Public Procurement Governance & Statutory Quad Synchronization*
 * FCT Abuja & Victoria Island, Lagos
 * Link: `www.compliancehub.ng/onboarding?module=hubcalendar`
+
+---
+
+## ⚡ 60-Second Short / Reel Cutdown (TikTok / Reels / Shorts)
+
+* **[0:00 – 0:12] Hook**: "Sixty engineering contractors walk into an Abuja tender hall. Thirty minutes later, forty-five are disqualified before anyone checks their price."
+* **[0:13 – 0:28] Diagnosis**: Dr. Usman disqualifies two rivals in seconds over a PenCom vs. audited accounts headcount mismatch and an expired December 31st ITF certificate.
+* **[0:29 – 0:46] Payoff**: "Lekki Consortium scans green across PenCom, ITF, NSITF, FIRS TCC, and BPP IRR—one locked master payroll, 300 DPI QR seals, and November 1st renewals."
+* **[0:47 – 0:60] CTA**: "Run a free 5-minute Statutory Tender Diagnostic at compliancehub.ng/onboarding?module=hubcalendar."

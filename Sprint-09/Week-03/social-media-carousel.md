@@ -116,7 +116,7 @@ Read all 10 boardroom regularization fixes:
 * **Headline:** Align Your Boardroom and Public Register Cleanly
 * **Body:**
   ComplianceHub Post-Incorporation Regularization Engine reconciles CAC Status Reports, clears director and share arrears, and eliminates bank KYC freezes permanently.
-* **Call to Action:** Claim your Corporate Compliance Audit at www.compliancehub.ng/corporate-audit.
+* **Call to Action:** Read all 10 boardroom fixes at https://www.compliancehub.ng/blog/boardroom-deadlock-unrecorded-director-changes-cac-kyc and claim your Corporate Audit at www.compliancehub.ng/corporate-audit.
 * **Footer:** Slide 6/6 · ComplianceHub Regulatory Technologies Limited
 
 ---
@@ -196,9 +196,9 @@ Read all 10 boardroom regularization fixes:
 ### B. Standalone Punchy Tweet (<280 Characters)
 
 ```text
-Unfiled director resignations (Form CAC 7A), unregistered share allotments (Form CAC 2A), and outdated office addresses (Form CAC 3) trigger sudden commercial bank BVN freezes under CAMA 2020.
+Unfiled Form CAC 7A, 2A, and 3 changes trigger sudden bank BVN freezes under CAMA 2020.
 
-See 10 fixes for the boardroom deadlock:
+10 fixes to clear your boardroom deadlock:
 👉 https://www.compliancehub.ng/blog/boardroom-deadlock-unrecorded-director-changes-cac-kyc
 ```
 
@@ -242,7 +242,8 @@ B) Unfiled equity allotments & unpaid FIRS stamp duty (Form CAC 2A)
 C) Director name mismatches between CAC records and NIBSS BVN/NIN
 D) Outdated registered office addresses (Form CAC 3)
 
-Drop your letter below and share how your team handled it! 👇
+Drop your letter below—and read all 10 CAMA 2020 regularization fixes here:
+👉 https://www.compliancehub.ng/blog/boardroom-deadlock-unrecorded-director-changes-cac-kyc 👇
 ```
 
 ---
@@ -281,7 +282,9 @@ DM us "STATUS" to claim your complimentary CAC Post-Incorporation Audit!
 ### B. Threads Standalone Post (<500 Characters)
 
 ```text
-In Nigeria's automated banking era, signed board minutes inside your conference room cannot stop a commercial bank debit freeze.
+In Nigeria's automated banking era, signed board minutes cannot stop a commercial bank debit freeze.
 
-If your live CAC Electronic Status Report still lists a resigned director, omits an equity allotment, or contradicts NIBSS BVN records, automated KYC switches will lock your mandates before your next drawdown. Audit your live Status Report before the bank does.
+If your live CAC Electronic Status Report still lists a resigned director, omits an equity allotment, or conflicts with NIBSS BVN records, KYC switches lock mandates before drawdown.
+
+Read all 10 fixes: https://www.compliancehub.ng/blog/boardroom-deadlock-unrecorded-director-changes-cac-kyc
 ```

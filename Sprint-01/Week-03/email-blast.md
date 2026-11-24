@@ -1,10 +1,11 @@
-# Social Commerce & Variant Intelligence Briefing: Sprint 01 Week 03
+# The Ofia Commerce Brief: Sprint 01 Week 03
 
 ## Part 1: Subject Line Matrix
 
 * **Option 1 (Pain Hook):** The manual size-and-colour bottleneck costing viral sales at {{company}}
 * **Option 2 (Curiosity / Warning Hook):** Why viral Instagram drops turn into stockroom chaos at {{company}}
 * **Option 3 (Metric / SLA Hook):** Eliminating double-sold variants and wrong-size returns at {{company}}
+* **Preview Text:** Why 6 styles in 3 colours and 4 sizes turn viral reels into 72-SKU stockroom chaos—and the 10-step fix for Nigerian social brands.
 
 ---
 
@@ -26,12 +27,10 @@ At Ofia, we built **Ofia Shop Manager & Multi-Variant Storefront** so shoppers t
 
 Are you open to seeing how growing Nigerian apparel and beauty brands turn viral views into error-free orders without hiring extra DM assistants?
 
-Best regards,
-
-**@Ifeanyi Felix**  
+— Ifeanyi Felix  
 Head of Commerce Editorial, Ofia.ng  
-Ofia Enterprise Growth Limited  
-{{unsubscribe_url}}
+Ofia Enterprise Growth  
+Sent to {{email}} at {{company}} · [Unsubscribe]({{unsubscribe_url}})
 
 ---
 
@@ -52,12 +51,10 @@ Ofia replaces scattered chat notes with a structured multi-variant catalogue, re
 
 Would Thursday at 2:00 PM work for a quick 10-minute walkthrough of how Ofia organises multi-size catalogues for {{company}}?
 
-Best regards,
-
-**@Ifeanyi Felix**  
+— Ifeanyi Felix  
 Head of Commerce Editorial, Ofia.ng  
-Ofia Enterprise Growth Limited  
-{{unsubscribe_url}}
+Ofia Enterprise Growth  
+Sent to {{email}} at {{company}} · [Unsubscribe]({{unsubscribe_url}})
 
 ---
 
@@ -80,12 +77,10 @@ We are currently onboarding a select group of growing social commerce and appare
 
 Reply to this email if you would like us to map out a live multi-variant demo catalogue for your next collection drop.
 
-Warm regards,
-
-**@Ifeanyi Felix**  
+— Ifeanyi Felix  
 Head of Commerce Editorial, Ofia.ng  
-Ofia Enterprise Growth Limited  
-{{unsubscribe_url}}
+Ofia Enterprise Growth  
+Sent to {{email}} at {{company}} · [Unsubscribe]({{unsubscribe_url}})
 
 ---
 
@@ -95,19 +90,17 @@ Ofia Enterprise Growth Limited
 
 * **EDITION #03** | January 2026 | 4 Min Read | [www.ofia.ng](https://www.ofia.ng)
 
-```html
-<table width="100%" cellpadding="0" cellspacing="0" border="0" style="margin-bottom: 24px;">
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="margin-bottom: 24px; border-bottom: 2px solid #2A6BE0; padding-bottom: 16px;">
   <tr>
     <td valign="middle" style="width: 52px;">
-      <img src="https://res.cloudinary.com/iqwyufpt/image/upload/v1795139974/9mm/ofia_logo.svg" alt="Ofia Logo" width="44" height="44" style="display: block; border: 0;" />
+      <img src="https://res.cloudinary.com/iqwyufpt/image/upload/v1795139974/9mm/ofia_logo.svg" alt="Ofia Logo" width="44" height="44" style="display: block; border: 0; border-radius: 0px; object-fit: contain;" />
     </td>
     <td valign="middle" style="padding-left: 14px;">
-      <div style="font-size: 20px; font-weight: 800; color: #0f172a; letter-spacing: -0.5px; font-family: 'Dropa', sans-serif;">OFIA COMMERCE INTELLIGENCE</div>
+      <div style="font-size: 20px; font-weight: 800; color: #1e293b; letter-spacing: -0.5px; font-family: 'Dropa', sans-serif;">THE OFIA COMMERCE BRIEF</div>
       <div style="font-size: 12px; font-weight: 600; color: #64748b; text-transform: uppercase; letter-spacing: 0.5px;">Executive Briefing for High-Velocity Social &amp; Retail Brands</div>
     </td>
   </tr>
 </table>
-```
 
 ---
 
@@ -121,7 +114,7 @@ From the outside, the drop looks like an unqualified triumph. Yet behind the sce
 
 The lesson is clear: *your social media marketing is moving at digital speed, while manual variant tracking is holding your revenue hostage.*
 
-In this third edition of Ofia Commerce Intelligence, we examine Nigeria's expanding e-commerce inclusion wave, unpack why variant accuracy sits at the heart of online buyer trust, and share the ten-step architectural playbook to turn viral product drops into smooth, error-free fulfilment.
+In this third edition of The Ofia Commerce Brief, we examine Nigeria's expanding e-commerce inclusion wave, unpack why variant accuracy sits at the heart of online buyer trust, and share the ten-step architectural playbook to turn viral product drops into smooth, error-free fulfilment.
 
 ---
 
@@ -156,14 +149,14 @@ Shoppers entering Nigeria's digital economy expect the same self-service speed t
     <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/04/15055835/WhatsApp-Image-2026-04-15-at-4.19.04-AM.jpeg&w=800&output=jpg" alt="Nigeria gig economy and e-commerce last-mile logistics operations reaching $5.17 billion as reported by Punch Nigeria" referrerpolicy="no-referrer" style="width: 100%; height: auto; border-radius: 0px !important; display: block;" />
   </div>
   * **Source**: Punch Nigeria · [Read Full Story →](https://punchng.com/e-commerce-ride-hailing-boost-nigerias-gig-economy-to-5-17bn/)
-  * **Operational Takeaway:** As documented in Punch Nigeria's coverage above, e-commerce and last-mile delivery networks have propelled Nigeria's gig economy to $5.17 billion. While dispatch riders can now move parcels across cities faster than ever, merchants lose those speed gains whenever packing teams rely on messy chat screenshots. Generating automated digital packing slips directly from checkout guarantees riders deliver the exact size and colour every time.
+  * **Operational Takeaway:** As documented in Punch Nigeria's coverage above, e-commerce and last-mile delivery networks have propelled Nigeria's gig economy to $5.17 billion. While dispatch riders move parcels across cities faster than ever, merchants lose those speed gains whenever packing teams rely on messy chat screenshots. Generating automated digital packing slips directly from checkout guarantees riders deliver the exact size and colour every time.
 
-* **2. [Jumia Flags Trust Gap as Biggest Barrier to E-Commerce](https://punchng.com/jumia-flags-trust-gap-as-biggest-barrier-to-e-commerce/)**
+* **2. [Afreximbank Commits $75 Million to DBN to Finance Nigerian SMEs](https://nairametrics.com/2026/11/11/afreximbank-commits-75-million-to-dbn-to-finance-nigerian-smes/)**
   <div style="max-width: 600px; margin: 12px 0;">
-    <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2016/03/29060509/Jumia_CLIENT.jpg&w=800&output=jpg" alt="Nigerian e-commerce delivery and online shopping customer experience addressing the consumer trust gap (Photo: Punch Nigeria)" referrerpolicy="no-referrer" style="width: 100%; height: auto; border-radius: 0px !important; display: block;" />
+    <img src="https://wsrv.nl/?url=https://media.nairametrics.com/wp-content/uploads/2026/11/Kanayo-Awani-1.webp&w=800&output=jpg" alt="Afreximbank Executive Vice President Kanayo Awani announcing $75 million SME financing support through Development Bank of Nigeria (Photo: Nairametrics)" referrerpolicy="no-referrer" style="width: 100%; height: auto; border-radius: 0px !important; display: block;" />
   </div>
-  * **Source**: Punch Nigeria · [Read Full Story →](https://punchng.com/jumia-flags-trust-gap-as-biggest-barrier-to-e-commerce/)
-  * **Operational Takeaway:** As highlighted in Punch Nigeria's report pictured above, buyer scepticism remains the single largest barrier to online retail growth in Nigeria. Nothing triggers "what I ordered versus what I got" distrust faster than accepting payment for an out-of-stock size or shipping an unapproved substitute. Live inventory counts and automated stock locking protect both your conversion rate and your brand reputation.
+  * **Source**: Nairametrics · [Read Full Story →](https://nairametrics.com/2026/11/11/afreximbank-commits-75-million-to-dbn-to-finance-nigerian-smes/)
+  * **Operational Takeaway:** As reported in Nairametrics' coverage pictured above, institutional financing for Nigerian SMEs is expanding rapidly through Afreximbank and DBN—yet lenders demand auditable SKU turnover and clean revenue ledgers. Moving variant sales out of informal WhatsApp notebooks into a structured digital inventory ledger builds the verifiable financial track record growing fashion and retail brands need to qualify for expansion credit.
 
 * **3. [‘Nigerian Fashion Designers Redefining Luxury’](https://punchng.com/nigerian-fashion-designers-redefining-luxury/)**
   <div style="max-width: 600px; margin: 12px 0;">
@@ -176,19 +169,19 @@ Shoppers entering Nigeria's digital economy expect the same self-service speed t
 
 ### Industry News Spotlight
 
-<div style="border: 1px solid #e2e8f0; padding: 20px; background-color: #f8fafc; margin: 24px 0;">
-  <div style="font-size: 11px; font-weight: 700; color: #2563eb; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px;">INDUSTRY SPOTLIGHT</div>
-  <div style="font-size: 16px; font-weight: 700; color: #0f172a; margin-bottom: 12px;">
-    <a href="https://punchng.com/fake-job-offers-two-nigerians-rescued-from-sex-trafficking-in-mali/" style="color: #0f172a; text-decoration: none;">Fake Job Offers: Two Nigerians Rescued From Trafficking — Why Verified Digital Channels Matter Across Nigeria's Online Economy</a>
+<div style="border: 1px solid #e2e8f0; border-top: 3px solid #EF8B3C; padding: 20px; background-color: #f8fafc; margin: 24px 0;">
+  <div style="font-size: 11px; font-weight: 700; color: #EF8B3C; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px;">INDUSTRY NEWS SPOTLIGHT</div>
+  <div style="font-size: 16px; font-weight: 700; color: #1e293b; margin-bottom: 12px;">
+    <a href="https://punchng.com/fg-kaduna-pledge-support-for-young-creatives-businesses/" style="color: #1e293b; text-decoration: none;">FG, Kaduna Pledge Support for Young Creatives and Apparel Businesses at 6th KAFART Fashion Exhibition</a>
   </div>
   <div style="width: 100%; height: 180px; overflow: hidden; margin-bottom: 14px;">
-    <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/11/17105301/WhatsApp-Image-2026-11-17-at-10.52.34_1794909181.webp&w=800&output=jpg" alt="Official briefing in Punch Nigeria coverage underscoring the dangers of unverified online offers and the need for verified digital identity" referrerpolicy="no-referrer" style="width: 100%; height: 180px; object-fit: cover; border-radius: 0px !important; display: block;" />
+    <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/11/20113756/IMG_9537_1795171076.webp&w=800&output=jpg" alt="Dignitaries and creative entrepreneurs at the sixth Kaduna Fashion and Art Exhibition (KAFART) covered by Punch Nigeria" referrerpolicy="no-referrer" style="width: 100%; height: 180px; object-fit: cover; border-radius: 0px !important; display: block;" />
   </div>
   <p style="font-size: 13px; color: #475569; line-height: 1.6; margin-bottom: 10px;">
-    As documented in Punch Nigeria's report pictured above, fraudulent online solicitations routed through unverified social accounts continue to heighten public caution across Nigeria's digital landscape. For legitimate e-commerce merchants and fashion founders, this environment makes institutional credibility non-negotiable: asking first-time buyers to transfer money to a personal bank account shared in an informal DM triggers immediate hesitation. Operating a verified, structured digital storefront with transparent SKU catalogues and automated receipts gives buyers clear proof they are transacting with an authentic, accountable brand.
+    As pictured in Punch Nigeria's coverage of the sixth Kaduna Fashion and Art Exhibition (KAFART) above, federal and state policymakers are intensifying backing for young Nigerian designers and creative entrepreneurs turning studio craftsmanship into scalable retail enterprises. Yet moving from exhibition runways and viral social reels into sustained national sales requires more than creative talent: brands that deploy structured multi-variant catalogues, instant checkout stock locks, and automated packing slips turn regional exposure into repeat revenue without drowning in DM errors.
   </p>
   <p style="font-size: 12px; color: #64748b; margin-bottom: 0;">
-    <strong>Source:</strong> Punch Nigeria &nbsp;·&nbsp; <a href="https://punchng.com/fake-job-offers-two-nigerians-rescued-from-sex-trafficking-in-mali/" style="color: #2563eb; text-decoration: underline;">Read Full Story →</a>
+    <strong>Source:</strong> Punch Nigeria &nbsp;·&nbsp; <a href="https://punchng.com/fg-kaduna-pledge-support-for-young-creatives-businesses/" style="color: #2A6BE0; text-decoration: underline;">Read Full Story →</a>
   </p>
 </div>
 
@@ -197,15 +190,15 @@ Shoppers entering Nigeria's digital economy expect the same self-service speed t
 ### Primary Call to Action
 
 <div style="text-align: center; margin: 32px 0;">
-  <a href="https://www.ofia.ng/blog/manual-variant-tracking-bottlenecks-viral-sales" style="background-color: #0f172a; color: #ffffff; padding: 14px 28px; font-size: 14px; font-weight: 700; text-decoration: none; display: inline-block; letter-spacing: 0.5px;">READ THE COMPLETE 10-STEP VARIANT PLAYBOOK →</a>
+  <a href="https://www.ofia.ng/blog/manual-variant-tracking-bottlenecks-viral-sales" style="background-color: #2A6BE0; color: #ffffff; padding: 14px 28px; font-size: 14px; font-weight: 700; text-decoration: none; display: inline-block; letter-spacing: 0.5px;">READ THE COMPLETE 10-STEP VARIANT PLAYBOOK →</a>
 </div>
 
 ---
 
 ### Product Spotlight & Founding Offer
 
-<div style="border-left: 4px solid #0f172a; padding: 18px 22px; background-color: #f1f5f9; margin: 28px 0;">
-  <div style="font-size: 15px; font-weight: 800; color: #0f172a; margin-bottom: 6px;">INTRODUCING: OFIA SHOP MANAGER &amp; MULTI-VARIANT STOREFRONT</div>
+<div style="border-left: 4px solid #2A6BE0; padding: 18px 22px; background-color: #f8fafc; border-top: 1px solid #e2e8f0; border-right: 1px solid #e2e8f0; border-bottom: 1px solid #e2e8f0; margin: 28px 0;">
+  <div style="font-size: 15px; font-weight: 800; color: #1e293b; margin-bottom: 6px;">INTRODUCING: OFIA SHOP MANAGER &amp; MULTI-VARIANT STOREFRONT</div>
   <p style="font-size: 13px; color: #334155; line-height: 1.6; margin-bottom: 12px;">
     Connect your Instagram and TikTok launches directly to a structured multi-variant catalogue, real-time inventory locking, and clean dispatch slips. Built for fast-growing Nigerian fashion, beauty, and retail brands:
   </p>
@@ -214,29 +207,26 @@ Shoppers entering Nigeria's digital economy expect the same self-service speed t
     <li><strong>Real-Time Checkout Stock Locking:</strong> Automatically reserves the last unit during payment so two customers never pay for the same dress.</li>
     <li><strong>Structured Digital Packing Slips &amp; Waitlists:</strong> Eliminate wrong-size deliveries and capture WhatsApp restock alerts on sold-out sizes.</li>
   </ul>
-  <div style="font-size: 13px; font-weight: 700; color: #0f172a; margin-bottom: 6px;">Exclusive Founding Merchant Offer:</div>
+  <div style="font-size: 13px; font-weight: 700; color: #1e293b; margin-bottom: 6px;">Exclusive Founding Merchant Offer:</div>
   <p style="font-size: 13px; color: #475569; line-height: 1.5; margin-bottom: 0;">
-    Get guided multi-variant SKU catalogue onboarding and 90 days of zero platform setup fees for your brand. <a href="https://www.ofia.ng/products" style="color: #2563eb; font-weight: 700; text-decoration: underline;">Launch Your Connected Storefront →</a>
+    Get guided multi-variant SKU catalogue onboarding and 90 days of zero platform setup fees for your brand. <a href="https://www.ofia.ng/products" style="color: #2A6BE0; font-weight: 700; text-decoration: underline;">Launch Your Connected Storefront →</a>
   </p>
 </div>
 
-Warm regards,
-
-**@Ifeanyi Felix**  
+**— Ifeanyi Felix**  
 Head of Commerce Editorial, Ofia.ng
 
 ---
 
 ### Light Executive Footer
 
-```html
 <table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-top: 1px solid #e2e8f0; padding-top: 20px; margin-top: 32px;">
   <tr>
     <td valign="middle" style="width: 32px;">
-      <img src="https://res.cloudinary.com/iqwyufpt/image/upload/v1795139974/9mm/ofia_logo.svg" alt="Ofia Icon" width="22" height="22" style="display: block; border: 0;" />
+      <img src="https://res.cloudinary.com/iqwyufpt/image/upload/v1795139974/9mm/ofia_logo.svg" alt="Ofia Icon" width="22" height="22" style="display: block; border: 0; border-radius: 0px;" />
     </td>
     <td valign="middle" style="padding-left: 10px; font-size: 11px; color: #64748b; font-family: 'Dropa', sans-serif;">
-      <strong>Ofia Enterprise Growth Limited</strong> · Admiralty Way, Lekki Phase 1, Lagos, Nigeria
+      <strong>Ofia Enterprise Growth</strong> · Admiralty Way, Lekki Phase 1, Lagos, Nigeria
     </td>
   </tr>
   <tr>
@@ -245,4 +235,3 @@ Head of Commerce Editorial, Ofia.ng
     </td>
   </tr>
 </table>
-```

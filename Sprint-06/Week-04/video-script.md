@@ -121,7 +121,7 @@ Visit **resultspro.ng/examspro** to schedule an executive institutional demonstr
 
 ## 60-Second Short Cutdown (TikTok / Reels / Shorts)
 
-* **[0:00 - 0:12] Hook**: "A ₦45,000,000 international master's scholarship was almost lost because this university's transcript was stuck in a 6-week paper archive."
+* **[0:00 - 0:12] Hook**: "A £45,000 international master's scholarship was almost lost because this university's transcript was stuck in a 6-week paper archive."
 * **[0:13 - 0:26] Scene**: Dr. Okon and Engr. Amina verify 4,200 engineering exam results in 2.8 seconds on ResultsPro ExamsPRO.
 * **[0:27 - 0:45] Payoff**: "With ResultsPro, university exams are tracked with 2D barcodes, broadsheets reconcile automatically, and alumni get cryptographically verified transcripts in 60 seconds."
 * **[0:46 - 0:60] CTA**: "Digitize your campus records. Visit resultspro.ng/examspro."

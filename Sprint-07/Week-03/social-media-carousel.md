@@ -122,8 +122,8 @@ Read all 10 practical ways to keep online students learning from Day 1 to gradua
 * **Headline:** Turn Enrolled Beginners Into Verified Graduates
 * **Body:**
   ResultsPro CoursesPro & CBT Assessment Engine unites browser practice labs, instant autograding, mentor alerts, proctored CBT milestones, and QR-verified credentials in one system.
-* **Call to Action:** Read the full 10-step retention guide and book a demo at www.resultspro.ng.
-* **Footer:** Slide 6/6 · ResultsPro Technologies Limited
+* **Call to Action:** Read the complete 10-way remote retention blueprint at https://www.resultspro.ng/blog/remote-learning-dropout-bottlenecks and book a walkthrough at www.resultspro.ng/solutions.
+* **Footer:** Slide 6/6 · ResultsPro Educational Support
 
 ---
 
@@ -196,9 +196,9 @@ Read all 10 practical ways to raise online course completion rates:
 ### B. Standalone Punchy Tweet (<280 Characters)
 
 ```text
-Online students don't quit because learning is hard—they quit after 4 nights fighting laptop software installs and waiting 5 days for manual grading.
+Online students rarely quit because learning is hard—they quit after 4 nights of laptop install errors and 5-day manual grading waits.
 
-Fix the 3 remote-learning dropout bottlenecks in 10 steps:
+Fix the 3 remote dropout bottlenecks in 10 steps:
 👉 https://www.resultspro.ng/blog/remote-learning-dropout-bottlenecks
 ```
 
@@ -245,7 +245,8 @@ B) Slow manual assignment grading by part-time mentors
 C) Quiet learners disappearing in large group chats without early alerts
 D) Long recorded lectures that overwhelm working adults
 
-Drop your letter in the comments—let’s compare notes! 👇
+Drop your letter in the comments—and read all 10 practical fixes in our full guide:
+👉 https://www.resultspro.ng/blog/remote-learning-dropout-bottlenecks 👇
 ```
 
 ---
@@ -284,7 +285,9 @@ DM us "COURSESPRO" to schedule a walkthrough of ResultsPro CoursesPro & CBT Asse
 ### B. Threads Standalone Post (<500 Characters)
 
 ```text
-Your students paid tuition because they genuinely want to master a new skill. Making them spend Week 1 fighting cryptic software installation errors on older laptops—and then waiting 5 days for a mentor to mark a basic exercise—is the fastest way to kill their confidence.
+Your students paid tuition to master a new skill. Making them spend Week 1 fighting laptop install errors—then waiting 5 days for manual grading—kills their confidence fast.
 
-Give learners one-click browser workspaces, instant autograder feedback, 4-day mentor alerts, and QR-verified credentials employers trust. Great marketing enrolls them; connected tools graduate them.
+Give learners one-click browser workspaces, instant autograder feedback, 4-day mentor alerts, and QR-verified credentials employers trust.
+
+Read the 10-step retention guide: https://www.resultspro.ng/blog/remote-learning-dropout-bottlenecks
 ```

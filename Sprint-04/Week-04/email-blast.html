@@ -1,31 +1,53 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
+  <meta name="referrer" content="no-referrer">
+  <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>The Ofia Commerce Brief — Edition #61</title>
   <style>
+    @font-face {
+      font-family: 'Dropa';
+      src: url('Dropa-Regular.woff2') format('woff2'),
+           url('../../Dropa-Regular.woff2') format('woff2');
+      font-weight: normal;
+      font-style: normal;
+      font-display: swap;
+    }
     body {
       margin: 0;
       padding: 0;
       background-color: #FAF9F6;
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      font-family: 'Dropa', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      color: #14151F;
+      line-height: 1.6;
       -webkit-font-smoothing: antialiased;
     }
     table {
-      border-spacing: 0;
-    }
-    td {
-      padding: 0;
+      border-collapse: collapse;
     }
     img {
       border: 0;
+      line-height: 100%;
+      outline: none;
+      text-decoration: none;
+      display: block;
+      max-width: 100%;
+      height: auto;
     }
-    @media screen and (max-width: 600px) {
+    a {
+      color: #2A6BE0;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    button, .btn, img, table, td, div, span {
+      border-radius: 0px !important;
+    }
+    @media only screen and (max-width: 620px) {
       .email-container {
         width: 100% !important;
-      }
-      .mobile-padding {
         padding: 16px !important;
       }
       .stack-column {
@@ -39,24 +61,24 @@
 
   <!-- Hidden Preheader -->
   <div style="display: none; font-size: 1px; color: #FAF9F6; line-height: 1px; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden; mso-hide: all;">
-    How we killed omnichannel double-selling in 200 milliseconds flat and connected physical cash registers to digital storefronts in real time.
+    How Nigerian multi-branch retailers eliminate omnichannel double-selling in under 200 milliseconds and unify physical POS tills with online storefronts.
   </div>
 
   <!-- Email Wrapper -->
   <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="background-color: #FAF9F6;">
     <tr>
       <td align="center" style="padding: 12px;">
-        
+
         <!-- Main Card Container (600px Max) -->
         <table role="presentation" class="email-container" width="600" border="0" cellspacing="0" cellpadding="0" style="max-width: 600px; width: 100%; background-color: #FFFFFF; border-radius: 0px; border: 1px solid #E7E4DC; overflow: hidden; box-shadow: 0 4px 20px rgba(0,0,0,0.04);">
-          
+
           <!-- Top Utility Bar -->
           <tr>
             <td style="padding: 12px 32px; background-color: #F8F7F3; border-bottom: 1px solid #E7E4DC; font-size: 11px; color: #7B7D8C;">
               <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0">
                 <tr>
-                  <td>Edition #61 · November 9, 2026</td>
-                  <td align="right">4-min operational read · <a href="https://www.ofia.ng" target="_blank" style="color: #2A6BE0; font-weight: 600; text-decoration: none;">Ofia.ng</a></td>
+                  <td>Edition #61 · November 09, 2026</td>
+                  <td align="right">4 Min Read · <a href="https://www.ofia.ng" target="_blank" style="color: #2A6BE0; font-weight: 600;">www.ofia.ng</a></td>
                 </tr>
               </table>
             </td>
@@ -73,7 +95,7 @@
                   <td valign="middle">
                     <span style="font-size: 11px; font-weight: 700; color: #EF8B3C; text-transform: uppercase; letter-spacing: 1.5px; display: block; line-height: 1.3;">OFIA ENTERPRISE GROWTH · COMMERCE BRIEFING</span>
                     <h1 style="margin: 2px 0 2px 0; font-size: 20px; font-weight: 800; color: #2A6BE0; letter-spacing: -0.5px; line-height: 1.25;">The Ofia Commerce Brief</h1>
-                    <p style="margin: 0; font-size: 12px; color: #64748B; line-height: 1.3;">Edition #61 · Sub-Second Cloud POS Architecture</p>
+                    <p style="margin: 0; font-size: 12px; color: #64748B; line-height: 1.3;">Edition #61 · Sub-Second Cloud POS &amp; Omnichannel Retail Architecture</p>
                   </td>
                 </tr>
               </table>
@@ -87,10 +109,13 @@
                 Dear {{first_name|Valued Partner}},
               </p>
               <p style="margin: 0 0 12px 0; font-size: 14.5px; color: #3A3B45; line-height: 1.65;">
-                It is 2:15 PM on a Saturday. A customer in your Lekki showroom purchases the last designer sofa set on display. The cashier scans the barcode, prints a thermal receipt, and smiles.
+                It is 2:15 PM on a Saturday in Victoria Island. A walk-in shopper buys the last ₦2,800,000 marble dining set on your showroom floor. Your cashier scans the item, prints a receipt, and smiles.
               </p>
               <p style="margin: 0 0 12px 0; font-size: 14.5px; color: #3A3B45; line-height: 1.65;">
-                At 2:22 PM, an affluent online shopper in Abuja discovers the exact same sofa on your website, adds it to their cart, and pays ₦1,850,000 via card checkout. Because your legacy retail software runs batch syncs every thirty minutes, both transactions succeeded. On Monday morning, your fulfillment team is forced to make the dreaded cancellation call, losing the customer forever. This week, enterprise retailers and technology leaders are standardizing sub-second real-time inventory locking to eliminate double-selling permanently. Here is your operational briefing.
+                Ten minutes later—just like Yemi at <em>Casa Bella Living</em> in our latest field teardown—an affluent online buyer in Abuja completes checkout for that exact same dining set on your website. Because legacy desktop POS registers sync via delayed batch uploads, both sales clear and Monday begins with a humiliating cancellation call, lost gateway reversal fees, and a permanently burned VIP client.
+              </p>
+              <p style="margin: 0; font-size: 14.5px; color: #3A3B45; line-height: 1.65;">
+                This week, we examine Nigeria's neighbourhood retail expansion, CBN's dual-connectivity POS reliability mandate, and ten practical ways to lock showroom and online inventory in under 200 milliseconds.
               </p>
             </td>
           </tr>
@@ -98,71 +123,71 @@
           <!-- COVER STORY -->
           <tr>
             <td style="padding: 32px 32px 24px 32px;">
-              <span style="font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 1.5px; color: #2A6BE0; display: block; margin-bottom: 8px;">Breaking News · Cloud Architecture &amp; POS Synchronization</span>
+              <span style="font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 1.5px; color: #2A6BE0; display: block; margin-bottom: 8px;">Lead News Cover Story · Omnichannel Retail Expansion</span>
               <h2 style="margin: 0 0 16px 0; font-size: 20px; font-weight: 800; line-height: 1.3; color: #14151F;">
-                <a href="https://punchng.com/fg-moves-to-overhaul-cybercrime-law-over-ai-threats/" target="_blank" style="color: #14151F; text-decoration: none;">
-                  African Brands Congress Convenes in Lagos as Enterprise Retailers Deploy AI-Powered Real-Time Stock Infrastructure
+                <a href="https://nairametrics.com/2026/10/24/shoprite-nigeria-to-open-neighbourhood-stores-moves-away-from-mall-based-expansion/" target="_blank" style="color: #14151F; text-decoration: none;">
+                  Shoprite Nigeria to Open Neighbourhood Stores, Moves Away From Mall-Based Expansion
                 </a>
               </h2>
-              
+
               <!-- Lead News Photo -->
               <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-bottom: 16px;">
                 <tr>
                   <td>
-                    <a href="https://punchng.com/fg-moves-to-overhaul-cybercrime-law-over-ai-threats/" target="_blank">
-                      <img referrerpolicy="no-referrer" src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/10/28064426/African-Brands-Congress_1793166266.webp&w=800&output=jpg" alt="African Brands Congress convenes in Lagos" width="536" style="border-radius: 0px; border: 1px solid #E7E4DC; width: 100%; height: 220px; object-fit: cover; display: block;">
+                    <a href="https://nairametrics.com/2026/10/24/shoprite-nigeria-to-open-neighbourhood-stores-moves-away-from-mall-based-expansion/" target="_blank">
+                      <img referrerpolicy="no-referrer" src="https://wsrv.nl/?url=https://cdn.nairametrics.com/wp-content/uploads/2026/10/Shoprite.webp&w=800&output=jpg" alt="Shoprite Nigeria retail store exterior highlighting the industry pivot toward agile multi-branch neighbourhood outlets" width="536" style="border-radius: 0px; border: 1px solid #E7E4DC; width: 100%; height: 220px; object-fit: cover;">
                     </a>
                     <span style="display: block; font-size: 11px; color: #7B7D8C; margin-top: 6px; font-style: italic;">
-                      Photo: African Brands Congress convenes in Lagos. Source: Punch Nigeria.
+                      Nigeria's largest supermarket chains are shifting from giant malls to agile neighbourhood branches—multiplying the urgency of real-time multi-store inventory sync. (Photo: Nairametrics)
                     </span>
                   </td>
                 </tr>
               </table>
 
               <p style="margin: 0 0 14px 0; font-size: 14.5px; color: #3A3B45; line-height: 1.65;">
-                <strong>LAGOS</strong> — Enterprise brand executives, commercial retail operators, and supply chain technology leaders gathered at the African Brands Congress in Lagos this week to address the acute operational crisis facing multi-channel merchants: inventory collisions and phantom stockouts. As documented in the African Brands Congress assembly photo above (Source: Punch Nigeria), industry presentations revealed that retailers running disconnected e-commerce platforms alongside physical storefronts suffer an average of 14.2% order cancellation rates.
+                <strong>LAGOS</strong> — As reported in Nairametrics' October 24, 2026 coverage of Shoprite Nigeria's shift toward neighbourhood store formats (featured photo above), Nigerian modern retail is rapidly decentralizing from single flagship malls into networks of closer, high-velocity urban branches.
               </p>
               <p style="margin: 0 0 14px 0; font-size: 14.5px; color: #3A3B45; line-height: 1.65;">
-                The delay between an in-store barcode scan and an online catalog update creates a dangerous "double-selling window" that costs retail brands tens of millions annually in refund penalties, merchant dispute fees, and lost customer goodwill.
+                While smaller neighbourhood branches cut overhead and bring inventory closer to residential buyers, running multiple locations alongside online delivery channels introduces an immediate operational trap whenever store registers rely on delayed batch updates. Without real-time synchronization between physical POS counters and digital catalogues, popular SKUs sell out on the floor while staying live online—driving order cancellations, refund penalties, and frustrated repeat customers.
               </p>
-              
+
               <div style="background-color: #F8F7F3; border-left: 3px solid #2A6BE0; padding: 14px 18px; margin: 0 0 16px 0; font-style: italic; font-size: 14px; color: #2A2B35; line-height: 1.6;">
-                "In modern commerce, latency is the ultimate brand killer. If your digital storefront does not reflect in-store sales within fractions of a second, you are running two disconnected companies under the same logo. Sub-second distributed inventory locking is no longer a luxury; it is the fundamental baseline for retail survival."
+                "In modern multi-branch retail, inventory latency is the silent brand killer. If your digital storefront does not reflect an in-store barcode scan within fractions of a second, you are running two competing businesses under the same logo."
               </div>
 
               <p style="margin: 0 0 16px 0; font-size: 12px;">
-                <a href="https://punchng.com/fg-moves-to-overhaul-cybercrime-law-over-ai-threats/" target="_blank" style="color: #2A6BE0; font-weight: 700; text-decoration: none;">Read full story at Punch Nigeria →</a>
+                <a href="https://nairametrics.com/2026/10/24/shoprite-nigeria-to-open-neighbourhood-stores-moves-away-from-mall-based-expansion/" target="_blank" style="color: #2A6BE0; font-weight: 700;">Read Full Story at Nairametrics →</a>
               </p>
 
               <div style="background-color: #F0F4FC; border-left: 4px solid #2A6BE0; padding: 16px; border-radius: 0px; margin-bottom: 24px;">
-                <h4 style="margin: 0 0 6px 0; font-size: 12px; font-weight: 800; text-transform: uppercase; letter-spacing: 1px; color: #2A6BE0;">► WHAT THIS MEANS FOR OMNICHANNEL OPERATORS &amp; RETAILERS:</h4>
+                <h4 style="margin: 0 0 6px 0; font-size: 12px; font-weight: 800; text-transform: uppercase; letter-spacing: 1px; color: #2A6BE0;">► WHAT THIS MEANS FOR OMNICHANNEL OPERATORS &amp; RETAIL DIRECTORS:</h4>
                 <p style="margin: 0; font-size: 13.5px; color: #14151F; line-height: 1.55;">
-                  Batch synchronization is dead. If your retail POS relies on 15-minute scheduled cron jobs or manual spreadsheet uploads to update your online store, you are actively inviting double-selling disasters every weekend. Moving to event-driven WebSocket architectures ensures that when a barcode is scanned at a physical counter, that unit is globally reserved across all digital channels in under 200 milliseconds.
+                  Batch synchronization cannot survive multi-branch urban retail. Moving to event-driven WebSocket POS architecture ensures every in-store scan locks online stock across all branches in under 200 milliseconds.
                 </p>
               </div>
 
               <hr style="border: 0; border-top: 1px solid #E7E4DC; margin: 28px 0;">
 
-              <!-- SECTION 5: CURATED INTELLIGENCE BRIEFS -->
-              <span style="font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 1.5px; color: #7B7D8C; display: block; margin-bottom: 18px;">Curated Intelligence Briefs</span>
+              <!-- SECTION 5: CURATED INDUSTRY INTELLIGENCE BRIEFS -->
+              <span style="font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 1.5px; color: #7B7D8C; display: block; margin-bottom: 18px;">Section 5 · Curated Industry Intelligence Briefs</span>
 
               <!-- News Item 1 -->
               <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-bottom: 20px; border: 1px solid #E2E8F0; padding: 12px; border-radius: 0px;">
                 <tr>
                   <td width="90" valign="top" style="padding-right: 14px;">
-                    <a href="https://punchng.com/telcos-defend-data-rollover-limits-ussd-billing/" target="_blank">
-                      <img referrerpolicy="no-referrer" src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/04/29040811/images-12.jpg&w=800&output=jpg" alt="Telecom Regulators and Carriers Defend Network QoS Standards" width="90" height="70" style="border-radius: 0px; border: 1px solid #E7E4DC; object-fit: cover; display: block;">
+                    <a href="https://nairametrics.com/2025/12/12/cbn-gives-one-month-deadline-for-dual-connectivity-on-pos/" target="_blank">
+                      <img referrerpolicy="no-referrer" src="https://wsrv.nl/?url=https://media.nairametrics.com/2025/09/PoS-Machine.jpg&w=800&output=jpg" alt="Nigerian retail point-of-sale payment terminal illustrating CBN dual-connectivity uptime mandates for merchant checkouts" width="90" height="70" style="border-radius: 0px; border: 1px solid #E7E4DC; object-fit: cover;">
                     </a>
                   </td>
                   <td valign="top">
                     <span style="font-size: 10px; font-weight: 700; color: #EF8B3C; text-transform: uppercase;">Intelligence Brief</span>
                     <h3 style="margin: 2px 0 6px 0; font-size: 14px; font-weight: 700; color: #14151F; line-height: 1.35;">
-                      <a href="https://punchng.com/telcos-defend-data-rollover-limits-ussd-billing/" target="_blank" style="color: #14151F; text-decoration: none;">1. Telecom Regulators and Carriers Defend Network QoS Standards for Cloud-Connected Retail Terminals</a>
+                      <a href="https://nairametrics.com/2025/12/12/cbn-gives-one-month-deadline-for-dual-connectivity-on-pos/" target="_blank" style="color: #14151F; text-decoration: none;">1. CBN Gives One-Month Deadline for Dual Connectivity on PoS Terminals</a>
                     </h3>
                     <p style="margin: 0 0 6px 0; font-size: 12px; color: #3A3B45; line-height: 1.5;">
-                      As captured in the telecommunications infrastructure briefing photo above (Source: Punch Nigeria), low-latency connectivity standards are proving essential for retail points of sale. To prevent checkout freezes during carrier disruptions, modern SmartPOS registers incorporate local offline SQLite caching that syncs to cloud servers immediately upon reconnection.
+                      As documented in Nairametrics' report on the CBN dual-connectivity POS mandate pictured alongside, regulators are tightening reliability standards at Nigerian checkout counters. Pairing dual-network payment rails with an offline-resilient edge Cloud POS ensures showroom checkouts never stall during brief ISP dips and auto-reconcile stock the instant signal returns.
                     </p>
-                    <a href="https://punchng.com/telcos-defend-data-rollover-limits-ussd-billing/" target="_blank" style="font-size: 11px; color: #2A6BE0; font-weight: 600; text-decoration: none;">Read full story at Punch Nigeria →</a>
+                    <a href="https://nairametrics.com/2025/12/12/cbn-gives-one-month-deadline-for-dual-connectivity-on-pos/" target="_blank" style="font-size: 11px; color: #2A6BE0; font-weight: 600;">Read Full Story at Nairametrics →</a>
                   </td>
                 </tr>
               </table>
@@ -171,19 +196,19 @@
               <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-bottom: 20px; border: 1px solid #E2E8F0; padding: 12px; border-radius: 0px;">
                 <tr>
                   <td width="90" valign="top" style="padding-right: 14px;">
-                    <a href="https://punchng.com/experts-to-explore-digital-finance-at-summit/" target="_blank">
-                      <img referrerpolicy="no-referrer" src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/05/05040958/Screenshot-2026-05-05-040858.png&w=800&output=jpg" alt="Financial Technology Leaders Convene" width="90" height="70" style="border-radius: 0px; border: 1px solid #E7E4DC; object-fit: cover; display: block;">
+                    <a href="https://nairametrics.com/2026/06/25/casava-kuda-strengthen-merchant-protection-across-nigerias-%e2%82%a675tn-payment-infrastructure/" target="_blank">
+                      <img referrerpolicy="no-referrer" src="https://wsrv.nl/?url=https://media.nairametrics.com/2026/06/casava-Kuda-1.png&w=800&output=jpg" alt="Nigerian fintech leaders from Casava and Kuda strengthening electronic payment protection for retail merchants" width="90" height="70" style="border-radius: 0px; border: 1px solid #E7E4DC; object-fit: cover;">
                     </a>
                   </td>
                   <td valign="top">
                     <span style="font-size: 10px; font-weight: 700; color: #EF8B3C; text-transform: uppercase;">Intelligence Brief</span>
                     <h3 style="margin: 2px 0 6px 0; font-size: 14px; font-weight: 700; color: #14151F; line-height: 1.35;">
-                      <a href="https://punchng.com/experts-to-explore-digital-finance-at-summit/" target="_blank" style="color: #14151F; text-decoration: none;">2. Financial Technology Leaders Convene to Standardize Real-Time Enterprise Digital Settlement Protocols</a>
+                      <a href="https://nairametrics.com/2026/06/25/casava-kuda-strengthen-merchant-protection-across-nigerias-%e2%82%a675tn-payment-infrastructure/" target="_blank" style="color: #14151F; text-decoration: none;">2. Casava, Kuda Strengthen Merchant Protection Across Nigeria's ₦75tn Payment Infrastructure</a>
                     </h3>
                     <p style="margin: 0 0 6px 0; font-size: 12px; color: #3A3B45; line-height: 1.5;">
-                      As highlighted in the digital finance executive summit photo above (Source: Punch Nigeria), fintech infrastructure providers are aligning on instant webhook validation protocols to eliminate reconciliation queues. Commercial retailers adopting automated split-tender checkouts eliminate the 12-minute cashier delay of manual bank alert matching.
+                      As highlighted in Nairametrics' June 2026 payment protection coverage pictured alongside, electronic commerce now moves tens of trillions of Naira across Nigerian rails. Connecting POS card and bank transfer confirmation directly into automated double-entry accounting eliminates manual alert matching and cuts closing register balancing to under three minutes.
                     </p>
-                    <a href="https://punchng.com/experts-to-explore-digital-finance-at-summit/" target="_blank" style="font-size: 11px; color: #2A6BE0; font-weight: 600; text-decoration: none;">Read full story at Punch Nigeria →</a>
+                    <a href="https://nairametrics.com/2026/06/25/casava-kuda-strengthen-merchant-protection-across-nigerias-%e2%82%a675tn-payment-infrastructure/" target="_blank" style="font-size: 11px; color: #2A6BE0; font-weight: 600;">Read Full Story at Nairametrics →</a>
                   </td>
                 </tr>
               </table>
@@ -192,57 +217,19 @@
               <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-bottom: 20px; border: 1px solid #E2E8F0; padding: 12px; border-radius: 0px;">
                 <tr>
                   <td width="90" valign="top" style="padding-right: 14px;">
-                    <a href="https://punchng.com/reps-threaten-arrest-of-telecom-ceos-over-poor-network-2/" target="_blank">
-                      <img referrerpolicy="no-referrer" src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/10/27144832/National-Credit-Guarantee-Company-Limited_1793108912.webp&w=800&output=jpg" alt="National Credit Guarantee Company Backs ₦64bn in Commercial Loans" width="90" height="70" style="border-radius: 0px; border: 1px solid #E7E4DC; object-fit: cover; display: block;">
+                    <a href="https://nairametrics.com/2026/11/20/moniepoint-mfb-set-to-commission-regional-office-in-abuja-to-deepen-brand-trust-and-strengthen-support-for-businesses/" target="_blank">
+                      <img referrerpolicy="no-referrer" src="https://wsrv.nl/?url=https://cdn.nairametrics.com/wp-content/uploads/2026/11/IMG_2962-1.webp&w=800&output=jpg" alt="Moniepoint leadership expanding regional Nigerian merchant banking and retail POS support operations in Abuja" width="90" height="70" style="border-radius: 0px; border: 1px solid #E7E4DC; object-fit: cover;">
                     </a>
                   </td>
                   <td valign="top">
                     <span style="font-size: 10px; font-weight: 700; color: #EF8B3C; text-transform: uppercase;">Intelligence Brief</span>
                     <h3 style="margin: 2px 0 6px 0; font-size: 14px; font-weight: 700; color: #14151F; line-height: 1.35;">
-                      <a href="https://punchng.com/reps-threaten-arrest-of-telecom-ceos-over-poor-network-2/" target="_blank" style="color: #14151F; text-decoration: none;">3. National Credit Guarantee Company Backs ₦64bn in Commercial Loans for Modernizing Retailers</a>
+                      <a href="https://nairametrics.com/2026/11/20/moniepoint-mfb-set-to-commission-regional-office-in-abuja-to-deepen-brand-trust-and-strengthen-support-for-businesses/" target="_blank" style="color: #14151F; text-decoration: none;">3. Moniepoint MFB Set to Commission Regional Office in Abuja to Deepen Support for Businesses</a>
                     </h3>
                     <p style="margin: 0 0 6px 0; font-size: 12px; color: #3A3B45; line-height: 1.5;">
-                      As shown in the credit guarantee facility signing photo above (Source: Punch Nigeria), the rollout of structured institutional credit guarantees is enabling commercial retail chains to modernize physical infrastructure, financing touchscreen SmartPOS hardware and wireless barcode scanning guns with zero collateral friction.
+                      As shown in Nairametrics' November 2026 Abuja expansion report pictured alongside, payment institutions are investing heavily in multi-city merchant infrastructure. Retail chains expanding across Lagos, Abuja, and regional hubs need unified cloud POS software that gives head office live branch-by-branch stock visibility from one console.
                     </p>
-                    <a href="https://punchng.com/reps-threaten-arrest-of-telecom-ceos-over-poor-network-2/" target="_blank" style="font-size: 11px; color: #2A6BE0; font-weight: 600; text-decoration: none;">Read full story at Punch Nigeria →</a>
-                  </td>
-                </tr>
-              </table>
-
-              <!-- SECTION 6: INDUSTRY SPOTLIGHT -->
-              <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top: 24px; border: 1px solid #E2E8F0; background-color: #F8FAFC; border-radius: 0px;">
-                <tr>
-                  <td style="padding: 16px;">
-                    <span style="font-size: 10px; font-weight: 700; color: #2A6BE0; text-transform: uppercase; letter-spacing: 1px; display: block; margin-bottom: 8px;">Industry News Spotlight</span>
-                    <h3 style="margin: 0 0 10px 0; font-size: 15px; font-weight: 700; color: #14151F; line-height: 1.4;">
-                      <a href="https://punchng.com/uk-firm-targets-nigerian-varsities-with-saas-push/" target="_blank" style="color: #14151F; text-decoration: none;">
-                        UK SaaS Firm Expands Digital Operating Infrastructure Across African Enterprise Networks
-                      </a>
-                    </h3>
-                    <a href="https://punchng.com/uk-firm-targets-nigerian-varsities-with-saas-push/" target="_blank">
-                      <img referrerpolicy="no-referrer" src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/05/04012217/AIM-Support-SaaS-by-NeTech-350x250-1.jpg&w=800&output=jpg" alt="UK SaaS Firm Expands Digital Operating Infrastructure" width="100%" style="width: 100%; height: 180px; object-fit: cover; border-radius: 0px; margin-bottom: 12px; border: 1px solid #E2E8F0; display: block;">
-                    </a>
-                    <p style="margin: 0 0 10px 0; font-size: 12px; color: #475569; line-height: 1.55;">
-                      As illustrated in Punch Nigeria's enterprise software spotlight photo above, enterprise software leaders are aggressively investing in distributed cloud infrastructure to replace fragile on-premise local servers. For multi-branch retail operators, migrating inventory logic to cloud-native microservices eliminates localized database lockups and guarantees sub-second synchronization between physical registers and online carts nationwide.
-                    </p>
-                    <a href="https://punchng.com/uk-firm-targets-nigerian-varsities-with-saas-push/" target="_blank" style="font-size: 11px; color: #2A6BE0; font-weight: 600; text-decoration: none;">Read Full Report at Punch Nigeria →</a>
-                  </td>
-                </tr>
-              </table>
-
-              <!-- PRIMARY CALL TO ACTION -->
-              <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin: 32px 0 12px 0;">
-                <tr>
-                  <td align="center">
-                    <table role="presentation" border="0" cellspacing="0" cellpadding="0" style="width: 100%;">
-                      <tr>
-                        <td align="center" style="background-color: #2A6BE0; border-radius: 0px;">
-                          <a href="https://www.ofia.ng/blog/how-we-built-a-sub-second-omnichannel-inventory-engine" target="_blank" style="font-size: 14px; font-weight: 700; color: #FFFFFF; text-decoration: none; padding: 14px 28px; display: block; border-radius: 0px; letter-spacing: 0.5px;">
-                            READ ALL 10 SYNCHRONIZATION ARCHITECTURES →
-                          </a>
-                        </td>
-                      </tr>
-                    </table>
+                    <a href="https://nairametrics.com/2026/11/20/moniepoint-mfb-set-to-commission-regional-office-in-abuja-to-deepen-brand-trust-and-strengthen-support-for-businesses/" target="_blank" style="font-size: 11px; color: #2A6BE0; font-weight: 600;">Read Full Story at Nairametrics →</a>
                   </td>
                 </tr>
               </table>
@@ -250,23 +237,67 @@
             </td>
           </tr>
 
-          <!-- ENTERPRISE SPOTLIGHT & FOOTER -->
+          <!-- Industry News Spotlight (Zero Calculations) -->
+          <tr>
+            <td style="padding: 0 32px 28px 32px;">
+              <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="background-color: #F8FAFC; border: 1px solid #E2E8F0; border-top: 3px solid #EF8B3C; border-radius: 0px; padding: 20px; color: #14151F;">
+                <tr>
+                  <td>
+                    <span style="display: inline-block; font-size: 10px; font-weight: 700; color: #EF8B3C; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 6px;">Industry News Spotlight: Sector Intelligence Worthy of Note</span>
+                    <h3 style="margin: 4px 0 12px 0; font-size: 16px; font-weight: 700; color: #14151F; line-height: 1.35;">
+                      <a href="https://nairametrics.com/2026/10/21/africa-is-building-the-technology-but-who-owns-the-customer/" target="_blank" style="color: #14151F; text-decoration: none;">Africa Is Building the Technology. But Who Owns the Customer?</a>
+                    </h3>
+                    <a href="https://nairametrics.com/2026/10/21/africa-is-building-the-technology-but-who-owns-the-customer/" target="_blank">
+                      <img referrerpolicy="no-referrer" src="https://wsrv.nl/?url=https://cdn.nairametrics.com/wp-content/uploads/2026/10/Babara-Anthony-Okafor-1.jpeg&w=800&output=jpg" alt="African commerce strategist Barbara Anthony-Okafor examining first-party customer ownership across physical and digital retail" width="100%" style="width: 100%; height: 180px; object-fit: cover; border-radius: 0px; margin-bottom: 12px; border: 1px solid #E2E8F0;">
+                    </a>
+                    <p style="margin: 0 0 10px 0; font-size: 12.5px; color: #334155; line-height: 1.6;">
+                      As examined in Nairametrics' October 2026 commentary featuring strategist Barbara Anthony-Okafor above, deploying payment terminals and digital storefronts means little if a retailer still fails to capture and own its customer relationships. Across Nigerian brick-and-mortar retail, over 80% of walk-in buyers leave with an anonymous paper receipt and never reorder online.
+                    </p>
+                    <p style="margin: 0 0 12px 0; font-size: 12.5px; color: #475569; line-height: 1.6;">
+                      <strong>Why It Matters to Multi-Branch Retailers:</strong> Linking in-store POS receipts directly to phone-verified digital customer profiles turns everyday walk-in footfall into a permanent omnichannel asset you can re-engage directly for repeat deliveries.
+                    </p>
+                    <a href="https://nairametrics.com/2026/10/21/africa-is-building-the-technology-but-who-owns-the-customer/" target="_blank" style="font-size: 12px; font-weight: 700; color: #2A6BE0; text-decoration: none;">Read Full Report at Nairametrics →</a>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- Primary Call to Action Button -->
+          <tr>
+            <td align="center" style="padding: 0 32px 32px 32px;">
+              <table role="presentation" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td align="center" style="border-radius: 0px; background-color: #2A6BE0;">
+                    <a href="https://www.ofia.ng/blog/why-multi-branch-retailers-double-sell-stock-200ms-pos-sync" target="_blank" style="display: inline-block; padding: 14px 28px; font-size: 14px; font-weight: 700; color: #FFFFFF; text-decoration: none; border-radius: 0px; letter-spacing: 0.3px;">
+                      Read All 10 Ways to Sync POS &amp; Online Stock →
+                    </a>
+                  </td>
+                </tr>
+              </table>
+              <p style="margin: 10px 0 0 0; font-size: 11px; color: #64748B;">
+                Complete 9-minute playbook covering 200ms WebSocket locking, 10-minute cart holds, offline edge POS, and unified walk-in customer profiles.
+              </p>
+            </td>
+          </tr>
+
+          <!-- Product Spotlight & Founding Offer -->
           <tr>
             <td style="padding: 24px 32px 32px 32px; background-color: #F8F7F3; border-top: 1px solid #E7E4DC;">
               <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0">
                 <tr>
-                  <td style="padding-bottom: 20px;">
-                    <span style="font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 1.5px; color: #EF8B3C; display: block; margin-bottom: 6px;">Enterprise Spotlight</span>
+                  <td>
+                    <span style="font-size: 10px; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; color: #2A6BE0; display: block; margin-bottom: 6px;">Product Spotlight &amp; Founding Retail Offer</span>
                     <h4 style="margin: 0 0 8px 0; font-size: 16px; font-weight: 800; color: #14151F;">
-                      Ofia Real-Time Omnichannel ERP Sync
+                      Ofia Smart Cloud POS &amp; Real-Time Omnichannel ERP
                     </h4>
                     <p style="margin: 0 0 16px 0; font-size: 13px; color: #5C5E6B; line-height: 1.6;">
-                      Built by <strong>Ofia</strong> to eliminate the 2:15 PM double-selling call permanently. Connect your physical showroom cash registers directly to your online storefront with sub-200ms WebSocket synchronization, multi-branch assisted selling, and automated double-entry accounting.
+                      Built by <strong>Ofia</strong> to end the 2:15 PM double-selling call permanently. Connect physical showroom registers directly to your online storefront with sub-200ms WebSocket locking, live sister-branch lookups, offline edge resilience, and automated double-entry accounting.
                     </p>
-                    
+
                     <table role="presentation" border="0" cellspacing="0" cellpadding="0" style="margin-bottom: 20px;">
                       <tr>
-                        <td align="center" style="border-radius: 0px; background-color: #14151F;">
+                        <td align="center" style="border-radius: 0px; background-color: #EF8B3C;">
                           <a href="https://www.ofia.ng/pricing" target="_blank" style="font-size: 13px; font-weight: 700; color: #FFFFFF; text-decoration: none; padding: 12px 24px; display: inline-block; border-radius: 0px;">
                             Claim Founding Plan (₦5,000/mo) at Ofia.ng →
                           </a>
@@ -278,7 +309,6 @@
                       — <strong>Ifeanyi Felix</strong><br>
                       <span style="color: #7B7D8C; font-size: 12px;">Head of Commerce Editorial, Ofia.ng</span>
                     </div>
-
                   </td>
                 </tr>
                 <tr>
@@ -289,11 +319,11 @@
                           <img referrerpolicy="no-referrer" src="https://res.cloudinary.com/iqwyufpt/image/upload/v1795139974/9mm/ofia_logo.svg" alt="Ofia" width="22" height="22" style="width: 22px; height: 22px; display: block; border-radius: 0px;">
                         </td>
                         <td valign="middle" style="font-size: 12px; font-weight: 700; color: #14151F; letter-spacing: 0.2px;">
-                          Ofia Enterprise Growth Limited
+                          Ofia Enterprise Growth
                         </td>
                       </tr>
                     </table>
-                    © 2026 Ofia Enterprise Growth Limited. All rights reserved.<br>
+                    © 2026 Ofia Enterprise Growth. All rights reserved.<br>
                     Unified Commerce Operating Infrastructure · Victoria Island, Lagos, Nigeria.<br>
                     <p style="margin: 12px 0 0 0; font-size: 10px; color: #94A3B8; line-height: 1.5;">
                       This dispatch was sent to {{name}} (<a href="mailto:{{email}}" style="color: #64748B; text-decoration: underline;">{{email}}</a>) at {{company}}.<br>

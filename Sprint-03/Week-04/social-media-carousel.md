@@ -3,7 +3,7 @@
 * **Sprint & Week**: Sprint 03 (Marketplaces) · Week 04 (Authority & Process / Behind the Scenes)
 * **Topic**: Behind the Scenes: How we architect zero-commission multi-vendor marketplaces with automated split payouts
 * **Author / Host**: @Ifeanyi Felix
-* **Brand**: Ofia (`https://www.ofia.ng/products`)
+* **Brand**: Ofia (`https://www.ofia.ng/blog/why-merchants-lose-margin-aggregator-marketplaces-zero-commission` · `https://www.ofia.ng/products`)
 
 ---
 
@@ -50,8 +50,8 @@ Platform owners can break the aggregator monopoly by operating on zero commissio
 
 Stop being a tenant on someone else's platform.
 
-Read our complete behind-the-scenes engineering breakdown:
-👉 https://www.ofia.ng/products
+Read our complete 10-way marketplace architecture playbook:
+👉 https://www.ofia.ng/blog/why-merchants-lose-margin-aggregator-marketplaces-zero-commission
 
 #Ecommerce #Marketplaces #MultiVendor #Fintech #SplitPayments #RetailTech #Ofia
 ```
@@ -89,7 +89,7 @@ SLIDE 1 (Cover):
 - Visual: A customer shopping cart splitting into glowing crystal streams into individual merchant vaults. Branded Ofia blue & ember tag.
 
 SLIDE 2:
-- Headline: The Predatory Math
+- Headline: The Margin Squeeze
 - Body:
   * Monthly Sales: ₦25,000,000.
   * Gross Margin (20%): ₦5,000,000.
@@ -157,7 +157,7 @@ And the platform takes 15% of your gross sales—leaving you with almost zero pr
 
 Here is why the aggregator model is broken (and how we built the fix) 🧵👇
 
-2/7 Let’s look at the math:
+2/7 Look at a typical monthly payout statement:
 
 Say you sell ₦25,000,000/mo in smartphones or fashion with a 20% gross margin (₦5,000,000).
 
@@ -189,8 +189,8 @@ When a buyer puts items from 3 vendors into one cart, splitting the cash across 
 7/7 The future belongs to curated, vertical, sovereign marketplaces.
 
 Stop renting your customers.
-Launch your own multi-vendor platform:
-👉 https://www.ofia.ng/products
+Read the 10-way playbook on launching a zero-commission multi-vendor platform:
+👉 https://www.ofia.ng/blog/why-merchants-lose-margin-aggregator-marketplaces-zero-commission
 ```
 
 ---
@@ -252,9 +252,9 @@ Are you running an e-commerce brand, or are you just an employee for an aggregat
 
 When a platform charges 15% commission on gross sales, they are quietly swallowing up to 95% of your net operating margin!
 
-Swipe through to see the exact formula behind "Aggregator Take-Rate Drag"—and how we engineered the zero-commission marketplace with instant split payouts. 📲
+Swipe through to see the real payout breakdown behind aggregator take-rate drag—and how we engineered a zero-commission marketplace with instant split payouts. 📲
 
-Drop "MARKETPLACE" in the comments or tap the link in bio to read the behind-the-scenes breakdown.
+Read the full 10-way playbook at https://www.ofia.ng/blog/why-merchants-lose-margin-aggregator-marketplaces-zero-commission (link in bio).
 
 #Ecommerce #Marketplaces #RetailTech #MultiVendor #BrandBuilding #Entrepreneurship #Ofia
 

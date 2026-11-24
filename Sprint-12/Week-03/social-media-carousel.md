@@ -109,7 +109,7 @@ Read all 10 engineering fixes to seal shadow data pipelines:
 * **Headline:** Ship Fast. Stay 100% NDPA 2023 Audit-Proof.
 * **Body:**
   ComplianceHub HubPrivacy maps shadow pipelines, automates vendor DPA vaults, and keeps your annual DPCO Compliance Audit Return green year-round.
-* **Call to Action:** Run your NDPA 2023 Privacy Diagnostic at www.compliancehub.ng/onboarding?module=hubprivacy.
+* **Call to Action:** Read all 10 shadow-pipeline fixes at https://www.compliancehub.ng/blog/shadow-data-pipelines-ndpc-penalties-tech-scaleups and run your Privacy Diagnostic at www.compliancehub.ng/onboarding?module=hubprivacy.
 * **Footer:** Slide 6/6 · ComplianceHub Regulatory Technologies Limited
 
 ---
@@ -185,9 +185,9 @@ Read all 10 NDPA 2023 shadow-data fixes:
 ### B. Standalone Punchy Tweet (<280 Characters)
 
 ```text
-Your AWS servers are locked down—but a dev's MacBook SQL dump, raw NIN slips in Zendesk, and 5 unvetted foreign SDKs still expose your Nigerian scaleup to ₦10M or 2%-of-turnover NDPC fines.
+Locked AWS servers won't stop ₦10M NDPC fines if dev laptop SQL dumps, Zendesk NIN slips, and unvetted foreign SDKs are leaking outside production.
 
-10 NDPA 2023 fixes for CTOs & DPOs:
+10 NDPA 2023 fixes:
 👉 https://www.compliancehub.ng/blog/shadow-data-pipelines-ndpc-penalties-tech-scaleups
 ```
 
@@ -231,7 +231,8 @@ B) Quarterly SDK & sub-processor discovery audits
 C) Honestly, marketing still adds pixels before Legal hears about it
 D) We are deploying automated NDPA 2023 governance right now
 
-Drop your letter below and share what works in your org! 👇
+Drop your letter below—and read all 10 NDPA 2023 shadow-pipeline fixes here:
+👉 https://www.compliancehub.ng/blog/shadow-data-pipelines-ndpc-penalties-tech-scaleups 👇
 ```
 
 ---
@@ -270,7 +271,9 @@ DM us "NDPA" to run a complimentary Privacy Diagnostic!
 ### B. Threads Standalone Post (<500 Characters)
 
 ```text
-Every fast-growing Nigerian startup locks down AWS—then lets a developer dump 250,000 live user records onto a MacBook, leaves raw NIN slips inside Zendesk, and lets marketing install 5 foreign tracking SDKs without DPAs.
+Every fast-growing Nigerian startup locks down AWS—then lets a dev dump 250k live users onto a MacBook, leaves NIN slips inside Zendesk, and lets marketing add 5 foreign SDKs without DPAs.
 
-Under NDPA 2023 Sections 24, 29, 39 & 49, that's a ₦10M (or 2% turnover) audit time bomb. Seal your shadow pipelines before your DPCO audit hits.
+Under NDPA 2023 Sections 24, 29, 39 & 49, that's a ₦10M (or 2% turnover) time bomb.
+
+Read all 10 fixes: https://www.compliancehub.ng/blog/shadow-data-pipelines-ndpc-penalties-tech-scaleups
 ```

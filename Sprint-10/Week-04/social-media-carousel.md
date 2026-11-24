@@ -3,7 +3,7 @@
 * **Sprint & Week**: Sprint 10 (Statutory Quad & Tender Readiness) · Week 04 (Authority / Behind the Scenes)
 * **Theme**: Inside the BPP Federal Contractors Database & The Statutory Quad Engine
 * **Author**: @Ifeanyi Felix · **Brand**: ComplianceHub (`https://www.compliancehub.ng`)
-* **Core Call to Action**: Drive traffic to read the full operational guide: `https://www.compliancehub.ng/onboarding?module=hubcalendar`
+* **Core Call to Action**: Drive traffic to read the full operational guide: `https://www.compliancehub.ng/blog/why-85-percent-of-federal-bids-fail-in-3-minutes-10-ways-to-pass-bpp-statutory-quad-screening` & `https://www.compliancehub.ng/onboarding?module=hubcalendar`
 * **In-App Exploration**: Modules [`/modules`](https://www.compliancehub.ng/modules) · Solutions [`/solutions`](https://www.compliancehub.ng/solutions) · Resources [`/resources`](https://www.compliancehub.ng/resources)
 * **Target Audience**: Federal & State Bidding Contractors, Infrastructure Consortiums, Corporate HR Directors, CFOs, Procurement Leads (`ch-group-c`)
 
@@ -40,7 +40,8 @@ At ComplianceHub, we engineered the Statutory Quad Engine to give contractors 10
 • Pre-clearing November 1st renewals to beat the January 1st BPP expiration cliff
 • Running blind 15-point pre-bid compliance audits before tender envelopes are sealed
 
-Read the complete technical teardown (10 Tactics): https://www.compliancehub.ng/onboarding?module=hubcalendar
+Read the complete technical teardown (10 Tactics): https://www.compliancehub.ng/blog/why-85-percent-of-federal-bids-fail-in-3-minutes-10-ways-to-pass-bpp-statutory-quad-screening
+Run a free statutory tender diagnostic: https://www.compliancehub.ng/onboarding?module=hubcalendar
 
 Contractors & CFOs: When was the last time you mathematically reconciled your PenCom headcount against your audited accounts before submitting a bid?
 ```
@@ -78,8 +79,8 @@ Check 1: PenCom vs. Audited Accounts.
 The evaluator checks your PenCom certificate. If it declares 15 staff, but your audited accounts declare 50 employees, the system flags a material discrepancy. Instant disqualification.
 
 4/10
-Check 2: The ITF Gross Payroll Math.
-The 1% ITF levy must match your total gross annual payroll. If your declared ITF wage baseline contradicts your NSITF employee compensation schedule, your bid is thrown out.
+Check 2: The ITF Gross Payroll Cross-Check.
+Your 1% ITF levy must match your total gross annual payroll. If your declared ITF wage baseline contradicts your NSITF employee compensation schedule, your bid is thrown out.
 
 5/10
 Check 3: The December 31st BPP Cliff.
@@ -137,11 +138,11 @@ Run a free statutory tender diagnostic on your company today:
 * **Footer**: Slide 3/8 | Inside the BPP Engine
 
 ### Slide 4: Algorithmic Check 2 — Gross Payroll
-* **Visual**: Mathematical formula graphic showing ITF 1% and NSITF 1% alignment.
+* **Visual**: Clean side-by-side alignment graphic showing ITF 1% and NSITF 1% matching the same master payroll ledger.
 * **Headline**: The Gross Payroll Symmetry Test.
 * **Body Points**:
-  * ITF 1% annual levy divided by 0.01 = Gross Payroll.
-  * Must match the insurable wage baseline on NSITF ECS Form 01.
+  * ITF 1% annual levy reflects your full gross annual payroll baseline.
+  * Must match the exact insurable wage baseline on NSITF ECS Form 01.
   * Reconciling gross wages eliminates statutory audit queries.
 * **Footer**: Slide 4/8 | Inside the BPP Engine
 
@@ -173,8 +174,58 @@ Run a free statutory tender diagnostic on your company today:
 * **Footer**: Slide 7/8 | Inside the BPP Engine
 
 ### Slide 8: Final Call to Action
-* **Visual**: Sleek dark emerald card with glowing white & gold CTA button.
+* **Visual**: Sleek Sovereign Emerald (`#064E3B`) card with glowing white & Regulatory Gold (`#D97706`) CTA button.
 * **Headline**: Could Your Next Bid Pass the 3-Minute Screening?
 * **Body**: Run an automated, confidential compliance diagnostic of your PenCom, ITF, NSITF, and BPP status in under 5 minutes.
 * **CTA Button**: Run Statutory Diagnostic at compliancehub.ng/onboarding?module=hubcalendar
 * **Footer**: ComplianceHub.ng · Public Procurement Governance & Statutory Quad Synchronization · FCT Abuja & Victoria Island, Lagos
+
+---
+
+## 4. LinkedIn Interactive Poll
+
+**Question**: Which Statutory Quad issue has caused the biggest delay or risk on your company's federal/state tender bids?
+
+* **Option 1**: January renewal lag after the December 31st PenCom/ITF cliff
+* **Option 2**: Headcount or gross payroll mismatch vs. audited accounts
+* **Option 3**: Pending BPP Interim Registration Report (IRR) status
+* **Option 4**: 5-year PenCom/ITF forensic payroll inspection queries
+
+**First-Comment CTA**: Read all 10 tactics to pass the 3-minute BPP screening → `https://www.compliancehub.ng/blog/why-85-percent-of-federal-bids-fail-in-3-minutes-10-ways-to-pass-bpp-statutory-quad-screening`
+
+---
+
+## 5. Facebook Community Narrative (Nigerian Contractors & CFOs)
+
+Sixty engineering contractors walk into a Federal Ministry bid opening hall in Abuja with thick bound proposals and expensive bank bid bonds. Thirty minutes later, forty-five of them are out.
+
+Not over engineering design. Not over pricing. They were eliminated in the first three minutes because an evaluator scanned their QR certificates and spotted a mismatch between PenCom staff count, ITF 1% payroll, NSITF schedules, and audited accounts—or an expired December 31st clearance still showing "Pending" on the BPP portal.
+
+When Lekki Infrastructure Consortium unified its 45-staff, ₦145M master payroll inside ComplianceHub HubCalendar and pre-cleared renewals on November 1st, its dossier scanned green across every Statutory Quad check and advanced straight to financial bid evaluation.
+
+How early does your finance team start PenCom and ITF renewals each year? Share below!
+
+👉 Full 10-tactic guide: https://www.compliancehub.ng/blog/why-85-percent-of-federal-bids-fail-in-3-minutes-10-ways-to-pass-bpp-statutory-quad-screening  
+👉 Free 5-minute statutory diagnostic: https://www.compliancehub.ng/onboarding?module=hubcalendar
+
+---
+
+## 6. Instagram Carousel Caption & Threads Post
+
+### Instagram Caption
+85% of Nigerian federal bids fail in the first 3 minutes—before anyone opens the price envelope. 🏛️📋
+
+Inside Abuja procurement halls under PPA 2007 Section 16(6):
+• PenCom headcount must match your audited financial statements
+• ITF 1% and NSITF 1% must reflect the exact same gross payroll baseline
+• Blurry certificate scans fail live QR tablet checks
+• PenCom & ITF expire Dec 31st—renew on Nov 1st or lose Q1 tenders
+
+Swipe all 8 slides to see how top contractors engineer 100% responsive bids. ➡️
+
+👉 Run your free Statutory Tender Diagnostic at compliancehub.ng/onboarding?module=hubcalendar
+
+#PublicProcurement #BPPNigeria #PenCom #ITFNigeria #NSITF #FIRSTCC #NigerianContractors #ComplianceHub
+
+### Threads Post
+Framed PenCom and ITF certificates on your boardroom wall will not save a federal bid when Abuja evaluators scan your QR codes and spot a headcount mismatch against audited accounts in 3 minutes. Lock one master payroll truth across all 4 agencies and renew on Nov 1st: compliancehub.ng/onboarding?module=hubcalendar

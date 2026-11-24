@@ -1,10 +1,11 @@
-# Institutional EdTech Scale Briefing: Sprint 07 Week 03
+# The ResultsPro Institutional Dispatch: Sprint 07 Week 03
 
 ## Part 1: Subject Line Matrix
 
 * **Option 1 (Pain Hook):** Why excited Day-1 students silently quit before Week 6 at {{company}}
 * **Option 2 (Curiosity / Warning Hook):** The 3 remote-learning bottlenecks draining cohort completion at {{company}}
 * **Option 3 (Metric / SLA Hook):** Turning Week-1 setup friction and 5-day grading waits into instant browser wins at {{company}}
+* **Preview Text:** Why 90 out of 300 online learners quit over Week-1 software setup errors, 5-day grading waits, and static PDFs—and the 10-way connected fix.
 
 ---
 
@@ -27,12 +28,10 @@ At ResultsPro, we built **CoursesPro & CBT Assessment Engine** to give remote le
 
 Are you open to seeing how leading Nigerian online academies remove Week-1 friction and keep learners moving all the way through graduation?
 
-Best regards,
-
-**@Ifeanyi Felix**  
+**— Ifeanyi Felix**  
 Head of Institutional Governance / Public Sector Strategy  
-ResultsPro Technologies Limited  
-{{unsubscribe_url}}
+ResultsPro Educational Support  
+Sent to {{email}} | Unsubscribe: {{unsubscribe_url}}
 
 ---
 
@@ -53,12 +52,10 @@ ResultsPro unifies browser-based practice labs, 15-minute interactive checkpoint
 
 Would Thursday at 11:00 AM work for a brief 10-minute walkthrough for {{company}}'s curriculum and operations team?
 
-Best regards,
-
-**@Ifeanyi Felix**  
+**— Ifeanyi Felix**  
 Head of Institutional Governance / Public Sector Strategy  
-ResultsPro Technologies Limited  
-{{unsubscribe_url}}
+ResultsPro Educational Support  
+Sent to {{email}} | Unsubscribe: {{unsubscribe_url}}
 
 ---
 
@@ -81,12 +78,10 @@ We are currently onboarding a select cohort of Nigerian online academies and tra
 
 If you would like to see how ResultsPro can raise cohort completion rates and credential credibility at {{company}}, reply to this email and I will arrange a private technical demonstration this week.
 
-Warm regards,
-
-**@Ifeanyi Felix**  
+**— Ifeanyi Felix**  
 Head of Institutional Governance / Public Sector Strategy  
-ResultsPro Technologies Limited  
-{{unsubscribe_url}}
+ResultsPro Educational Support  
+Sent to {{email}} | Unsubscribe: {{unsubscribe_url}}
 
 ---
 
@@ -95,20 +90,8 @@ ResultsPro Technologies Limited
 ### Top Utility Bar & Executive Masthead
 
 * **EDITION #63** | July 2026 | 4 Min Read | [www.resultspro.ng](https://www.resultspro.ng)
-
-```html
-<table width="100%" cellpadding="0" cellspacing="0" border="0" style="margin-bottom: 24px;">
-  <tr>
-    <td valign="middle" style="width: 52px;">
-      <img src="https://res.cloudinary.com/iqwyufpt/image/upload/v1795139977/9mm/resultspro_logo.png" alt="ResultsPro Logo" width="44" height="44" style="display: block; border: 0;" />
-    </td>
-    <td valign="middle" style="padding-left: 14px;">
-      <div style="font-size: 20px; font-weight: 800; color: #0f172a; letter-spacing: -0.5px; font-family: 'Dropa', sans-serif;">RESULTSPRO INSTITUTIONAL INTELLIGENCE</div>
-      <div style="font-size: 12px; font-weight: 600; color: #64748b; text-transform: uppercase; letter-spacing: 0.5px;">Executive Briefing for EdTech Founders, Bootcamp Operators &amp; Digital Learning Directors</div>
-    </td>
-  </tr>
-</table>
-```
+* **Logo:** ![ResultsPro Logo](https://res.cloudinary.com/iqwyufpt/image/upload/v1795139977/9mm/resultspro_logo.png) (44px)
+* **Masthead:** **THE RESULTSPRO INSTITUTIONAL DISPATCH** — Executive Briefing for EdTech Founders, Bootcamp Operators & Digital Learning Directors
 
 ---
 
@@ -120,7 +103,7 @@ On a Monday evening in Yaba, a sold-out twelve-week online data analytics and so
 
 Yet by Thursday evening, just as Chidi discovered in Cohort 8 of his academy, nearly ninety beginners are stuck fighting local database and software installation errors on older laptops. By Week 3, survivors wait five days for part-time mentors to grade files manually—and past graduates report that hiring managers ignore plain PDF certificates with no online proof of the projects they built.
 
-In this edition, we explore why Nigeria's surging youth digital skills wave demands friction-free remote learning infrastructure, review four notable Nigerian digital education developments, and share the ten-part operational blueprint for keeping online learners engaged from Day 1 through verified graduation.
+In this edition of The ResultsPro Institutional Dispatch, we explore why Nigeria's surging youth digital skills wave demands friction-free remote learning infrastructure, review four notable Nigerian digital education developments, and share the ten-part operational blueprint for keeping online learners engaged from Day 1 through verified graduation.
 
 ---
 
@@ -151,23 +134,17 @@ High dropout rates are rarely caused by lazy learners. They are caused by discon
 ### Section 5: Curated Industry Intelligence Briefs
 
 * **1. [TAFTA trains 150 female digital creators](https://punchng.com/tafta-trains-150-female-digital-creators/)**
-  <div style="max-width: 600px; margin: 12px 0;">
-    <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/10/04024921/Screenshot-2026-10-04-024856_1791078561.webp&w=800&output=jpg" alt="Female digital creators completing structured skills training under the TAFTA programme in Nigeria" referrerpolicy="no-referrer" style="width: 100%; height: auto; display: block;" />
-  </div>
+  * <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/10/04024921/Screenshot-2026-10-04-024856_1791078561.webp&w=800&output=jpg" alt="Female digital creators completing structured skills training under the TAFTA programme in Nigeria" referrerpolicy="no-referrer" style="width: 100%; height: auto; display: block;" />
   * **Source**: Punch Nigeria · [Read Full Story →](https://punchng.com/tafta-trains-150-female-digital-creators/)
   * **Operational Takeaway:** As illustrated in Punch Nigeria's report on TAFTA training 150 female digital creators (photo above), inclusive remote cohorts bring together learners with varied devices and evening study schedules. Browser-ready workspaces and short 15-minute interactive checkpoints allow working learners to make visible progress every night without laptop setup roadblocks.
 
 * **2. [Digital education will create jobs, opportunities for students – Presidential aide](https://punchng.com/digital-education-will-create-jobs-opportunities-for-students-presidential-aide/)**
-  <div style="max-width: 600px; margin: 12px 0;">
-    <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/10/03193454/109141_1791052494.webp&w=800&output=jpg" alt="Nigerian policy and education stakeholders emphasizing job-ready digital education and employer-verifiable graduate skills" referrerpolicy="no-referrer" style="width: 100%; height: auto; display: block;" />
-  </div>
+  * <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/10/03193454/109141_1791052494.webp&w=800&output=jpg" alt="Nigerian policy and education stakeholders emphasizing job-ready digital education and employer-verifiable graduate skills" referrerpolicy="no-referrer" style="width: 100%; height: auto; display: block;" />
   * **Source**: Punch Nigeria · [Read Full Story →](https://punchng.com/digital-education-will-create-jobs-opportunities-for-students-presidential-aide/)
   * **Operational Takeaway:** As covered by Punch Nigeria on federal officials underscoring digital education's link to youth employment (photo above), adult learners enroll in bootcamps for one primary reason: career mobility. Replacing plain PDF certificates with QR-verifiable digital credentials linked directly to evaluated projects gives hiring managers immediate confidence in your graduates.
 
 * **3. [Applications Open for iDICE Skills-to-Jobs Program Targeting 50,000 Young People Across North-Central Nigeria](https://punchng.com/applications-open-for-idice-skills-to-jobs-program-targeting-50000-young-people-across-north-central-nigeria/)**
-  <div style="max-width: 600px; margin: 12px 0;">
-    <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/09/30191837/dice_1790792317.webp&w=800&output=jpg" alt="iDICE Skills-to-Jobs digital workforce programme outreach targeting 50,000 young learners across North-Central Nigeria" referrerpolicy="no-referrer" style="width: 100%; height: auto; display: block;" />
-  </div>
+  * <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/09/30191837/dice_1790792317.webp&w=800&output=jpg" alt="iDICE Skills-to-Jobs digital workforce programme outreach targeting 50,000 young learners across North-Central Nigeria" referrerpolicy="no-referrer" style="width: 100%; height: auto; display: block;" />
   * **Source**: Punch Nigeria · [Read Full Story →](https://punchng.com/applications-open-for-idice-skills-to-jobs-program-targeting-50000-young-people-across-north-central-nigeria/)
   * **Operational Takeaway:** As highlighted in Punch Nigeria's coverage of the iDICE programme targeting 50,000 youths (photo above), scaling digital training to thousands of simultaneous participants makes manual mentor file grading impossible. Automated test runners and predictive disengagement dashboards let lean instructional teams support massive cohorts without five-day feedback delays.
 
@@ -175,74 +152,43 @@ High dropout rates are rarely caused by lazy learners. They are caused by discon
 
 ### Industry News Spotlight
 
-<div style="border: 1px solid #e2e8f0; padding: 20px; background-color: #f8fafc; margin: 24px 0;">
-  <div style="font-size: 11px; font-weight: 700; color: #2563eb; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px;">INDUSTRY SPOTLIGHT</div>
-  <div style="font-size: 16px; font-weight: 700; color: #0f172a; margin-bottom: 12px;">
-    <a href="https://punchng.com/oluremi-tinubu-unveils-kwara-varsity-ict-centre/" style="color: #0f172a; text-decoration: none;">Oluremi Tinubu unveils Kwara varsity ICT centre</a>
-  </div>
-  <div style="width: 100%; height: 180px; overflow: hidden; margin-bottom: 14px;">
-    <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/09/15174332/image_1789490612.webp&w=800&output=jpg" alt="Inauguration of a modern university ICT centre in Kwara State reflecting expanding Nigerian digital learning infrastructure" referrerpolicy="no-referrer" style="width: 100%; height: 180px; object-fit: cover; border-radius: 0px !important; display: block;" />
-  </div>
-  <p style="font-size: 13px; color: #475569; line-height: 1.6; margin-bottom: 10px;">
-    As reported by Punch Nigeria on the unveiling of a new Kwara university ICT centre (spotlight photo above), public and private investment in digital learning hubs is raising national benchmarks for computer-based assessment and cloud training. Online academies that pair modern connectivity with browser-based practice labs, instant autograding, and verifiable credentials will lead Nigeria's next decade of workforce transformation.
-  </p>
-  <p style="font-size: 12px; color: #64748b; margin-bottom: 0;">
-    <strong>Source:</strong> Punch Nigeria · <a href="https://punchng.com/oluremi-tinubu-unveils-kwara-varsity-ict-centre/" style="color: #2563eb; text-decoration: underline;">Read Full Story →</a>
-  </p>
+**INDUSTRY NEWS SPOTLIGHT: [Oluremi Tinubu unveils Kwara varsity ICT centre](https://punchng.com/oluremi-tinubu-unveils-kwara-varsity-ict-centre/)**
+
+<div style="width: 100%; height: 180px; overflow: hidden; margin: 12px 0;">
+  <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/09/15174332/image_1789490612.webp&w=800&output=jpg" alt="Inauguration of a modern university ICT centre in Kwara State reflecting expanding Nigerian digital learning infrastructure" referrerpolicy="no-referrer" style="width: 100%; height: 180px; object-fit: cover; border-radius: 0px !important; display: block;" />
 </div>
+
+As reported by Punch Nigeria on the unveiling of a new Kwara university ICT centre (spotlight photo above), public and private investment in digital learning hubs is raising national benchmarks for computer-based assessment and cloud training. Online academies that pair modern connectivity with browser-based practice labs, instant autograding, and verifiable credentials will lead Nigeria's next decade of workforce transformation.
+
+* **Source**: Punch Nigeria · [Read Full Story →](https://punchng.com/oluremi-tinubu-unveils-kwara-varsity-ict-centre/)
 
 ---
 
 ### Primary Call to Action
 
-<div style="text-align: center; margin: 32px 0;">
-  <a href="https://www.resultspro.ng/blog/remote-learning-dropout-bottlenecks" style="background-color: #0f172a; color: #ffffff; padding: 14px 28px; font-size: 14px; font-weight: 700; text-decoration: none; display: inline-block; letter-spacing: 0.5px;">READ THE 10-WAY REMOTE RETENTION BLUEPRINT →</a>
-</div>
+👉 **[READ THE 10-WAY REMOTE RETENTION BLUEPRINT →](https://www.resultspro.ng/blog/remote-learning-dropout-bottlenecks)**
 
 ---
 
 ### Product Spotlight & Founding Offer
 
-<div style="border-left: 4px solid #0f172a; padding: 18px 22px; background-color: #f1f5f9; margin: 28px 0;">
-  <div style="font-size: 15px; font-weight: 800; color: #0f172a; margin-bottom: 6px;">INTRODUCING: RESULTSPRO COURSESPRO &amp; CBT ASSESSMENT ENGINE</div>
-  <p style="font-size: 13px; color: #334155; line-height: 1.6; margin-bottom: 12px;">
-    Eliminate Week-1 software setup errors, five-day manual grading queues, and unverified PDF certificates inside one connected learning platform built for Nigerian online academies:
-  </p>
-  <ul style="font-size: 13px; color: #334155; line-height: 1.6; padding-left: 18px; margin-bottom: 14px;">
-    <li><strong>Zero-Install Browser Workspaces:</strong> Launch pre-configured cloud coding and data labs in one click on any laptop or tablet.</li>
-    <li><strong>Instant Autograder &amp; CBT Checkpoints:</strong> Evaluate practice submissions in seconds with clear hints and flag disengaged learners early.</li>
-    <li><strong>Employer-Verifiable Digital Credentials:</strong> Issue QR-authenticated certificates linked directly to verified student projects.</li>
-  </ul>
-  <div style="font-size: 13px; font-weight: 700; color: #0f172a; margin-bottom: 6px;">Exclusive Founding EdTech Partner Offer:</div>
-  <p style="font-size: 13px; color: #475569; line-height: 1.5; margin-bottom: 0;">
-    Receive custom cloud lab workspace provisioning, automated CBT test bank setup, and 90 days of dedicated learning engineering support. <a href="https://www.resultspro.ng/products" style="color: #2563eb; font-weight: 700; text-decoration: underline;">Request an Executive Demonstration →</a>
-  </p>
-</div>
+**INTRODUCING: RESULTSPRO COURSESPRO & CBT ASSESSMENT ENGINE**
 
-Warm regards,
+Eliminate Week-1 software setup errors, five-day manual grading queues, and unverified PDF certificates inside one connected learning platform built for Nigerian online academies:
 
-**@Ifeanyi Felix**  
-Head of Institutional Governance / Public Sector Strategy  
-ResultsPro Technologies Limited
+* **Zero-Install Browser Workspaces:** Launch pre-configured cloud coding and data labs in one click on any laptop or tablet.
+* **Instant Autograder & CBT Checkpoints:** Evaluate practice submissions in seconds with clear hints and flag disengaged learners early.
+* **Employer-Verifiable Digital Credentials:** Issue QR-authenticated certificates linked directly to verified student projects.
+
+**Exclusive Founding EdTech Partner Offer:**  
+Receive custom cloud lab workspace provisioning, automated CBT test bank setup, and 90 days of dedicated learning engineering support. [Request an Executive Demonstration →](https://www.resultspro.ng/solutions)
+
+**— Ifeanyi Felix**  
+Head of Institutional Governance / Public Sector Strategy, ResultsPro.ng
 
 ---
 
 ### Light Executive Footer
 
-```html
-<table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-top: 1px solid #e2e8f0; padding-top: 20px; margin-top: 32px;">
-  <tr>
-    <td valign="middle" style="width: 32px;">
-      <img src="https://res.cloudinary.com/iqwyufpt/image/upload/v1795139977/9mm/resultspro_logo.png" alt="ResultsPro Icon" width="22" height="22" style="display: block; border: 0;" />
-    </td>
-    <td valign="middle" style="padding-left: 10px; font-size: 11px; color: #64748b; font-family: 'Dropa', sans-serif;">
-      <strong>ResultsPro Technologies Limited</strong> · Victoria Island, Lagos, Nigeria
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" style="padding-top: 10px; font-size: 10px; color: #94a3b8; line-height: 1.5;">
-      You are receiving this intelligence report as a registered EdTech founder, bootcamp operator, curriculum lead, or digital learning executive at {{company}}. To update your delivery preferences or unsubscribe, please click <a href="{{unsubscribe_url}}" style="color: #64748b; text-decoration: underline;">here</a>.
-    </td>
-  </tr>
-</table>
-```
+* ![ResultsPro Icon](https://res.cloudinary.com/iqwyufpt/image/upload/v1795139977/9mm/resultspro_logo.png) (22px) **ResultsPro Educational Support** · Victoria Island, Lagos, Nigeria
+* Sent to {{name}} ({{email}}) as a registered EdTech founder, bootcamp operator, curriculum lead, or digital learning executive at {{company}}. To update your delivery preferences or unsubscribe, please click [here]({{unsubscribe_url}}).

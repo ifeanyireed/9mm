@@ -123,8 +123,8 @@ Explore all 10 practical ways to automate your school bursary, PTA accounting, a
 * **Headline:** Make Resumption Week About Welcoming Students
 * **Body:**
   ResultsPro SchoolHub & Bursary Engine connects student virtual accounts, itemised billing, QR gate clearance, PTA sub-ledgers, and live proprietor analytics in one platform.
-* **Call to Action:** Read the full 10-fix operational guide and book a walkthrough at www.resultspro.ng.
-* **Footer:** Slide 6/6 · ResultsPro Technologies Limited
+* **Call to Action:** Read all 10 fixes at https://www.resultspro.ng/blog/automate-school-bursary-pta-tasks and book a walkthrough at www.resultspro.ng/solutions.
+* **Footer:** Slide 6/6 · ResultsPro Educational Support
 
 ---
 
@@ -250,7 +250,7 @@ B) Tracking 2-part and 3-part tuition installment balances by hand
 C) Issuing stamped paper clearance slips for the bookshop and school gate
 D) Separating PTA levies from regular school tuition in one bank account
 
-Drop your letter in the comments and let’s share what is working! 👇
+Drop your letter in the comments and read our 10-step bursary automation guide here: 👉 https://www.resultspro.ng/blog/automate-school-bursary-pta-tasks 👇
 ```
 
 ---
@@ -289,9 +289,7 @@ DM us "SCHOOLHUB" to see how ResultsPro automates tuition reconciliation, QR gat
 ### B. Threads Standalone Post (<500 Characters)
 
 ```text
-Parents who pay utility bills and check exam placements on their phones in seconds do not want to send WhatsApp screenshots and wait three days for a stamped paper fee receipt.
+Parents who pay bills on their phones in seconds shouldn't send WhatsApp screenshots and wait three days for a stamped paper fee receipt.
 
-When every student has a dedicated virtual bank account linked to instant digital receipts, bookshop clearance, and a separate PTA sub-ledger, resumption week becomes calm again.
-
-Great teachers build your school’s reputation in class. A connected bursary protects parent trust outside it.
+Give every pupil a dedicated virtual bank account linked to QR clearance and a clean PTA sub-ledger. Read all 10 fixes: 👉 https://www.resultspro.ng/blog/automate-school-bursary-pta-tasks
 ```

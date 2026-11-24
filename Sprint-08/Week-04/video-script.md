@@ -124,7 +124,7 @@ That’s ResultsPro. Built for governance."
 **[ON-SCREEN GRAPHIC]**:
 * `https://www.resultspro.ng/solutions`
 * `https://www.resultspro.ng/onboard`
-* ResultsPro Institutional Governance Suite &middot; Sovereign Public Sector Architecture
+* ResultsPro Institutional Governance Suite · Sovereign Public Sector Architecture
 
 ---
 

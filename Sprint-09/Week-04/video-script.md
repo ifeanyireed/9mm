@@ -130,3 +130,12 @@ Visit **compliancehub.ng/corporate-audit** today.
 * *Corporate Statutory Governance & Automated Registry Telemetry*
 * FCT Abuja & Victoria Island, Lagos
 * Link: `www.compliancehub.ng/corporate-audit`
+
+---
+
+## ⚡ 60-Second Short / Reel Cutdown (TikTok / Reels / Shorts)
+
+* **[0:00 – 0:12] Hook**: "Your filing agent blames 'Abuja network' for a 3-week CAC delay—right when your bank bid bond closes at noon tomorrow."
+* **[0:13 – 0:28] Diagnosis**: Show Barrister Amina's diagnostic screen: orphaned Remita webhook, 72 DPI phone scan OCR rejection, and missing Section 119 PSC register.
+* **[0:29 – 0:46] Payoff**: "Requery the Remita webhook in 60 seconds, upload 300 DPI pre-validated accounts, stage PSC records, and pull your QR-coded CAC Electronic Status Report in under 24 hours."
+* **[0:47 – 0:60] CTA**: "Run a free 60-second RC audit at compliancehub.ng/corporate-audit."

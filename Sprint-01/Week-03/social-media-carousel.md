@@ -121,7 +121,7 @@ Read the 10 practical ways growing Nigerian fashion and beauty brands connect pr
 * **Headline:** Turn Every Viral View Into an Accurate Order
 * **Body:**
   Ofia Shop Manager & Storefront connects your multi-variant catalogue, real-time stock locking, automated payments, and digital packing slips in one place.
-* **Call to Action:** Read all 10 fixes and explore Ofia Storefront at www.ofia.ng/products.
+* **Call to Action:** Read all 10 fixes at https://www.ofia.ng/blog/manual-variant-tracking-bottlenecks-viral-sales and explore Ofia Storefront at www.ofia.ng/products.
 * **Footer:** Slide 6/6 · Ofia Enterprise Growth Limited
 
 ---
@@ -256,7 +256,7 @@ B) Accidentally selling the last unit twice across Instagram and WhatsApp
 C) Packing staff shipping the wrong size because bank alerts don't show order details
 D) Losing buyers completely whenever their size sells out
 
-Drop your letter below and tell us how your team handles it! 👇
+Drop your letter below and read our full 10-step variant guide here: 👉 https://www.ofia.ng/blog/manual-variant-tracking-bottlenecks-viral-sales 👇
 ```
 
 ---
@@ -298,7 +298,7 @@ DM us "STOREFRONT" to organise your sizes, colours, and digital packing slips wi
 ```text
 Six styles in three colours and four sizes is not six products—it is 72 separate items.
 
-When you track 72 variants in a paper notebook and Instagram DMs, two shoppers pay for the last Size 10 dress at once, and your rider returns wrong-size parcels.
+When you track 72 variants in a notebook and DMs, two buyers pay for the last Size 10 dress at once and riders return wrong-size parcels.
 
-Stop checking hangers manually. Give shoppers clickable size buttons and automatic checkout locks so viral posts turn into clean, accurate orders.
+Give shoppers live size buttons and auto checkout locks. Read all 10 fixes: 👉 https://www.ofia.ng/blog/manual-variant-tracking-bottlenecks-viral-sales
 ```

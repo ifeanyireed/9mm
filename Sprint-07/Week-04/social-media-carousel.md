@@ -21,12 +21,12 @@ Every single pull request represents an eager, hardworking learner:
 → Someone who built their very first full-stack PostgreSQL CRUD API.
 → Someone who is waiting anxiously to know: *"Did I do this right?"*
 
-Here is the brutal mathematics of manual code reviews:
+Here is the operational reality of manual code reviews:
 Cloning a student's repo, running `npm install`, checking their `.env`, seeding test data, running test suites, and writing constructive rubric feedback takes a skilled engineer **20 minutes per project**.
 
 For a cohort of 1,500 active learners:
-• 1,500 projects × 20 minutes = **500 instructor hours**.
-• Across an instructional team of 5 leads = **100 hours per instructor**.
+• Reviewing 1,500 full-stack projects consumes **500 instructor hours**.
+• Across an instructional team of 5 leads, that demands **100 hours per instructor**.
 
 It is physically impossible.
 So turnaround time blows out to 14–20 business days.
@@ -102,25 +102,25 @@ Explore the engine: `https://www.resultspro.ng/coursespro`
 * **Visual**: Bold minimalist dark navy background (`#0F172A`). Glowing red alert badge displaying: *"384 Unreviewed Pull Requests"*. Clean ResultsPro logo in top corner.
 
 ### Slide 2: The Manual Code Review Wall
-* **Headline**: The Impossible Math of Manual Reviews
+* **Headline**: The Scale Limit of Manual Reviews
 * **Key Visual / Graphic**:
-  * 1,500 active students × 20 min review = 500 instructor hours.
-  * 5 instructors = 100 hours per instructor per module.
+  * 1,500 active learners at 20 minutes per review consumes 500 instructor hours.
+  * Across 5 instructors, that creates a 100-hour backlog per lead on every module.
 * **Callout**: *"When turnaround time hits 14 days, student momentum dies."*
 
 ### Slide 3: The Psychology of Feedback Latency
 * **Headline**: Feedback Speed = Cohort Retention
 * **Graphic**: A declining retention curve showing:
-  * < 1 hour turnaround &rarr; 92% completion
-  * 48 hours &rarr; 78% completion
-  * 7 days &rarr; 46% completion
-  * 14+ days &rarr; 32% completion
+  * < 1 hour turnaround → 92% completion
+  * 48 hours → 78% completion
+  * 7 days → 46% completion
+  * 14+ days → 32% completion
 * **Text**: Novice developers interpret grading delays as institutional neglect.
 
 ### Slide 4: The 4-Tier Containerized Sandbox
 * **Headline**: Inside the ResultsPro Autograder CI/CD Architecture
 * **Visual Diagram**:
-  1. Student `git push` &rarr; Webhook Trigger
+  1. Student `git push` → Webhook Trigger
   2. Ephemeral Docker Sandbox (gVisor microVM isolation)
   3. In-memory hermetic DB & hidden test suite injection
   4. Real-time Gradebook sync + GitHub PR comment in 4.2 seconds.
@@ -129,9 +129,9 @@ Explore the engine: `https://www.resultspro.ng/coursespro`
 ### Slide 5: The AltCamp Africa Case Study
 * **Headline**: AltCamp Africa: 1,500 Students Scaled
 * **Metric Cards**:
-  * Latency: 20 Days &rarr; **4.2 Seconds**
+  * Latency: 20 Days → **4.2 Seconds**
   * Instructor Labor: **500 Hours Saved** per module
-  * Retention: 35.8% &rarr; **91.4%**
+  * Retention: 35.8% → **91.4%**
   * Tuition Recovered: **₦81,400,000**
 
 ### Slide 6: Call to Action Slide

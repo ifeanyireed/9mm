@@ -108,7 +108,7 @@ Read all 10 cashless AML fixes to shield your enterprise:
 * **Headline:** Close Bigger Deals With Zero PND Fear
 * **Body:**
   ComplianceHub HubAML automates buyer KYC, structuring detection, PEP checks, and SCUML reporting for real estate developers, auto merchants, and DNFBPs.
-* **Call to Action:** Run your SCUML & AML Diagnostic at www.compliancehub.ng/onboarding?module=hubaml.
+* **Call to Action:** Read all 10 cashless AML fixes at https://www.compliancehub.ng/blog/cash-transaction-limit-structuring-trap-dnfbp-scuml and run your SCUML diagnostic at www.compliancehub.ng/onboarding?module=hubaml.
 * **Footer:** Slide 6/6 · ComplianceHub Regulatory Technologies Limited
 
 ---
@@ -183,9 +183,9 @@ Read all 10 MLA 2022 & SCUML fixes for DNFBPs:
 ### B. Standalone Punchy Tweet (<280 Characters)
 
 ```text
-Accepting ₦20M cash for a property or four split ₦4.5M family transfers violates MLA 2022 Sections 2 & 13—risking instant PND bank freezes & asset forfeiture under Section 18.
+Accepting ₦20M cash or four split ₦4.5M family wires violates MLA 2022 Sections 2 & 13—risking instant PND freezes & forfeiture.
 
-10 cashless AML fixes for Nigerian developers & auto dealers:
+10 AML fixes for DNFBPs:
 👉 https://www.compliancehub.ng/blog/cash-transaction-limit-structuring-trap-dnfbp-scuml
 ```
 
@@ -228,7 +228,8 @@ B) Dedicated escrow accounts with automated ComplianceHub-style verification
 C) Sales teams still struggle when urgent weekend cash offers arrive
 D) We are currently upgrading our SCUML / MLA 2022 workflow
 
-Drop your letter below and let's share what actually works on the sales floor! 👇
+Drop your letter below—and read all 10 MLA 2022 cashless AML fixes here:
+👉 https://www.compliancehub.ng/blog/cash-transaction-limit-structuring-trap-dnfbp-scuml 👇
 ```
 
 ---
@@ -268,7 +269,7 @@ DM us "SCUML" to run a complimentary AML diagnostic!
 ```text
 In Nigerian real estate and luxury auto sales, accepting ₦20M physical cash—or four split ₦4.5M transfers from a buyer's relatives—is not "smart closing."
 
-Under MLA 2022 Sections 2, 13 & 18, it is a fast track to an EFCC Post-No-Debit freeze on every corporate bank account you own.
+Under MLA 2022 Sections 2, 13 & 18, it is a fast track to an EFCC Post-No-Debit freeze on every bank account you own.
 
-Go 100% cashless, verify BVN/UBO before invoicing, and automate SCUML CTR filings.
+Read all 10 SCUML & AML fixes: https://www.compliancehub.ng/blog/cash-transaction-limit-structuring-trap-dnfbp-scuml
 ```

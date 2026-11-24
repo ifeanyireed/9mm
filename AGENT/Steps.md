@@ -1,157 +1,129 @@
-# 📋 Steps.md: Sequential Multi-Agent Production Workflow
+# 📋 Steps.md: Sequential Multi-Agent Production & Re-Evaluation Workflow
 
-This document outlines the sequential steps required to generate the complete marketing content suite. Agents must follow this exact sequence to ensure consistency, voice alignment, and adherence to quality standards across **all 8 Sprints and both Brands (Ofia vs. ResultsPro)**.
+This document outlines the sequential workflow for producing or re-evaluating the complete 5-file weekly marketing suite across **all 12 Sprints (120 Weeks) and all 3 Brands (Ofia.ng, ResultsPro.ng, and ComplianceHub.ng)** in strict alignment with [`AGENTS.md`](file:///Volumes/ReedBreedCC/9mm/AGENTS.md) and [`AGENT/Requirement.md`](file:///Volumes/ReedBreedCC/9mm/AGENT/Requirement.md).
 
 ---
 
 ## Workflow Overview
 
 ```
-[Phase 0: 9MMP.html Calendar & Lead Ingestion]
+[Phase 0: Sprint/Brand Routing, Topic & Global Image Registry Check]
                   │
                   ▼
-[Folder Initialization: Sprint-[XX]/Week-[YY]/]
+[Folder Check: Sprint-[XX]/Week-[YY]/]
                   │
                   ▼
 [Phase 1: Video Script ──► video-script.md]
                   │
                   ▼
-[Phase 2: Blog Post ────► blog-post.md]
+[Phase 2: Blog Post ────► blog-post.md (8-Section Blueprint + 8-9 Unique Photos)]
                   │
                   ▼
-[Phase 3: Email Blast ──► email-blast.html & email-blast.md]
+[Phase 3: Email Blast ──► email-blast.md & email-blast.html (3-Touch Cold + 10-Sec Newsletter)]
                   │
                   ▼
 [Phase 4: Social Pack ──► social-media-carousel.md]
                   │
                   ▼
-[Phase 5: Cross-Asset Audit & Progress-Tracker Update]
+[Phase 5: Cross-Asset QA, content-data.js/json Sync & Progress-Tracker Update]
 ```
+
+> **Execution Rule (`EXEC-01`)**: Perform all reading and editing with native file editing tools and coordinated subagents—**strictly zero shell/Python scripts** to edit deliverables or deduplication files, and zero blind batch boilerplate.
 
 ---
 
-## Phase 0: Calendar & Lead Ingestion from 9MMP.html
+## Phase 0: Sprint Routing, Lead Context & Global Visual Deduplication Check
 
-### Step 0.1: Extract Sprint, Brand & Week Parameters from 9MMP.html
-* **Action**: Read `CALENDAR_DATA` inside [`9MMP.html`](file:///Volumes/ReedBreedCC/9MM/9MMP.html) for the target `groupId` and `monthId`.
-* **Brand Routing Gate**:
-  - **Sprints 1 to 4 $\rightarrow$ Brand: OFIA**: Use Ofia merchant tone, commerce terminology, and `ofia.ng` URLs.
-  - **Sprints 5 to 8 $\rightarrow$ Brand: RESULTSPRO**: Use ResultsPro institutional governance tone, academic terminology, and `resultspro.ng` URLs.
-* **Extract the 4 Streams for the Target Week**:
-  - `w.week`: Week number and theme (e.g., *Week 1: The Core Problem*).
-  - `w.focus`: Funnel stage (e.g., *TOFU (Foundation) - Why [Group] struggles to scale*).
-  - `w.blog`: Stream 1 Blog topic.
-  - `w.email`: Stream 2 Email topic and body angle.
-  - `w.video`: Stream 3 Video topic and format.
-  - `w.graphic`: Stream 4 Graphic / Carousel topic.
+### Step 0.1: Route Brand, Palette, Logo & Legal Entity
+* **Sprints 01–04 → Brand: OFIA (`https://www.ofia.ng`)**
+  - Publication: *The Ofia Commerce Brief* | Legal Entity: **Ofia Enterprise Growth** | Logo: `https://res.cloudinary.com/iqwyufpt/image/upload/v1795139974/9mm/ofia_logo.svg`
+* **Sprints 05–08 → Brand: RESULTSPRO (`https://www.resultspro.ng`)**
+  - Publication: *The ResultsPro Institutional Dispatch* | Legal Entity: **ResultsPro Educational Support** | Logo: `https://res.cloudinary.com/iqwyufpt/image/upload/v1795139977/9mm/resultspro_logo.png`
+* **Sprints 09–12 → Brand: COMPLIANCEHUB (`https://www.compliancehub.ng`)**
+  - Publication: *The ComplianceHub Regulatory Brief* | Legal Entity: **ComplianceHub Regulatory Technologies Limited** | Logo: `https://res.cloudinary.com/iqwyufpt/image/upload/v1795139981/9mm/compliancehub_logo.png`
 
-### Step 0.2: Lead Profile & Friction Extraction
-* **Action**: Query the corresponding lead tab in `9MMP.html` (e.g., `shop-instagram` for Sprint 1, `ofia-distributors` for Sprint 2, `rp-group-b` for Sprint 5, `rp-group-d` for Sprint 6, etc.).
-* **Extract Lead Details**:
-  - Target business archetypes / institutional roles.
-  - Core operational friction points (e.g. quotation delay, fee reconciliation, ghost workers).
-  - Designated product solution from `Skills.md`.
+### Step 0.2: Ingest Calendar, Lead Friction & Sprint Persona
+* For Sprints 01–08, read `CALENDAR_DATA` and the matching lead tab in [`9MMP.html`](file:///Volumes/ReedBreedCC/9mm/9MMP.html); for Sprints 09–12, read the regulatory sprint topic, statutory authority (CAMA 2020, PRA 2014/ITF/BPP, MLA 2022/SCUML/NFIU, NDPA 2023/NDPC), and target persona from [`AGENT/Skills.md`](file:///Volumes/ReedBreedCC/9mm/AGENT/Skills.md).
+* Before selecting any news photo, verify that **zero candidate URLs** appear anywhere else in the 120-week repository (`IMG-03`), that all URLs return HTTP 200 from approved Nigerian media domains, and that none are isolated logos, crests, badges, maps, or promotional posters (`IMG-02`).
 
-### Step 0.3: Folder Initialization
-* **Action**: Create the dedicated directory for the sprint and week:
-  ```
-  Sprint-[XX]/Week-[YY]/
-  ```
-  *(Example: `/Volumes/ReedBreedCC/9MM/Sprint-02/Week-01/`)*
+### Step 0.3: Verify Directory
+* Ensure `/Volumes/ReedBreedCC/9mm/Sprint-[XX]/Week-[YY]/` exists.
 
 ---
 
 ## Phase 1: Video Script Production (Stream 3)
 
 ### Step 1.1: Storyboard & Scene Breakdown
-* **Action**: Build the narrative arc based on the `video` prompt in `CALENDAR_DATA`:
-  1. *Cold Open (Host TH)*: Pattern interrupt hooking the audience with the sprint's core operational bottleneck.
-  2. *Scene 1 (Drama)*: The excitement of volume, traction, or opening hours.
-  3. *Scene 2 (Drama)*: The manual system crashes under pressure; customer/client loss; split-screen contrast with automated competitor.
-  4. *TH Segment*: Mathematical breakdown using the sprint's quantitative friction formula.
-  5. *Scene 3 (Drama)*: The rewind replaying the same scenario powered by the sprint's designated product.
-  6. *TH Close*: Decisive product pitch and direct URL (`ofia.ng/products` or `resultspro.ng/solutions`).
+Build the 6-part narrative arc (~600–650 spoken words, ~4:15 runtime at 140 WPM):
+1. *Cold Open (Host TH)*: Pattern interrupt hooking the audience on the sprint's core operational/regulatory bottleneck.
+2. *Scene 1 (Drama)*: Peak demand, audit arrival, or opening-day momentum.
+3. *Scene 2 (Drama)*: The manual system breaks under real-world pressure; split-screen contrast with an automated peer.
+4. *TH Segment (Operational Economics & Impact)*: Calm breakdown of concrete Naira/time leakage and compliance risk using real benchmarks (**zero `$$` LaTeX equations**).
+5. *Scene 3 (Drama — The Rewind)*: Same high-pressure scenario resolved effortlessly using the sprint's designated software module.
+6. *TH Close*: Decisive product pitch and live brand CTA URL (`ofia.ng/products`, `resultspro.ng/solutions`, or `compliancehub.ng`).
 
-### Step 1.2: Two-Track Script Drafting
-* **Action**: Write the complete script (~600–650 spoken words, ~4:15 runtime) with audio/visual cues, SFX, production notes, casting notes, and a 60-second cutdown for short-form video.
-* **Save File**: `Sprint-[XX]/Week-[YY]/video-script.md`.
-
-### Step 1.3: Quality Gate Verification
-* **Action**: Audit against the Video Script Gate (V-01 to V-08) in `Requirement.md`.
+### Step 1.2: Draft & Verify
+* Include audio/visual cues, SFX, casting guidance, consistent currency/metrics, and a 60-second short-form cutdown.
+* Save to `Sprint-[XX]/Week-[YY]/video-script.md` and verify against **V-01 to V-08** in [`AGENT/Requirement.md`](file:///Volumes/ReedBreedCC/9mm/AGENT/Requirement.md).
 
 ---
 
 ## Phase 2: Long-Form Blog Post Production (Stream 1)
 
-### Step 2.1: Outline, Visual Brief & Cohesive Story Framing
-* **Action**: Build the **Master 8-Section Cohesive Story Blueprint** for the `blog` topic in `CALENDAR_DATA`:
-  - **One Cohesive Story**: Write in warm, clear, simple 1–2 sentence paragraphs so the entire post reads as one continuous story anchored around the sprint's Nigerian persona.
-  - **Section 1 (Opening Persona Story)**: Start with a clear question/problem below the Hero Image, then open on a busy day at the persona's Nigerian business $\rightarrow$ *"But [Name] has a problem"* $\rightarrow$ 3 everyday micro-failures $\rightarrow$ *"What it lacks is a connected system."*
-  - **Section 2 (Macro Industry Validation — 4 Dated Reports + 4 Matched Images)**: Curate **4 numbered industry developments** from real Nigerian/African news & research that pass the Relevance Test. Grab and embed **4 publicly available images** that directly match each of the 4 cited reports, cite the source/date/finding, and explain in 1–2 sentences *"Why does this matter to [Name]?"*
-  - **Section 3 (Core Diagnosis)**: Revisit the persona and stack 4 parallel 1-sentence operational disconnects across departments.
-  - **Section 4 (10 Practical Fixes)**: Numbered `1` to `10` (with inline images at #1, #3, #5), each strictly following: Action Heading $\rightarrow$ Current Friction/Scenario $\rightarrow$ Connected Solution $\rightarrow$ `**Why it matters:** [1-sentence benefit].`
-  - **Section 5 (3-Column Comparison Table)**: 8-row table (`Business activity` | `Disconnected [operations]` | `Connected [operations]`).
-  - **Section 6 (Product Bridge)**: Inline image + *"Depending on the configured modules, businesses can use the platform to support:"* + 6 modular bullets.
-  - **Section 7 & 8 (Narrative Closure, CTA & Tags)**: Close the persona's realization, provide the `Ready to Connect...?` CTA, 2-sentence epigram, and `#tags`.
+### Step 2.1: Outline & Cohesive Story Framing (8-Section Blueprint)
+Build `blog-post.md` (~1,500–2,400 words) as **one complete, warm, mobile-readable story** (1–2 sentence paragraphs) anchored in the sprint's Nigerian persona:
+* **Sec 0 (Header, Meta Hook, Hero & `IMG-01`)**: H1 Title (`Why ...: 10 Ways to ...` or `[Problem]: 10 Ways to ...`), metadata (`@Ifeanyi Felix`), 2-sentence question meta excerpt, Hero Cover Image (`wsrv.nl`, `referrerpolicy="no-referrer"`, `max-width: 720px`, `border-radius: 8px`), 1-sentence bold provocative question, and the `VISUAL FOR BLOG FEATURED IMAGE (IMG-01)` 3D Disney Pixar prompt block.
+* **Sec 1 (Opening Persona Story)**: Busy day at the persona's real Nigerian business/institution (explicitly citing the Hero photo above) → *"But [Name] has a problem."* → 3 concrete micro-failures → *"What it lacks is a connected system."*
+* **Sec 2 (Macro Industry Validation — 4 Dated Reports + 4 Matched Photos)**: Curate **4 numbered, dated Nigerian news/research reports** passing the Relevance Test. Embed **1 unique verified public photo per report** (4 photos total in Sec 2), cite source/date/link and the photo in prose, and tie each back in 1–2 sentences (*"Why does this matter to [Name]?"*).
+* **Sec 3 (Core Diagnosis)**: Revisit persona + stack **4 parallel 1-sentence operational disconnects** across departments.
+* **Sec 4 (10 Practical Fixes)**: Numbered `1`–`10` with **2–3 unique inline photos** interspersed (e.g., at #1, #3, #5) and cited in prose. Every item strictly follows: Action-Verb Heading → Friction/Scenario → Connected Solution → `**Why it matters:** [1-sentence benefit].`
+* **Sec 5 (3-Column Comparison Table)**: Clean **8-row, 3-column** native GFM table (`Business activity` | `Disconnected [operations]` | `Connected [operations]`).
+* **Sec 6 (Product Bridge)**: Unique inline photo cited in prose + persona tie-back + *"Depending on the configured modules, businesses/institutions can use the platform to support:"* + **6 clean module bullets**.
+* **Sec 7 & 8 (Closure, CTA & Tags)**: Close the persona's story arc, add `Ready to Connect Your...?` CTA with live product link, memorable **2-sentence epigram**, and `#tags`.
 
-### Step 2.2: Full Article Drafting
-* **Action**: Write the complete article (~1,500–2,000 words), embedding the 3D Pixar visual prompt block at the top and real software UI descriptions throughout.
-* **Save File**: `Sprint-[XX]/Week-[YY]/blog-post.md`.
-
-### Step 2.3: Quality Gate Verification
-* **Action**: Audit against the Blog Post Gate (B-01 to B-08) in `Requirement.md`.
+### Step 2.2: Save & Verify
+* Save to `Sprint-[XX]/Week-[YY]/blog-post.md` and audit against **B-01 to B-08**, **IMG-01 to IMG-05**, **TAB-01**, **CALC-00**, and **VOX-01**.
 
 ---
 
-## Phase 3: Responsive HTML Email Blast Production (Stream 2)
+## Phase 3: Cold Outreach & Responsive HTML Email Blast Production (Stream 2)
 
-### Step 3.1: Newsletter Curation, Real News References, Correlated Images & Subject Matrix
-* **Action**: Formulate 3 subject line options (Pain, Curiosity, Operational/Compliance) + preview text for the `email` topic in `CALENDAR_DATA`.
-* **Select Real Industry News Stories, Attach Source Links & Grab Actual Article Images**:
-  - **Lead Cover Story**: Real, verifiable industry news report highly relevant to the sprint's sector, paired with the **actual image grabbed directly from that news article** (`og:image` / featured media), a **clickable link (`<a href="..." target="_blank">`) to the original news URL**, and *"► WHAT IT MEANS FOR OPERATORS"* commentary.
-  - **3 Curated Sector News Briefs**: 3 distinct, real industry news stories with their actual grabbed article images (100% correlated with each story), source attributions, clickable links to the real news URLs, and operator takeaways.
-  - **Latest Industry News Worthy of Note Spotlight (Replaces Calculation Section)**: Prominent callout container featuring a latest noteworthy news report in the appropriate industry, complete with its grabbed article image, summary, operational takeaway, and clickable link to the original news article (**strictly zero calculation formulas or worked math equations in email copies**).
+### Step 3.1: Curate 5 Globally Unique Verified Nigerian News Stories & Photos
+Never reuse any image from `blog-post.md` or any other sprint/week:
+1. **Subject Line Matrix + 3-Touch Cold Outreach Sequence (`email-blast.md`)**:
+   - 3 subject angles (Pain, Curiosity/Warning, Metric/SLA), **all including `at {{company}}`** + Preview Text.
+   - 3 distinct cold outreach touches (**Day 1 Pain Hook**, **Day 4 Warning Signs/Risk**, **Day 8 Case Study Proof/Offer**) with `{{first_name}}`, `{{company}}`, `{{email}}`, `{{unsubscribe_url}}` and CAN-SPAM footers.
+2. **Lead Cover Story (Unique Photo #1)**: Real Nigerian news article with exact clickable URL, `wsrv.nl`-wrapped photo explicitly cited in prose, investigative lead, pull-quote, and persona-adapted `► WHAT THIS MEANS FOR...` callout.
+3. **Section 5: Curated Industry Intelligence Briefs (Unique Photos #2, #3, #4)**: Exactly 3 numbered real Nigerian news stories, each with clickable exact article URL, `wsrv.nl` photo explicitly cited in prose (in BOTH `.md` and `.html`), source link (`Read Full Story →`), and operational takeaway.
+4. **Industry News Spotlight (Unique Photo #5 — Mandatory in BOTH `.md` AND `.html`)**: 4th real noteworthy event, `width: 100%; height: 180px; object-fit: cover; border-radius: 0px !important;` photo explicitly cited in prose, summary, Why It Matters, and clickable exact article URL. **Strictly zero calculations or math formulas.**
 
-### Step 3.2: HTML Newsletter Drafting
-* **Action**: Draft the complete edition of the newsletter in **clean, production-ready, responsive HTML with inline CSS**:
-  - **Sprints 1–4**: *The Ofia Commerce Brief* template (`#2A6BE0` Signal Blue / `#EF8B3C` Ember) with `ofia_logo.svg` in header (44px square side-by-side with titles) and footer (22px inline beside "Ofia Enterprise Growth").
-  - **Sprints 5–8**: *The ResultsPro Institutional Dispatch* template (`#1A48B6` Corporate Royal Blue / `#FE0B10` Signature Red) with `resultspro_logo.png` in header (44px square side-by-side with titles) and footer (22px inline beside "ResultsPro Educational Support").
-  - **Typography**: `@font-face` import of `Dropa` (`Dropa-Regular.woff2`) as primary brand font.
-  - **Button Styling**: Strict **zero corner radius (`border-radius: 0px !important;`)** on all CTA buttons, cards, and images.
-  - Structure: 600px max width card, publication header banner with logo side-by-side with titles, cover story with grabbed article image and clickable news link, 3 news item cards with correlated grabbed article images and clickable news links, "Industry News Spotlight: Latest [Sector] News Worthy of Note" container (zero calculation/formula boxes), and bulletproof CTA button.
-* **Save Files**: `Sprint-[XX]/Week-[YY]/email-blast.html` and `Sprint-[XX]/Week-[YY]/email-blast.md`.
-
-### Step 3.3: Quality Gate Verification
-* **Action**: Audit against the Email Gate (E-01 to E-12) in `Requirement.md`.
+### Step 3.2: Draft Full-Parity `email-blast.md` & `email-blast.html`
+* Build responsive 600px Light Executive HTML with inline CSS, `Dropa-Regular.woff2`, `border-radius: 0px !important;`, brand palette, **44×44px Cloudinary masthead logo** side-by-side with publication title, `Dear {{first_name|Valued Partner}},` opening letter, live HTTPS blog CTA button (zero `file:///` links), sprint-specific Product Spotlight & Founding Offer + `— Ifeanyi Felix` signature, and **22×22px Cloudinary footer logo** + official legal entity + physical address + 4 merge tags.
+* Save to `Sprint-[XX]/Week-[YY]/email-blast.md` and `Sprint-[XX]/Week-[YY]/email-blast.html`, then audit against **E-01 to E-12** and **IMG-02/03/05**.
 
 ---
 
 ## Phase 4: Omnichannel Social Media Pack Production (Stream 4)
 
-### Step 4.1: Social Media Suite Drafting
-* **Action**: Craft the omnichannel pack for the `graphic` topic in `CALENDAR_DATA`:
-  1. **LinkedIn**: Long-form thought leadership post with hook before fold, short alternative, 6-slide document carousel outline with complete slide copy, interactive poll, first-comment link strategy.
-  2. **X (Twitter)**: 7-tweet viral thread with math formula and top tactics preview + standalone tweet under 280 characters.
-  3. **Facebook**: Relatable story addressing operators in that sector, practical advice, open engagement question, and blog CTA.
-  4. **Meta (Instagram & Threads)**: Caption with 2-line hook, bulleted takeaways, hashtags, carousel concept, and a concise Threads post under 500 characters.
-* **Unified CTA**: Direct readers to the blog post across all platforms.
-* **Save File**: `Sprint-[XX]/Week-[YY]/social-media-carousel.md`.
+### Step 4.1: Draft All 4 Channel Suites
+1. **LinkedIn**: Long-form thought leadership post (hook before fold, concrete operational metrics—zero `$$` formulas), short alternative, 6-to-8 slide carousel outline with complete slide copy, poll concept, first-comment link strategy.
+2. **X (Twitter)**: 7-tweet viral thread (hook, context, operational impact proof, top fixes, live CTA) + standalone tweet under 280 characters.
+3. **Facebook**: Relatable Nigerian operator story, practical advice, open engagement question, live blog CTA.
+4. **Meta (Instagram & Threads)**: Caption with 2-line hook, bulleted takeaways, hashtags, carousel concept, and Threads post under 500 characters.
 
-### Step 4.2: Quality Gate Verification
-* **Action**: Audit against the Social Media Gate (S-01 to S-05) in `Requirement.md`.
+### Step 4.2: Save & Verify
+* Confirm zero `[BLOG LINK]` placeholders, zero `file:///` links, zero raw HTML entities (`&lt;`, `&rarr;`), and zero banned buzzwords.
+* Save to `Sprint-[XX]/Week-[YY]/social-media-carousel.md` and audit against **S-01 to S-05**.
 
 ---
 
-## Phase 5: Cross-Asset Audit & Progress-Tracker Logging
+## Phase 5: Cross-Asset QA, Content Hub Sync & Progress Logging
 
-### Step 5.1: Cross-Channel Message & CTA Consistency Audit
-* **Action**: Verify that all generated files share consistent terminology, quantitative data, product positioning, and active URLs.
+### Step 5.1: Cross-Channel Audit
+* Verify consistent persona, product positioning, metrics, brand identity, zero duplicate images across the repo, and 100% `.md` ↔ `.html` parity.
 
-### Step 5.2: Synchronize Offline Cache in `index.html` & `contenthub.html`
-* **Action**: Whenever any deliverable in `Sprint-[XX]/Week-[YY]/` is created or modified, rebuild the `const INITIAL_FALLBACK_FILES = [...]` JSON array inside [`index.html`](file:///Volumes/ReedBreedCC/9mm/index.html) and [`contenthub.html`](file:///Volumes/ReedBreedCC/9mm/contenthub.html) from the disk files so local/offline browser previews immediately reflect the latest content.
+### Step 5.2: Synchronize Content Hub (`content-data.js` & `content-data.json`)
+* Immediately synchronize all updated deliverables into [`content-data.js`](file:///Volumes/ReedBreedCC/9mm/content-data.js) and [`content-data.json`](file:///Volumes/ReedBreedCC/9mm/content-data.json) (`E-13` / `AGENTS.md §8`) so [`contenthub.html`](file:///Volumes/ReedBreedCC/9mm/contenthub.html) displays live visuals, word counts, and verified copy with zero stale cache.
 
-### Step 5.3: Update Progress-Tracker.md
-* **Action**: Record the sprint and week as completed in `Progress-Tracker.md`, log all generated file paths, and update screen route coverage.
-
-### Step 5.4: Packaging & Delivery
-* **Action**: Present the deliverables with clickable markdown links to each generated asset file.
+### Step 5.3: Update Progress Tracker & Deliver
+* Record completion in [`AGENT/Progress-Tracker.md`](file:///Volumes/ReedBreedCC/9mm/AGENT/Progress-Tracker.md) and present clickable `file://` links to all verified deliverables.

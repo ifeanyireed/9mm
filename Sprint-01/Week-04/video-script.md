@@ -5,8 +5,8 @@
 * **Format**: Dual-Track Talking Head (TH) cut with Drama Skit (DRAMA)
 * **Target Runtime**: ~4:15 (~630 spoken words at 140 WPM)
 * **Cast**: Host (@Ifeanyi Felix), Chioma (Fashion Boutique Founder), Tunde (Customer Support Assistant), Zainab (Impulse Shopper in Lekki - Voice/Video)
-* **Brand in the Skit**: Chioma's Closet (Lagos Boutique)
-* **Product Pitched**: **Ofia Shopfront & Shop Manager** (`client_slug.ofia.shop/shopfront`, `https://www.ofia.ng/products`)
+* **Brand in the Skit**: Chioma's Closet (Lekki, Lagos Boutique)
+* **Product Pitched**: **Ofia Shopfront & Shop Manager** (`yourbrand.ofia.shop/shopfront`, `https://www.ofia.ng/products`)
 
 ---
 
@@ -76,20 +76,18 @@ Zainab taps the bio link, which opens an Instagram DM window with an automated g
 
 ---
 
-### [2:40 – 3:20] TH Segment: The Mathematics of Impulse Friction (TH)
-**[VISUAL]**: IFEANYI walks forward as a dynamic digital graphic illuminates the screen.
+### [2:40 – 3:20] TH Segment: The Operational Economics of Impulse Friction (TH)
+**[VISUAL]**: IFEANYI walks forward as a clean motion-graphic timeline lights up beside him showing Minute 1 (Peak Intent) → Minute 4 (60%+ Drop-Off) → Minute 8 (Cart Abandoned).
 
 **IFEANYI (Host)**:
-"Chioma didn't fail because her design was weak. Her collection was stunning and her engagement was exceptional. She failed because of the **Impulse Decay Formula**:
-
-$$Checkout Probability = Base Interest × (0.78)^{Wait Minutes}$$
+"Chioma didn't fail because her design was weak. Her collection was stunning and her engagement was exceptional. She failed because of the **four-minute impulse window**.
 
 When a shopper discovers a product on social media, their buying intent peaks in the first sixty seconds.
-Every single minute they spend waiting for a human assistant to send pricing, confirm stock, or provide bank details reduces their completion probability by twenty-two percent.
-By minute four, your conversion probability has dropped by more than sixty percent.
-By minute eight, it is virtually zero.
-The customer closes the app, checks another notification, or decides to think about it tomorrow.
-If your checkout requires human conversation, you are burning your paid advertising budget to pay staff to watch carts abandon in real time."
+Every single minute they spend waiting for a human assistant to send pricing, confirm stock, or paste bank account details cuts their likelihood of completing the order sharply—roughly a fifth of ready buyers fall off with each minute of delay.
+By minute four, more than sixty percent of those eager shoppers have already walked away, and across African social brands, sixty-eight percent abandon entirely when forced into a manual chat queue.
+By minute eight, the moment is gone. The customer closes the app, checks another notification, or decides to think about it tomorrow.
+On a fifty-piece drop worth two point two five million naira, closing just seven orders in DMs leaves nearly two million naira sitting on the rack.
+If your checkout requires human conversation, you are burning paid ad budget to pay staff to watch carts abandon in real time."
 
 ---
 
@@ -126,5 +124,5 @@ Visit **ofia.ng/products** right now and build your zero-friction checkout."
 ## 60-Second Short-Form Cutdown (TikTok / Instagram Reels / YouTube Shorts)
 * **0:00 - 0:08 (Hook)**: "If your Instagram brand replies 'DM for price', you are losing sixty percent of your viral sales in the first four minutes."
 * **0:08 - 0:25 (The Skit)**: Split-screen contrast: Stressed seller typing bank account numbers at midnight vs buyer tapping twice on an Ofia storefront and getting an instant verified receipt.
-* **0:25 - 0:45 (The Math)**: Host on green-screen: "Impulse decay formula: every sixty-second delay in sending checkout details cuts buying probability by twenty-two percent."
+* **0:25 - 0:45 (The Economics)**: Host on green-screen: "In social commerce, buying intent peaks in the first sixty seconds—and sixty-eight percent of shoppers abandon if they wait past four minutes for a manual DM reply."
 * **0:45 - 0:60 (Product CTA)**: "Give your social buyers a 2-tap checkout. Move from DMs to automated sales at ofia.ng/products. Link in bio."

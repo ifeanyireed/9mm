@@ -1,45 +1,47 @@
 # 🚦 Requirement.md: Quality Gates & Pre-Flight Checklists
 
-This document defines the strict, non-negotiable verification criteria that every marketing asset must pass before advancing to the next production step. 
-
-It is fully modular and applies to **all 8 Sprints and both Brands (Ofia vs. ResultsPro)** across the 9-Month Media Engine.
+This document defines the strict, non-negotiable verification criteria that every marketing asset must pass before advancing to delivery. It is synchronized with [`AGENTS.md`](file:///Volumes/ReedBreedCC/9mm/AGENTS.md) and [`GEMINI.md`](file:///Volumes/ReedBreedCC/9mm/GEMINI.md), and applies to **all 12 Sprints (120 Weeks / 600 Master Files) across all 3 Brands (Ofia.ng, ResultsPro.ng, and ComplianceHub.ng)**.
 
 ---
 
 ## 1. Universal Workflow & Architecture Gates
 
-* [ ] **Folder Structure Compliance**: All assets for a given sprint and week must reside in:
-  ```
-  Sprint-[XX]/Week-[YY]/
-  ```
-  *(e.g., `Sprint-01/Week-01/`, `Sprint-05/Week-01/`)*
-* [ ] **Deliverable Files Present**: Each weekly folder must contain:
+* [ ] **Folder Structure Compliance**: All assets for a given sprint and week reside in `Sprint-[XX]/Week-[YY]/` (e.g., `Sprint-01/Week-04/`, `Sprint-09/Week-04/`).
+* [ ] **All 5 Deliverable Files Present**:
   1. `video-script.md` (Stream 3: Dual-Track Video Script)
-  2. `blog-post.md` (Stream 1: In-depth Bookmarkable Blog Post)
-  3. `email-blast.html` (Stream 2: Responsive HTML Email Newsletter)
-  4. `email-blast.md` (Stream 2: Markdown Companion Edition)
+  2. `blog-post.md` (Stream 1: 8-Section Cohesive Story Blog Post)
+  3. `email-blast.html` (Stream 2: Responsive Light Executive HTML Email Newsletter)
+  4. `email-blast.md` (Stream 2: Subject Matrix, 3-Touch Cold Outreach & Markdown Companion)
   5. `social-media-carousel.md` (Stream 4: Omnichannel Social Media Pack)
-* [ ] **Two-Brand Alignment Gate (BRD-01)**:
-  - If Sprint is 1, 2, 3, or 4 $\rightarrow$ Brand MUST be **Ofia** (`https://www.ofia.ng`), publication: *The Ofia Commerce Brief*.
-  - If Sprint is 5, 6, 7, or 8 $\rightarrow$ Brand MUST be **ResultsPro** (`https://www.resultspro.ng`), publication: *The ResultsPro Institutional Dispatch*.
-* [ ] **Anti-Fluff Enforcement (VOX-01)**: Zero occurrences of banned buzzwords (*revolutionize, seamless, game-changer, delve into, in today's fast-paced digital world, supercharge, unlock the power of, tapestry, beacon*).
-* [ ] **Sprint Product Positioning (PRD-01)**: Accurately pitches the designated software product for that specific sprint (e.g. Ofia Shop Manager for Sprint 1, Ofia Inventory IMS for Sprint 2, Ofia Niche Marketplace for Sprint 3, ResultsPro SchoolHub for Sprint 5, ResultsPro Campus for Sprint 6, etc.).
-* [ ] **Screen Route Fidelity (SLG-01)**: Software workflows must map to authentic routes from [`slugs.md`](file:///Volumes/ReedBreedCC/9MM/AGENT/slugs.md).
-* [ ] **Blog Featured Image Style Gate (IMG-01)**: Blog featured image MUST follow the exact prompt style: `VISUAL FOR BLOG FEATURED IMAGE: 3D Disney Pixar style animation. Netflix-grade cinematic lighting with screen glow on faces, UHD 8k, stylized technology.` featuring the sprint-appropriate character and setting.
-* [ ] **Real News, Correlated Images & Reference Links Gate (IMG-02)**:
-  - Email cover story, the 3 industry news round-up stories, and the Industry News Spotlight section must report real, verifiable news highly relevant to the sprint's appropriate industry (retail/commerce/supply chain/marketplaces/POS for Ofia Sprints 1–4; K-12/tertiary/EdTech/public sector education governance for ResultsPro Sprints 5–8), with the actual clickable URL to each news report attached and the actual article image grabbed directly from verified Nigerian news media (Punch, Nairametrics, TechCabal, BusinessDay, Daily Trust, Paystack).
-* [ ] **Zero Image Repetition Gate (IMG-03)**:
-  - **Strictly zero image reuse across the repository**: Every single news story, thumbnail, case study, and spotlight must feature a distinct, authentic, live Nigerian/African news photo. No image may be used twice anywhere across emails or blogs. (Official Cloudinary brand logos are exempt as brand identifiers).
-* [ ] **Minimum 3 Embedded Images per Blog Post (IMG-04)**:
-  - Every blog post across all 80 weeks must contain at least 3 actively embedded images (`![Caption](URL)` or `<img referrerpolicy="no-referrer" ... />`): (1) Hero / featured cover image at top, (2) Inline case study or market investigation photo 1, (3) Inline case study or regulatory investigation photo 2.
-* [ ] **HTML Email Format & Architecture Parity Gate (EML-01)**:
-  - All 80 email campaigns (Weeks 1 through 10 across all 8 sprints) must strictly adhere to the comprehensive depth and architecture established in Weeks 1–3: Top Utility Bar, Executive Masthead with 44px Cloudinary Logo, Editor's Letter, Lead News Cover Story with verified photo & pull-quote, 3 Curated Intelligence Briefs with thumbnails and operational takeaways, Industry News Spotlight container (replacing growth hacks/calculations with a 4th featured industry event, 100% width photo, summary, why it matters, source link), Primary CTA Button, Product Spotlight & Founding Offer container with author signature, and Light Executive Footer with 22px Cloudinary Logo and personalization tokens. Zero dark UI backgrounds (`border-radius: 0px !important;` throughout).
-* [ ] **Native Markdown Tables Gate (TAB-01)**:
-  - All balance sheets, flow cycles, metric maps, comparison matrices, and structured operational breakdowns MUST be rendered as **native GitHub Flavored Markdown (GFM) tables** (`| col1 | col2 |`).
-  - **Strictly forbidden**: Raw ASCII art box drawings (`┌───┐`, `│`, `└`, `├`, etc.) and wrapping tabular financial data or balance sheets inside fenced code blocks (` ``` `). Fenced code blocks trigger dark `#0F172A` container backgrounds in preview renderers and break mobile responsiveness.
-* [ ] **Zero Calculation & Rich Industry Citations Gate (CALC-00)**:
-  - **Strictly zero calculations in blog posts and email blasts**: No mathematical formulas, algebraic models, equation blocks (`$$...$$`), worked math examples, or calculation steps.
-  - **Rich News, Events & Authoritative Citations Required**: Replace all calculations with rich journalistic reporting, recent industry events, regulatory announcements (e.g., CBN, UBEC, NUC, FCCPC, WAEC), empirical research studies, and verified citations from reputable African and global publications (*BusinessDay*, *TechCabal*, *Nairametrics*, *Punch*, *Daily Trust*, *Stears*, *World Bank*, *GSMA*). Every post must be deeply educative and grounded in authentic market realities.
+* [ ] **Three-Brand Alignment Gate (`BRD-01`)**:
+  - Sprints 01–04 → **Ofia.ng** (`https://www.ofia.ng`), *The Ofia Commerce Brief*, legal entity **Ofia Enterprise Growth**, author `@Ifeanyi Felix` (Head of Commerce Editorial, Ofia.ng).
+  - Sprints 05–08 → **ResultsPro.ng** (`https://www.resultspro.ng`), *The ResultsPro Institutional Dispatch*, legal entity **ResultsPro Educational Support**, author `@Ifeanyi Felix` (Head of Institutional Governance / Public Sector Strategy, ResultsPro.ng).
+  - Sprints 09–12 → **ComplianceHub.ng** (`https://www.compliancehub.ng`), *The ComplianceHub Regulatory Brief*, legal entity **ComplianceHub Regulatory Technologies Limited**, author `@Ifeanyi Felix` (Head of Regulatory Affairs & Corporate Compliance, ComplianceHub.ng).
+* [ ] **Anti-Fluff Enforcement (`VOX-01`)**: Zero occurrences of banned buzzwords (*revolutionize, seamless, game-changer, delve into, in today's fast-paced digital world, supercharge, unlock the power of, tapestry, beacon*).
+* [ ] **Sprint Product Positioning (`PRD-01`)**: Accurately pitches the designated software product for that sprint (see [`AGENT/Skills.md §2`](file:///Volumes/ReedBreedCC/9mm/AGENT/Skills.md)).
+* [ ] **Screen Route Fidelity (`SLG-01`)**: Software workflows map to authentic product routes documented in [`AGENT/Skills.md §2`](file:///Volumes/ReedBreedCC/9mm/AGENT/Skills.md).
+* [ ] **Blog Featured Image Prompt Gate (`IMG-01`)**: Every `blog-post.md` includes the 3D Disney Pixar visual prompt block right below the Hero provocative question: `> **VISUAL FOR BLOG FEATURED IMAGE (IMG-01):**` `*3D Disney Pixar style animation. Netflix-grade cinematic lighting with screen glow on faces, UHD 8k, stylized technology...*` tailored to the sprint's Nigerian persona and setting.
+* [ ] **Real News, Correlated Photojournalism, Proxy & Zero Logos Gate (`IMG-02`)**:
+  - Every editorial image across blogs and emails must be **authentic, real-world Nigerian/African photojournalism** sourced exclusively from approved domains (`Punch`, `Nairametrics`, `TechCabal`, `BusinessDay`, `Daily Trust`, `Techpoint Africa`, `Paystack`), HTTP-200 verified, and wrapped with `https://wsrv.nl/?url=...&w=800&output=jpg` plus `referrerpolicy="no-referrer"`.
+  - **Zero Unsplash/Pexels/Shutterstock** anywhere.
+  - **Zero isolated logos, school crests, agency badges, static signboards, graphic maps, or promotional ad posters** (e.g., no `Smile-ID.png`, `lsef-logo`, `british-council.png`, `ondo-map.webp`, `Terminal-Poster`).
+  - Every cited news story must link to its exact, live, topic-matched article URL (never bare homepages like `https://punchng.com` and never mismatched articles).
+* [ ] **Zero Image Repetition Gate (`IMG-03`)**:
+  - **Strictly zero image reuse across all 120 weeks**: No news/editorial photo URL may appear twice across any email blast or blog post in the entire repository, nor be reused between a week's blog post and email blast. *(Official Cloudinary brand logos are exempt as brand identifiers.)*
+* [ ] **Blog Image Allocation & Non-Full-Width Sizing Gate (`IMG-04`)**:
+  - Bare technical floor: 3 actively embedded images. **Full 8-Section Blueprint standard**: **8–9 unique verified photos** per blog post (Hero + 4 matched images in Sec 2 + 2–3 inline images in Sec 4 + 1 inline image in Sec 6).
+  - Never use raw text bullets (`* **Featured Image**: URL`). Constrain all blog images to non-full-width centered editorial containers (`max-width: 720px; width: 100%; height: auto; border-radius: 8px;`).
+* [ ] **Mandatory Narrative Image Integration Gate (`IMG-05`)**:
+  - **No image may stand alone.** Every Hero photo, inline blog figure, Email Cover Story photo, Curated Brief thumbnail (all 3), and Industry News Spotlight photo must be **explicitly cited in the surrounding prose** (in BOTH `.md` and `.html`) with descriptive contextual captions and `alt` attributes explaining what the photo depicts AND how it supports that section's operational lesson.
+* [ ] **HTML Email Architecture Parity Gate (`EML-01`)**:
+  - All 120 email campaigns (Weeks 01–10 across Sprints 01–12) must achieve 100% `.md` ↔ `.html` parity and include all 10 required sections: Subject Line Matrix (`at {{company}}`), 3-Touch Cold Outreach Sequence (Days 1, 4, 8), Top Utility Bar & Executive Masthead (44px Cloudinary logo), Editor's Opening Letter (`Dear {{first_name|Valued Partner}},`), Lead Cover Story + pull-quote + persona callout, 3 Curated Intelligence Briefs, Industry News Spotlight (in BOTH `.md` and `.html`, 100% × 180px image, zero calculations), Primary CTA Button to the live blog HTTPS URL, Product Spotlight & Founding Offer + author signature, and Light Executive Footer (22px Cloudinary logo + legal entity + physical address + 4 merge tags).
+* [ ] **Native Markdown Tables Gate (`TAB-01`)**:
+  - All structured comparisons and matrices MUST use native GitHub Flavored Markdown tables (`| col1 | col2 |`). Zero ASCII box art (`┌───┐`, `│`) and zero fenced code block tables.
+* [ ] **Zero Calculations & Rich Industry Citations Gate (`CALC-00`)**:
+  - **Strictly zero calculations, algebraic formulas, worked math equations, or `$$...$$` LaTeX blocks** across all 5 deliverables (blogs, emails, video scripts, and social packs). Ground arguments in verified Nigerian regulatory directives, empirical studies, and concrete Naira/time operational benchmarks instead.
+* [ ] **Execution Hygiene Gate (`EXEC-01`)**:
+  - **Strictly zero shell/Python scripts** for editing deliverables or deduplication files (use native file editing tools only; no blind batch boilerplate).
+  - Clean Unicode typography (`₦`, `%`, `—`, `•`, `→`, `<` — zero raw HTML entities like `&lt;`, `&rarr;`, `&middot;` in Markdown files; zero `file:///` links; zero unresolved `[BLOG LINK]` placeholders).
 
 ---
 
@@ -48,70 +50,67 @@ It is fully modular and applies to **all 8 Sprints and both Brands (Ofia vs. Res
 ### 2.1 🎬 Video Script Gate (`video-script.md`)
 
 | Check ID | Verification Item | Standard Required | Pass / Fail |
-| :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :---: |
 | **V-01** | **Runtime & Word Count** | 600–650 spoken words (~4:00–4:30 runtime at 140 WPM). | [ ] |
 | **V-02** | **Hybrid Format** | Clear separation between Talking Head (TH) and Drama scenes. | [ ] |
 | **V-03** | **Hook Strength** | Pattern interrupt in the first 10 seconds tailored to the sprint's specific friction point. | [ ] |
-| **V-04** | **Narrative Arc** | Scene 1 (The High / Volume Spike) $\rightarrow$ Scene 2 (The Crash / System Failure) $\rightarrow$ Scene 3 (The Rewind with automated solution). | [ ] |
+| **V-04** | **Narrative Arc** | Scene 1 (The High / Volume Spike) → Scene 2 (The Crash / System Failure) → Scene 3 (The Rewind with automated solution). | [ ] |
 | **V-05** | **Split-Screen Contrast** | Visual contrast between the overwhelmed manual operator and the automated competitor executing in seconds. | [ ] |
-| **V-06** | **Economics Breakdown** | Host explains the quantitative friction and revenue leakage using the sprint's core thesis. | [ ] |
-| **V-07** | **Product Close & CTA** | Pitches the designated sprint product with on-screen feature bullets and direct URL (`ofia.ng/products` or `resultspro.ng/solutions`). | [ ] |
-| **V-08** | **Production Notes** | Includes casting guidance, sound design cues (SFX), and a 60-second cutdown concept for TikTok/Reels. | [ ] |
+| **V-06** | **Operational Economics Breakdown** | Host explains the quantitative friction and revenue/compliance leakage using concrete Naira/time metrics and the sprint thesis (**zero `$$` LaTeX equations**). | [ ] |
+| **V-07** | **Product Close & CTA** | Pitches the designated sprint product with on-screen feature bullets and live brand URL (`ofia.ng/products`, `resultspro.ng/solutions`, or `compliancehub.ng`). | [ ] |
+| **V-08** | **Production Notes** | Includes casting guidance, sound design cues (SFX), and a 60-second cutdown concept for TikTok/Reels (consistent currency & metrics throughout). | [ ] |
 
 ---
 
 ### 2.2 📚 Bookmarkable Blog Post Gate (`blog-post.md`)
 
 | Check ID | Verification Item | Standard Required | Pass / Fail |
-| :--- | :--- | :--- | :--- |
-| **B-01** | **Metadata, Hero & Cohesive Persona Story** | H1 Title, 2-sentence question-led meta excerpt, author byline (`@Ifeanyi Felix`), Hero Image + 1-sentence provocative question, and Section 1 opening persona story (*"But [Name] has a problem"* + 3 micro-failures + *"What it lacks is a connected system"*). Warm, simple, mobile-friendly 1–2 sentence paragraphs. | [ ] |
-| **B-02** | **Macro Industry Validation (4 Reports + 4 Matched Images)** | Section 2 presents **4 numbered industry developments** backed by real, dated Nigerian news/research reports that pass the Relevance Test. Each of the 4 items MUST embed **its own matching publicly available news/research image** (4 matched images in Section 2), cite the source with a link, and explain in 1–2 sentences *"Why does this matter to [Persona]?"* | [ ] |
-| **B-03** | **Core Diagnosis & Zero Calculations** | Section 3 revisits the persona and stacks 4 parallel 1-sentence department disconnects. Strictly **zero calculations, formulas, or worked math equations** anywhere in the post. | [ ] |
-| **B-04** | **10 Practical Fixes (`Why it matters:`)** | Section 4 delivers 10 numbered fixes (`1`–`10`) with inline images interspersed (e.g., at #1, #3, #5). Every item strictly follows the 4-part micro-template: Action-Verb Heading $\rightarrow$ Current Friction/Scenario $\rightarrow$ Connected Solution $\rightarrow$ `**Why it matters:** [1-sentence benefit].` | [ ] |
-| **B-05** | **Screen & Module Anchoring** | Section 6 ("How [Ofia / ResultsPro] Helps Bring Your Operations Together") includes an inline image, reconnects to the persona, and lists 6 clean modular capabilities grounded in authentic platform workflows. | [ ] |
-| **B-06** | **3-Column Native Comparison Table** | Section 5 includes a clean 8-row, 3-column native Markdown table (`Business activity` | `Disconnected [operations]` | `Connected [operations]`). Zero ASCII art boxes, zero fenced code blocks. | [ ] |
-| **B-07** | **Narrative Closure, Direct CTA & Tags** | Section 7 & 8 close the persona's story arc, present a `Ready to Connect Your...?` CTA with direct link, end with a 2-sentence epigram, and include `#tags`. | [ ] |
-| **B-08** | **Word Count & Visual Cohesion** | Substantive long-form depth (1,500–2,400 words) that reads as one complete, cohesive story from start to finish, with all images visually cohesive and actively supporting their sections. | [ ] |
+| :--- | :--- | :--- | :---: |
+| **B-01** | **Sec 0 & Sec 1: Hero, `IMG-01` Prompt & Persona Story** | H1 Title (`Why ...: 10 Ways to ...` or `[Problem]: 10 Ways to ...`), `@Ifeanyi Felix` byline, 2-sentence question meta excerpt, Hero photo (`max-width: 720px`, `wsrv.nl`) + 1-sentence bold provocative question + `IMG-01` 3D Pixar prompt block + Section 1 opening Nigerian persona story (*"But [Name] has a problem."* + 3 micro-failures + *"What it lacks is a connected system."*). Warm, simple 1–2 sentence paragraphs. | [ ] |
+| **B-02** | **Sec 2: Macro Industry Validation (4 Reports + 4 Matched Photos)** | Exactly **4 numbered industry developments** backed by real, dated Nigerian news/research reports passing the Relevance Test. Each embeds **its own unique verified public photo** (4 matched images), cites source/date/link + photo in prose, and explains in 1–2 sentences *"Why does this matter to [Persona]?"* | [ ] |
+| **B-03** | **Sec 3: Core Diagnosis & Zero Calculations** | Revisits the persona and stacks **4 parallel 1-sentence department disconnects**. Strictly zero formulas, calculations, or `$$` blocks anywhere. | [ ] |
+| **B-04** | **Sec 4: 10 Practical Fixes (`Why it matters:`)** | 10 numbered fixes (`1`–`10`) with 2–3 unique inline images interspersed (e.g., at #1, #3, #5) and cited in prose. Every item follows: Action-Verb Heading → Friction/Scenario → Connected Solution → `**Why it matters:** [1-sentence benefit].` | [ ] |
+| **B-05** | **Sec 6: Product Bridge** | Includes a unique inline image cited in prose, reconnects to the persona, and lists **6 clean module bullets** under *"Depending on the configured modules, businesses/institutions can use the platform to support:"*. | [ ] |
+| **B-06** | **Sec 5: 3-Column, 8-Row Native Comparison Table** | Clean **8-row, 3-column** native Markdown table (`Business activity` \| `Disconnected [operations]` \| `Connected [operations]`). Zero ASCII art, zero fenced code tables. | [ ] |
+| **B-07** | **Sec 7 & 8: Narrative Closure, CTA, Epigram & Tags** | Closes the persona's realization arc, presents `Ready to Connect Your...?` CTA with live product link, ends with a memorable **2-sentence epigram**, and appends relevant `#tags`. | [ ] |
+| **B-08** | **Word Count, Visual Cohesion & Narrative Integration** | 1,500–2,400 words reading as one cohesive story; all 8–9 images globally unique, real Nigerian photojournalism (`wsrv.nl`, `referrerpolicy="no-referrer"`, `max-width: 720px`, `border-radius: 8px`), and explicitly referenced in prose. | [ ] |
 
 ---
 
-### 2.3 📰 Responsive Email Newsletter Gate (`email-blast.html` & `email-blast.md`)
+### 2.3 📰 Cold Outreach & Responsive Email Newsletter Gate (`email-blast.html` & `email-blast.md`)
 
 | Check ID | Verification Item | Standard Required | Pass / Fail |
-| :--- | :--- | :--- | :--- |
-| **E-01** | **Brand Publication Identity** | Formatted as *The Ofia Commerce Brief* (Sprints 1–4) or *The ResultsPro Institutional Dispatch* (Sprints 5–8) with byline and date. | [ ] |
-| **E-02** | **Subject Line Matrix** | 3 strategic subject line options (Pain Hook, Curiosity Hook, Metric Hook) + Preview Text. | [ ] |
-| **E-03** | **Lead News Cover Story** | Pure journalistic reporting on a real, verifiable news event, corporate launch, or regulatory edict highly relevant to the sprint's industry, featuring the actual image grabbed from the news article, a clickable link (`<a href="..." target="_blank">`) to the source URL, and *"► WHAT IT MEANS FOR OPERATORS"* analysis. | [ ] |
-| **E-04** | **Industry News Round-up** | 3 distinct, real, highly relevant industry news stories with correlated images grabbed directly from the news articles, real source citations, clickable links to the original news URLs, and operator implications. | [ ] |
-| **E-05** | **Latest Industry News Spotlight (Zero Calculations)** | Replaces the calculation/formula ("Growth Hack of the Week") section with a prominent **"Industry News Spotlight: Latest [Sector] News Worthy of Note"** container featuring a noteworthy real news report in the sprint's industry, its actual grabbed article image, executive summary, operational takeaway, and a direct clickable link to the news report (**strictly zero calculation sections, cost formulas, or worked math teardowns in email copies**). | [ ] |
-| **E-06** | **Primary Call to Action** | Prominent button directing readers to the complete blog post. | [ ] |
-| **E-07** | **Footer Offer** | Closing note highlighting the designated sprint product's founding offer or demo audit. | [ ] |
-| **E-08** | **Deliverability Hygiene** | Inline CSS, 600px responsive table layout, zero spam trigger words, and proper unsubscribe/company footer. | [ ] |
-| **E-09** | **Official Brand Logos (`ofia_logo.svg` / `resultspro_logo.png`)** | The official brand logo must be reduced in size and placed **directly side-by-side with the titles** (NEVER standing alone on its own line): in the **header masthead** as a 44px square (`width="44" height="44"`, `border-radius: 0px`, `object-fit: contain`) aligned side-by-side with the titles in a 2-column table row, and in the **footer legal section** as a 22px icon (`width="22" height="22"`, `border-radius: 0px`) inline beside the brand legal entity ("Ofia Enterprise Growth" / "ResultsPro Educational Support"). Sprints 1–4 MUST use `ofia_logo.svg`; Sprints 5–8 MUST use `resultspro_logo.png`. | [ ] |
-| **E-10** | **Brand Typography (`Dropa-Regular.woff2`)** | All email templates and content hub pages must import `Dropa` via `@font-face` using `Dropa-Regular.woff2` and set `font-family: 'Dropa', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;` as the primary brand typeface. | [ ] |
-| **E-11** | **Strict Brand Palettes & Zero Corner Radius** | Strict compliance with brand palettes: **Ofia (Sprints 1–4)** in Signal Blue (`#2A6BE0` / `#0069ff`) and Ember (`#EF8B3C`); **ResultsPro (Sprints 5–8)** in New Era Corporate Royal Blue (`#1A48B6` / `#0F3282`) and Signature Red (`#FE0B10`). All CTA buttons, badges, cards, and containers must strictly enforce **zero corner radius (`border-radius: 0px !important;`)** with sharp architectural corners. | [ ] |
-| **E-12** | **Light Executive UI Standard** | Strictly NO black or dark (`#0F172A` / `#000000` / `#1E293B`) background UI styling in email templates or rendered code previews. All headers, metric containers, cards, and footers must use clean light executive backgrounds (`#FFFFFF`, `#F8FAFC`, `#FAF9F6`, `#F1F5F9`) with high-contrast typography and brand accent borders. | [ ] |
-| **E-13** | **Content Hub Offline Cache Sync (`index.html` & `contenthub.html`)** | Whenever `email-blast.html`, `email-blast.md`, or any sprint deliverable is created or modified on disk, the `const INITIAL_FALLBACK_FILES = [...]` array in [`index.html`](file:///Volumes/ReedBreedCC/9mm/index.html) and [`contenthub.html`](file:///Volumes/ReedBreedCC/9mm/contenthub.html) must be rebuilt from the live files on disk so offline/local previews always match disk files. | [ ] |
+| :--- | :--- | :--- | :---: |
+| **E-01** | **Three-Brand Publication Identity** | *The Ofia Commerce Brief* (S01–04), *The ResultsPro Institutional Dispatch* (S05–08), or *The ComplianceHub Regulatory Brief* (S09–12) with matching edition #, date, read time, and live domain link across `.md` and `.html`. | [ ] |
+| **E-02** | **Subject Line Matrix & 3-Touch Cold Outreach** | 3 strategic subject lines (Pain, Curiosity/Warning, Metric/SLA) **all incorporating `at {{company}}`** + Preview Text + **3 distinct Cold Outreach touchpoints (Days 1, 4, 8)** with `{{first_name}}`, `{{company}}`, `{{email}}`, `{{unsubscribe_url}}` and CAN-SPAM footers. Standardized newsletter greeting: `Dear {{first_name\|Valued Partner}},`. | [ ] |
+| **E-03** | **Lead News Cover Story** | Real, verifiable Nigerian news report relevant to the sprint, actively embedded unique `wsrv.nl` photo (cited in prose), clickable exact article URL, investigative lead, pull-quote, and persona-matched `► WHAT THIS MEANS FOR...` callout. | [ ] |
+| **E-04** | **Section 5: Curated Intelligence Briefs (3 Items)** | Exactly **3 numbered real Nigerian news briefs** across all 12 sprints, each with clickable exact article URL, unique `wsrv.nl` photo explicitly cited in prose (in BOTH `.md` and `.html`), source link (`Read Full Story →`), and operational takeaway. | [ ] |
+| **E-05** | **Industry News Spotlight (Zero Calculations)** | Mandatory in **BOTH `.md` AND `.html`**: 4th real noteworthy industry event, unique actively embedded photo (`width: 100%; height: 180px; object-fit: cover; border-radius: 0px !important;`) explicitly cited in prose, summary, Why It Matters, and clickable exact article URL. Zero calculations/math. | [ ] |
+| **E-06** | **Primary Call to Action** | Prominent zero-radius bulletproof CTA button directing readers to the **live HTTPS blog post teardown URL** in both `.md` and `.html` (zero `file:///` paths). | [ ] |
+| **E-07** | **Product Spotlight, Founding Offer & Signature** | Sprint-specific product positioning box, founder/partner offer callout, and `— Ifeanyi Felix` + brand title signature. | [ ] |
+| **E-08** | **Deliverability Hygiene & Footer Tokens** | Inline CSS, 600px responsive table layout, zero spam triggers, physical postal address, and all 4 merge tags (`{{name}}`, `{{email}}`, `{{company}}`, `{{unsubscribe_url}}`) in both `.md` and `.html`. | [ ] |
+| **E-09** | **Official Cloudinary Brand Logos (44px / 22px)** | Must use canonical Cloudinary URLs: Ofia (`v1795139974/9mm/ofia_logo.svg`), ResultsPro (`v1795139977/9mm/resultspro_logo.png`), ComplianceHub (`v1795139981/9mm/compliancehub_logo.png`). **44×44px** side-by-side in header masthead; **22×22px** inline beside the official legal entity in the footer. | [ ] |
+| **E-10** | **Brand Typography (`Dropa-Regular.woff2`)** | Email templates import `Dropa` via `@font-face` (`Dropa-Regular.woff2`) as primary brand typeface with system sans-serif fallback. | [ ] |
+| **E-11** | **Strict Brand Palettes & Email Zero Corner Radius** | **Ofia**: `#2A6BE0`/`#0069ff` + `#EF8B3C`; **ResultsPro**: `#1A48B6`/`#0F3282` + `#FE0B10`; **ComplianceHub**: `#064E3B` + `#D97706`. All email buttons, cards, badges, and images enforce `border-radius: 0px !important;`. | [ ] |
+| **E-12** | **Light Executive UI Standard** | Strictly NO black or dark (`#0F172A` / `#000000` / `#1E293B`) background blocks in email templates. Use light executive surfaces (`#FFFFFF`, `#F8FAFC`, `#FAF9F6`, `#F1F5F9`) with brand accent borders. | [ ] |
+| **E-13** | **Content Hub Data Sync (`content-data.js` & `content-data.json`)** | Whenever any deliverable is created or modified on disk, synchronize updated content, titles, word counts, and visual assets into [`content-data.js`](file:///Volumes/ReedBreedCC/9mm/content-data.js) and [`content-data.json`](file:///Volumes/ReedBreedCC/9mm/content-data.json) so [`contenthub.html`](file:///Volumes/ReedBreedCC/9mm/contenthub.html) never serves stale cache. | [ ] |
 
 ---
 
 ### 2.4 📱 Social Media Omnichannel Pack Gate (`social-media-carousel.md`)
 
 | Check ID | Verification Item | Standard Required | Pass / Fail |
-| :--- | :--- | :--- | :--- |
-| **S-01** | **LinkedIn Suite** | Long-form post with hook before fold, short alternative, 6-slide carousel outline with full slide copy, poll concept, and first-comment link strategy. | [ ] |
-| **S-02** | **X / Twitter Suite** | 7-tweet viral thread (hook, context, math formula, tactics preview, CTA) + standalone post under 280 characters. | [ ] |
-| **S-03** | **Facebook Suite** | Relatable narrative addressing operators in that sector, practical advice, open engagement question, and blog CTA. | [ ] |
+| :--- | :--- | :--- | :---: |
+| **S-01** | **LinkedIn Suite** | Long-form post with hook before fold, concrete data points (zero `$$` equations), short alternative, 6-to-8 slide carousel outline with full slide copy, poll concept, and first-comment link strategy. | [ ] |
+| **S-02** | **X / Twitter Suite** | 7-tweet viral thread (hook, context, operational impact metrics, tactics preview, CTA — zero `$$` equations) + standalone post under 280 characters. | [ ] |
+| **S-03** | **Facebook Suite** | Relatable narrative addressing Nigerian operators in that sector, practical advice, open engagement question, and live blog/product CTA. | [ ] |
 | **S-04** | **Meta Ecosystem Suite** | Instagram caption with 2-line hook, bulleted takeaways, hashtags, carousel concept, and a concise Threads post under 500 characters. | [ ] |
-| **S-05** | **Unified Blog CTA** | Every social channel asset includes a clear call to action pointing to the blog post. | [ ] |
+| **S-05** | **Unified Live CTA & Clean Formatting** | Every platform includes a live HTTPS CTA URL (zero `[BLOG LINK]` placeholders, zero `file:///` paths, zero raw HTML entities like `&lt;` or `&rarr;`). | [ ] |
 
 ---
 
 ## 3. Pass/Fail Decision Matrix & Revision Protocol
 
-1. **Gate Evaluation**: The Quality Assurance reviewer audits each asset against the checklist.
-2. **Passing Standard**: An asset must achieve a 100% pass rate across both Universal and Format-Specific gates.
-3. **Revision Loop**:
-   * If any check fails, the reviewer logs the specific deficiency.
-   * The authoring agent must revise the asset within one revision cycle.
-   * Only upon passing all checks may the step be marked `[x] Delivered` in `Progress-Tracker.md`.
+1. **Gate Evaluation**: The QA Reviewer audits all 5 weekly deliverables against every Universal and Format-Specific gate above.
+2. **Passing Standard**: 100% pass rate across all gates—plus verified repository-wide image uniqueness and Content Hub sync (`E-13`).
+3. **Revision Loop**: Any deficiency is logged by file and line number, fixed with native editing tools within one revision cycle, re-verified, synced to `content-data.js`/`content-data.json`, and marked `[x] Re-Evaluated & Delivered` in [`AGENT/Progress-Tracker.md`](file:///Volumes/ReedBreedCC/9mm/AGENT/Progress-Tracker.md).

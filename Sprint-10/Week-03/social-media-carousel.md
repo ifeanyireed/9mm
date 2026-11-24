@@ -108,7 +108,7 @@ Read all 10 operational fixes to make your wage books inspection-proof:
 * **Headline:** Build Your Automated Payroll Audit Shield
 * **Body:**
   ComplianceHub HubCalendar & Payroll Audit Shield reconciles PenCom, ITF, Audited Accounts, and 5-year evidence vaults so inspections become routine sign-offs.
-* **Call to Action:** Run your Statutory Payroll Diagnostic at www.compliancehub.ng/onboarding?module=hubcalendar.
+* **Call to Action:** Read all 10 payroll audit fixes at https://www.compliancehub.ng/blog/pencom-itf-payroll-audit-traps-regulatory-inspections and run your diagnostic at www.compliancehub.ng/onboarding?module=hubcalendar.
 * **Footer:** Slide 6/6 · ComplianceHub Regulatory Technologies Limited
 
 ---
@@ -185,11 +185,9 @@ Read all 10 PenCom & ITF payroll audit fixes:
 ### B. Standalone Punchy Tweet (<280 Characters)
 
 ```text
-Valid PenCom & ITF certificates won't protect you from a 5-year on-site payroll audit.
+Valid PenCom & ITF certificates won't stop a 5-year audit. Basic-only levies, late 7-day pension remittances (2%/mo), and cash site labor freeze BPP IRRs fast.
 
-"Basic Salary Only" formulas, late 7-day pension transfers (2%/mo fines), and cash site labor can suspend your BPP IRR overnight.
-
-10 fixes for Nigerian CFOs:
+10 fixes:
 👉 https://www.compliancehub.ng/blog/pencom-itf-payroll-audit-traps-regulatory-inspections
 ```
 
@@ -233,7 +231,8 @@ B) Proving 7-working-day monthly pension transfer timestamps
 C) Explaining casual site labor or subcontractor invoices
 D) Retrieving older PFC receipts and Remita tellers from 3–5 years ago
 
-Drop your letter below and let's share practical defense lessons! 👇
+Drop your letter below—and read all 10 payroll audit defense fixes here:
+👉 https://www.compliancehub.ng/blog/pencom-itf-payroll-audit-traps-regulatory-inspections 👇
 ```
 
 ---
@@ -271,9 +270,9 @@ DM us "AUDIT" to run a complimentary Statutory Payroll Diagnostic!
 ### B. Threads Standalone Post (<500 Characters)
 
 ```text
-Most Nigerian CFOs think holding an annual PenCom and ITF certificate means they are safe.
+Most Nigerian CFOs assume annual PenCom and ITF certificates protect them.
 
-Then recovery agents walk in asking for five years of bank payroll schedules—and "Basic Salary Only" deductions plus 14-day late pension transfers turn into a ₦42.5M demand notice and a frozen BPP IRR.
+Then recovery agents audit five years of payroll—and "Basic Salary Only" levies plus 14-day late pension transfers become a ₦42.5M demand notice and frozen BPP IRR.
 
-Audit your emolument base and lock 7-working-day RSA remittances before inspectors knock.
+Read all 10 payroll audit fixes: https://www.compliancehub.ng/blog/pencom-itf-payroll-audit-traps-regulatory-inspections
 ```

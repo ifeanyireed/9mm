@@ -89,20 +89,20 @@ Senate broadsheets approved in 45 minutes. Transcripts verified globally.
 * **Footer**: ResultsPro Higher Education · Slide 2/6
 
 ### **Slide 3: The ₦99.7M Senate Gridlock Drag**
-* **Visual**: Clean mathematical formula box breaking down institutional costs.
+* **Visual**: Clean executive cost breakdown graphic highlighting annual institutional losses.
 * **Header**: The Hidden Cost of Paper Broadsheets
 * **Body Copy**:
-  * **₦43.7M/yr**: Senate broadsheet review labor (65 professors × 42 hrs/sem).
+  * **₦43.7M/yr**: Senate broadsheet review labor (65 professors and deans spending 42 hours per semester).
   * **₦19.0M/yr**: Missing script investigations and forensic remarking panels.
   * **₦37.1M/yr**: Lost alumni transcript processing revenue.
   * **Total Annual Drag**: **₦99,730,000**.
 * **Footer**: ResultsPro Higher Education · Slide 3/6
 
 ### **Slide 4: The 3 Pillars of ExamsPRO**
-* **Visual**: 3 sleek technical icon cards: 2D Barcode Ingestion -> Algorithmic Broadsheets -> Cryptographic PKI Transcripts.
+* **Visual**: 3 sleek technical icon cards: 2D Barcode Ingestion → Algorithmic Broadsheets → Cryptographic PKI Transcripts.
 * **Header**: Sovereign Infrastructure for Tertiary Records
 * **Body Copy**:
-  * 1. **Barcoded Script Ingestion**: Scanned at exam hall exit in &lt; 1.5 seconds.
+  * 1. **Barcoded Script Ingestion**: Scanned at exam hall exit in < 1.5 seconds.
   * 2. **Algorithmic Broadsheets**: Compiles 25,000 grades in 2.8s with NUC checks.
   * 3. **PKI-Signed e-Transcripts**: Tamper-evident PDF with dynamic QR verification.
 * **Footer**: ResultsPro Higher Education · Slide 4/6
@@ -113,7 +113,7 @@ Senate broadsheets approved in 45 minutes. Transcripts verified globally.
 * **Body Copy**:
   * **4,200 Seniors Cleared**: 1-hour Senate sitting instead of 3-week deadlocks.
   * **Zero Missing Scripts**: 180,000 answer booklets tracked with 100% parity.
-  * **&lt; 60s Transcript Dispatch**: Direct electronic transmission to WES & global universities.
+  * **< 60s Transcript Dispatch**: Direct electronic transmission to WES & global universities.
   * **₦99.7M Preserved**: Streamlined, internationally accredited operations.
 * **Footer**: ResultsPro Higher Education · Slide 5/6
 
@@ -200,7 +200,9 @@ The results within one semester:
 Protect your university's degree integrity and empower your scholars worldwide.
 
 Eliminate the missing script epidemic with ResultsPro ExamsPRO:
-https://www.resultspro.ng/examspro
+https://www.resultspro.ng/blog/why-universities-struggle-with-missing-scripts-10-ways-to-compile-zero-latency-transcripts
+
+Explore ResultsPro ExamsPRO: https://www.resultspro.ng/examspro
 
 Retweet to help modernize higher education governance! 🔁
 

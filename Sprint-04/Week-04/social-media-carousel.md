@@ -3,7 +3,7 @@
 * **Sprint**: Sprint 04 (Omnichannel Retail & POS Operations)
 * **Week**: Week 04 (Authority & Process / Behind the Scenes)
 * **Campaign Theme**: Eliminating Double-Selling Between Physical POS & Live E-Commerce
-* **Brand Featured**: [Ofia Smart Cloud POS & Real-Time Omnichannel ERP Sync](https://www.ofia.ng/products)
+* **Brand Featured**: [Ofia Smart Cloud POS & Real-Time Omnichannel ERP Sync](https://www.ofia.ng/products) · Full Guide: `https://www.ofia.ng/blog/why-multi-branch-retailers-double-sell-stock-200ms-pos-sync`
 * **Target Audience**: Retail Founders, Heads of Operations, Multi-Branch Store Managers, E-Commerce Directors
 
 ---
@@ -49,7 +49,9 @@ Zero double-selling incidents across 3,400 orders.
 ₦31.6M saved in quarterly leakage.
 Walk-in revenue rose 18% because sales reps can see live stock across all branches on their mobile POS tablets.
 
-If you are running multi-store retail in 2027, 15-minute batch syncs are obsolete. You need real-time event-driven infrastructure.
+If you are running multi-store retail in 2026, 15-minute batch syncs are obsolete. You need real-time event-driven infrastructure.
+
+Read the complete 10-way playbook: https://www.ofia.ng/blog/why-multi-branch-retailers-double-sell-stock-200ms-pos-sync
 
 How does your retail chain handle inventory synchronization across physical stores and digital channels? Let's discuss in the comments.
 
@@ -71,7 +73,7 @@ At **Ofia**, our Smart Cloud POS locks stock across all channels in **under 200 
 
 No more apologetic cancellation calls. No more gateway refund penalties. 
 
-👉 Read our full behind-the-scenes architectural breakdown: https://www.ofia.ng/products
+👉 Read our full 10-way architectural playbook: https://www.ofia.ng/blog/why-multi-branch-retailers-double-sell-stock-200ms-pos-sync
 
 ---
 
@@ -92,8 +94,8 @@ No more apologetic cancellation calls. No more gateway refund penalties.
   * When two people buy the same unit, your brand loses both revenue and trust.
 * **Footer**: Ofia Omnichannel Engineering · Slide 2/6
 
-### **Slide 3: The Hidden Math of Inventory Collisions**
-* **Visual**: Clean breakdown formula card highlighting the Double-Selling Margin Loss (DSML).
+### **Slide 3: The Hidden Cost of Inventory Collisions**
+* **Visual**: Clean operational cost breakdown card highlighting Double-Selling Margin Loss.
 * **Header**: It Costs More Than Just a Refund
 * **Body Copy**:
   * Merchant Gateway Reversal Fees: 1.5% - 2.5% lost.
@@ -137,7 +139,7 @@ No more apologetic cancellation calls. No more gateway refund penalties.
 
 **Poll Question**: When a walk-in customer buys the last unit of an item in your store, how fast does your website update?
 
-* Option 1: Instantly (&lt; 1 minute)
+* Option 1: Instantly (< 1 minute)
 * Option 2: 15 to 60 minute sync
 * Option 3: End of day manual sync
 * Option 4: They are completely disconnected
@@ -208,8 +210,8 @@ Casa Bella Living processed 3,400+ transactions with:
 **Tweet 7 (CTA)**:
 If your physical POS registers and online storefront don't talk in real time, you are bleeding margins.
 
-Read the full technical breakdown and see Ofia Smart Cloud POS in action:
-https://www.ofia.ng/products
+Read the full 10-way technical breakdown and see Ofia Smart Cloud POS in action:
+https://www.ofia.ng/blog/why-multi-branch-retailers-double-sell-stock-200ms-pos-sync
 
 Retweet the first tweet if your retail operations team needs to see this! 🔁
 
@@ -217,11 +219,11 @@ Retweet the first tweet if your retail operations team needs to see this! 🔁
 
 ## 6. X / Twitter Standalone Punchy Tweet
 
-If your showroom POS terminal and your website don't synchronize in under 1 second, you are one Saturday afternoon away from double-selling a ₦2.5M product to two furious customers. 
+If your showroom POS terminal and your website don't synchronize in under 1 second, you are one Saturday afternoon away from double-selling a ₦2.8M product to two furious customers. 
 
 We cut omnichannel inventory sync to 184 milliseconds at @OfiaHQ. 
 
-No batch syncs. No blind windows. Real-time retail: https://www.ofia.ng/products
+No batch syncs. No blind windows. Real-time retail: https://www.ofia.ng/blog/why-multi-branch-retailers-double-sell-stock-200ms-pos-sync
 
 ---
 
@@ -233,7 +235,7 @@ Every retail founder remembers the first time it happened to them:
 
 It’s peak Saturday traffic in your showroom. A customer walks in, falls in love with the display piece, and pays at the counter. Your cashier packages it up and loads it into their SUV.
 
-Twenty minutes later, your e-commerce manager gets a notification: an online shopper just paid ₦2,500,000 for that exact same unit on your website.
+Twenty minutes later, your e-commerce manager gets a notification: an online shopper just paid ₦2,800,000 for that exact same unit on your website.
 
 Now you have two paid orders, one physical item, and an emergency crisis.
 

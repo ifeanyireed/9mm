@@ -1,32 +1,36 @@
-# 📊 Progress-Tracker.md: 9-Month Content Production Matrix
+# 📊 Progress-Tracker.md: 12-Sprint Content Production & Re-Evaluation Matrix
 
-This document tracks content generation progress across the **9 Months and 36 Weeks for each of the 8 Sprints** defined in [`9MMP.html`](file:///Volumes/ReedBreedCC/9MM/9MMP.html), organized under our **Two-Brand Strategic Architecture (Ofia vs. ResultsPro)**.
+This document tracks content generation and re-evaluation progress across all **12 Sprints × 10 Weeks (120 Production Weeks / 600 Master Deliverables)** organized under our **Three-Brand Strategic Architecture (Ofia.ng, ResultsPro.ng, and ComplianceHub.ng)** in alignment with [`AGENTS.md`](file:///Volumes/ReedBreedCC/9mm/AGENTS.md).
 
 ---
 
 ## 1. Executive Campaign Dashboard
 
-* **Two-Brand Structure**: **Ofia** (Sprints 1–4: Commerce & ERP) | **ResultsPro** (Sprints 5–8: Education & Governance)
-* **Total Production Volume**: 8 Sprints × 9 Months × 4 Weeks = **288 Total Production Weeks**
-* **Content Units per Week**: 4 Streams (Stream 1: Blog & SEO · Stream 2: HTML Email · Stream 3: Video Script · Stream 4: Social & Carousel)
-* **Current Status**: **Weeks 01, 02, and 03 Delivered Across All 8 Sprints (100% of Weeks 1–3 Milestones: 24 Production Weeks Complete)**
-* **Deliverable Folders**: [`Sprint-01/Week-01/`](file:///Volumes/ReedBreedCC/9mm/Sprint-01/Week-01/) through [`Sprint-08/Week-03/`](file:///Volumes/ReedBreedCC/9mm/Sprint-08/Week-03/) (`[x] Delivered` across all 24 deliverable folders)
-* **Total Deliverables Generated**: **24 Production Weeks × 5 Content Files = 120 Master Content Files Complete** (plus 48 local typography and brand logo assets)
+* **Three-Brand Structure**: **Ofia.ng** (Sprints 01–04: Commerce & ERP) | **ResultsPro.ng** (Sprints 05–08: Education & Governance) | **ComplianceHub.ng** (Sprints 09–12: Corporate Governance & RegTech)
+* **Active Repository Scope**: 12 Sprints × 10 Weeks = **120 Production Weeks** (**600 Master Content Files** synced into [`content-data.js`](file:///Volumes/ReedBreedCC/9mm/content-data.js) & [`content-data.json`](file:///Volumes/ReedBreedCC/9mm/content-data.json))
+* **Content Units per Week**: 5 Files across 4 Streams (`blog-post.md`, `email-blast.html`, `email-blast.md`, `video-script.md`, `social-media-carousel.md`)
+* **Re-Evaluation Status (Full `AGENTS.md` + 8-Section Blueprint Standard)**:
+  - **Weeks 01–04 across Sprints 01–12**: `[x] Re-Evaluated & Delivered` (48 Weeks / 240 Files compliant with Cloudinary logos, 8-Section Blueprint, 3-touch cold outreach, unique Nigerian photojournalism, and Content Hub sync)
+  - **Weeks 05–10 across Sprints 01–12**: `[~] Drafted — Pending Re-Evaluation` (72 Weeks / 360 Files exist on disk in legacy format, awaiting full re-evaluation)
 
 ---
 
 ## 2. Master Sprints & Brand Overview
 
-| Brand | Sprint ID | Focus Group | Target Audience & Leads | Horizon | Current Status |
+| Brand | Sprint ID | Focus Group | Target Audience & Leads | Active Scope | Re-Evaluation Status |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **OFIA** | `sprint1` | **Sprint 1: Impulse Buy** | Social sellers, Instagram boutiques (`shop-instagram`, `shop-ads`, `shop-tiktok`) | 9 Mos (36 Wks) | `[x] Weeks 01, 02 & 03 Delivered` |
-| **OFIA** | `sprint2` | **Sprint 2: Supply Chain (B2B)** | Distributors, logistics fleets, manufacturers (`ofia-distributors`, `ofia-logistics`) | 9 Mos (36 Wks) | `[x] Weeks 01, 02 & 03 Delivered` |
-| **OFIA** | `sprint3` | **Sprint 3: Marketplaces** | Multi-vendor markets, verified pros (`ofia-markets`, `shop-marketplaces`) | 9 Mos (36 Wks) | `[x] Weeks 01, 02 & 03 Delivered` |
-| **OFIA** | `sprint4` | **Sprint 4: Omnichannel Retail** | Retail stores, multi-branch SMEs (`ofia-retail`, `ofia-midmarket`, `shop-maps`) | 9 Mos (36 Wks) | `[x] Weeks 01, 02 & 03 Delivered` |
-| **RESULTSPRO** | `sprint5` | **Sprint 5: K-12 Admin** | Private schools, school networks (`rp-group-b`, `rp-group-c` e.g., Greensprings, Corona) | 9 Mos (36 Wks) | `[x] Weeks 01, 02 & 03 Delivered` |
-| **RESULTSPRO** | `sprint6` | **Sprint 6: Tertiary & Campus** | Universities, polytechnics, colleges (`rp-group-d`) | 9 Mos (36 Wks) | `[x] Weeks 01, 02 & 03 Delivered` |
-| **RESULTSPRO** | `sprint7` | **Sprint 7: EdTech Scale** | Exam prep centers, course creators, publishers (`rp-group-e`, `rp-group-j`) | 9 Mos (36 Wks) | `[x] Weeks 01, 02 & 03 Delivered` |
-| **RESULTSPRO** | `sprint8` | **Sprint 8: Gov & Corp Matrix** | Ministries of education, state boards, corporate learning (`rp-group-g`, `rp-group-h`) | 9 Mos (36 Wks) | `[x] Weeks 01, 02 & 03 Delivered` |
+| **OFIA** | `sprint01` | **Sprint 01: Impulse Buy** | Social sellers, Instagram boutiques (`shop-instagram`, `shop-ads`, `shop-tiktok`) | Weeks 01–10 | `[x] W01–W04 Re-Evaluated` · `[~] W05–W10 Pending` |
+| **OFIA** | `sprint02` | **Sprint 02: Supply Chain (B2B)** | Distributors, logistics fleets, manufacturers (`ofia-distributors`, `ofia-logistics`) | Weeks 01–10 | `[x] W01–W04 Re-Evaluated` · `[~] W05–W10 Pending` |
+| **OFIA** | `sprint03` | **Sprint 03: Marketplaces** | Multi-vendor markets, verified pros (`ofia-markets`, `shop-marketplaces`) | Weeks 01–10 | `[x] W01–W04 Re-Evaluated` · `[~] W05–W10 Pending` |
+| **OFIA** | `sprint04` | **Sprint 04: Omnichannel Retail** | Retail stores, multi-branch SMEs (`ofia-retail`, `ofia-midmarket`, `shop-maps`) | Weeks 01–10 | `[x] W01–W04 Re-Evaluated` · `[~] W05–W10 Pending` |
+| **RESULTSPRO** | `sprint05` | **Sprint 05: K-12 Admin** | Private schools, school networks (`rp-group-b`, `rp-group-c`) | Weeks 01–10 | `[x] W01–W04 Re-Evaluated` · `[~] W05–W10 Pending` |
+| **RESULTSPRO** | `sprint06` | **Sprint 06: Tertiary & Campus** | Universities, polytechnics, colleges (`rp-group-d`) | Weeks 01–10 | `[x] W01–W04 Re-Evaluated` · `[~] W05–W10 Pending` |
+| **RESULTSPRO** | `sprint07` | **Sprint 07: EdTech Scale** | Coding bootcamps, exam prep centers, course creators (`rp-group-e`, `rp-group-j`) | Weeks 01–10 | `[x] W01–W04 Re-Evaluated` · `[~] W05–W10 Pending` |
+| **RESULTSPRO** | `sprint08` | **Sprint 08: Gov & Corp Matrix** | Ministries of education, state boards, SUBEB (`rp-group-g`, `rp-group-h`) | Weeks 01–10 | `[x] W01–W04 Re-Evaluated` · `[~] W05–W10 Pending` |
+| **COMPLIANCEHUB** | `sprint09` | **Sprint 09: CAC Corporate Governance** | SME founders, MDs, Company Secretaries, CFOs | Weeks 01–10 | `[x] W01–W04 Re-Evaluated` · `[~] W05–W10 Pending` |
+| **COMPLIANCEHUB** | `sprint10` | **Sprint 10: Statutory Quad & Tender Readiness** | Federal contractors, EPC firms, procurement CFOs | Weeks 01–10 | `[x] W01–W04 Re-Evaluated` · `[~] W05–W10 Pending` |
+| **COMPLIANCEHUB** | `sprint11` | **Sprint 11: High-Scrutiny Sector Clearances (AML)** | Real estate developers, auto dealers, jewellers, DNFBPs | Weeks 01–10 | `[x] W01–W04 Re-Evaluated` · `[~] W05–W10 Pending` |
+| **COMPLIANCEHUB** | `sprint12` | **Sprint 12: Enterprise Governance & Data Privacy** | Fintech CTOs, scaleup founders, Data Protection Officers (DPOs) | Weeks 01–10 | `[x] W01–W04 Re-Evaluated` · `[~] W05–W10 Pending` |
 
 ---
 
@@ -39,10 +43,10 @@ This document tracks content generation progress across the **9 Months and 36 We
 ### 📅 Month 1
 | Week # & Theme | Funnel Focus | Stream 1: Blog & SEO | Stream 2: HTML Email Blast | Stream 3: Video Script | Stream 4: Social & Carousel | Status | Folder / Deliverables |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Week 1**: The Core Problem | TOFU (Foundation) | Why Instagram brands struggle to scale... | Are you losing viral sales in th... | Skit/Narration: The panic of goi... | Carousel: The true cost of 'DM f... | `[x] Delivered` | [`Sprint-01/Week-01/`](file:///Volumes/ReedBreedCC/9MM/Sprint-01/Week-01/) |
-| **Week 2**: The Core Vision | TOFU (Foundation) | One automated checkout system across W... | Unifying your social traffic. | Whiteboard: Routing 3 different ... | Diagram: The unified social chec... | `[x] Delivered` | [`Sprint-01/Week-02/`](file:///Volumes/ReedBreedCC/9mm/Sprint-01/Week-02/) |
-| **Week 3**: The Tangible Pains | MOFU (Authority) | 3 manual variant tracking bottlenecks ... | Still tracking colors and sizes ... | Screen recording: Fixing the var... | Infographic: 3 signs your varian... | `[x] Delivered` | [`Sprint-01/Week-03/`](file:///Volumes/ReedBreedCC/9mm/Sprint-01/Week-03/) |
-| **Week 4**: Authority / Process | MOFU (Authority) | Behind the scenes: how we design socia... | How we build for impulse buyers. | Founder Story: The architecture ... | Single Image: The anatomy of a h... | `[x] Delivered` | [`Sprint-01/Week-04/`](file:///Volumes/ReedBreedCC/9mm/Sprint-01/Week-04/) |
+| **Week 1**: The Core Problem | TOFU (Foundation) | Why Instagram brands struggle to scale... | Are you losing viral sales in th... | Skit/Narration: The panic of goi... | Carousel: The true cost of 'DM f... | `[x] Re-Evaluated` | [`Sprint-01/Week-01/`](file:///Volumes/ReedBreedCC/9mm/Sprint-01/Week-01/) |
+| **Week 2**: The Core Vision | TOFU (Foundation) | One automated checkout system across W... | Unifying your social traffic. | Whiteboard: Routing 3 different ... | Diagram: The unified social chec... | `[x] Re-Evaluated` | [`Sprint-01/Week-02/`](file:///Volumes/ReedBreedCC/9mm/Sprint-01/Week-02/) |
+| **Week 3**: The Tangible Pains | MOFU (Authority) | 3 manual variant tracking bottlenecks ... | Still tracking colors and sizes ... | Screen recording: Fixing the var... | Infographic: 3 signs your varian... | `[x] Re-Evaluated` | [`Sprint-01/Week-03/`](file:///Volumes/ReedBreedCC/9mm/Sprint-01/Week-03/) |
+| **Week 4**: Authority / Process | MOFU (Authority) | Why Social Commerce Brands Lose 60% of... | How we build for impulse buyers. | Founder Story: The architecture ... | Single Image: The anatomy of a h... | `[x] Re-Evaluated` | [`Sprint-01/Week-04/`](file:///Volumes/ReedBreedCC/9mm/Sprint-01/Week-04/) |
 
 ### 📅 Month 2
 | Week # & Theme | Funnel Focus | Stream 1: Blog & SEO | Stream 2: HTML Email Blast | Stream 3: Video Script | Stream 4: Social & Carousel | Status | Folder / Deliverables |
@@ -116,7 +120,7 @@ This document tracks content generation progress across the **9 Months and 36 We
 * **Audience**: Wholesale distributors, FMCG suppliers, logistics
 * **Primary Product**: Ofia Inventory IMS & Logistics Command Center
 * **Horizon**: 9 Months (Weeks 1 to 36)
-* **Status**: `[x] Weeks 01, 02 & 03 Delivered` (Deliverables: [`Week-01`](file:///Volumes/ReedBreedCC/9mm/Sprint-02/Week-01/), [`Week-02`](file:///Volumes/ReedBreedCC/9mm/Sprint-02/Week-02/), [`Week-03`](file:///Volumes/ReedBreedCC/9mm/Sprint-02/Week-03/))
+* **Status**: `[x] Weeks 01–04 Re-Evaluated` (Deliverables: [`Week-01`](file:///Volumes/ReedBreedCC/9mm/Sprint-02/Week-01/), [`Week-02`](file:///Volumes/ReedBreedCC/9mm/Sprint-02/Week-02/), [`Week-03`](file:///Volumes/ReedBreedCC/9mm/Sprint-02/Week-03/), [`Week-04`](file:///Volumes/ReedBreedCC/9mm/Sprint-02/Week-04/))
 | Month | Weeks Covered | Funnel Themes | Stream 1 Focus | Stream 2 Focus | Stream 3 Focus | Stream 4 Focus |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Month 1** | Week 1 – Week 4 | Foundation, Foundation, Authority, Authority | Why heavy logistics and w... | Are your apex distributor... | Skit/Narration: The chaos... | Carousel: Paper quoting v... |
@@ -133,7 +137,7 @@ This document tracks content generation progress across the **9 Months and 36 We
 * **Audience**: Multi-merchant markets, local directory pros
 * **Primary Product**: Ofia Niche Marketplace & Escrow Booking
 * **Horizon**: 9 Months (Weeks 1 to 36)
-* **Status**: `[x] Weeks 01, 02 & 03 Delivered` (Deliverables: [`Week-01`](file:///Volumes/ReedBreedCC/9mm/Sprint-03/Week-01/), [`Week-02`](file:///Volumes/ReedBreedCC/9mm/Sprint-03/Week-02/), [`Week-03`](file:///Volumes/ReedBreedCC/9mm/Sprint-03/Week-03/))
+* **Status**: `[x] Weeks 01–04 Re-Evaluated` (Deliverables: [`Week-01`](file:///Volumes/ReedBreedCC/9mm/Sprint-03/Week-01/), [`Week-02`](file:///Volumes/ReedBreedCC/9mm/Sprint-03/Week-02/), [`Week-03`](file:///Volumes/ReedBreedCC/9mm/Sprint-03/Week-03/), [`Week-04`](file:///Volumes/ReedBreedCC/9mm/Sprint-03/Week-04/))
 | Month | Weeks Covered | Funnel Themes | Stream 1 Focus | Stream 2 Focus | Stream 3 Focus | Stream 4 Focus |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Month 1** | Week 1 – Week 4 | Foundation, Foundation, Authority, Authority | Why top independent selle... | Are you tired of renting ... | Skit/Narration: The margi... | Carousel: The math behind... |
@@ -150,7 +154,7 @@ This document tracks content generation progress across the **9 Months and 36 We
 * **Audience**: Multi-location retail, walk-in showrooms
 * **Primary Product**: Ofia POS Terminal & Enterprise ERP
 * **Horizon**: 9 Months (Weeks 1 to 36)
-* **Status**: `[x] Weeks 01, 02 & 03 Delivered` (Deliverables: [`Week-01`](file:///Volumes/ReedBreedCC/9mm/Sprint-04/Week-01/), [`Week-02`](file:///Volumes/ReedBreedCC/9mm/Sprint-04/Week-02/), [`Week-03`](file:///Volumes/ReedBreedCC/9mm/Sprint-04/Week-03/))
+* **Status**: `[x] Weeks 01–04 Re-Evaluated` (Deliverables: [`Week-01`](file:///Volumes/ReedBreedCC/9mm/Sprint-04/Week-01/), [`Week-02`](file:///Volumes/ReedBreedCC/9mm/Sprint-04/Week-02/), [`Week-03`](file:///Volumes/ReedBreedCC/9mm/Sprint-04/Week-03/), [`Week-04`](file:///Volumes/ReedBreedCC/9mm/Sprint-04/Week-04/))
 | Month | Weeks Covered | Funnel Themes | Stream 1 Focus | Stream 2 Focus | Stream 3 Focus | Stream 4 Focus |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Month 1** | Week 1 – Week 4 | Foundation, Foundation, Authority, Authority | Why massive physical show... | 500 Google reviews, but z... | Skit/Narration: The walk-... | Carousel: The disconnect ... |
@@ -167,7 +171,7 @@ This document tracks content generation progress across the **9 Months and 36 We
 * **Audience**: Private schools, school groups (e.g. Greensprings, Corona)
 * **Primary Product**: ResultsPro K-12 Suite & SchoolHub
 * **Horizon**: 9 Months (Weeks 1 to 36)
-* **Status**: `[x] Weeks 01, 02 & 03 Delivered` (Deliverables: [`Week-01`](file:///Volumes/ReedBreedCC/9mm/Sprint-05/Week-01/), [`Week-02`](file:///Volumes/ReedBreedCC/9mm/Sprint-05/Week-02/), [`Week-03`](file:///Volumes/ReedBreedCC/9mm/Sprint-05/Week-03/))
+* **Status**: `[x] Weeks 01–04 Re-Evaluated` (Deliverables: [`Week-01`](file:///Volumes/ReedBreedCC/9mm/Sprint-05/Week-01/), [`Week-02`](file:///Volumes/ReedBreedCC/9mm/Sprint-05/Week-02/), [`Week-03`](file:///Volumes/ReedBreedCC/9mm/Sprint-05/Week-03/), [`Week-04`](file:///Volumes/ReedBreedCC/9mm/Sprint-05/Week-04/))
 | Month | Weeks Covered | Funnel Themes | Stream 1 Focus | Stream 2 Focus | Stream 3 Focus | Stream 4 Focus |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Month 1** | Week 1 – Week 4 | Foundation, Foundation, Authority, Authority | Why elite multi-branch sc... | Is your bursar playing de... | Skit/Narration: The panic... | Carousel: The true cost o... |
@@ -184,7 +188,7 @@ This document tracks content generation progress across the **9 Months and 36 We
 * **Audience**: Universities, polytechnics, colleges
 * **Primary Product**: ResultsPro Campus & ExamsPro
 * **Horizon**: 9 Months (Weeks 1 to 36)
-* **Status**: `[x] Weeks 01, 02 & 03 Delivered` (Deliverables: [`Week-01`](file:///Volumes/ReedBreedCC/9mm/Sprint-06/Week-01/), [`Week-02`](file:///Volumes/ReedBreedCC/9mm/Sprint-06/Week-02/), [`Week-03`](file:///Volumes/ReedBreedCC/9mm/Sprint-06/Week-03/))
+* **Status**: `[x] Weeks 01–04 Re-Evaluated` (Deliverables: [`Week-01`](file:///Volumes/ReedBreedCC/9mm/Sprint-06/Week-01/), [`Week-02`](file:///Volumes/ReedBreedCC/9mm/Sprint-06/Week-02/), [`Week-03`](file:///Volumes/ReedBreedCC/9mm/Sprint-06/Week-03/), [`Week-04`](file:///Volumes/ReedBreedCC/9mm/Sprint-06/Week-04/))
 | Month | Weeks Covered | Funnel Themes | Stream 1 Focus | Stream 2 Focus | Stream 3 Focus | Stream 4 Focus |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Month 1** | Week 1 – Week 4 | Foundation, Foundation, Authority, Authority | Why universities are stil... | Are site crashes during r... | Skit/Narration: A student... | Carousel: The manual clea... |
@@ -201,7 +205,7 @@ This document tracks content generation progress across the **9 Months and 36 We
 * **Audience**: Independent tutors, exam prep centers, course creators
 * **Primary Product**: CoursesPro, TutorsPro, ClassroomPro
 * **Horizon**: 9 Months (Weeks 1 to 36)
-* **Status**: `[x] Weeks 01, 02 & 03 Delivered` (Deliverables: [`Week-01`](file:///Volumes/ReedBreedCC/9mm/Sprint-07/Week-01/), [`Week-02`](file:///Volumes/ReedBreedCC/9mm/Sprint-07/Week-02/), [`Week-03`](file:///Volumes/ReedBreedCC/9mm/Sprint-07/Week-03/))
+* **Status**: `[x] Weeks 01–04 Re-Evaluated` (Deliverables: [`Week-01`](file:///Volumes/ReedBreedCC/9mm/Sprint-07/Week-01/), [`Week-02`](file:///Volumes/ReedBreedCC/9mm/Sprint-07/Week-02/), [`Week-03`](file:///Volumes/ReedBreedCC/9mm/Sprint-07/Week-03/), [`Week-04`](file:///Volumes/ReedBreedCC/9mm/Sprint-07/Week-04/))
 | Month | Weeks Covered | Funnel Themes | Stream 1 Focus | Stream 2 Focus | Stream 3 Focus | Stream 4 Focus |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Month 1** | Week 1 – Week 4 | Foundation, Foundation, Authority, Authority | Why massive coding bootca... | Are you drowning in manua... | Skit/Narration: An instru... | Carousel: The scale limit... |
@@ -218,7 +222,7 @@ This document tracks content generation progress across the **9 Months and 36 We
 * **Audience**: Ministries of education, state boards, corporate learning
 * **Primary Product**: Institutional Compliance Matrix & Enterprise Ledger
 * **Horizon**: 9 Months (Weeks 1 to 36)
-* **Status**: `[x] Weeks 01, 02 & 03 Delivered` (Deliverables: [`Week-01`](file:///Volumes/ReedBreedCC/9mm/Sprint-08/Week-01/), [`Week-02`](file:///Volumes/ReedBreedCC/9mm/Sprint-08/Week-02/), [`Week-03`](file:///Volumes/ReedBreedCC/9mm/Sprint-08/Week-03/))
+* **Status**: `[x] Weeks 01–04 Re-Evaluated` (Deliverables: [`Week-01`](file:///Volumes/ReedBreedCC/9mm/Sprint-08/Week-01/), [`Week-02`](file:///Volumes/ReedBreedCC/9mm/Sprint-08/Week-02/), [`Week-03`](file:///Volumes/ReedBreedCC/9mm/Sprint-08/Week-03/), [`Week-04`](file:///Volumes/ReedBreedCC/9mm/Sprint-08/Week-04/))
 | Month | Weeks Covered | Funnel Themes | Stream 1 Focus | Stream 2 Focus | Stream 3 Focus | Stream 4 Focus |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Month 1** | Week 1 – Week 4 | Foundation, Foundation, Authority, Authority | Why ministries of educati... | Are ghost workers drainin... | Skit/Narration: The panic... | Carousel: Manual reportin... |
@@ -233,17 +237,32 @@ This document tracks content generation progress across the **9 Months and 36 We
 
 ---
 
-## 5. Platform Screen & Feature Anchor Cross-Reference
+## 5. ComplianceHub.ng Production Ledger: Sprints 09 to 12 (Weeks 01–10)
 
-The multi-agent swarm maps each sprint's content to authentic software workflows from [`slugs.md`](file:///Volumes/ReedBreedCC/9MM/slugs.md):
+| Sprint | Target Audience | Primary Product | Weeks 01–04 Status | Weeks 05–10 Status |
+| :--- | :--- | :--- | :--- | :--- |
+| **Sprint 09: CAC Corporate Governance** | SME founders, MDs, Company Secretaries, CFOs | ComplianceHub Corporate Governance Suite | `[x] Re-Evaluated` ([`W01`](file:///Volumes/ReedBreedCC/9mm/Sprint-09/Week-01/), [`W02`](file:///Volumes/ReedBreedCC/9mm/Sprint-09/Week-02/), [`W03`](file:///Volumes/ReedBreedCC/9mm/Sprint-09/Week-03/), [`W04`](file:///Volumes/ReedBreedCC/9mm/Sprint-09/Week-04/)) | `[~] Pending Re-Eval` (`Week-05`–`Week-10`) |
+| **Sprint 10: Statutory Quad & Tender Readiness** | Federal contractors, EPC firms, CFOs | ComplianceHub HubCalendar & Payroll Audit Shield | `[x] Re-Evaluated` ([`W01`](file:///Volumes/ReedBreedCC/9mm/Sprint-10/Week-01/), [`W02`](file:///Volumes/ReedBreedCC/9mm/Sprint-10/Week-02/), [`W03`](file:///Volumes/ReedBreedCC/9mm/Sprint-10/Week-03/), [`W04`](file:///Volumes/ReedBreedCC/9mm/Sprint-10/Week-04/)) | `[~] Pending Re-Eval` (`Week-05`–`Week-10`) |
+| **Sprint 11: High-Scrutiny Sector Clearances (AML)** | Real estate developers, auto dealers, DNFBPs | ComplianceHub HubAML | `[x] Re-Evaluated` ([`W01`](file:///Volumes/ReedBreedCC/9mm/Sprint-11/Week-01/), [`W02`](file:///Volumes/ReedBreedCC/9mm/Sprint-11/Week-02/), [`W03`](file:///Volumes/ReedBreedCC/9mm/Sprint-11/Week-03/), [`W04`](file:///Volumes/ReedBreedCC/9mm/Sprint-11/Week-04/)) | `[~] Pending Re-Eval` (`Week-05`–`Week-10`) |
+| **Sprint 12: Enterprise Data Privacy (NDPA 2023)** | Fintech CTOs, scaleup founders, DPOs | ComplianceHub HubPrivacy | `[x] Re-Evaluated` ([`W01`](file:///Volumes/ReedBreedCC/9mm/Sprint-12/Week-01/), [`W02`](file:///Volumes/ReedBreedCC/9mm/Sprint-12/Week-02/), [`W03`](file:///Volumes/ReedBreedCC/9mm/Sprint-12/Week-03/), [`W04`](file:///Volumes/ReedBreedCC/9mm/Sprint-12/Week-04/)) | `[~] Pending Re-Eval` (`Week-05`–`Week-10`) |
 
-| Sprint | Target Brand | Featured Module | Core Screen Slugs in slugs.md |
+---
+
+## 6. Platform Screen & Feature Anchor Cross-Reference
+
+The multi-agent swarm maps each sprint's content to authentic software workflows documented in [`AGENT/Skills.md §2`](file:///Volumes/ReedBreedCC/9mm/AGENT/Skills.md):
+
+| Sprint | Target Brand | Featured Module | Core Screen / Route Anchors |
 | :--- | :--- | :--- | :--- |
-| **Sprint 1: Impulse Buy** | **Ofia** | Digital Shopfront & Shop Manager | `client_slug.ofia.shop/shopfront`, `/erp/admin/marketplace`, `/erp/admin/inventory` |
-| **Sprint 2: Supply Chain** | **Ofia** | Inventory IMS & Logistics | `/erp/admin/inventory/warehouses`, `/erp/admin/logistics/dispatch`, `/erp/admin/logistics/fleet` |
-| **Sprint 3: Marketplaces** | **Ofia** | Niche Directory & Escrow | `ofia.ng/[niche]`, `/book/nexa-verified`, `/booking/[ref]/track` |
-| **Sprint 4: Omnichannel** | **Ofia** | POS Register & Accounting | `/erp/admin/pos`, `/erp/accountant/ledger`, `/erp/accountant/reconcile` |
-| **Sprint 5: K-12 Admin** | **ResultsPro** | SchoolHub & Student Gradebooks | `/schoolhub`, `/classroompro`, `/admin/inbox`, `/admin/tickets` |
-| **Sprint 6: Tertiary** | **ResultsPro** | Campus ERP & Transcripts | `/coursespro`, `/examspro`, `/dashboard` |
-| **Sprint 7: EdTech Scale** | **ResultsPro** | LMS & Proctoring Engine | `/tutorspro`, `/coursespro`, `/blog/[slug]` |
-| **Sprint 8: Gov & Corp Matrix** | **ResultsPro** | Institutional Compliance Matrix | `/erp/md`, `/erp/accountant/statutory-remittances`, `/admin/audit-logs` |
+| **Sprint 01: Impulse Buy** | **Ofia** | Digital Shopfront & Shop Manager | `client_slug.ofia.shop/shopfront`, `/erp/admin/marketplace`, `/erp/admin/inventory` |
+| **Sprint 02: Supply Chain** | **Ofia** | Inventory IMS & Logistics | `/erp/admin/inventory/warehouses`, `/erp/admin/logistics/dispatch`, `/erp/admin/logistics/fleet` |
+| **Sprint 03: Marketplaces** | **Ofia** | Niche Directory & Escrow | `ofia.ng/[niche]`, `/book/nexa-verified`, `/booking/[ref]/track` |
+| **Sprint 04: Omnichannel** | **Ofia** | POS Register & Accounting | `/erp/admin/pos`, `/erp/accountant/ledger`, `/erp/accountant/reconcile` |
+| **Sprint 05: K-12 Admin** | **ResultsPro** | SchoolHub & Student Gradebooks | `/schoolhub`, `/classroompro`, `/admin/inbox`, `/admin/tickets` |
+| **Sprint 06: Tertiary** | **ResultsPro** | Campus ERP & Transcripts | `/coursespro`, `/examspro`, `/dashboard` |
+| **Sprint 07: EdTech Scale** | **ResultsPro** | LMS & Proctoring Engine | `/tutorspro`, `/coursespro`, `/blog/[slug]` |
+| **Sprint 08: Gov & Corp Matrix** | **ResultsPro** | Institutional Compliance Matrix | `/erp/md`, `/erp/accountant/statutory-remittances`, `/admin/audit-logs` |
+| **Sprint 09: CAC Governance** | **ComplianceHub** | Corporate Governance Suite | `/corporate-audit`, `/modules/cac-governance` |
+| **Sprint 10: Statutory Quad** | **ComplianceHub** | HubCalendar & Payroll Audit Shield | `/modules/hubcalendar`, `/onboarding?module=hubcalendar` |
+| **Sprint 11: DNFBP AML/SCUML** | **ComplianceHub** | HubAML | `/modules/hubaml`, `/onboarding?module=hubaml` |
+| **Sprint 12: NDPA Data Privacy** | **ComplianceHub** | HubPrivacy | `/modules/hubprivacy`, `/onboarding?module=hubprivacy` |

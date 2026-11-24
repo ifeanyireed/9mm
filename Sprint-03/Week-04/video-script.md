@@ -6,7 +6,7 @@
 * **Target Runtime**: ~4:15 (~630 spoken words at 140 WPM)
 * **Cast**: Host (@Ifeanyi Felix), Chuka (Founder, ChukaTech Electronics), Amaka (Founder, African Artisan Collective), Software Architect (Cameo)
 * **Brand in the Skit**: African Artisan Collective & ChukaTech
-* **Product Pitched**: **Ofia Multi-Vendor Marketplace OS & Automated Split-Payout Escrow** (`/marketplace/admin`, `https://www.ofia.ng/products`)
+* **Product Pitched**: **Ofia Multi-Vendor Marketplace OS & Automated Split-Payout Escrow** (`https://www.ofia.ng/products`)
 
 ---
 
@@ -111,7 +111,7 @@ A sleek split-node animation fires instantly:
 **[VISUAL]**: IFEANYI standing center-frame with sleek animated callouts showcasing the Ofia Multi-Vendor Suite.
 
 **IFEANYI (Host)**:
-"Here are the three engineering pillars that make the Ofia Multi-Vendor OS revolutionary:
+"Here are the three engineering pillars that make the Ofia Multi-Vendor OS built for merchant sovereignty:
 1. **Automated Multi-Party Split Escrow**:
    One unified checkout for the consumer; instantaneous, mathematical split-settlement across vendors, couriers, and platform operators.
 2. **First-Party Customer Ownership**:

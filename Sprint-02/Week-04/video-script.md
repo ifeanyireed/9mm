@@ -6,7 +6,7 @@
 * **Target Runtime**: ~4:15 (~630 spoken words at 140 WPM)
 * **Cast**: Host (@Ifeanyi Felix), Alhaji Sanusi (Managing Director, Apex Wholesale Logistics), Emeka (Depot Inventory Supervisor), Chief Procurement Officer (Voice)
 * **Brand in the Skit**: Apex Wholesale & Logistics Ltd (Ikeja & Kano Regional Depots)
-* **Product Pitched**: **Ofia Multi-Depot Inventory IMS & Bin Management Rails** (`/erp/admin/inventory/warehouses`, `https://www.ofia.ng/products`)
+* **Product Pitched**: **Ofia Multi-Depot Inventory IMS & Bin Management Rails** (`https://www.ofia.ng/products`)
 
 ---
 
@@ -80,26 +80,23 @@ Today, I am taking you behind the scenes to show you how top commercial distribu
 
 ---
 
-### [2:30 – 3:20] TH Segment: The Mathematics of Multi-Depot Desync (TH)
-**[VISUAL]**: IFEANYI walks forward as digital telemetry displays warehouse stock metrics.
+### [2:30 – 3:20] TH Segment: The Operational Economics of Multi-Depot Desync (TH)
+**[VISUAL]**: IFEANYI walks forward as a clean motion-graphic ledger illuminates beside him showing Paper Dispatch → 12-Hour Sync Lag → 18.4% Phantom Stock Variance.
 
 **IFEANYI (Host)**:
-"Alhaji Sanusi's crisis isn't an isolated communication glitch. It is dictated by the **Multi-Depot Desynchronization Formula**:
+"Alhaji Sanusi's crisis isn't an isolated communication glitch. It is the inevitable cost of **multi-depot sync lag**.
 
-$$Inventory Variance = (Depot Dispatches × Sync Delay Hours) ÷ Total Bin Ledger Checks$$
-
-When your warehouses operate on paper tally sheets and physical bin-cards:
-Every hour of delay between a floor dispatch and a head-office ledger entry increases your phantom stock variance by six percent.
-By hour twelve, your recorded stock counts diverge from physical pallet reality by more than eighteen percent.
+When regional warehouses rely on paper tally sheets and physical bin-cards, every hour that passes between a warehouse floor dispatch and a head-office ledger update widens the blindspot between paper records and physical pallets.
+Within twelve hours, recorded stock counts routinely diverge from real warehouse inventory by more than eighteen percent—leaving sales teams quoting phantom pallets, risking five-million-naira performance bonds, and losing forty-five-million-naira orders to competitors who verify stock in twelve seconds.
 Enterprise procurement directors do not tolerate vendors who promise stock they do not possess.
-In high-volume B2B commerce, inventory visibility is not an accounting convenience; it is your core commercial credibility."
+In high-volume B2B commerce, real-time inventory visibility is not an accounting convenience; it is your core commercial credibility."
 
 ---
 
 ### [3:20 – 4:00] Scene 3: The Rewind (The Real-Time Bin Matrix)
 **[SFX]**: Rapid high-speed rewind whoosh. Clock rolls back to 10:15 AM.
 
-**[VISUAL]**: Alhaji Sanusi sits at his desk. An ultra-wide display shows the **Ofia Multi-Depot Inventory Command Center** (`/erp/admin/inventory/warehouses`).
+**[VISUAL]**: Alhaji Sanusi sits at his desk. An ultra-wide display shows the **Ofia Multi-Depot Inventory Command Center**.
 * Supermarket procurement director calls.
 * Alhaji Sanusi types *"Premium Oil"* into his terminal.
 * The screen displays in real time:
@@ -131,5 +128,5 @@ Visit **ofia.ng/products** right now and automate your wholesale command."
 ## 60-Second Short-Form Cutdown (TikTok / Instagram Reels / YouTube Shorts)
 * **0:00 - 0:08 (Hook)**: "If your wholesale business takes 3 hours to confirm stock across your warehouses, you are losing ₦40M enterprise contracts."
 * **0:08 - 0:25 (The Skit)**: Warehouse director promising 3,000 cartons on the phone while his supervisor runs in with a paper ledger saying 600 cartons were already dispatched yesterday vs live tablet showing verified stock across 3 depots in 12 seconds.
-* **0:25 - 0:45 (The Math)**: Host: "Every hour of sync delay between physical floor dispatches and head office ledgers creates an 18% inventory variance. Handheld RFID scanners synchronize stock across all depots in real time."
+* **0:25 - 0:45 (The Economics)**: Host: "Paper bin-cards create an 18.4% phantom stock gap between floor dispatches and head-office books. Handheld barcode scanners synchronize every depot in real time."
 * **0:45 - 0:60 (Product CTA)**: "Eliminate phantom stock across your supply chain. Deploy Ofia IMS at ofia.ng/products. Link in bio."

@@ -124,11 +124,11 @@ Modernize your public sector governance: `resultspro.ng/solutions`
 ### Slide 5: Central State Ministry of Education Audit
 * **Headline**: Verified Sovereign Impact: Central State
 * **Metric Cards**:
-  * Reconciliation Speed: 6 Months &rarr; **2.8 Seconds**
+  * Reconciliation Speed: 6 Months → **2.8 Seconds**
   * Ghost Workers Auto-Frozen: **1,420 Identities**
   * Monthly Payroll Bleed Stopped: **₦412,000,000**
   * Annual Treasury Funds Saved: **₦4,944,000,000**
-  * Classroom Teacher Presence: 58.4% &rarr; **94.8%**
+  * Classroom Teacher Presence: 58.4% → **94.8%**
 
 ### Slide 6: Call to Action Slide
 * **Headline**: Secure Your State Treasury
@@ -191,7 +191,7 @@ Enter the ResultsPro Multi-Agency Biometric Ledger:
 3. Cryptographic SHA-256 deduplication matches records against BVN/NIN in 2.8 seconds.
 
 **Tweet 5 (The 20-Day Auto-Freeze)**:
-The game-changer:
+The enforcement lock:
 If a teacher logs zero biometric clock-ins for 20 consecutive business days without approved official leave, the ledger auto-freezes their salary debit mandate before the treasury file generates.
 
 Ghost workers cannot stand in front of a camera.

@@ -14,7 +14,7 @@
 
 ### COLD OPEN: TH (0:00 – 0:35)
 
-**Visual**: Host in a dramatic dark-mode cybersecurity command center. Behind him, glowing server racks pulse in deep emerald green (`#0D5C3A`). On the massive curved monitor, an ominous red digital timer counts down rapidly from *"71:59:59"* beneath the headline: *"NDPA 2023 SECTION 40: STATUTORY BREACH NOTIFICATION WINDOW"*.
+**Visual**: Host in a dramatic dark-mode cybersecurity command center. Behind him, glowing server racks pulse in deep Sovereign Emerald (`#064E3B`). On the massive curved monitor, an ominous red digital timer counts down rapidly from *"71:59:59"* beneath the headline: *"NDPA 2023 SECTION 40: STATUTORY BREACH NOTIFICATION WINDOW"*.
 
 **HOST**:
 It is 2:15 AM on a Sunday morning.
@@ -145,3 +145,21 @@ Run your diagnostic today at **compliancehub.ng/onboarding?module=hubprivacy**.
 **SFX**: Confident, resonant outro sonic branding; screen displays ComplianceHub logo with URL and contact details.
 
 *(Fade to Black)*
+
+---
+
+## 60-Second Short / Reel Cutdown (Vertical 9:16 — TikTok / Instagram Reels / LinkedIn Short)
+
+* **Target Runtime**: 58 seconds (~145 spoken words)
+* **Hook (0:00 – 0:08)**:
+  * **Visual**: Split screen — red `71:59:59` countdown clock over an open AWS staging terminal.
+  * **HOST**: "It is 2:15 AM on Sunday. Your DevOps engineer calls: an unknown IP just queried your staging database holding 350,000 customer records. Under NDPA 2023 Section 40, your 72-hour NDPC breach clock just started."
+* **Conflict (0:08 – 0:25)**:
+  * **Visual**: Quick cut to Chinedu sweating in the PayFlex Victoria Island bullpen; red overlay reads `SECTION 49 PENALTY: ₦10,000,000 OR 2% GROSS ANNUAL REVENUE`.
+  * **HOST**: "Most Nigerian scaleups clone raw production NINs and BVNs into developer staging. One leaked GitHub key triggers an emergency NDPC forensic audit and puts your Series A round on ice."
+* **Payoff (0:25 – 0:46)**:
+  * **Visual**: Engr. Zainab & Barrister Tunde tap ComplianceHub HubPrivacy (`#064E3B` emerald telemetry screen showing `100% SYNTHETIC MOCK HASHES — 0 BYTES PII EXPOSED`).
+  * **HOST**: "PayFlex did not panic. Their CI/CD pipeline automatically replaces every staging NIN and BVN with synthetic mock hashes, enforces AES-256 field encryption, and generates a complete Section 40 NDPC forensic disclosure dossier in 60 seconds."
+* **CTA (0:46 – 0:58)**:
+  * **Visual**: Bold lower-third card (`compliancehub.ng/onboarding?module=hubprivacy`).
+  * **HOST**: "Data privacy is code architecture, not a website footer PDF. Run your free 10-minute NDPA 2023 diagnostic at **compliancehub.ng/onboarding?module=hubprivacy**."

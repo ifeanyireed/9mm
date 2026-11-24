@@ -3,7 +3,7 @@
 * **Sprint & Week**: Sprint 11 (High-Scrutiny Sector Clearances) · Week 04 (Authority / Behind the Scenes)
 * **Theme**: Inside the NFIU & SCUML Reporting Architecture: How Enterprise DNFBPs Automate Mandatory CTR/STR Disclosures
 * **Author**: @Ifeanyi Felix · **Brand**: ComplianceHub (`https://www.compliancehub.ng`)
-* **Core Call to Action**: Drive traffic to read the full operational guide: `https://www.compliancehub.ng/onboarding?module=hubaml`
+* **Core Call to Action**: Drive traffic to read the full operational guide: `https://www.compliancehub.ng/blog/why-dnfbp-bank-accounts-get-frozen-overnight-10-ways-to-automate-nfiu-goaml-and-scuml-compliance` & `https://www.compliancehub.ng/onboarding?module=hubaml`
 * **In-App Exploration**: Modules [`/modules`](https://www.compliancehub.ng/modules) · Solutions [`/solutions`](https://www.compliancehub.ng/solutions) · Resources [`/resources`](https://www.compliancehub.ng/resources)
 * **Target Audience**: Real Estate Developers, Luxury Auto Dealers, Legal Practitioners, Chartered Accountants, Digital Lenders, Asset Managers (`ch-group-d`)
 
@@ -40,7 +40,8 @@ At ComplianceHub, we help high-value commercial operators engineer unassailable 
 • Real-Time PEP & Sanctions Screening: Query national PEP databases and global sanctions lists via API prior to contract execution.
 • Pre-Emptive Bank Compliance Dossiers: Dispatch verified AML clearance packages directly to commercial bank risk committees to guarantee zero-friction banking continuity.
 
-Read our complete behind-the-scenes systems teardown (10 Tactics): https://www.compliancehub.ng/onboarding?module=hubaml
+Read our complete behind-the-scenes systems teardown (10 Tactics): https://www.compliancehub.ng/blog/why-dnfbp-bank-accounts-get-frozen-overnight-10-ways-to-automate-nfiu-goaml-and-scuml-compliance
+Run a free SCUML & AML diagnostic: https://www.compliancehub.ng/onboarding?module=hubaml
 
 CEOs, Developers & Managing Partners: Are your ₦10M+ transactions protected by an automated reporting pipeline, or is your operating account one algorithm run away from a surprise PND freeze?
 ```
@@ -176,8 +177,57 @@ Run a confidential 10-minute diagnostic on your company’s SCUML and goAML syst
 * **Footer**: Slide 7/8 | The goAML Architecture
 
 ### Slide 8: Final Call to Action
-* **Visual**: Sleek dark amber card with glowing white & gold CTA button.
+* **Visual**: Sleek Sovereign Emerald (`#064E3B`) card with glowing white & Regulatory Gold (`#D97706`) CTA button.
 * **Headline**: Is Your Enterprise goAML-Ready?
 * **Body**: Run an automated, confidential audit of your SCUML registration standing, PEP screening workflows, and NFIU 7-day reporting pipeline.
 * **CTA Button**: Run Free AML Diagnostic at compliancehub.ng/onboarding?module=hubaml
 * **Footer**: ComplianceHub.ng · Specialist Regulatory Clearances & AML/CFT Governance · FCT Abuja & Victoria Island, Lagos
+
+---
+
+## 4. LinkedIn Interactive Poll
+
+**Question**: How does your real estate, auto, legal, or DNFBP firm currently file 7-day NFIU Currency Transaction Reports (CTRs) for ₦5M/₦10M+ inflows?
+
+* **Option 1**: Automated XML staging linked to our sales ledger
+* **Option 2**: Manual portal uploads by an internal officer
+* **Option 3**: External consultant handles filings periodically
+* **Option 4**: We thought only commercial banks report transfers
+
+**First-Comment CTA**: Read all 10 tactics to automate NFIU goAML & SCUML compliance → `https://www.compliancehub.ng/blog/why-dnfbp-bank-accounts-get-frozen-overnight-10-ways-to-automate-nfiu-goaml-and-scuml-compliance`
+
+---
+
+## 5. Facebook Community Narrative (Nigerian Developers & DNFBPs)
+
+A legitimate ₦45 million development milestone landed in BlueWater Luxury Properties' bank account on Tuesday. By Friday morning—right before contractor payroll—the entire corporate account was hit with a Post-No-Debit (PND) restriction.
+
+Why? Because under Section 11 of the Money Laundering Act 2022, commercial banks push inflows above ₦5M (individual) and ₦10M (corporate) straight to the NFIU goAML engine within 24 hours—and expect a matching Currency Transaction Report from the receiving DNFBP within 7 days. A framed SCUML paper certificate on the wall does not clear an automated bank switch.
+
+When Mr. Femi connected BlueWater to ComplianceHub HubAML, his accredited XML filing cleared in 90 seconds and his bank lifted the PND within 20 minutes.
+
+Is your firm registered with an accredited Compliance Officer on goAML today? Share your thoughts below!
+
+👉 Full 10-tactic breakdown: https://www.compliancehub.ng/blog/why-dnfbp-bank-accounts-get-frozen-overnight-10-ways-to-automate-nfiu-goaml-and-scuml-compliance  
+👉 Free 10-minute SCUML & AML diagnostic: https://www.compliancehub.ng/onboarding?module=hubaml
+
+---
+
+## 6. Instagram Carousel Caption & Threads Post
+
+### Instagram Caption
+A legitimate ₦45M client transfer can still trigger an overnight Post-No-Debit freeze on your corporate account. 🏦⚠️
+
+Under Nigeria's Money Laundering Act 2022 (MLA 2022):
+• Commercial banks report inflows >₦5M (individual) / >₦10M (corporate) to NFIU goAML within 24 hours
+• Receiving DNFBPs MUST file a matching CTR within 7 consecutive days
+• Missing accredited SCUML officers trigger automated bank PND blocks
+
+Swipe all 8 slides to see how Nigerian property developers and auto dealers keep accounts permanently unrestricted. ➡️
+
+👉 Run your free SCUML & AML Diagnostic at compliancehub.ng/onboarding?module=hubaml
+
+#MLA2022 #SCUML #NFIU #goAML #RealEstateNigeria #LuxuryAutoNigeria #ComplianceHub #AMLCompliance
+
+### Threads Post
+Hard truth for Nigerian real estate developers & auto dealers: framing a SCUML certificate on your office wall will not stop a Friday morning PND bank freeze. When a ₦10M+ wire lands, banks hit goAML in 24 hours and the NFIU expects your matching CTR in 7 days. Automate it: compliancehub.ng/onboarding?module=hubaml

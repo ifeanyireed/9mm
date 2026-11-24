@@ -3,8 +3,9 @@
 ## Part 1: Subject Line Matrix
 
 * **Option 1 (Pain Hook):** Why unrecorded director changes trigger sudden bank KYC freezes at {{company}}
-* **Option 2 (Curiosity / Warning Hook):** Does {{company}}'s CAC Status Report still list a resigned director or outdated shareholding?
-* **Option 3 (Metric / SLA Hook):** Zero director BVN mismatches, zero blocked funding rounds: Clean CAC regularization for {{company}}
+* **Option 2 (Curiosity / Warning Hook):** Does the live CAC Status Report still list a resigned director at {{company}}?
+* **Option 3 (Metric / SLA Hook):** Zero director BVN mismatches and zero blocked funding rounds at {{company}}
+* **Preview Text:** Why unfiled Form CAC 7A, 2A, 3, and Section 119 PSC gaps trigger sudden bank BVN freezes—and 10 CAMA 2020 fixes to clear your Status Report.
 
 ---
 
@@ -27,18 +28,16 @@ At ComplianceHub, we audit your live CAC Electronic Status Report against curren
 
 Are you open to a quick 10-minute post-incorporation status review for {{company}} this week?
 
-Best regards,
-
-**@Ifeanyi Felix**  
+**— Ifeanyi Felix**  
 Head of Regulatory Affairs & Corporate Compliance  
 ComplianceHub Regulatory Technologies Limited  
-{{unsubscribe_url}}
+Sent to {{email}} | Unsubscribe: {{unsubscribe_url}}
 
 ---
 
 ### Touchpoint 2 (Day 4: Warning Signs & Statutory Risk — CAMA 2020 Sections 119, 321 & 722)
 
-**Subject:** Does {{company}}'s CAC Status Report still list a resigned director or outdated shareholding?
+**Subject:** Does the live CAC Status Report still list a resigned director at {{company}}?
 
 Hi {{first_name}},
 
@@ -53,18 +52,16 @@ ComplianceHub executes full CAC Electronic Status Report reconciliation, resolve
 
 Would Thursday at 11:00 AM work for a brief 10-minute corporate regularization consultation for {{company}}?
 
-Best regards,
-
-**@Ifeanyi Felix**  
+**— Ifeanyi Felix**  
 Head of Regulatory Affairs & Corporate Compliance  
 ComplianceHub Regulatory Technologies Limited  
-{{unsubscribe_url}}
+Sent to {{email}} | Unsubscribe: {{unsubscribe_url}}
 
 ---
 
 ### Touchpoint 3 (Day 8: Case Study Proof & Value Offer — Unblocking a ₦450M Corporate Facility)
 
-**Subject:** Zero director BVN mismatches, zero blocked funding rounds: Clean CAC regularization for {{company}}
+**Subject:** Zero director BVN mismatches and zero blocked funding rounds at {{company}}
 
 Hi {{first_name}},
 
@@ -77,12 +74,10 @@ When *Okafor Meridian Holdings Ltd*—an Ikoyi corporate group preparing to clos
 You can claim a complimentary Corporate Status & Post-Incorporation Audit for {{company}} directly here:  
 👉 [https://www.compliancehub.ng/corporate-audit](https://www.compliancehub.ng/corporate-audit)
 
-Warm regards,
-
-**@Ifeanyi Felix**  
+**— Ifeanyi Felix**  
 Head of Regulatory Affairs & Corporate Compliance  
 ComplianceHub Regulatory Technologies Limited  
-{{unsubscribe_url}}
+Sent to {{email}} | Unsubscribe: {{unsubscribe_url}}
 
 ---
 
@@ -91,20 +86,8 @@ ComplianceHub Regulatory Technologies Limited
 ### Top Utility Bar & Executive Masthead
 
 * **EDITION #83** | September 2026 | 4 Min Read | [www.compliancehub.ng](https://www.compliancehub.ng)
-
-```html
-<table width="100%" cellpadding="0" cellspacing="0" border="0" style="margin-bottom: 24px;">
-  <tr>
-    <td valign="middle" style="width: 52px;">
-      <img src="https://res.cloudinary.com/iqwyufpt/image/upload/v1795139981/9mm/compliancehub_logo.png" alt="ComplianceHub Logo" width="44" height="44" style="display: block; border: 0;" />
-    </td>
-    <td valign="middle" style="padding-left: 14px;">
-      <div style="font-size: 20px; font-weight: 800; color: #064E3B; letter-spacing: -0.5px; font-family: 'Dropa', sans-serif;">THE COMPLIANCEHUB REGULATORY BRIEF</div>
-      <div style="font-size: 12px; font-weight: 600; color: #D97706; text-transform: uppercase; letter-spacing: 0.5px;">Boardroom Regularization, Share Allotments &amp; CAC Bank KYC Continuity</div>
-    </td>
-  </tr>
-</table>
-```
+* **Logo:** ![ComplianceHub Logo](https://res.cloudinary.com/iqwyufpt/image/upload/v1795139981/9mm/compliancehub_logo.png) (44px)
+* **Masthead:** **THE COMPLIANCEHUB REGULATORY BRIEF** — Boardroom Regularization, Share Allotments & CAC Bank KYC Continuity
 
 ---
 
@@ -116,7 +99,7 @@ Inside Nigerian boardrooms, business decisions move swiftly: a co-founder retire
 
 Yet under CAMA 2020 and automated Central Bank of Nigeria (CBN) commercial banking checks, internal board minutes mean nothing until they are formally gazetted on the Corporate Affairs Commission (CAC) Company Registration Portal (CRP). The moment a bank or institutional lender queries the CAC API and spots a resigned director, unfiled share allotment, or BVN discrepancy, accounts freeze and deals grind to a halt.
 
-In this edition, we review fresh commercial banking, BOI/IFC credit, and Lagos State enterprise financing milestones—and deliver ten operational fixes to clear boardroom filing arrears and keep your corporate KYC permanently frictionless.
+In this edition, we review fresh commercial banking, BOI/IFC credit, Lagos State enterprise financing, and executive board governance milestones—and deliver ten operational fixes to clear boardroom filing arrears and keep your corporate KYC permanently frictionless.
 
 ---
 
@@ -145,23 +128,17 @@ Under **Sections 119, 321, and 722 of CAMA 2020**, unrecorded director changes (
 ### Section 5: Curated Industry Intelligence Briefs
 
 * **1. [EFInA urges SMEs to explore funding beyond bank loans](https://punchng.com/efina-urges-smes-to-explore-funding-beyond-bank-loans/)**
-  <div style="max-width: 600px; margin: 12px 0;">
-    <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/09/10005223/Akinjayeju_1788997943.webp&w=800&output=jpg" alt="EFInA executive leadership advising Nigerian enterprises on structured equity and institutional capital readiness" referrerpolicy="no-referrer" style="width: 100%; height: auto; border-radius: 0px !important; display: block;" />
-  </div>
+  * <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/09/10005223/Akinjayeju_1788997943.webp&w=800&output=jpg" alt="EFInA executive leadership advising Nigerian enterprises on structured equity and institutional capital readiness" referrerpolicy="no-referrer" style="width: 100%; height: auto; border-radius: 0px !important; display: block;" />
   * **Source**: Punch Nigeria · [Read Full Story →](https://punchng.com/efina-urges-smes-to-explore-funding-beyond-bank-loans/)
   * **Operational Takeaway:** As underscored by EFInA's leadership urging enterprises to pursue equity and alternative institutional capital (photo above), private equity funds and syndicates walk away immediately when unfiled Form CAC 2A share allotments and missing FIRS stamp duty receipts leave a company's cap table unverified.
 
 * **2. [BOI, IFC sign $50m loan deal to boost MSME financing](https://punchng.com/boi-ifc-sign-50m-loan-deal-to-boost-msme-financing/)**
-  <div style="max-width: 600px; margin: 12px 0;">
-    <img src="https://wsrv.nl/?url=https://punchng.com/wp-content/uploads/2026/07/Bank-of-Industry_1782870878.webp&w=800&output=jpg" alt="Bank of Industry headquarters advancing $50m IFC enterprise lending facility in Nigeria" referrerpolicy="no-referrer" style="width: 100%; height: auto; border-radius: 0px !important; display: block;" />
-  </div>
+  * <img src="https://wsrv.nl/?url=https://punchng.com/wp-content/uploads/2026/07/Bank-of-Industry_1782870878.webp&w=800&output=jpg" alt="Bank of Industry headquarters advancing $50m IFC enterprise lending facility in Nigeria" referrerpolicy="no-referrer" style="width: 100%; height: auto; border-radius: 0px !important; display: block;" />
   * **Source**: Punch Nigeria · [Read Full Story →](https://punchng.com/boi-ifc-sign-50m-loan-deal-to-boost-msme-financing/)
   * **Operational Takeaway:** As documented in Punch Nigeria's report on the $50 million Bank of Industry (BOI) and IFC MSME financing accord (photo above), development finance drawdowns require clean Form CAC 7A director records, harmonized Section 119 PSC ledgers, and character-for-character BVN matching across all corporate signatories.
 
 * **3. [LSETF disburses N15bn to MSMEs](https://punchng.com/lsetf-disburses-n15bn-to-msmes/)**
-  <div style="max-width: 600px; margin: 12px 0;">
-    <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2025/12/05003708/Olatunbosun-Alake.jpeg&w=800&output=jpg" alt="Lagos State innovation and enterprise governance leadership detailing N15bn LSETF MSME funding disbursements" referrerpolicy="no-referrer" style="width: 100%; height: auto; border-radius: 0px !important; display: block;" />
-  </div>
+  * <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2025/12/05003708/Olatunbosun-Alake.jpeg&w=800&output=jpg" alt="Lagos State innovation and enterprise governance leadership detailing N15bn LSETF MSME funding disbursements" referrerpolicy="no-referrer" style="width: 100%; height: auto; border-radius: 0px !important; display: block;" />
   * **Source**: Punch Nigeria · [Read Full Story →](https://punchng.com/lsetf-disburses-n15bn-to-msmes/)
   * **Operational Takeaway:** As highlighted in Lagos State's ₦15 billion LSETF enterprise disbursement coverage (photo above), state funding bodies and procurement portals verify registered office addresses (Form CAC 3) and active TIN alignment against CAC records—disqualifying businesses operating from unrecorded locations.
 
@@ -169,74 +146,43 @@ Under **Sections 119, 321, and 722 of CAMA 2020**, unrecorded director changes (
 
 ### Industry News Spotlight
 
-<div style="border: 1px solid #E7E4DC; padding: 20px; background-color: #FAF9F6; margin: 24px 0;">
-  <div style="font-size: 11px; font-weight: 700; color: #D97706; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px;">INDUSTRY SPOTLIGHT</div>
-  <div style="font-size: 16px; font-weight: 700; color: #064E3B; margin-bottom: 12px;">
-    <a href="https://punchng.com/no-evidence-of-coordinated-cyberattack-behind-us-outages-rubio/" style="color: #064E3B; text-decoration: none;">Global Digital Infrastructure Resilience Under Scrutiny — Why Automated 24/7 Compliance Rails Leave Zero Room for Stale Paper Filings</a>
-  </div>
-  <div style="width: 100%; height: 180px; overflow: hidden; margin-bottom: 14px;">
-    <img src="https://wsrv.nl/?url=https://punchng.com/wp-content/uploads/2026/07/Rubio_1784413891.webp&w=800&output=jpg" alt="International policy leadership addressing global digital systems resilience and automated infrastructure scrutiny" referrerpolicy="no-referrer" style="width: 100%; height: 180px; object-fit: cover; border-radius: 0px !important; display: block;" />
-  </div>
-  <p style="font-size: 13px; color: #475569; line-height: 1.6; margin-bottom: 10px;">
-    As global policy briefings on critical digital infrastructure resilience highlight (spotlight photo above), modern financial and regulatory switches now run continuously via automated API checks rather than human discretion. For Nigerian corporate boards, keeping director rosters, share allotments, and office addresses synchronized in real time across CAC, NIBSS, and FIRS is the only way to prevent sudden automated account lockouts.
-  </p>
-  <p style="font-size: 12px; color: #64748b; margin-bottom: 0;">
-    <strong>Source:</strong> Punch Nigeria Global Systems &amp; Policy Desk · <a href="https://punchng.com/no-evidence-of-coordinated-cyberattack-behind-us-outages-rubio/" style="color: #064E3B; text-decoration: underline;">Read Full Report →</a>
-  </p>
+**INDUSTRY NEWS SPOTLIGHT: [Fidelity Bank confirms substantive MD/CEO following Central Bank governance approval](https://nairametrics.com/2026/11/20/fidelity-bank-announces-stanley-chiedoziem-amuchie-as-managing-director-chief-executive-officer/)**
+
+<div style="width: 100%; height: 180px; overflow: hidden; margin: 12px 0;">
+  <img src="https://wsrv.nl/?url=https://media.nairametrics.com/wp-content/uploads/2026/11/f0b72a2d-6ab0-44c5-8d2d-ac4af0828789.webp&w=800&output=jpg" alt="Fidelity Bank Managing Director Stanley Chiedoziem Amuchie confirmed following formal CBN and corporate board governance clearance" referrerpolicy="no-referrer" style="width: 100%; height: 180px; object-fit: cover; border-radius: 0px !important; display: block;" />
 </div>
+
+As reported by Nairametrics on Fidelity Bank confirming Stanley Chiedoziem Amuchie as Managing Director/CEO following regulatory clearance (spotlight photo above), institutional leadership transitions across Nigeria's corporate sector are only legally perfected when board resolutions are paired with formal regulatory filings. For growing private companies, registering every director appointment or exit on Form CAC 7A within 14 days ensures commercial bank KYC switches and investor checks never halt business continuity.
+
+* **Source**: Nairametrics · [Read Full Story →](https://nairametrics.com/2026/11/20/fidelity-bank-announces-stanley-chiedoziem-amuchie-as-managing-director-chief-executive-officer/)
 
 ---
 
 ### Primary Call to Action
 
-<div style="text-align: center; margin: 32px 0;">
-  <a href="https://www.compliancehub.ng/blog/boardroom-deadlock-unrecorded-director-changes-cac-kyc" style="background-color: #064E3B; color: #ffffff; padding: 14px 28px; font-size: 14px; font-weight: 700; text-decoration: none; display: inline-block; letter-spacing: 0.5px;">READ ALL 10 BOARDROOM REGULARIZATION FIXES →</a>
-</div>
+👉 **[READ ALL 10 BOARDROOM REGULARIZATION FIXES →](https://www.compliancehub.ng/blog/boardroom-deadlock-unrecorded-director-changes-cac-kyc)**
 
 ---
 
 ### Product Spotlight & Founding Offer
 
-<div style="border-left: 4px solid #064E3B; padding: 18px 22px; background-color: #FAF9F6; margin: 28px 0;">
-  <div style="font-size: 15px; font-weight: 800; color: #064E3B; margin-bottom: 6px;">INTRODUCING: COMPLIANCEHUB POST-INCORPORATION REGULARIZATION ENGINE</div>
-  <p style="font-size: 13px; color: #334155; line-height: 1.6; margin-bottom: 12px;">
-    Synchronize your internal boardroom reality with the CAC public registry, commercial bank KYC switches, and FIRS tax profiles in one clean workflow:
-  </p>
-  <ul style="font-size: 13px; color: #334155; line-height: 1.6; padding-left: 18px; margin-bottom: 14px;">
-    <li><strong>Instant CAC Status Report Reconciliation:</strong> Pinpoints unfiled Form CAC 7A, 2A, 3, and Section 119 PSC mismatches in minutes.</li>
-    <li><strong>Director BVN &amp; Bank Mandate Alignment:</strong> Eliminates automated AML debit freezes before funding drawdowns or payroll runs.</li>
-    <li><strong>Continuous 14-Day Secretarial Supervision:</strong> Keeps board resolutions, cap tables, and TIN records audit-ready 365 days a year.</li>
-  </ul>
-  <div style="font-size: 13px; font-weight: 700; color: #064E3B; margin-bottom: 6px;">Complimentary Corporate Diagnostic Offer:</div>
-  <p style="font-size: 13px; color: #475569; line-height: 1.5; margin-bottom: 0;">
-    Run a confidential live CAC Status Report &amp; Post-Incorporation Gap Audit for your corporate group today. <a href="https://www.compliancehub.ng/corporate-audit" style="color: #064E3B; font-weight: 700; text-decoration: underline;">Claim Corporate Compliance Audit →</a>
-  </p>
-</div>
+**INTRODUCING: COMPLIANCEHUB POST-INCORPORATION REGULARIZATION ENGINE**
 
-Warm regards,
+Synchronize your internal boardroom reality with the CAC public registry, commercial bank KYC switches, and FIRS tax profiles in one clean workflow:
 
-**@Ifeanyi Felix**  
-Head of Regulatory Affairs & Corporate Compliance  
-ComplianceHub Regulatory Technologies Limited
+* **Instant CAC Status Report Reconciliation:** Pinpoints unfiled Form CAC 7A, 2A, 3, and Section 119 PSC mismatches in minutes.
+* **Director BVN & Bank Mandate Alignment:** Eliminates automated AML debit freezes before funding drawdowns or payroll runs.
+* **Continuous 14-Day Secretarial Supervision:** Keeps board resolutions, cap tables, and TIN records audit-ready 365 days a year.
+
+**Complimentary Corporate Diagnostic Offer:**  
+Run a confidential live CAC Status Report & Post-Incorporation Gap Audit for your corporate group today. [Claim Corporate Compliance Audit →](https://www.compliancehub.ng/corporate-audit)
+
+**— Ifeanyi Felix**  
+Head of Regulatory Affairs & Corporate Compliance, ComplianceHub.ng
 
 ---
 
 ### Light Executive Footer
 
-```html
-<table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-top: 1px solid #E7E4DC; padding-top: 20px; margin-top: 32px;">
-  <tr>
-    <td valign="middle" style="width: 32px;">
-      <img src="https://res.cloudinary.com/iqwyufpt/image/upload/v1795139981/9mm/compliancehub_logo.png" alt="ComplianceHub Icon" width="22" height="22" style="display: block; border: 0;" />
-    </td>
-    <td valign="middle" style="padding-left: 10px; font-size: 11px; color: #64748b; font-family: 'Dropa', sans-serif;">
-      <strong>ComplianceHub Regulatory Technologies Limited</strong> · Abuja &amp; Victoria Island, Lagos, Nigeria
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" style="padding-top: 10px; font-size: 10px; color: #94a3b8; line-height: 1.5;">
-      You are receiving this regulatory intelligence report as a registered SME founder, managing director, company secretary, or CFO ({{name}}, {{email}}) at {{company}}. To update your delivery preferences or unsubscribe, please click <a href="{{unsubscribe_url}}" style="color: #64748b; text-decoration: underline;">here</a>.
-    </td>
-  </tr>
-</table>
-```
+* ![ComplianceHub Icon](https://res.cloudinary.com/iqwyufpt/image/upload/v1795139981/9mm/compliancehub_logo.png) (22px) **ComplianceHub Regulatory Technologies Limited** · Abuja & Victoria Island, Lagos, Nigeria
+* Sent to {{name}} ({{email}}) as a registered SME founder, managing director, company secretary, or CFO at {{company}}. To update your delivery preferences or unsubscribe, please click [here]({{unsubscribe_url}}).

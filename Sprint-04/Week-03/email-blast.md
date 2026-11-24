@@ -1,10 +1,11 @@
-# Omnichannel Retail & Showroom Conversion Briefing: Sprint 04 Week 03
+# The Ofia Commerce Brief: Sprint 04 Week 03
 
 ## Part 1: Subject Line Matrix
 
 * **Option 1 (Pain Hook):** Why 80% of weekend showroom visitors walk out without buying at {{company}}
 * **Option 2 (Curiosity / Warning Hook):** The paper business card leak quietly draining showroom ROI at {{company}}
 * **Option 3 (Metric / SLA Hook):** Turning undecided walk-in browsers into confirmed online orders at {{company}}
+* **Preview Text:** Why 80% of weekend showroom visitors walk out with paper cards they lose by Sunday—and 10 practical fixes to convert them online.
 
 ---
 
@@ -26,12 +27,10 @@ At Ofia, we engineered **Ofia POS Terminal & Omnichannel Showroom ERP** to bridg
 
 Are you open to seeing how Nigerian showrooms convert undecided walk-in browsers into completed weekday online orders?
 
-Best regards,
-
-**@Ifeanyi Felix**  
+— Ifeanyi Felix  
 Head of Commerce Editorial, Ofia.ng  
-Ofia Enterprise Growth Limited  
-{{unsubscribe_url}}
+Ofia Enterprise Growth  
+Sent to {{email}} at {{company}} · [Unsubscribe]({{unsubscribe_url}})
 
 ---
 
@@ -50,12 +49,10 @@ Ofia gives floor associates mobile tablets synced to live warehouse inventory, b
 
 Would Thursday at 2:00 PM work for a quick 10-minute walkthrough tailored to {{company}}'s showroom floor?
 
-Best regards,
-
-**@Ifeanyi Felix**  
+— Ifeanyi Felix  
 Head of Commerce Editorial, Ofia.ng  
-Ofia Enterprise Growth Limited  
-{{unsubscribe_url}}
+Ofia Enterprise Growth  
+Sent to {{email}} at {{company}} · [Unsubscribe]({{unsubscribe_url}})
 
 ---
 
@@ -78,12 +75,10 @@ We are onboarding a select cohort of furniture, appliance, and multi-branch reta
 
 Reply to this email if you would like us to set up sample QR spec sheets for five flagship items in your showroom this week.
 
-Warm regards,
-
-**@Ifeanyi Felix**  
+— Ifeanyi Felix  
 Head of Commerce Editorial, Ofia.ng  
-Ofia Enterprise Growth Limited  
-{{unsubscribe_url}}
+Ofia Enterprise Growth  
+Sent to {{email}} at {{company}} · [Unsubscribe]({{unsubscribe_url}})
 
 ---
 
@@ -93,19 +88,17 @@ Ofia Enterprise Growth Limited
 
 * **EDITION #33** | April 2026 | 4 Min Read | [www.ofia.ng](https://www.ofia.ng)
 
-```html
-<table width="100%" cellpadding="0" cellspacing="0" border="0" style="margin-bottom: 24px;">
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="margin-bottom: 24px; border-bottom: 2px solid #2A6BE0; padding-bottom: 16px;">
   <tr>
     <td valign="middle" style="width: 52px;">
-      <img src="https://res.cloudinary.com/iqwyufpt/image/upload/v1795139974/9mm/ofia_logo.svg" alt="Ofia Logo" width="44" height="44" style="display: block; border: 0;" />
+      <img src="https://res.cloudinary.com/iqwyufpt/image/upload/v1795139974/9mm/ofia_logo.svg" alt="Ofia Logo" width="44" height="44" style="display: block; border: 0; border-radius: 0px; object-fit: contain;" />
     </td>
     <td valign="middle" style="padding-left: 14px;">
-      <div style="font-size: 20px; font-weight: 800; color: #0f172a; letter-spacing: -0.5px; font-family: 'Dropa', sans-serif;">OFIA OMNICHANNEL INTELLIGENCE</div>
+      <div style="font-size: 20px; font-weight: 800; color: #1e293b; letter-spacing: -0.5px; font-family: 'Dropa', sans-serif;">THE OFIA COMMERCE BRIEF</div>
       <div style="font-size: 12px; font-weight: 600; color: #64748b; text-transform: uppercase; letter-spacing: 0.5px;">Executive Briefing for Modern Showrooms &amp; Multi-Branch Retailers</div>
     </td>
   </tr>
 </table>
-```
 
 ---
 
@@ -119,7 +112,7 @@ Yet by Sunday evening—just like Tunde's showroom in our Week 03 teardown—a q
 
 You pay millions in annual showroom rent to attract serious buyers through your doors. Letting 80% of them walk out without a digital bridge to your catalogue, live warehouse stock, and one-click checkout turns prime physical retail space into a costly museum.
 
-In this thirty-third edition, we examine rising operational demands on Nigerian physical retailers, highlight the rapid rise of self-service physical-to-digital commerce across the country, and share ten practical fixes to convert walk-in browsers into confirmed online buyers.
+In this thirty-third edition of The Ofia Commerce Brief, we examine rising operational demands on Nigerian physical retailers, highlight the rapid rise of self-service physical-to-digital commerce across the country, and share ten practical fixes to convert walk-in browsers into confirmed online buyers.
 
 ---
 
@@ -151,42 +144,42 @@ By equipping every floor display with scannable QR spec plaques, giving associat
 
 * **1. [NAFDAC Shuts Chinese Supermarkets Over Unregistered Products](https://punchng.com/nafdac-shuts-chinese-supermarkets-over-unregistered-products/)**
   <div style="max-width: 600px; margin: 12px 0;">
-    <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2020/08/20075420/NAFDAC-DG-Prof-Mojisola-Adeyeye.jpg&w=800&output=jpg" alt="NAFDAC leadership briefing on product verification and transparent retail standards across Nigerian supermarkets (Photo: Punch Nigeria)" referrerpolicy="no-referrer" width="100%" style="width: 100%; height: auto; display: block;" />
+    <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2020/08/20075420/NAFDAC-DG-Prof-Mojisola-Adeyeye.jpg&w=800&output=jpg" alt="NAFDAC leadership briefing on product verification and transparent retail standards across Nigerian supermarkets (Photo: Punch Nigeria)" referrerpolicy="no-referrer" style="width: 100%; height: auto; border-radius: 0px !important; display: block;" />
   </div>
   * **Source**: Punch Nigeria · [Read Full Story →](https://punchng.com/nafdac-shuts-chinese-supermarkets-over-unregistered-products/)
   * **Operational Takeaway:** As underscored in Punch Nigeria's coverage pictured above, Nigerian regulators and shoppers alike are demanding transparent, verifiable product information on retail shelves. Placing scannable QR plaques next to showroom appliances and homeware lets buyers verify exact model specifications, warranty coverage, and authenticity instantly on their phones.
 
-* **2. [NAFDAC Shuts Two Chinese Supermarkets, Shops in Abuja](https://punchng.com/nafdac-shuts-two-chinese-supermarkets-shops-in-abuja/)**
+* **2. [Zvilo Bets on Nigeria, Africa to Drive €2 Billion Trade & Retail Financing Target](https://nairametrics.com/2026/10/28/zvilo-bets-on-nigeria-africa-to-drive-e2-billion-annual-financing-target/)**
   <div style="max-width: 600px; margin: 12px 0;">
-    <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2025/10/03111256/NAFDAC.jpg&w=800&output=jpg" alt="Regulatory enforcement action at Abuja retail shops highlighting multi-branch inventory governance requirements (Photo: Punch Nigeria)" referrerpolicy="no-referrer" width="100%" style="width: 100%; height: auto; display: block;" />
+    <img src="https://wsrv.nl/?url=https://media.nairametrics.com/wp-content/uploads/2026/10/Peter-Maila-.webp&w=800&output=jpg" alt="Zvilo trade financing executive Peter Maila detailing €2 billion African commercial credit expansion (Photo: Nairametrics)" referrerpolicy="no-referrer" style="width: 100%; height: auto; border-radius: 0px !important; display: block;" />
   </div>
-  * **Source**: Punch Nigeria · [Read Full Story →](https://punchng.com/nafdac-shuts-two-chinese-supermarkets-shops-in-abuja/)
-  * **Operational Takeaway:** As documented in Punch Nigeria's Abuja enforcement report above, multi-city retail operators cannot afford fragmented branch records. Managing Lagos showrooms, Abuja branches, and central warehouses on one live cloud catalogue eliminates 20-minute stock-check phone calls while maintaining airtight SKU consistency across locations.
+  * **Source**: Nairametrics · [Read Full Story →](https://nairametrics.com/2026/10/28/zvilo-bets-on-nigeria-africa-to-drive-e2-billion-annual-financing-target/)
+  * **Operational Takeaway:** As reported in Nairametrics' coverage pictured above, institutional trade-finance providers are targeting Nigerian retail operators for large-scale inventory credit—yet underwriting demands real-time multi-branch stock visibility. Managing Lagos showrooms, Abuja branches, and central warehouses on one live cloud catalogue eliminates 20-minute stock-check calls while qualifying your stores for expansion finance.
 
 * **3. [Sunbeth Energies Expands Self-Service Fuelling to Oyo](https://punchng.com/sunbeth-energies-expands-self-service-fuelling-to-oyo/)**
   <div style="max-width: 600px; margin: 12px 0;">
-    <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/10/22022315/sunbeth_1792632195.webp&w=800&output=jpg" alt="Sunbeth Energies expanding modern self-service physical retail technology infrastructure in Oyo State (Photo: Punch Nigeria)" referrerpolicy="no-referrer" width="100%" style="width: 100%; height: auto; display: block;" />
+    <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/10/22022315/sunbeth_1792632195.webp&w=800&output=jpg" alt="Sunbeth Energies expanding modern self-service physical retail technology infrastructure in Oyo State (Photo: Punch Nigeria)" referrerpolicy="no-referrer" style="width: 100%; height: auto; border-radius: 0px !important; display: block;" />
   </div>
   * **Source**: Punch Nigeria · [Read Full Story →](https://punchng.com/sunbeth-energies-expands-self-service-fuelling-to-oyo/)
-  * **Operational Takeaway:** As shown in Punch Nigeria's report above, Nigerian shoppers are embracing frictionless self-service tools inside physical commercial locations. Empowering showroom visitors to scan displays, pull specs straight to WhatsApp, and track QR display interest gives forward-looking retailers both higher conversion and live floor merchandising data.
+  * **Operational Takeaway:** As shown in Punch Nigeria's report above, Nigerian shoppers are embracing fast self-service tools inside physical commercial locations. Empowering showroom visitors to scan displays, pull specs straight to WhatsApp, and track QR display interest gives forward-looking retailers both higher conversion and live floor merchandising data.
 
 ---
 
 ### Industry News Spotlight
 
-<div style="border: 1px solid #e2e8f0; padding: 20px; background-color: #f8fafc; margin: 24px 0;">
-  <div style="font-size: 11px; font-weight: 700; color: #2563eb; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px;">INDUSTRY SPOTLIGHT</div>
-  <div style="font-size: 16px; font-weight: 700; color: #0f172a; margin-bottom: 12px;">
-    <a href="https://punchng.com/mrs-quickfuel-begin-self-service-pms-other-retail-sales/" style="color: #0f172a; text-decoration: none;">MRS, QuickFuel Begin Self-Service Retail Sales — How Blended Physical-Digital Checkout Is Reshaping Nigerian Showrooms</a>
+<div style="border: 1px solid #e2e8f0; border-top: 3px solid #EF8B3C; padding: 20px; background-color: #f8fafc; margin: 24px 0;">
+  <div style="font-size: 11px; font-weight: 700; color: #EF8B3C; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px;">INDUSTRY NEWS SPOTLIGHT</div>
+  <div style="font-size: 16px; font-weight: 700; color: #1e293b; margin-bottom: 12px;">
+    <a href="https://punchng.com/mrs-quickfuel-begin-self-service-pms-other-retail-sales/" style="color: #1e293b; text-decoration: none;">MRS, QuickFuel Begin Self-Service Retail Sales — How Blended Physical-Digital Checkout Is Reshaping Nigerian Showrooms</a>
   </div>
   <div style="width: 100%; height: 180px; overflow: hidden; margin-bottom: 14px;">
     <img src="https://wsrv.nl/?url=https://cdn.punchng.com/wp-content/uploads/2026/11/18154655/IMG_1844_1795013215-scaled.webp&w=800&output=jpg" alt="MRS and QuickFuel launching blended self-service retail checkout infrastructure across Nigeria (Photo: Punch Nigeria)" referrerpolicy="no-referrer" style="width: 100%; height: 180px; object-fit: cover; border-radius: 0px !important; display: block;" />
   </div>
   <p style="font-size: 13px; color: #475569; line-height: 1.6; margin-bottom: 10px;">
-    As pictured in Punch Nigeria's coverage of MRS and QuickFuel rolling out self-service retail sales above, modern physical retail in Nigeria is rapidly converging with digital checkout convenience. For furniture, appliance, and luxury showrooms, the same principle unlocks massive trapped revenue: combining QR display wishlists, 24-hour personalised WhatsApp follow-ups, staff-attributed online payment links, and split-tender checkout removes every barrier between admiring a product in person and completing the order seamlessly.
+    As pictured in Punch Nigeria's coverage of MRS and QuickFuel rolling out self-service retail sales above, modern physical retail in Nigeria is rapidly converging with digital checkout convenience. For furniture, appliance, and luxury showrooms, the same principle unlocks massive trapped revenue: combining QR display wishlists, 24-hour personalised WhatsApp follow-ups, staff-attributed online payment links, and split-tender checkout removes every barrier between admiring a product in person and completing the order cleanly.
   </p>
   <p style="font-size: 12px; color: #64748b; margin-bottom: 0;">
-    <strong>Source:</strong> Punch Nigeria &nbsp;·&nbsp; <a href="https://punchng.com/mrs-quickfuel-begin-self-service-pms-other-retail-sales/" style="color: #2563eb; text-decoration: underline;">Read Full Story →</a>
+    <strong>Source:</strong> Punch Nigeria &nbsp;·&nbsp; <a href="https://punchng.com/mrs-quickfuel-begin-self-service-pms-other-retail-sales/" style="color: #2A6BE0; text-decoration: underline;">Read Full Story →</a>
   </p>
 </div>
 
@@ -195,46 +188,43 @@ By equipping every floor display with scannable QR spec plaques, giving associat
 ### Primary Call to Action
 
 <div style="text-align: center; margin: 32px 0;">
-  <a href="https://www.ofia.ng/blog/offline-to-online-showroom-conversion-bottlenecks" style="background-color: #0f172a; color: #ffffff; padding: 14px 28px; font-size: 14px; font-weight: 700; text-decoration: none; display: inline-block; letter-spacing: 0.5px;">READ THE 10-STEP SHOWROOM CONVERSION GUIDE →</a>
+  <a href="https://www.ofia.ng/blog/offline-to-online-showroom-conversion-bottlenecks" style="background-color: #2A6BE0; color: #ffffff; padding: 14px 28px; font-size: 14px; font-weight: 700; text-decoration: none; display: inline-block; letter-spacing: 0.5px;">READ THE 10-STEP SHOWROOM CONVERSION GUIDE →</a>
 </div>
 
 ---
 
 ### Product Spotlight & Founding Offer
 
-<div style="border-left: 4px solid #0f172a; padding: 18px 22px; background-color: #f1f5f9; margin: 28px 0;">
-  <div style="font-size: 15px; font-weight: 800; color: #0f172a; margin-bottom: 6px;">INTRODUCING: OFIA POS TERMINAL &amp; OMNICHANNEL SHOWROOM ERP</div>
+<div style="border-left: 4px solid #2A6BE0; padding: 18px 22px; background-color: #f8fafc; border-top: 1px solid #e2e8f0; border-right: 1px solid #e2e8f0; border-bottom: 1px solid #e2e8f0; margin: 28px 0;">
+  <div style="font-size: 15px; font-weight: 800; color: #1e293b; margin-bottom: 6px;">INTRODUCING: OFIA POS TERMINAL &amp; OMNICHANNEL SHOWROOM ERP</div>
   <p style="font-size: 13px; color: #334155; line-height: 1.6; margin-bottom: 12px;">
-    Bridge your showroom floor, central warehouse, and online store into one seamless buying journey built for Nigerian furniture, appliance, and luxury retailers:
+    Bridge your showroom floor, central warehouse, and online store into one connected buying journey built for Nigerian furniture, appliance, and luxury retailers:
   </p>
   <ul style="font-size: 13px; color: #334155; line-height: 1.6; padding-left: 18px; margin-bottom: 14px;">
     <li><strong>Scannable QR Plaques &amp; WhatsApp Spec Capture:</strong> Turn anonymous walk-in browsers into verified CRM leads automatically.</li>
     <li><strong>Tablet POS, Live Warehouse Stock &amp; Attributed Wishlists:</strong> Check central depot availability beside the customer and credit associates on online completions.</li>
     <li><strong>Split-Tender High-Ticket Checkout:</strong> Combine POS cards, bank transfers, and structured installment plans under one reconciled invoice.</li>
   </ul>
-  <div style="font-size: 13px; font-weight: 700; color: #0f172a; margin-bottom: 6px;">Exclusive Founding Showroom Offer:</div>
+  <div style="font-size: 13px; font-weight: 700; color: #1e293b; margin-bottom: 6px;">Exclusive Founding Showroom Offer:</div>
   <p style="font-size: 13px; color: #475569; line-height: 1.5; margin-bottom: 0;">
-    Receive complimentary QR display catalogue setup, tablet POS onboarding, and 90 days of zero platform setup fees. <a href="https://www.ofia.ng/products" style="color: #2563eb; font-weight: 700; text-decoration: underline;">Book Your Showroom Demo →</a>
+    Receive complimentary QR display catalogue setup, tablet POS onboarding, and 90 days of zero platform setup fees. <a href="https://www.ofia.ng/products" style="color: #2A6BE0; font-weight: 700; text-decoration: underline;">Book Your Showroom Demo →</a>
   </p>
 </div>
 
-Warm regards,
-
-**@Ifeanyi Felix**  
+**— Ifeanyi Felix**  
 Head of Commerce Editorial, Ofia.ng
 
 ---
 
 ### Light Executive Footer
 
-```html
 <table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-top: 1px solid #e2e8f0; padding-top: 20px; margin-top: 32px;">
   <tr>
     <td valign="middle" style="width: 32px;">
-      <img src="https://res.cloudinary.com/iqwyufpt/image/upload/v1795139974/9mm/ofia_logo.svg" alt="Ofia Icon" width="22" height="22" style="display: block; border: 0;" />
+      <img src="https://res.cloudinary.com/iqwyufpt/image/upload/v1795139974/9mm/ofia_logo.svg" alt="Ofia Icon" width="22" height="22" style="display: block; border: 0; border-radius: 0px;" />
     </td>
     <td valign="middle" style="padding-left: 10px; font-size: 11px; color: #64748b; font-family: 'Dropa', sans-serif;">
-      <strong>Ofia Enterprise Growth Limited</strong> · Admiralty Way, Lekki Phase 1, Lagos, Nigeria
+      <strong>Ofia Enterprise Growth</strong> · Admiralty Way, Lekki Phase 1, Lagos, Nigeria
     </td>
   </tr>
   <tr>
@@ -243,4 +233,3 @@ Head of Commerce Editorial, Ofia.ng
     </td>
   </tr>
 </table>
-```

@@ -81,7 +81,7 @@ Speech Day ready 3 days in advance.
 * **Footer**: ResultsPro Academic Governance · Slide 1/6
 
 ### **Slide 2: The Manual Gradebook Trap**
-* **Visual**: Diagram showing 45 teachers on personal laptops with custom Excel formulas -> 250+ hours of fatigue -> Speech Day parent disputes.
+* **Visual**: Diagram showing 85 subject teachers across 3 campuses on personal laptops with custom Excel formulas → 2,380 hours of fatigue per term → Speech Day parent disputes.
 * **Header**: Why Personal Spreadsheets Fail Schools
 * **Body Copy**:
   * Different teachers use different rounding rules.
@@ -91,7 +91,7 @@ Speech Day ready 3 days in advance.
 * **Footer**: ResultsPro Academic Governance · Slide 2/6
 
 ### **Slide 3: The Architecture of Zero-Error Grading**
-* **Visual**: 4-step modern flow diagram: Senate Rule Lock -> Real-Time Ingestion -> 60s Batch Compile -> Cryptographic QR Stamp.
+* **Visual**: 4-step modern flow diagram: Senate Rule Lock → Real-Time Ingestion → 60s Batch Compile → Cryptographic QR Stamp.
 * **Header**: From Raw Scores to Locked Transcripts in 60s
 * **Body Copy**:
   * 1. **Senate Rule Locking**: Weights (CA 15%, Exam 60%) locked globally.
@@ -100,8 +100,8 @@ Speech Day ready 3 days in advance.
   * 4. **Dynamic QR Seal**: Instantly verifiable by foreign universities.
 * **Footer**: ResultsPro Academic Governance · Slide 3/6
 
-### **Slide 4: The Math: Computational Drift & Labor Drag**
-* **Visual**: Clean mathematical formula box with highlighted cost metrics.
+### **Slide 4: Operational Cost Breakdown: Computational Drift & Labor Drag**
+* **Visual**: Clean executive cost breakdown graphic with highlighted institutional benchmarks.
 * **Header**: The ₦52M Cost of Manual Grading
 * **Body Copy**:
   * Teacher Labor Drain: 2,380 hours per term (₦32.1M/year).
@@ -135,7 +135,7 @@ Speech Day ready 3 days in advance.
 
 **Poll Question**: How does your school compile end-of-term student report cards?
 
-* Option 1: Automated Cloud System (&lt; 5 mins)
+* Option 1: Automated Cloud System (< 5 mins)
 * Option 2: Shared Excel / Google Sheets
 * Option 3: Manual paper booklets & calculators
 * Option 4: A mix of spreadsheets and paper
@@ -202,7 +202,9 @@ Never force your teachers to spend sleepless nights calculating grades on pocket
 Upgrade your school's academic governance with ResultsPro SchoolHub.
 
 Read the full operational blueprint:
-https://www.resultspro.ng/schoolhub
+https://www.resultspro.ng/blog/why-private-schools-struggle-with-manual-report-cards-10-ways-to-compile-zero-error-gradebooks
+
+Explore ResultsPro SchoolHub: https://www.resultspro.ng/schoolhub
 
 Retweet if you lead or work in education! 🔁
 

@@ -125,7 +125,7 @@ Discover 10 practical fixes to connect your wholesale pricing, live depot stock,
 * **Headline:** Make Quoting Speed Your Competitive Advantage
 * **Body:**
   Ofia Inventory IMS & B2B Commerce unifies tiered wholesale pricing, multi-warehouse stock, dynamic haulage, credit controls, and self-service B2B portals.
-* **Call to Action:** Read all 10 fixes and book a B2B workflow walkthrough at www.ofia.ng/products.
+* **Call to Action:** Read all 10 fixes at https://www.ofia.ng/blog/manual-b2b-quoting-bottlenecks-enterprise-contracts and book a walkthrough at www.ofia.ng/products.
 * **Footer:** Slide 6/6 · Ofia Enterprise Growth Limited
 
 ---
@@ -256,7 +256,7 @@ B) Updating haulage and interstate delivery charges accurately
 C) Waiting on accounts to verify customer credit limits and overdue invoices
 D) Chasing executive approval for special bulk discounts
 
-Drop your letter below and let's compare notes! 👇
+Drop your letter below and read our full 10-step B2B quoting guide here: 👉 https://www.ofia.ng/blog/manual-b2b-quoting-bottlenecks-enterprise-contracts 👇
 ```
 
 ---
@@ -275,7 +275,7 @@ Across Ikeja, Trade Fair, Sagamu, and beyond, wholesale distributors lose high-v
 • Waiting hours for accounts to check paper files for 30-day credit balances.
 • Sending static PDFs that have to be printed, scanned, and manually retyped into waybills.
 
-In today's fast-moving Nigerian supply chain, the first supplier with a verified, accurate pro-forma wins the contract.
+Across Nigeria's competitive wholesale supply chain, the first supplier with a verified, accurate pro-forma wins the contract.
 
 Swipe through our carousel to see how connected B2B distributors quote in minutes instead of days:
 
@@ -298,11 +298,9 @@ DM us "WHOLESALE" to see how Ofia connects your depots, haulage rates, and digit
 ### B. Threads Standalone Post (<500 Characters)
 
 ```text
-A construction firm sends an RFQ for 4,000 metres of armoured cable before close of business.
+A construction firm sends an RFQ for 4,000 metres of cable before close of business.
 
-Your sales rep spends 48 hours calling Ikeja, Trade Fair, and Sagamu supervisors to count coils and checking Excel for haulage rates.
+Your rep spends 48 hours calling depots and checking Excel haulage sheets—so a faster rival gets paid first.
 
-By the time your PDF pro-forma lands, a faster competitor has already been paid.
-
-Corporate buyers don't wait two days for manual spreadsheets. Connect your depots, haulage rates, and credit rules into one B2B quoting engine.
+Connect your depots, haulage rates, and credit rules. Read all 10 fixes: 👉 https://www.ofia.ng/blog/manual-b2b-quoting-bottlenecks-enterprise-contracts
 ```

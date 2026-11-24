@@ -3,7 +3,7 @@
 * **Sprint & Week**: Sprint 09 (CAC Governance) · Week 04 (Authority / Behind the Scenes)
 * **Theme**: Inside the CAC Company Registration Portal (CRP) Architecture & Automated Telemetry
 * **Author**: @Ifeanyi Felix · **Brand**: ComplianceHub (`https://www.compliancehub.ng`)
-* **Core Call to Action**: Drive traffic to read the full operational guide: `https://www.compliancehub.ng/corporate-audit`
+* **Core Call to Action**: Drive traffic to read the full operational guide: `https://www.compliancehub.ng/blog/why-cac-filings-stall-in-the-crp-black-box-10-ways-to-achieve-24-hour-corporate-approvals` & `https://www.compliancehub.ng/corporate-audit`
 * **In-App Exploration**: Modules [`/modules`](https://www.compliancehub.ng/modules) · Solutions [`/solutions`](https://www.compliancehub.ng/solutions) · Resources [`/resources`](https://www.compliancehub.ng/resources)
 * **Target Audience**: SME Founders, Managing Directors, Company Secretaries, Legal Advisers, CFOs (`ch-group-a`, `ch-group-b`)
 
@@ -38,7 +38,8 @@ At ComplianceHub, we engineered an enterprise compliance telemetry engine that i
 
 The result? Routine annual returns and post-incorporation regularizations that used to take 4 weeks clear in under 24 hours.
 
-Read the complete technical teardown (10 Tactics): https://www.compliancehub.ng/corporate-audit
+Read the complete technical teardown (10 Tactics): https://www.compliancehub.ng/blog/why-cac-filings-stall-in-the-crp-black-box-10-ways-to-achieve-24-hour-corporate-approvals
+Run a free RC diagnostic: https://www.compliancehub.ng/corporate-audit
 
 Founders & Managing Directors: How many weeks has your team spent waiting for routine CAC portal approvals?
 ```
@@ -173,8 +174,59 @@ Run a free, automated corporate status diagnostic on your RC number today:
 * **Footer**: Slide 7/8 | Inside the CRP Portal
 
 ### Slide 8: Final Call to Action
-* **Visual**: Sleek dark emerald card with glowing white & gold CTA button.
+* **Visual**: Sleek Sovereign Emerald (`#064E3B`) card with glowing white & Regulatory Gold (`#D97706`) CTA button.
 * **Headline**: Is Your Corporate Filing Stuck in the Black Box?
 * **Body**: Run an automated, confidential compliance audit of your RC number and resolve portal delays in under 60 seconds.
 * **CTA Button**: Run Corporate Audit at compliancehub.ng/corporate-audit
 * **Footer**: ComplianceHub.ng · Corporate Statutory Governance & Regulatory Intelligence · FCT Abuja & Victoria Island, Lagos
+
+---
+
+## 4. LinkedIn Interactive Poll
+
+**Question**: What is the biggest frustration your business faces with CAC annual returns and post-incorporation filings?
+
+* **Option 1**: Filings stuck in "Query" or "Payment Pending" for weeks
+* **Option 2**: Sudden commercial bank KYC freezes over "INACTIVE" status
+* **Option 3**: Mapping Section 119 Persons with Significant Control (PSC)
+* **Option 4**: Tracking multiple subsidiaries and dormant SPVs
+
+**First-Comment CTA**: Read all 10 tactics to clear CAC CRP approvals in 24 hours → `https://www.compliancehub.ng/blog/why-cac-filings-stall-in-the-crp-black-box-10-ways-to-achieve-24-hour-corporate-approvals`
+
+---
+
+## 5. Facebook Community Narrative (Nigerian Founders & MDs)
+
+Every Nigerian Managing Director has heard this line at least once: *"Chief, Abuja portal network is down—give us another two weeks."*
+
+Meanwhile, your bank bid bond closes at noon tomorrow, your relationship manager just flagged your account status as "INACTIVE," and your finance team is scrambling.
+
+Here is what is actually happening inside the CAC Company Registration Portal (CRP): it is an automated rules engine under CAMA 2020. Filings stall for three fixable reasons—orphaned Remita payments paid without RC metadata, smartphone photos failing 300 DPI optical scans, and unmapped Section 119 beneficial ownership records.
+
+When Chief Raymond at Apex Maritime switched all six subsidiaries to ComplianceHub's automated telemetry, his orphaned Remita payment reconciled in 60 seconds and his QR-verified CAC Electronic Status Report unlocked his NPA bid bond ahead of deadline.
+
+How long did your last CAC annual return take to clear? Drop your experience below!
+
+👉 Read the full 10-tactic breakdown: https://www.compliancehub.ng/blog/why-cac-filings-stall-in-the-crp-black-box-10-ways-to-achieve-24-hour-corporate-approvals  
+👉 Run a free 60-second RC audit: https://www.compliancehub.ng/corporate-audit
+
+---
+
+## 6. Instagram Carousel Caption & Threads Post
+
+### Instagram Caption
+"Abuja network is bad" is costing Nigerian companies bid bonds, credit lines, and unfrozen bank accounts. 🏛️⚠️
+
+The truth about the CAC Company Registration Portal (CRP) under CAMA 2020:
+• Blurry 72 DPI smartphone scans fail automated OCR checks
+• Informal Remita payments leave webhooks orphaned in "Payment Pending"
+• Blank Section 119 PSC registers block annual returns automatically
+
+Swipe through all 8 slides to see how Nigerian boards clear filings in under 24 hours and stay bank-KYC ready year-round. ➡️
+
+👉 Run your free 60-second Corporate Status Audit at compliancehub.ng/corporate-audit
+
+#CAMA2020 #CACNigeria #CorporateGovernance #NigerianBusiness #CompanySecretary #ComplianceHub #LagosBusiness #AbujaBusiness
+
+### Threads Post
+Unpopular truth for Nigerian founders: the CAC portal is rarely "down." Your agent paid Remita without RC metadata, uploaded a blurry phone photo of your balance sheet, and forgot your Section 119 PSC register. Fix those three inputs and routine filings clear in 24 hours. Full guide: compliancehub.ng/corporate-audit
